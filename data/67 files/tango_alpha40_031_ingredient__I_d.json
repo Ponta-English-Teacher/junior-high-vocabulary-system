@@ -1,0 +1,744 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 31,
+    "range": {
+      "from": "ingredient",
+      "to": "I’d"
+    }
+  },
+  "entries": [
+    {
+      "id": 1175,
+      "section": null,
+      "word": "ingredient",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（料理の）材料",
+          "page": "2年生 p.42"
+        }
+      ],
+      "page_first": "2年生 p.42"
+    },
+    {
+      "id": 1176,
+      "section": null,
+      "word": "injured",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "傷ついた",
+          "page": "3年生 p.49"
+        }
+      ],
+      "page_first": "3年生 p.49"
+    },
+    {
+      "id": 1177,
+      "section": null,
+      "word": "injury",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（事故などによる）けが、負傷",
+          "page": "3年生 p.63"
+        }
+      ],
+      "page_first": "3年生 p.63"
+    },
+    {
+      "id": 1178,
+      "section": null,
+      "word": "ink",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "インク",
+          "page": "1年生 p.16"
+        }
+      ],
+      "page_first": "1年生 p.16"
+    },
+    {
+      "id": 1179,
+      "section": null,
+      "word": "insect",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "昆虫、虫",
+          "page": "3年生 p.125"
+        }
+      ],
+      "page_first": "3年生 p.125"
+    },
+    {
+      "id": 1180,
+      "section": null,
+      "word": "inside",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "前",
+          "ja": "～の内部に",
+          "page": "2年生 p.46"
+        },
+        {
+          "pos": "名",
+          "ja": "内部",
+          "page": "2年生 p.47"
+        },
+        {
+          "pos": "副",
+          "ja": "内部に［は］",
+          "page": "2年生 p.47"
+        }
+      ],
+      "page_first": "2年生 p.46"
+    },
+    {
+      "id": 1181,
+      "section": null,
+      "word": "inspiration",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "インスピレーション、ひらめき",
+          "page": "2年生 p.80"
+        }
+      ],
+      "page_first": "2年生 p.80"
+    },
+    {
+      "id": 1182,
+      "section": null,
+      "word": "instant",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "即時の、即席の",
+          "page": "3年生 p.94"
+        }
+      ],
+      "page_first": "3年生 p.94"
+    },
+    {
+      "id": 1183,
+      "section": null,
+      "word": "instead",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "その代わりに",
+          "page": "3年生 p.37"
+        }
+      ],
+      "page_first": "3年生 p.37"
+    },
+    {
+      "id": 1184,
+      "section": null,
+      "word": "instead of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～の代わりに",
+          "page": "3年生 p.37"
+        }
+      ],
+      "page_first": "3年生 p.37"
+    },
+    {
+      "id": 1185,
+      "section": null,
+      "word": "inter-class",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "クラス対抗の",
+          "page": "3年生 p.105"
+        }
+      ],
+      "page_first": "3年生 p.105"
+    },
+    {
+      "id": 1186,
+      "section": null,
+      "word": "interested",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "興味［関心］のある",
+          "page": "2年生 p.21"
+        }
+      ],
+      "page_first": "2年生 p.21"
+    },
+    {
+      "id": 1188,
+      "section": null,
+      "word": "interesting",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "興味深い、おもしろい",
+          "page": "1年生 p.83"
+        }
+      ],
+      "page_first": "1年生 p.83"
+    },
+    {
+      "id": 1189,
+      "section": null,
+      "word": "internet",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（theをつけて）インターネット",
+          "page": "1年生 p.41"
+        }
+      ],
+      "page_first": "1年生 p.41"
+    },
+    {
+      "id": 1190,
+      "section": null,
+      "word": "interpreter",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "通訳者",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 1191,
+      "section": null,
+      "word": "into",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "前",
+          "ja": "〜の中へ",
+          "page": "1年生 p.113"
+        },
+        {
+          "pos": "前",
+          "ja": "（変化の結果を表して）～に",
+          "page": "2年生 p.73"
+        }
+      ],
+      "page_first": "1年生 p.113"
+    },
+    {
+      "id": 1192,
+      "section": null,
+      "word": "introduce",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "導入する",
+          "page": "3年生 p.23"
+        },
+        {
+          "pos": "動",
+          "ja": "紹介する",
+          "page": "3年生 p.34"
+        }
+      ],
+      "page_first": "3年生 p.23"
+    },
+    {
+      "id": 1193,
+      "section": null,
+      "word": "introduction",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "紹介",
+          "page": "3年生 p.105"
+        }
+      ],
+      "page_first": "3年生 p.105"
+    },
+    {
+      "id": 1194,
+      "section": null,
+      "word": "invent",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "発明する",
+          "page": "1年生 p.113"
+        }
+      ],
+      "page_first": "1年生 p.113"
+    },
+    {
+      "id": 1195,
+      "section": null,
+      "word": "invention",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "発明",
+          "page": "2年生 p.80"
+        }
+      ],
+      "page_first": "2年生 p.80"
+    },
+    {
+      "id": 1196,
+      "section": null,
+      "word": "inventor",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "発明者、発明家",
+          "page": "3年生 p.101"
+        }
+      ],
+      "page_first": "3年生 p.101"
+    },
+    {
+      "id": 1197,
+      "section": null,
+      "word": "invite",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "招待する",
+          "page": "3年生 p.117"
+        }
+      ],
+      "page_first": "3年生 p.117"
+    },
+    {
+      "id": 1198,
+      "section": null,
+      "word": "Iran",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "イラン",
+          "page": "2年生 p.92"
+        }
+      ],
+      "page_first": "2年生 p.92"
+    },
+    {
+      "id": 1199,
+      "section": null,
+      "word": "Iraq",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "イラク",
+          "page": "2年生 p.92"
+        }
+      ],
+      "page_first": "2年生 p.92"
+    },
+    {
+      "id": 1200,
+      "section": null,
+      "word": "irritated",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "いらいらして",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 1201,
+      "section": null,
+      "word": "is",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "〜です、〜である",
+          "page": "1年生 p.12"
+        },
+        {
+          "pos": "動",
+          "ja": "（人・ものが）いる［ある］",
+          "page": "1年生 p.25"
+        },
+        {
+          "pos": "助",
+          "ja": "（現在進行形を作る）",
+          "page": "1年生 p.100"
+        }
+      ],
+      "page_first": "1年生 p.12"
+    },
+    {
+      "id": 1202,
+      "section": null,
+      "word": "island",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "島",
+          "page": "1年生 p.86"
+        }
+      ],
+      "page_first": "1年生 p.86"
+    },
+    {
+      "id": 1203,
+      "section": null,
+      "word": "isn’t",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（is notの短縮形）",
+          "page": "1年生 p.52"
+        }
+      ],
+      "page_first": "1年生 p.52"
+    },
+    {
+      "id": 1204,
+      "section": null,
+      "word": "it",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "それを［に］",
+          "page": "1年生 p.14"
+        },
+        {
+          "pos": "代",
+          "ja": "それは［が］",
+          "page": "1年生 p.50"
+        },
+        {
+          "pos": "代",
+          "ja": "（時間・日付・天候・距離などを表す）",
+          "page": "1年生 p.75"
+        },
+        {
+          "pos": "代",
+          "ja": "（漠然と状況を表す）",
+          "page": "1年生 p.113"
+        }
+      ],
+      "page_first": "1年生 p.14"
+    },
+    {
+      "id": 1205,
+      "section": null,
+      "word": "it is said that ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": null,
+          "page": "3年生 p.83"
+        }
+      ],
+      "page_first": "3年生 p.83"
+    },
+    {
+      "id": 1942,
+      "section": null,
+      "word": "it is said that ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～だと言われている",
+          "page": "3年生 p.83"
+        }
+      ],
+      "page_first": "3年生 p.83"
+    },
+    {
+      "id": 2410,
+      "section": null,
+      "word": "it is true that 〜",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "〜はほんとうだ",
+          "page": "3年生 p.44"
+        }
+      ],
+      "page_first": "3年生 p.44"
+    },
+    {
+      "id": 1206,
+      "section": null,
+      "word": "it is true that ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": null,
+          "page": "3年生 p.44"
+        }
+      ],
+      "page_first": "3年生 p.44"
+    },
+    {
+      "id": 1207,
+      "section": null,
+      "word": "Italy",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "イタリア",
+          "page": "3年生 p.57"
+        }
+      ],
+      "page_first": "3年生 p.57"
+    },
+    {
+      "id": 1208,
+      "section": null,
+      "word": "item",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "品物",
+          "page": "3年生 p.94"
+        }
+      ],
+      "page_first": "3年生 p.94"
+    },
+    {
+      "id": 1211,
+      "section": null,
+      "word": "its",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "その",
+          "page": "1年生 p.79"
+        }
+      ],
+      "page_first": "1年生 p.79"
+    },
+    {
+      "id": 1212,
+      "section": null,
+      "word": "itself",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "それ自体、そのもの",
+          "page": "3年生 p.101"
+        }
+      ],
+      "page_first": "3年生 p.101"
+    },
+    {
+      "id": 1209,
+      "section": null,
+      "word": "it’ll",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（it willの短縮形）",
+          "page": "2年生 p.9"
+        }
+      ],
+      "page_first": "2年生 p.9"
+    },
+    {
+      "id": 1210,
+      "section": null,
+      "word": "it’s",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（it isの短縮形）",
+          "page": "1年生 p.14"
+        }
+      ],
+      "page_first": "1年生 p.14"
+    },
+    {
+      "id": 1140,
+      "section": null,
+      "word": "I’d",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（I wouldの短縮形）",
+          "page": "1年生 p.68"
+        }
+      ],
+      "page_first": "1年生 p.68"
+    }
+  ]
+}

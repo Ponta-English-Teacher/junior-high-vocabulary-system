@@ -1,0 +1,709 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 26,
+    "range": {
+      "from": "grilled",
+      "to": "happy"
+    }
+  },
+  "entries": [
+    {
+      "id": 983,
+      "section": null,
+      "word": "grilled",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "グリルで焼いた",
+          "page": "3年生 p.129"
+        }
+      ],
+      "page_first": "3年生 p.129"
+    },
+    {
+      "id": 984,
+      "section": null,
+      "word": "grocery store",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "食料雑貨店",
+          "page": "2年生 p.132"
+        }
+      ],
+      "page_first": "2年生 p.132"
+    },
+    {
+      "id": 985,
+      "section": null,
+      "word": "groove",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "溝",
+          "page": "2年生 p.80"
+        }
+      ],
+      "page_first": "2年生 p.80"
+    },
+    {
+      "id": 986,
+      "section": null,
+      "word": "ground",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "地面",
+          "page": "3年生 p.132"
+        }
+      ],
+      "page_first": "3年生 p.132"
+    },
+    {
+      "id": 987,
+      "section": null,
+      "word": "group",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "一団、集団",
+          "page": "3年生 p.75"
+        }
+      ],
+      "page_first": "3年生 p.75"
+    },
+    {
+      "id": 988,
+      "section": null,
+      "word": "grove",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "木立、小さな森",
+          "page": "1年生 p.88"
+        }
+      ],
+      "page_first": "1年生 p.88"
+    },
+    {
+      "id": 989,
+      "section": null,
+      "word": "grow",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "栽培する、育てる",
+          "page": "1年生 p.31"
+        },
+        {
+          "pos": "動",
+          "ja": "育つ、成長する",
+          "page": "2年生 p.25"
+        }
+      ],
+      "page_first": "1年生 p.31"
+    },
+    {
+      "id": 990,
+      "section": null,
+      "word": "guess",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "推測する、思う",
+          "page": "3年生 p.125"
+        }
+      ],
+      "page_first": "3年生 p.125"
+    },
+    {
+      "id": 991,
+      "section": null,
+      "word": "guest",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "客、ゲスト",
+          "page": "1年生 p.91"
+        }
+      ],
+      "page_first": "1年生 p.91"
+    },
+    {
+      "id": 992,
+      "section": null,
+      "word": "guide",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "案内する、導く",
+          "page": "2年生 p.55"
+        }
+      ],
+      "page_first": "2年生 p.55"
+    },
+    {
+      "id": 993,
+      "section": null,
+      "word": "guide dog trainer",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "盲導犬訓練士",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 994,
+      "section": null,
+      "word": "guinea pig",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "モルモット",
+          "page": "2年生 p.85"
+        }
+      ],
+      "page_first": "2年生 p.85"
+    },
+    {
+      "id": 995,
+      "section": null,
+      "word": "guitar",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ギター",
+          "page": "1年生 p.39"
+        }
+      ],
+      "page_first": "1年生 p.39"
+    },
+    {
+      "id": 996,
+      "section": null,
+      "word": "guitarist",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ギタリスト",
+          "page": "2年生 p.53"
+        }
+      ],
+      "page_first": "2年生 p.53"
+    },
+    {
+      "id": 997,
+      "section": null,
+      "word": "gun",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "銃、ピストル",
+          "page": "3年生 p.110"
+        }
+      ],
+      "page_first": "3年生 p.110"
+    },
+    {
+      "id": 998,
+      "section": null,
+      "word": "gunman",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（銃を持った）殺し屋",
+          "page": "3年生 p.107"
+        }
+      ],
+      "page_first": "3年生 p.107"
+    },
+    {
+      "id": 999,
+      "section": null,
+      "word": "gym",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "体育館",
+          "page": "1年生 p.14"
+        },
+        {
+          "pos": "名",
+          "ja": "（トレーニング）ジム、スポーツクラブ",
+          "page": "2年生 p.64"
+        }
+      ],
+      "page_first": "1年生 p.14"
+    },
+    {
+      "id": 1000,
+      "section": null,
+      "word": "gymnastics",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "体操（競技）、器械体操",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.143"
+    },
+    {
+      "id": 1003,
+      "section": null,
+      "word": "ha-ha",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "間",
+          "ja": "あはは（笑い声）",
+          "page": "1年生 p.55"
+        }
+      ],
+      "page_first": "1年生 p.55"
+    },
+    {
+      "id": 1001,
+      "section": "H / h",
+      "word": "habit",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "習慣、くせ",
+          "page": "3年生 p.22"
+        }
+      ],
+      "page_first": "3年生 p.22"
+    },
+    {
+      "id": 1002,
+      "section": null,
+      "word": "had",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "have（持っている）の過去形《過去分詞も同形》",
+          "page": "1年生 p.18"
+        }
+      ],
+      "page_first": "1年生 p.18"
+    },
+    {
+      "id": 1004,
+      "section": null,
+      "word": "hair",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "髪の毛、毛",
+          "page": "3年生 p.19"
+        }
+      ],
+      "page_first": "3年生 p.19"
+    },
+    {
+      "id": 1005,
+      "section": null,
+      "word": "hair stylist",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "美容師",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 1006,
+      "section": null,
+      "word": "half",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "半分",
+          "page": "2年生 p.102"
+        }
+      ],
+      "page_first": "2年生 p.102"
+    },
+    {
+      "id": 1007,
+      "section": null,
+      "word": "half-time",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "（試合の）ハーフタイムの",
+          "page": "3年生 p.33"
+        }
+      ],
+      "page_first": "3年生 p.33"
+    },
+    {
+      "id": 1008,
+      "section": null,
+      "word": "hall",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ホール、集会所、会館",
+          "page": "3年生 p.119"
+        }
+      ],
+      "page_first": "3年生 p.119"
+    },
+    {
+      "id": 1009,
+      "section": null,
+      "word": "Halloween",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ハロウィーン（万聖節（All Saints’ Day）の前夜祭。10月31日）",
+          "page": "2年生 p.99"
+        }
+      ],
+      "page_first": "2年生 p.99"
+    },
+    {
+      "id": 1010,
+      "section": null,
+      "word": "hallway",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "廊下",
+          "page": "2年生 p.53"
+        }
+      ],
+      "page_first": "2年生 p.53"
+    },
+    {
+      "id": 1011,
+      "section": null,
+      "word": "hamburger",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ハンバーガー",
+          "page": "1年生 p.50"
+        }
+      ],
+      "page_first": "1年生 p.50"
+    },
+    {
+      "id": 1012,
+      "section": null,
+      "word": "hamburger steak",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ハンバーグ",
+          "page": "3年生 p.15"
+        }
+      ],
+      "page_first": "3年生 p.15"
+    },
+    {
+      "id": 1013,
+      "section": null,
+      "word": "hamster",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ハムスター",
+          "page": "2年生 p.105"
+        }
+      ],
+      "page_first": "2年生 p.105"
+    },
+    {
+      "id": 1014,
+      "section": null,
+      "word": "hand",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "手",
+          "page": "2年生 p.101"
+        }
+      ],
+      "page_first": "2年生 p.101"
+    },
+    {
+      "id": 1017,
+      "section": null,
+      "word": "hand rail",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "手すり",
+          "page": "3年生 p.63"
+        }
+      ],
+      "page_first": "3年生 p.63"
+    },
+    {
+      "id": 1018,
+      "section": null,
+      "word": "handball",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ハンドボール",
+          "page": "2年生 p.131"
+        }
+      ],
+      "page_first": "2年生 p.131"
+    },
+    {
+      "id": 1019,
+      "section": null,
+      "word": "handicraft",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "手工芸（品）",
+          "page": "2年生 p.88"
+        }
+      ],
+      "page_first": "2年生 p.88"
+    },
+    {
+      "id": 1020,
+      "section": null,
+      "word": "handkerchief",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ハンカチ",
+          "page": "1年生 p.108"
+        }
+      ],
+      "page_first": "1年生 p.108"
+    },
+    {
+      "id": 1021,
+      "section": null,
+      "word": "handmade",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "手作りの",
+          "page": "2年生 p.39"
+        }
+      ],
+      "page_first": "2年生 p.39"
+    },
+    {
+      "id": 1022,
+      "section": null,
+      "word": "happen",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "起こる",
+          "page": "2年生 p.67"
+        }
+      ],
+      "page_first": "2年生 p.67"
+    },
+    {
+      "id": 1023,
+      "section": null,
+      "word": "happily",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "幸せ（そう）に、楽しく",
+          "page": "3年生 p.53"
+        }
+      ],
+      "page_first": "3年生 p.53"
+    },
+    {
+      "id": 1024,
+      "section": null,
+      "word": "happy",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "幸福な、楽しい、（あいさつで）おめでとう",
+          "page": "1年生 p.99"
+        }
+      ],
+      "page_first": "1年生 p.99"
+    }
+  ]
+}

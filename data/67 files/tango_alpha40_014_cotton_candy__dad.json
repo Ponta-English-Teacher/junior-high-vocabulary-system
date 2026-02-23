@@ -1,0 +1,709 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 14,
+    "range": {
+      "from": "cotton candy",
+      "to": "dad"
+    }
+  },
+  "entries": [
+    {
+      "id": 506,
+      "section": null,
+      "word": "cotton candy",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "綿あめ",
+          "page": "2年生 p.35"
+        }
+      ],
+      "page_first": "2年生 p.35"
+    },
+    {
+      "id": 507,
+      "section": null,
+      "word": "could",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "助",
+          "ja": "canの過去形",
+          "page": "2年生 p.47"
+        }
+      ],
+      "page_first": "2年生 p.47"
+    },
+    {
+      "id": 508,
+      "section": null,
+      "word": "couldn’t",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（could notの短縮形）",
+          "page": "2年生 p.47"
+        }
+      ],
+      "page_first": "2年生 p.47"
+    },
+    {
+      "id": 509,
+      "section": null,
+      "word": "countdown",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "秒読み、カウントダウン",
+          "page": "1年生 p.100"
+        }
+      ],
+      "page_first": "1年生 p.100"
+    },
+    {
+      "id": 510,
+      "section": null,
+      "word": "counter",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "カウンター、勘定台",
+          "page": "3年生 p.115"
+        }
+      ],
+      "page_first": "3年生 p.115"
+    },
+    {
+      "id": 511,
+      "section": null,
+      "word": "country",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "国",
+          "page": "1年生 p.113"
+        }
+      ],
+      "page_first": "1年生 p.113"
+    },
+    {
+      "id": 512,
+      "section": null,
+      "word": "courageous",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "勇敢な",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    },
+    {
+      "id": 513,
+      "section": null,
+      "word": "course",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（of courseで）もちろん",
+          "page": "1年生 p.114"
+        }
+      ],
+      "page_first": "1年生 p.114"
+    },
+    {
+      "id": 515,
+      "section": null,
+      "word": "court",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（テニスなどの）コート、中庭",
+          "page": "1年生 p.53"
+        }
+      ],
+      "page_first": "1年生 p.53"
+    },
+    {
+      "id": 516,
+      "section": null,
+      "word": "cousin",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "いとこ",
+          "page": "1年生 p.39"
+        }
+      ],
+      "page_first": "1年生 p.39"
+    },
+    {
+      "id": 517,
+      "section": null,
+      "word": "cover",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "おおう",
+          "page": "2年生 p.52"
+        }
+      ],
+      "page_first": "2年生 p.52"
+    },
+    {
+      "id": 518,
+      "section": null,
+      "word": "cow",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ウシ",
+          "page": "1年生 p.142"
+        }
+      ],
+      "page_first": "1年生 p.142"
+    },
+    {
+      "id": 519,
+      "section": null,
+      "word": "crab",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "カニ",
+          "page": "1年生 p.142"
+        }
+      ],
+      "page_first": "1年生 p.142"
+    },
+    {
+      "id": 520,
+      "section": null,
+      "word": "crane",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ツル",
+          "page": "1年生 p.142"
+        }
+      ],
+      "page_first": "1年生 p.142"
+    },
+    {
+      "id": 521,
+      "section": null,
+      "word": "cream puff",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "シュークリーム",
+          "page": "3年生 p.8"
+        }
+      ],
+      "page_first": "3年生 p.8"
+    },
+    {
+      "id": 522,
+      "section": null,
+      "word": "creamy",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "クリーム状の、なめらかな",
+          "page": "2年生 p.43"
+        }
+      ],
+      "page_first": "2年生 p.43"
+    },
+    {
+      "id": 523,
+      "section": null,
+      "word": "create",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "作り出す、生み出す",
+          "page": "2年生 p.24"
+        }
+      ],
+      "page_first": "2年生 p.24"
+    },
+    {
+      "id": 524,
+      "section": null,
+      "word": "creative",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "創造的な",
+          "page": "1年生 p.136"
+        },
+        {
+          "pos": "形",
+          "ja": "（人が）創造力のある",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.136"
+    },
+    {
+      "id": 525,
+      "section": null,
+      "word": "creature",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "生物（植物は含まない）",
+          "page": "2年生 p.81"
+        }
+      ],
+      "page_first": "2年生 p.81"
+    },
+    {
+      "id": 526,
+      "section": null,
+      "word": "crew",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "乗組員",
+          "page": "2年生 p.126"
+        }
+      ],
+      "page_first": "2年生 p.126"
+    },
+    {
+      "id": 527,
+      "section": null,
+      "word": "crispy",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "さくさく［かりかり］した",
+          "page": "1年生 p.80"
+        }
+      ],
+      "page_first": "1年生 p.80"
+    },
+    {
+      "id": 528,
+      "section": null,
+      "word": "crocodile",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ワニ（アフリカ・南アジア産）",
+          "page": "1年生 p.142"
+        }
+      ],
+      "page_first": "1年生 p.142"
+    },
+    {
+      "id": 529,
+      "section": null,
+      "word": "croquette",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "コロッケ",
+          "page": "3年生 p.129"
+        }
+      ],
+      "page_first": "3年生 p.129"
+    },
+    {
+      "id": 530,
+      "section": null,
+      "word": "crush",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "押しつぶす、粉々にする",
+          "page": "3年生 p.69"
+        }
+      ],
+      "page_first": "3年生 p.69"
+    },
+    {
+      "id": 531,
+      "section": null,
+      "word": "cry",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "泣く",
+          "page": "2年生 p.13"
+        }
+      ],
+      "page_first": "2年生 p.13"
+    },
+    {
+      "id": 532,
+      "section": null,
+      "word": "culture",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "文化",
+          "page": "2年生 p.31"
+        }
+      ],
+      "page_first": "2年生 p.31"
+    },
+    {
+      "id": 533,
+      "section": null,
+      "word": "cup",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "カップ",
+          "page": "1年生 p.35"
+        }
+      ],
+      "page_first": "1年生 p.35"
+    },
+    {
+      "id": 534,
+      "section": null,
+      "word": "curiosity",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "好奇心",
+          "page": "3年生 p.120"
+        }
+      ],
+      "page_first": "3年生 p.120"
+    },
+    {
+      "id": 535,
+      "section": null,
+      "word": "curry",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "カレー",
+          "page": "1年生 p.39"
+        }
+      ],
+      "page_first": "1年生 p.39"
+    },
+    {
+      "id": 536,
+      "section": null,
+      "word": "curry and rice",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "カレーライス",
+          "page": "1年生 p.63"
+        }
+      ],
+      "page_first": "1年生 p.63"
+    },
+    {
+      "id": 537,
+      "section": null,
+      "word": "curtain",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "カーテン",
+          "page": "2年生 p.83"
+        }
+      ],
+      "page_first": "2年生 p.83"
+    },
+    {
+      "id": 538,
+      "section": null,
+      "word": "custard pudding",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "カスタードプリン",
+          "page": "1年生 p.56"
+        }
+      ],
+      "page_first": "1年生 p.56"
+    },
+    {
+      "id": 539,
+      "section": null,
+      "word": "customer",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "客、顧客",
+          "page": "3年生 p.61"
+        }
+      ],
+      "page_first": "3年生 p.61"
+    },
+    {
+      "id": 540,
+      "section": null,
+      "word": "customize",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "好みに合わせて変える",
+          "page": "2年生 p.42"
+        }
+      ],
+      "page_first": "2年生 p.42"
+    },
+    {
+      "id": 541,
+      "section": null,
+      "word": "cut",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "切る《過去形・過去分詞も同形》",
+          "page": "1年生 p.106"
+        },
+        {
+          "pos": "動",
+          "ja": "（溝などを）掘る、（穴を）開ける",
+          "page": "2年生 p.80"
+        }
+      ],
+      "page_first": "1年生 p.106"
+    },
+    {
+      "id": 543,
+      "section": null,
+      "word": "cut down ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～を切り倒す",
+          "page": "2年生 p.57"
+        }
+      ],
+      "page_first": "2年生 p.57"
+    },
+    {
+      "id": 542,
+      "section": null,
+      "word": "cut ～ off",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～を切り離す",
+          "page": "1年生 p.128"
+        }
+      ],
+      "page_first": "1年生 p.128"
+    },
+    {
+      "id": 544,
+      "section": null,
+      "word": "cute",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "かわいい",
+          "page": "1年生 p.46"
+        }
+      ],
+      "page_first": "1年生 p.46"
+    },
+    {
+      "id": 545,
+      "section": null,
+      "word": "cycle",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "自転車に乗る、サイクリングをする",
+          "page": "2年生 p.21"
+        }
+      ],
+      "page_first": "2年生 p.21"
+    },
+    {
+      "id": 547,
+      "section": "D / d",
+      "word": "dad",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（しばしばDadで）お父さん、パパ",
+          "page": "1年生 p.82"
+        }
+      ],
+      "page_first": "1年生 p.82"
+    }
+  ]
+}

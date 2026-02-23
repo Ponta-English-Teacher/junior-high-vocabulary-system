@@ -1,0 +1,719 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 15,
+    "range": {
+      "from": "daily",
+      "to": "did"
+    }
+  },
+  "entries": [
+    {
+      "id": 548,
+      "section": null,
+      "word": "daily",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "毎日の、1日の",
+          "page": "3年生 p.115"
+        }
+      ],
+      "page_first": "3年生 p.115"
+    },
+    {
+      "id": 549,
+      "section": null,
+      "word": "dam",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ダム",
+          "page": "2年生 p.57"
+        }
+      ],
+      "page_first": "2年生 p.57"
+    },
+    {
+      "id": 550,
+      "section": null,
+      "word": "damage",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "ダメージ［損害］を与える",
+          "page": "2年生 p.126"
+        }
+      ],
+      "page_first": "2年生 p.126"
+    },
+    {
+      "id": 551,
+      "section": null,
+      "word": "dance",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "踊る",
+          "page": "1年生 p.39"
+        },
+        {
+          "pos": "名",
+          "ja": "踊り、ダンス",
+          "page": "1年生 p.39"
+        }
+      ],
+      "page_first": "1年生 p.39"
+    },
+    {
+      "id": 552,
+      "section": null,
+      "word": "dancer",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ダンサー、踊り子",
+          "page": "1年生 p.41"
+        }
+      ],
+      "page_first": "1年生 p.41"
+    },
+    {
+      "id": 553,
+      "section": null,
+      "word": "danger",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "危険",
+          "page": "2年生 p.120"
+        }
+      ],
+      "page_first": "2年生 p.120"
+    },
+    {
+      "id": 554,
+      "section": null,
+      "word": "dangerous",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "危険な",
+          "page": "1年生 p.76"
+        }
+      ],
+      "page_first": "1年生 p.76"
+    },
+    {
+      "id": 555,
+      "section": null,
+      "word": "Daniel",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ダニエル（男子の名）",
+          "page": "1年生 p.12"
+        }
+      ],
+      "page_first": "1年生 p.12"
+    },
+    {
+      "id": 556,
+      "section": null,
+      "word": "dark",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "暗い",
+          "page": "3年生 p.71"
+        }
+      ],
+      "page_first": "3年生 p.71"
+    },
+    {
+      "id": 557,
+      "section": null,
+      "word": "date",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "日付",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 558,
+      "section": null,
+      "word": "daughter",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "娘",
+          "page": "3年生 p.132"
+        }
+      ],
+      "page_first": "3年生 p.132"
+    },
+    {
+      "id": 559,
+      "section": null,
+      "word": "day",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "日、1日",
+          "page": "1年生 p.14"
+        },
+        {
+          "pos": "名",
+          "ja": "昼間（⇔night）",
+          "page": "2年生 p.57"
+        }
+      ],
+      "page_first": "1年生 p.14"
+    },
+    {
+      "id": 565,
+      "section": null,
+      "word": "daytime",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "昼間（↔nighttime）",
+          "page": "2年生 p.105"
+        }
+      ],
+      "page_first": "2年生 p.105"
+    },
+    {
+      "id": 566,
+      "section": null,
+      "word": "dead",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "死んでいる",
+          "page": "2年生 p.93"
+        }
+      ],
+      "page_first": "2年生 p.93"
+    },
+    {
+      "id": 568,
+      "section": null,
+      "word": "dear",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "親愛なる、〜様（手紙の書き出しに用いる）",
+          "page": "1年生 p.140"
+        }
+      ],
+      "page_first": "1年生 p.140"
+    },
+    {
+      "id": 569,
+      "section": null,
+      "word": "death",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "死、死亡",
+          "page": "3年生 p.50"
+        }
+      ],
+      "page_first": "3年生 p.50"
+    },
+    {
+      "id": 570,
+      "section": null,
+      "word": "December",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "12月",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 571,
+      "section": null,
+      "word": "decide",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "決める、決心する",
+          "page": "2年生 p.70"
+        }
+      ],
+      "page_first": "2年生 p.70"
+    },
+    {
+      "id": 572,
+      "section": null,
+      "word": "deck",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（船の）甲板、デッキ",
+          "page": "2年生 p.80"
+        }
+      ],
+      "page_first": "2年生 p.80"
+    },
+    {
+      "id": 573,
+      "section": null,
+      "word": "decrease",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "減る、減少する",
+          "page": "3年生 p.50"
+        }
+      ],
+      "page_first": "3年生 p.50"
+    },
+    {
+      "id": 574,
+      "section": null,
+      "word": "deep",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "深い",
+          "page": "2年生 p.131"
+        },
+        {
+          "pos": "形",
+          "ja": "（色が）濃い",
+          "page": "3年生 p.116"
+        }
+      ],
+      "page_first": "2年生 p.131"
+    },
+    {
+      "id": 575,
+      "section": null,
+      "word": "deep-fried",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "たっぷりの油で揚げた",
+          "page": "1年生 p.55"
+        }
+      ],
+      "page_first": "1年生 p.55"
+    },
+    {
+      "id": 576,
+      "section": null,
+      "word": "deeply",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "深く、非常に強く",
+          "page": "2年生 p.47"
+        }
+      ],
+      "page_first": "2年生 p.47"
+    },
+    {
+      "id": 577,
+      "section": null,
+      "word": "deer",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "シカ（複数形も同形）",
+          "page": "2年生 p.53"
+        }
+      ],
+      "page_first": "2年生 p.53"
+    },
+    {
+      "id": 578,
+      "section": null,
+      "word": "degree",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "度（温度の単位）",
+          "page": "2年生 p.29"
+        }
+      ],
+      "page_first": "2年生 p.29"
+    },
+    {
+      "id": 579,
+      "section": null,
+      "word": "delicious",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "とてもおいしい",
+          "page": "1年生 p.39"
+        }
+      ],
+      "page_first": "1年生 p.39"
+    },
+    {
+      "id": 580,
+      "section": null,
+      "word": "demonstration",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "実演",
+          "page": "3年生 p.119"
+        }
+      ],
+      "page_first": "3年生 p.119"
+    },
+    {
+      "id": 581,
+      "section": null,
+      "word": "dentist",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "歯科医師",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 582,
+      "section": null,
+      "word": "department store",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "デパート、百貨店",
+          "page": "2年生 p.132"
+        }
+      ],
+      "page_first": "2年生 p.132"
+    },
+    {
+      "id": 583,
+      "section": null,
+      "word": "depressed",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "落ち込んだ",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 584,
+      "section": null,
+      "word": "desert",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "人の住まない",
+          "page": "3年生 p.54"
+        }
+      ],
+      "page_first": "3年生 p.54"
+    },
+    {
+      "id": 585,
+      "section": null,
+      "word": "design",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "デザイン、図柄",
+          "page": "1年生 p.62"
+        },
+        {
+          "pos": "動",
+          "ja": "デザインする、設計する",
+          "page": "3年生 p.57"
+        }
+      ],
+      "page_first": "1年生 p.62"
+    },
+    {
+      "id": 586,
+      "section": null,
+      "word": "designer",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "デザイナー",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 587,
+      "section": null,
+      "word": "desk",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "机",
+          "page": "1年生 p.36"
+        }
+      ],
+      "page_first": "1年生 p.36"
+    },
+    {
+      "id": 588,
+      "section": null,
+      "word": "dessert",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "デザート",
+          "page": "3年生 p.31"
+        }
+      ],
+      "page_first": "3年生 p.31"
+    },
+    {
+      "id": 589,
+      "section": null,
+      "word": "detective",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "探偵、刑事",
+          "page": "1年生 p.73"
+        }
+      ],
+      "page_first": "1年生 p.73"
+    },
+    {
+      "id": 590,
+      "section": null,
+      "word": "develop",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "発展させる、開発する",
+          "page": "2年生 p.80"
+        }
+      ],
+      "page_first": "2年生 p.80"
+    },
+    {
+      "id": 591,
+      "section": null,
+      "word": "diary",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "日記",
+          "page": "3年生 p.19"
+        }
+      ],
+      "page_first": "3年生 p.19"
+    },
+    {
+      "id": 593,
+      "section": null,
+      "word": "dictionary",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "辞書",
+          "page": "3年生 p.97"
+        }
+      ],
+      "page_first": "3年生 p.97"
+    },
+    {
+      "id": 594,
+      "section": null,
+      "word": "did",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動助",
+          "ja": "doの過去形",
+          "page": "1年生 p.110"
+        }
+      ],
+      "page_first": "1年生 p.110"
+    }
+  ]
+}

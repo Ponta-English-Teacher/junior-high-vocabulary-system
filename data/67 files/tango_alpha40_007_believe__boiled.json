@@ -1,0 +1,729 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 7,
+    "range": {
+      "from": "believe",
+      "to": "boiled"
+    }
+  },
+  "entries": [
+    {
+      "id": 224,
+      "section": null,
+      "word": "believe",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "信じる、思う",
+          "page": "2年生 p.24"
+        }
+      ],
+      "page_first": "2年生 p.24"
+    },
+    {
+      "id": 225,
+      "section": null,
+      "word": "believe in ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～（可能性・存在）を信じる",
+          "page": "2年生 p.25"
+        }
+      ],
+      "page_first": "2年生 p.25"
+    },
+    {
+      "id": 226,
+      "section": null,
+      "word": "belong",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "属している、一員である",
+          "page": "3年生 p.97"
+        }
+      ],
+      "page_first": "3年生 p.97"
+    },
+    {
+      "id": 227,
+      "section": null,
+      "word": "belong to ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（～に）属する、（～の）一員である",
+          "page": "3年生 p.97"
+        }
+      ],
+      "page_first": "3年生 p.97"
+    },
+    {
+      "id": 228,
+      "section": null,
+      "word": "below",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "前",
+          "ja": "～の下（のほう）に［へ］",
+          "page": "3年生 p.132"
+        }
+      ],
+      "page_first": "3年生 p.132"
+    },
+    {
+      "id": 229,
+      "section": null,
+      "word": "Ben",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ベン（男子の名）",
+          "page": "1年生 p.18"
+        }
+      ],
+      "page_first": "1年生 p.18"
+    },
+    {
+      "id": 230,
+      "section": null,
+      "word": "Ben Hillman",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ベン・ヒルマン（物語の登場人物）",
+          "page": "3年生 p.115"
+        }
+      ],
+      "page_first": "3年生 p.115"
+    },
+    {
+      "id": 231,
+      "section": null,
+      "word": "bench",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ベンチ",
+          "page": "3年生 p.132"
+        }
+      ],
+      "page_first": "3年生 p.132"
+    },
+    {
+      "id": 232,
+      "section": null,
+      "word": "bend",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "曲げる、かがむ",
+          "page": "3年生 p.119"
+        }
+      ],
+      "page_first": "3年生 p.119"
+    },
+    {
+      "id": 233,
+      "section": null,
+      "word": "bend over",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "かがむ",
+          "page": "3年生 p.119"
+        }
+      ],
+      "page_first": "3年生 p.119"
+    },
+    {
+      "id": 234,
+      "section": null,
+      "word": "beside",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "前",
+          "ja": "～のそばに［で］",
+          "page": "2年生 p.71"
+        }
+      ],
+      "page_first": "2年生 p.71"
+    },
+    {
+      "id": 235,
+      "section": null,
+      "word": "best",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "もっともよい",
+          "page": "1年生 p.46"
+        },
+        {
+          "pos": "名",
+          "ja": "もっともよいもの［こと］、最善",
+          "page": "2年生 p.13"
+        },
+        {
+          "pos": "副",
+          "ja": "もっとも（よく）（well、very much（動詞のlike、loveの場合）の最上級）",
+          "page": "2年生 p.98"
+        }
+      ],
+      "page_first": "1年生 p.46"
+    },
+    {
+      "id": 2587,
+      "section": null,
+      "word": "Best wishes,",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（手紙などの結びに）幸運を祈ります。",
+          "page": "1年生 p.140"
+        }
+      ],
+      "page_first": "1年生 p.140"
+    },
+    {
+      "id": 237,
+      "section": null,
+      "word": "better",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "good（よい）の比較級",
+          "page": "2年生 p.84"
+        },
+        {
+          "pos": "副",
+          "ja": "もっと、よりいっそう（well、very much（動詞のlike、loveの場合）の比較級）",
+          "page": "2年生 p.98"
+        }
+      ],
+      "page_first": "2年生 p.84"
+    },
+    {
+      "id": 238,
+      "section": null,
+      "word": "between",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "前",
+          "ja": "～の間の",
+          "page": "2年生 p.94"
+        }
+      ],
+      "page_first": "2年生 p.94"
+    },
+    {
+      "id": 239,
+      "section": null,
+      "word": "beyond",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "前",
+          "ja": "～を越えて",
+          "page": "2年生 p.92"
+        }
+      ],
+      "page_first": "2年生 p.92"
+    },
+    {
+      "id": 240,
+      "section": null,
+      "word": "bicycle",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "自転車",
+          "page": "1年生 p.31"
+        }
+      ],
+      "page_first": "1年生 p.31"
+    },
+    {
+      "id": 241,
+      "section": null,
+      "word": "big",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "大きい",
+          "page": "1年生 p.70"
+        },
+        {
+          "pos": "形",
+          "ja": "年上の",
+          "page": "1年生 p.142"
+        },
+        {
+          "pos": "形",
+          "ja": "（量・程度などが）大変な、すごい",
+          "page": "2年生 p.52"
+        }
+      ],
+      "page_first": "1年生 p.70"
+    },
+    {
+      "id": 242,
+      "section": null,
+      "word": "bike",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "自転車（＝bicycle）",
+          "page": "1年生 p.70"
+        }
+      ],
+      "page_first": "1年生 p.70"
+    },
+    {
+      "id": 244,
+      "section": null,
+      "word": "Bill",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ビル（男子の名）",
+          "page": "2年生 p.85"
+        }
+      ],
+      "page_first": "2年生 p.85"
+    },
+    {
+      "id": 243,
+      "section": null,
+      "word": "bill",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "紙幣、札",
+          "page": "3年生 p.120"
+        }
+      ],
+      "page_first": "3年生 p.120"
+    },
+    {
+      "id": 245,
+      "section": null,
+      "word": "bird",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "鳥",
+          "page": "1年生 p.43"
+        }
+      ],
+      "page_first": "1年生 p.43"
+    },
+    {
+      "id": 246,
+      "section": null,
+      "word": "birthday",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "誕生日",
+          "page": "1年生 p.12"
+        }
+      ],
+      "page_first": "1年生 p.12"
+    },
+    {
+      "id": 247,
+      "section": null,
+      "word": "bit",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "少量、小片",
+          "page": "2年生 p.12"
+        }
+      ],
+      "page_first": "2年生 p.12"
+    },
+    {
+      "id": 249,
+      "section": null,
+      "word": "bitter",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "苦い",
+          "page": "1年生 p.114"
+        }
+      ],
+      "page_first": "1年生 p.114"
+    },
+    {
+      "id": 250,
+      "section": null,
+      "word": "black",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "黒（い）",
+          "page": "1年生 p.108"
+        }
+      ],
+      "page_first": "1年生 p.108"
+    },
+    {
+      "id": 251,
+      "section": null,
+      "word": "Black Jack",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ブラックジャック（マンガのタイトル）",
+          "page": "3年生 p.66"
+        }
+      ],
+      "page_first": "3年生 p.66"
+    },
+    {
+      "id": 252,
+      "section": null,
+      "word": "blame",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "責める、非難する",
+          "page": "2年生 p.69"
+        }
+      ],
+      "page_first": "2年生 p.69"
+    },
+    {
+      "id": 253,
+      "section": null,
+      "word": "blanket",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "毛布",
+          "page": "3年生 p.54"
+        }
+      ],
+      "page_first": "3年生 p.54"
+    },
+    {
+      "id": 254,
+      "section": null,
+      "word": "blind",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "目が見えない、盲目の",
+          "page": "3年生 p.63"
+        }
+      ],
+      "page_first": "3年生 p.63"
+    },
+    {
+      "id": 255,
+      "section": null,
+      "word": "blog",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ブログ（ウェブ上の日記のようなもの）",
+          "page": "3年生 p.108"
+        }
+      ],
+      "page_first": "3年生 p.108"
+    },
+    {
+      "id": 256,
+      "section": null,
+      "word": "blossom",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（おもに果樹の）花",
+          "page": "2年生 p.99"
+        }
+      ],
+      "page_first": "2年生 p.99"
+    },
+    {
+      "id": 257,
+      "section": null,
+      "word": "blue",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "青（い）",
+          "page": "1年生 p.70"
+        }
+      ],
+      "page_first": "1年生 p.70"
+    },
+    {
+      "id": 258,
+      "section": null,
+      "word": "Blue Mountains",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（theをつけて）ブルーマウンテンズ（オーストラリア南東部にある高原）",
+          "page": "1年生 p.140"
+        }
+      ],
+      "page_first": "1年生 p.140"
+    },
+    {
+      "id": 259,
+      "section": null,
+      "word": "boarding",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "搭乗",
+          "page": "2年生 p.117"
+        }
+      ],
+      "page_first": "2年生 p.117"
+    },
+    {
+      "id": 260,
+      "section": null,
+      "word": "boat",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ボート、小舟",
+          "page": "2年生 p.67"
+        }
+      ],
+      "page_first": "2年生 p.67"
+    },
+    {
+      "id": 261,
+      "section": null,
+      "word": "boat shoe",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "デッキシューズ",
+          "page": "2年生 p.80"
+        }
+      ],
+      "page_first": "2年生 p.80"
+    },
+    {
+      "id": 262,
+      "section": null,
+      "word": "Bob",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ボブ（男子の名）",
+          "page": "1年生 p.8"
+        }
+      ],
+      "page_first": "1年生 p.8"
+    },
+    {
+      "id": 263,
+      "section": null,
+      "word": "body",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "体",
+          "page": "2年生 p.101"
+        },
+        {
+          "pos": "名",
+          "ja": "死体",
+          "page": "3年生 p.50"
+        }
+      ],
+      "page_first": "2年生 p.101"
+    },
+    {
+      "id": 264,
+      "section": null,
+      "word": "boiled",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "ゆでた、煮た",
+          "page": "2年生 p.131"
+        }
+      ],
+      "page_first": "2年生 p.131"
+    }
+  ]
+}

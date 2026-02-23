@@ -1,0 +1,729 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 23,
+    "range": {
+      "from": "free",
+      "to": "Germany"
+    }
+  },
+  "entries": [
+    {
+      "id": 874,
+      "section": null,
+      "word": "free",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "自由な、ひまな",
+          "page": "2年生 p.20"
+        },
+        {
+          "pos": "形",
+          "ja": "無料の、ただの",
+          "page": "2年生 p.64"
+        }
+      ],
+      "page_first": "2年生 p.20"
+    },
+    {
+      "id": 876,
+      "section": null,
+      "word": "freedom",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "自由",
+          "page": "3年生 p.108"
+        }
+      ],
+      "page_first": "3年生 p.108"
+    },
+    {
+      "id": 877,
+      "section": null,
+      "word": "freely",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "自由に",
+          "page": "3年生 p.108"
+        }
+      ],
+      "page_first": "3年生 p.108"
+    },
+    {
+      "id": 878,
+      "section": null,
+      "word": "freezing",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "凍りつくほど寒い",
+          "page": "1年生 p.126"
+        },
+        {
+          "pos": "形",
+          "ja": "凍るように",
+          "page": "2年生 p.126"
+        }
+      ],
+      "page_first": "1年生 p.126"
+    },
+    {
+      "id": 879,
+      "section": null,
+      "word": "French",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "フランス語",
+          "page": "1年生 p.39"
+        },
+        {
+          "pos": "形",
+          "ja": "フランス（風）の",
+          "page": "1年生 p.104"
+        }
+      ],
+      "page_first": "1年生 p.39"
+    },
+    {
+      "id": 880,
+      "section": null,
+      "word": "French fries",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "フライドポテト",
+          "page": "1年生 p.50"
+        }
+      ],
+      "page_first": "1年生 p.50"
+    },
+    {
+      "id": 881,
+      "section": null,
+      "word": "fresh",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "新鮮な",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    },
+    {
+      "id": 882,
+      "section": null,
+      "word": "Friday",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "金曜日",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 883,
+      "section": null,
+      "word": "fridge",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "冷蔵庫（=refrigerator）",
+          "page": "2年生 p.83"
+        }
+      ],
+      "page_first": "2年生 p.83"
+    },
+    {
+      "id": 884,
+      "section": null,
+      "word": "fried",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "油であげた",
+          "page": "2年生 p.103"
+        }
+      ],
+      "page_first": "2年生 p.103"
+    },
+    {
+      "id": 885,
+      "section": null,
+      "word": "fried noodles",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "焼きそば",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.143"
+    },
+    {
+      "id": 886,
+      "section": null,
+      "word": "fried rice",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "チャーハン、焼き飯",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.143"
+    },
+    {
+      "id": 887,
+      "section": null,
+      "word": "fried vegetables",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "野菜炒め",
+          "page": "3年生 p.15"
+        }
+      ],
+      "page_first": "3年生 p.15"
+    },
+    {
+      "id": 888,
+      "section": null,
+      "word": "friend",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "友だち",
+          "page": "1年生 p.46"
+        }
+      ],
+      "page_first": "1年生 p.46"
+    },
+    {
+      "id": 889,
+      "section": null,
+      "word": "friendly",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "人なつっこい",
+          "page": "1年生 p.23"
+        }
+      ],
+      "page_first": "1年生 p.23"
+    },
+    {
+      "id": 890,
+      "section": null,
+      "word": "friendship",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "親交、友情",
+          "page": "2年生 p.92"
+        }
+      ],
+      "page_first": "2年生 p.92"
+    },
+    {
+      "id": 891,
+      "section": null,
+      "word": "frightened",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "おびえて",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 892,
+      "section": null,
+      "word": "frog",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "カエル",
+          "page": "1年生 p.30"
+        }
+      ],
+      "page_first": "1年生 p.30"
+    },
+    {
+      "id": 893,
+      "section": null,
+      "word": "from",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "前",
+          "ja": "（起源・出所・原料を表して）〜から",
+          "page": "1年生 p.12"
+        }
+      ],
+      "page_first": "1年生 p.12"
+    },
+    {
+      "id": 895,
+      "section": null,
+      "word": "front",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "前",
+          "page": "1年生 p.103"
+        }
+      ],
+      "page_first": "1年生 p.103"
+    },
+    {
+      "id": 897,
+      "section": null,
+      "word": "fruit",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "くだもの、フルーツ",
+          "page": "1年生 p.58"
+        }
+      ],
+      "page_first": "1年生 p.58"
+    },
+    {
+      "id": 898,
+      "section": null,
+      "word": "fry",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "油であげる、フライにする",
+          "page": "2年生 p.103"
+        }
+      ],
+      "page_first": "2年生 p.103"
+    },
+    {
+      "id": 899,
+      "section": null,
+      "word": "full",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "おなかがいっぱいの",
+          "page": "1年生 p.82"
+        },
+        {
+          "pos": "形",
+          "ja": "いっぱいの",
+          "page": "2年生 p.131"
+        }
+      ],
+      "page_first": "1年生 p.82"
+    },
+    {
+      "id": 901,
+      "section": null,
+      "word": "fun",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "楽しみ、喜び",
+          "page": "1年生 p.106"
+        }
+      ],
+      "page_first": "1年生 p.106"
+    },
+    {
+      "id": 902,
+      "section": null,
+      "word": "funny",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "おもしろい",
+          "page": "1年生 p.26"
+        }
+      ],
+      "page_first": "1年生 p.26"
+    },
+    {
+      "id": 903,
+      "section": null,
+      "word": "fur",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "毛皮",
+          "page": "2年生 p.101"
+        }
+      ],
+      "page_first": "2年生 p.101"
+    },
+    {
+      "id": 904,
+      "section": null,
+      "word": "future",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "将来の、未来の",
+          "page": "2年生 p.71"
+        },
+        {
+          "pos": "名",
+          "ja": "（ふつうtheをつけて）将来、未来",
+          "page": "3年生 p.85"
+        }
+      ],
+      "page_first": "2年生 p.71"
+    },
+    {
+      "id": 905,
+      "section": "G / g",
+      "word": "game",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "試合、ゲーム",
+          "page": "1年生 p.44"
+        }
+      ],
+      "page_first": "1年生 p.44"
+    },
+    {
+      "id": 906,
+      "section": null,
+      "word": "game creator",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ゲームクリエーター",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 907,
+      "section": null,
+      "word": "garbage",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ごみ、生ごみ",
+          "page": "2年生 p.56"
+        }
+      ],
+      "page_first": "2年生 p.56"
+    },
+    {
+      "id": 908,
+      "section": null,
+      "word": "garden",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "花だん",
+          "page": "2年生 p.33"
+        }
+      ],
+      "page_first": "2年生 p.33"
+    },
+    {
+      "id": 909,
+      "section": null,
+      "word": "gardener",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "庭師",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 910,
+      "section": null,
+      "word": "gardening",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ガーデニング、庭いじり、園芸",
+          "page": "2年生 p.129"
+        }
+      ],
+      "page_first": "2年生 p.129"
+    },
+    {
+      "id": 911,
+      "section": null,
+      "word": "gas station",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ガソリンスタンド",
+          "page": "2年生 p.132"
+        }
+      ],
+      "page_first": "2年生 p.132"
+    },
+    {
+      "id": 912,
+      "section": null,
+      "word": "gate",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "門",
+          "page": "1年生 p.88"
+        },
+        {
+          "pos": "名",
+          "ja": "搭乗口",
+          "page": "2年生 p.117"
+        }
+      ],
+      "page_first": "1年生 p.88"
+    },
+    {
+      "id": 913,
+      "section": null,
+      "word": "gather",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "集める",
+          "page": "3年生 p.83"
+        }
+      ],
+      "page_first": "3年生 p.83"
+    },
+    {
+      "id": 914,
+      "section": null,
+      "word": "gave",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "give（与える）の過去形",
+          "page": "2年生 p.71"
+        }
+      ],
+      "page_first": "2年生 p.71"
+    },
+    {
+      "id": 915,
+      "section": null,
+      "word": "gentle",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "おだやかな",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    },
+    {
+      "id": 916,
+      "section": null,
+      "word": "gently",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "穏やかに、優しく",
+          "page": "3年生 p.123"
+        }
+      ],
+      "page_first": "3年生 p.123"
+    },
+    {
+      "id": 917,
+      "section": null,
+      "word": "Germany",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ドイツ",
+          "page": "2年生 p.77"
+        }
+      ],
+      "page_first": "2年生 p.77"
+    }
+  ]
+}

@@ -1,0 +1,729 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 39,
+    "range": {
+      "from": "mug",
+      "to": "next"
+    }
+  },
+  "entries": [
+    {
+      "id": 1506,
+      "section": null,
+      "word": "mug",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "マグ（カップ）、ジョッキ",
+          "page": "3年生 p.88"
+        }
+      ],
+      "page_first": "3年生 p.88"
+    },
+    {
+      "id": 1507,
+      "section": null,
+      "word": "muggy",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "蒸し暑い",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 1508,
+      "section": null,
+      "word": "muscle",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "筋肉",
+          "page": "3年生 p.99"
+        }
+      ],
+      "page_first": "3年生 p.99"
+    },
+    {
+      "id": 1509,
+      "section": null,
+      "word": "museum",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "博物館、美術館",
+          "page": "1年生 p.83"
+        }
+      ],
+      "page_first": "1年生 p.83"
+    },
+    {
+      "id": 1510,
+      "section": null,
+      "word": "mushroom",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "キノコ",
+          "page": "2年生 p.99"
+        }
+      ],
+      "page_first": "2年生 p.99"
+    },
+    {
+      "id": 1511,
+      "section": null,
+      "word": "music",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "音楽",
+          "page": "1年生 p.14"
+        }
+      ],
+      "page_first": "1年生 p.14"
+    },
+    {
+      "id": 1512,
+      "section": null,
+      "word": "musical",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ミュージカル",
+          "page": "3年生 p.97"
+        }
+      ],
+      "page_first": "3年生 p.97"
+    },
+    {
+      "id": 1513,
+      "section": null,
+      "word": "musical instrument",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "楽器",
+          "page": "3年生 p.9"
+        }
+      ],
+      "page_first": "3年生 p.9"
+    },
+    {
+      "id": 1514,
+      "section": null,
+      "word": "musician",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ミュージシャン、音楽家",
+          "page": "3年生 p.67"
+        }
+      ],
+      "page_first": "3年生 p.67"
+    },
+    {
+      "id": 1515,
+      "section": null,
+      "word": "must",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "助",
+          "ja": "〜しなければならない",
+          "page": "2年生 p.52"
+        },
+        {
+          "pos": "助",
+          "ja": "〜に違いない",
+          "page": "3年生 p.33"
+        }
+      ],
+      "page_first": "2年生 p.52"
+    },
+    {
+      "id": 1516,
+      "section": null,
+      "word": "mustn’t",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（must notの短縮形）",
+          "page": "2年生 p.52"
+        }
+      ],
+      "page_first": "2年生 p.52"
+    },
+    {
+      "id": 1517,
+      "section": null,
+      "word": "my",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "私の",
+          "page": "1年生 p.15"
+        },
+        {
+          "pos": "間",
+          "ja": "おや、まあ（おどろきの表現）",
+          "page": "1年生 p.124"
+        }
+      ],
+      "page_first": "1年生 p.15"
+    },
+    {
+      "id": 1518,
+      "section": "N / n",
+      "word": "nail artist",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ネイリスト",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 1519,
+      "section": null,
+      "word": "name",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "名前",
+          "page": "1年生 p.15"
+        },
+        {
+          "pos": "動",
+          "ja": "（人・ものを）〜と名づける",
+          "page": "3年生 p.34"
+        }
+      ],
+      "page_first": "1年生 p.15"
+    },
+    {
+      "id": 1520,
+      "section": null,
+      "word": "nap",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "昼寝、うたた寝",
+          "page": "2年生 p.71"
+        }
+      ],
+      "page_first": "2年生 p.71"
+    },
+    {
+      "id": 1522,
+      "section": null,
+      "word": "narrow",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "狭い",
+          "page": "2年生 p.81"
+        }
+      ],
+      "page_first": "2年生 p.81"
+    },
+    {
+      "id": 1523,
+      "section": null,
+      "word": "NASA",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ナサ、米国航空宇宙局（＝National Aeronautics and Space Administration）",
+          "page": "2年生 p.125"
+        }
+      ],
+      "page_first": "2年生 p.125"
+    },
+    {
+      "id": 1524,
+      "section": null,
+      "word": "national",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "国の",
+          "page": "2年生 p.24"
+        }
+      ],
+      "page_first": "2年生 p.24"
+    },
+    {
+      "id": 1525,
+      "section": null,
+      "word": "nature",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "自然",
+          "page": "1年生 p.14"
+        }
+      ],
+      "page_first": "1年生 p.14"
+    },
+    {
+      "id": 1526,
+      "section": null,
+      "word": "naughty",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "いたずら好きの",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    },
+    {
+      "id": 1527,
+      "section": null,
+      "word": "navy blue",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "紺色（の）",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 1528,
+      "section": null,
+      "word": "NBA",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "全米プロバスケットボール協会（＝National Basketball Association）",
+          "page": "3年生 p.33"
+        }
+      ],
+      "page_first": "3年生 p.33"
+    },
+    {
+      "id": 1529,
+      "section": null,
+      "word": "near",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "前",
+          "ja": "〜の近くに",
+          "page": "1年生 p.83"
+        }
+      ],
+      "page_first": "1年生 p.83"
+    },
+    {
+      "id": 1530,
+      "section": null,
+      "word": "nearby",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "近くの",
+          "page": "2年生 p.93"
+        }
+      ],
+      "page_first": "2年生 p.93"
+    },
+    {
+      "id": 1531,
+      "section": null,
+      "word": "necessary",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "必要な",
+          "page": "3年生 p.54"
+        }
+      ],
+      "page_first": "3年生 p.54"
+    },
+    {
+      "id": 1532,
+      "section": null,
+      "word": "neck",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "首",
+          "page": "3年生 p.67"
+        }
+      ],
+      "page_first": "3年生 p.67"
+    },
+    {
+      "id": 1533,
+      "section": null,
+      "word": "need",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "必要とする",
+          "page": "1年生 p.101"
+        }
+      ],
+      "page_first": "1年生 p.101"
+    },
+    {
+      "id": 1534,
+      "section": null,
+      "word": "neither",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "（否定文で）～もまた…ない",
+          "page": "2年生 p.111"
+        }
+      ],
+      "page_first": "2年生 p.111"
+    },
+    {
+      "id": 1535,
+      "section": null,
+      "word": "nephew",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "おい",
+          "page": "3年生 p.132"
+        }
+      ],
+      "page_first": "3年生 p.132"
+    },
+    {
+      "id": 1536,
+      "section": null,
+      "word": "nervous",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "不安で、緊張して",
+          "page": "1年生 p.136"
+        }
+      ],
+      "page_first": "1年生 p.136"
+    },
+    {
+      "id": 1537,
+      "section": null,
+      "word": "net",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "網、ネット",
+          "page": "3年生 p.83"
+        }
+      ],
+      "page_first": "3年生 p.83"
+    },
+    {
+      "id": 1538,
+      "section": null,
+      "word": "Netherlands",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（theをつけて）オランダ（Hollandの正式名）",
+          "page": "2年生 p.37"
+        }
+      ],
+      "page_first": "2年生 p.37"
+    },
+    {
+      "id": 1539,
+      "section": null,
+      "word": "never",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "一度も～ない、決して～ない",
+          "page": "3年生 p.9"
+        }
+      ],
+      "page_first": "3年生 p.9"
+    },
+    {
+      "id": 1540,
+      "section": null,
+      "word": "new",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "新しい、新入りの",
+          "page": "1年生 p.25"
+        },
+        {
+          "pos": "形",
+          "ja": "初めて知った［聞いた］、（経験が）初めての",
+          "page": "2年生 p.70"
+        }
+      ],
+      "page_first": "1年生 p.25"
+    },
+    {
+      "id": 1545,
+      "section": null,
+      "word": "New York",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ニューヨーク（アメリカの都市、または州）",
+          "page": "1年生 p.24"
+        }
+      ],
+      "page_first": "1年生 p.24"
+    },
+    {
+      "id": 1541,
+      "section": null,
+      "word": "news",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "知らせ、ニュース",
+          "page": "2年生 p.48"
+        }
+      ],
+      "page_first": "2年生 p.48"
+    },
+    {
+      "id": 1542,
+      "section": null,
+      "word": "newscaster",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ニュースキャスター",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 1543,
+      "section": null,
+      "word": "newspaper",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "新聞",
+          "page": "3年生 p.130"
+        }
+      ],
+      "page_first": "3年生 p.130"
+    },
+    {
+      "id": 1544,
+      "section": null,
+      "word": "newspaper reporter",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "新聞記者",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 1546,
+      "section": null,
+      "word": "next",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "次の、今度の",
+          "page": "1年生 p.88"
+        },
+        {
+          "pos": "形",
+          "ja": "隣の",
+          "page": "1年生 p.88"
+        },
+        {
+          "pos": "副",
+          "ja": "次に",
+          "page": "1年生 p.126"
+        }
+      ],
+      "page_first": "1年生 p.88"
+    }
+  ]
+}

@@ -1,0 +1,709 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 45,
+    "range": {
+      "from": "politician",
+      "to": "programmer"
+    }
+  },
+  "entries": [
+    {
+      "id": 1745,
+      "section": null,
+      "word": "politician",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "政治家",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 1746,
+      "section": null,
+      "word": "pollen",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "花粉",
+          "page": "2年生 p.81"
+        }
+      ],
+      "page_first": "2年生 p.81"
+    },
+    {
+      "id": 1747,
+      "section": null,
+      "word": "pond",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "池",
+          "page": "1年生 p.88"
+        }
+      ],
+      "page_first": "1年生 p.88"
+    },
+    {
+      "id": 1748,
+      "section": null,
+      "word": "pool",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "プール",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.143"
+    },
+    {
+      "id": 1749,
+      "section": null,
+      "word": "poor",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "貧しい",
+          "page": "2年生 p.48"
+        }
+      ],
+      "page_first": "2年生 p.48"
+    },
+    {
+      "id": 1750,
+      "section": null,
+      "word": "popular",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "人気のある",
+          "page": "1年生 p.88"
+        }
+      ],
+      "page_first": "1年生 p.88"
+    },
+    {
+      "id": 1751,
+      "section": null,
+      "word": "pork",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "豚肉",
+          "page": "1年生 p.80"
+        }
+      ],
+      "page_first": "1年生 p.80"
+    },
+    {
+      "id": 1752,
+      "section": null,
+      "word": "pork cutlet",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "トンカツ",
+          "page": "3年生 p.15"
+        }
+      ],
+      "page_first": "3年生 p.15"
+    },
+    {
+      "id": 1753,
+      "section": null,
+      "word": "port",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "港",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    },
+    {
+      "id": 1754,
+      "section": null,
+      "word": "portion",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（食べ物の）1人前",
+          "page": "3年生 p.15"
+        }
+      ],
+      "page_first": "3年生 p.15"
+    },
+    {
+      "id": 1755,
+      "section": null,
+      "word": "position",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（スポーツで）ポジション、守備位置",
+          "page": "3年生 p.28"
+        }
+      ],
+      "page_first": "3年生 p.28"
+    },
+    {
+      "id": 1756,
+      "section": null,
+      "word": "positive",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "積極的な",
+          "page": "1年生 p.144"
+        },
+        {
+          "pos": "形",
+          "ja": "よい、好ましい",
+          "page": "2年生 p.25"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    },
+    {
+      "id": 1757,
+      "section": null,
+      "word": "possible",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "可能な",
+          "page": "3年生 p.52"
+        }
+      ],
+      "page_first": "3年生 p.52"
+    },
+    {
+      "id": 1758,
+      "section": null,
+      "word": "post office",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "郵便局",
+          "page": "2年生 p.132"
+        }
+      ],
+      "page_first": "2年生 p.132"
+    },
+    {
+      "id": 1759,
+      "section": null,
+      "word": "postcard",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "郵便はがき",
+          "page": "2年生 p.74"
+        }
+      ],
+      "page_first": "2年生 p.74"
+    },
+    {
+      "id": 1760,
+      "section": null,
+      "word": "potato",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ポテト、ジャガイモ",
+          "page": "2年生 p.61"
+        }
+      ],
+      "page_first": "2年生 p.61"
+    },
+    {
+      "id": 1761,
+      "section": null,
+      "word": "potato chip",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（ふつう複数形で）ポテトチップ",
+          "page": "2年生 p.53"
+        }
+      ],
+      "page_first": "2年生 p.53"
+    },
+    {
+      "id": 1762,
+      "section": null,
+      "word": "potential",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "可能性、潜在能力",
+          "page": "2年生 p.81"
+        }
+      ],
+      "page_first": "2年生 p.81"
+    },
+    {
+      "id": 1763,
+      "section": null,
+      "word": "potter",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "陶芸家",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 1764,
+      "section": null,
+      "word": "powder",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "粉、粉末",
+          "page": "3年生 p.73"
+        }
+      ],
+      "page_first": "3年生 p.73"
+    },
+    {
+      "id": 1765,
+      "section": null,
+      "word": "power",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "力、影響力",
+          "page": "2年生 p.25"
+        },
+        {
+          "pos": "名",
+          "ja": "電力、動力",
+          "page": "2年生 p.126"
+        }
+      ],
+      "page_first": "2年生 p.25"
+    },
+    {
+      "id": 1766,
+      "section": null,
+      "word": "powerful",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "強力な、たくましい",
+          "page": "3年生 p.96"
+        }
+      ],
+      "page_first": "3年生 p.96"
+    },
+    {
+      "id": 1767,
+      "section": null,
+      "word": "practice",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "練習する",
+          "page": "1年生 p.14"
+        }
+      ],
+      "page_first": "1年生 p.14"
+    },
+    {
+      "id": 1768,
+      "section": null,
+      "word": "practice game",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "練習試合",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.143"
+    },
+    {
+      "id": 1769,
+      "section": null,
+      "word": "prawn",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（中型の）エビ",
+          "page": "3年生 p.129"
+        }
+      ],
+      "page_first": "3年生 p.129"
+    },
+    {
+      "id": 1770,
+      "section": null,
+      "word": "pray",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "祈る",
+          "page": "1年生 p.76"
+        }
+      ],
+      "page_first": "1年生 p.76"
+    },
+    {
+      "id": 1771,
+      "section": null,
+      "word": "prefecture",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "県、都道府県",
+          "page": "2年生 p.88"
+        }
+      ],
+      "page_first": "2年生 p.88"
+    },
+    {
+      "id": 1772,
+      "section": null,
+      "word": "prepare",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "準備する",
+          "page": "1年生 p.100"
+        }
+      ],
+      "page_first": "1年生 p.100"
+    },
+    {
+      "id": 1773,
+      "section": null,
+      "word": "present",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "プレゼント、贈り物",
+          "page": "2年生 p.33"
+        }
+      ],
+      "page_first": "2年生 p.33"
+    },
+    {
+      "id": 1774,
+      "section": null,
+      "word": "presentation",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "発表",
+          "page": "3年生 p.119"
+        }
+      ],
+      "page_first": "3年生 p.119"
+    },
+    {
+      "id": 1775,
+      "section": null,
+      "word": "president",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "大統領",
+          "page": "2年生 p.92"
+        }
+      ],
+      "page_first": "2年生 p.92"
+    },
+    {
+      "id": 1776,
+      "section": null,
+      "word": "pretty",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "たいへん、とても",
+          "page": "1年生 p.113"
+        }
+      ],
+      "page_first": "1年生 p.113"
+    },
+    {
+      "id": 948,
+      "section": null,
+      "word": "Pretty good.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "かなりよいです。",
+          "page": "1年生 p.113"
+        }
+      ],
+      "page_first": "1年生 p.113"
+    },
+    {
+      "id": 1777,
+      "section": null,
+      "word": "price",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "価格、値段",
+          "page": "3年生 p.71"
+        }
+      ],
+      "page_first": "3年生 p.71"
+    },
+    {
+      "id": 1778,
+      "section": null,
+      "word": "prize",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "賞",
+          "page": "3年生 p.109"
+        }
+      ],
+      "page_first": "3年生 p.109"
+    },
+    {
+      "id": 1779,
+      "section": null,
+      "word": "probably",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "たぶん、おそらく",
+          "page": "3年生 p.100"
+        }
+      ],
+      "page_first": "3年生 p.100"
+    },
+    {
+      "id": 1780,
+      "section": null,
+      "word": "problem",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "問題",
+          "page": "1年生 p.25"
+        }
+      ],
+      "page_first": "1年生 p.25"
+    },
+    {
+      "id": 1782,
+      "section": null,
+      "word": "professionally",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "プロとして",
+          "page": "2年生 p.24"
+        }
+      ],
+      "page_first": "2年生 p.24"
+    },
+    {
+      "id": 1783,
+      "section": null,
+      "word": "program",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "番組、プログラム",
+          "page": "2年生 p.21"
+        }
+      ],
+      "page_first": "2年生 p.21"
+    },
+    {
+      "id": 1784,
+      "section": null,
+      "word": "programmer",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（コンピュータの）プログラマー",
+          "page": "1年生 p.59"
+        }
+      ],
+      "page_first": "1年生 p.59"
+    }
+  ]
+}

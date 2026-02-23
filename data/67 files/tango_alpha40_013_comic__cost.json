@@ -1,0 +1,719 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 13,
+    "range": {
+      "from": "comic",
+      "to": "cost"
+    }
+  },
+  "entries": [
+    {
+      "id": 466,
+      "section": null,
+      "word": "comic",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "マンガの",
+          "page": "1年生 p.125"
+        },
+        {
+          "pos": "名",
+          "ja": "マンガ",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.125"
+    },
+    {
+      "id": 467,
+      "section": null,
+      "word": "comment",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "コメント、意見",
+          "page": "3年生 p.46"
+        }
+      ],
+      "page_first": "3年生 p.46"
+    },
+    {
+      "id": 468,
+      "section": null,
+      "word": "common",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "ふつうの、ありふれた",
+          "page": "1年生 p.65"
+        }
+      ],
+      "page_first": "1年生 p.65"
+    },
+    {
+      "id": 469,
+      "section": null,
+      "word": "communicate",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "情報［意見、気持ち］を伝え合う",
+          "page": "1年生 p.94"
+        }
+      ],
+      "page_first": "1年生 p.94"
+    },
+    {
+      "id": 470,
+      "section": null,
+      "word": "communication",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "伝達、コミュニケーション",
+          "page": "1年生 p.94"
+        }
+      ],
+      "page_first": "1年生 p.94"
+    },
+    {
+      "id": 471,
+      "section": null,
+      "word": "community center",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "公民館",
+          "page": "3年生 p.129"
+        }
+      ],
+      "page_first": "3年生 p.129"
+    },
+    {
+      "id": 472,
+      "section": null,
+      "word": "compact",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "小型の、こぢんまりとした",
+          "page": "3年生 p.94"
+        }
+      ],
+      "page_first": "3年生 p.94"
+    },
+    {
+      "id": 473,
+      "section": null,
+      "word": "company",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "会社",
+          "page": "1年生 p.66"
+        }
+      ],
+      "page_first": "1年生 p.66"
+    },
+    {
+      "id": 474,
+      "section": null,
+      "word": "compete",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "競争する、競い合う",
+          "page": "3年生 p.49"
+        }
+      ],
+      "page_first": "3年生 p.49"
+    },
+    {
+      "id": 475,
+      "section": null,
+      "word": "completely",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "完全に",
+          "page": "2年生 p.46"
+        }
+      ],
+      "page_first": "2年生 p.46"
+    },
+    {
+      "id": 476,
+      "section": null,
+      "word": "composer",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "作曲家",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 477,
+      "section": null,
+      "word": "computer",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "コンピュータ",
+          "page": "1年生 p.15"
+        }
+      ],
+      "page_first": "1年生 p.15"
+    },
+    {
+      "id": 478,
+      "section": null,
+      "word": "concentrate",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "（意識を）集中する",
+          "page": "3年生 p.22"
+        }
+      ],
+      "page_first": "3年生 p.22"
+    },
+    {
+      "id": 479,
+      "section": null,
+      "word": "concentrate on ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "〜に集中する",
+          "page": "3年生 p.22"
+        }
+      ],
+      "page_first": "3年生 p.22"
+    },
+    {
+      "id": 480,
+      "section": null,
+      "word": "concert",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "コンサート",
+          "page": "1年生 p.46"
+        }
+      ],
+      "page_first": "1年生 p.46"
+    },
+    {
+      "id": 481,
+      "section": null,
+      "word": "conductor",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "指揮者",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 482,
+      "section": null,
+      "word": "confused",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "困惑した",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 483,
+      "section": null,
+      "word": "confusing",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "困惑させるような",
+          "page": "2年生 p.132"
+        }
+      ],
+      "page_first": "2年生 p.132"
+    },
+    {
+      "id": 484,
+      "section": null,
+      "word": "congratulation",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（ふつう複数形で）おめでとう",
+          "page": "3年生 p.114"
+        }
+      ],
+      "page_first": "3年生 p.114"
+    },
+    {
+      "id": 485,
+      "section": null,
+      "word": "Congratulations on ～.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～おめでとう。",
+          "page": "3年生 p.114"
+        }
+      ],
+      "page_first": "3年生 p.114"
+    },
+    {
+      "id": 486,
+      "section": null,
+      "word": "connect",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "つながる、親しくなる",
+          "page": "3年生 p.101"
+        }
+      ],
+      "page_first": "3年生 p.101"
+    },
+    {
+      "id": 487,
+      "section": null,
+      "word": "construction",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "建設（工事）",
+          "page": "3年生 p.123"
+        }
+      ],
+      "page_first": "3年生 p.123"
+    },
+    {
+      "id": 488,
+      "section": null,
+      "word": "consume",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "消費する",
+          "page": "3年生 p.70"
+        }
+      ],
+      "page_first": "3年生 p.70"
+    },
+    {
+      "id": 489,
+      "section": null,
+      "word": "contact",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "連絡をとる、接触する",
+          "page": "2年生 p.127"
+        }
+      ],
+      "page_first": "2年生 p.127"
+    },
+    {
+      "id": 490,
+      "section": null,
+      "word": "contain",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "含む",
+          "page": "3年生 p.83"
+        }
+      ],
+      "page_first": "3年生 p.83"
+    },
+    {
+      "id": 491,
+      "section": null,
+      "word": "contest",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "コンテスト、競技（会）",
+          "page": "2年生 p.27"
+        }
+      ],
+      "page_first": "2年生 p.27"
+    },
+    {
+      "id": 492,
+      "section": null,
+      "word": "continue",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "続ける、続く",
+          "page": "2年生 p.83"
+        }
+      ],
+      "page_first": "2年生 p.83"
+    },
+    {
+      "id": 493,
+      "section": null,
+      "word": "control",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "制御する、操作する",
+          "page": "3年生 p.99"
+        }
+      ],
+      "page_first": "3年生 p.99"
+    },
+    {
+      "id": 494,
+      "section": null,
+      "word": "convenience store",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "コンビニ（エンスストア）",
+          "page": "1年生 p.89"
+        }
+      ],
+      "page_first": "1年生 p.89"
+    },
+    {
+      "id": 495,
+      "section": null,
+      "word": "convenient",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "便利な",
+          "page": "2年生 p.132"
+        }
+      ],
+      "page_first": "2年生 p.132"
+    },
+    {
+      "id": 496,
+      "section": null,
+      "word": "cook",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "料理する",
+          "page": "1年生 p.14"
+        },
+        {
+          "pos": "名",
+          "ja": "コック、料理人",
+          "page": "1年生 p.14"
+        }
+      ],
+      "page_first": "1年生 p.14"
+    },
+    {
+      "id": 497,
+      "section": null,
+      "word": "cookie",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "クッキー",
+          "page": "1年生 p.52"
+        }
+      ],
+      "page_first": "1年生 p.52"
+    },
+    {
+      "id": 498,
+      "section": null,
+      "word": "cooking",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "料理（すること）",
+          "page": "1年生 p.14"
+        }
+      ],
+      "page_first": "1年生 p.14"
+    },
+    {
+      "id": 499,
+      "section": null,
+      "word": "cool",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "かっこいい、すごい",
+          "page": "1年生 p.56"
+        },
+        {
+          "pos": "形",
+          "ja": "涼しい",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.56"
+    },
+    {
+      "id": 500,
+      "section": null,
+      "word": "cooperation",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "協力",
+          "page": "3年生 p.54"
+        }
+      ],
+      "page_first": "3年生 p.54"
+    },
+    {
+      "id": 501,
+      "section": null,
+      "word": "coral reef",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "サンゴ礁",
+          "page": "1年生 p.86"
+        }
+      ],
+      "page_first": "1年生 p.86"
+    },
+    {
+      "id": 502,
+      "section": null,
+      "word": "corn",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "トウモロコシ",
+          "page": "1年生 p.58"
+        }
+      ],
+      "page_first": "1年生 p.58"
+    },
+    {
+      "id": 503,
+      "section": null,
+      "word": "corn dog",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "アメリカンドッグ（トウモロコシ粉をつけて油で揚げ、串刺しにしたウインナソーセージ）",
+          "page": "2年生 p.35"
+        }
+      ],
+      "page_first": "2年生 p.35"
+    },
+    {
+      "id": 504,
+      "section": null,
+      "word": "corner",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（曲がり）角",
+          "page": "1年生 p.91"
+        }
+      ],
+      "page_first": "1年生 p.91"
+    },
+    {
+      "id": 505,
+      "section": null,
+      "word": "cost",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "費用",
+          "page": "1年生 p.88"
+        },
+        {
+          "pos": "動",
+          "ja": "（費用が）かかる",
+          "page": "2年生 p.113"
+        }
+      ],
+      "page_first": "1年生 p.88"
+    }
+  ]
+}

@@ -1,0 +1,714 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 1,
+    "range": {
+      "from": "a",
+      "to": "Afghan"
+    }
+  },
+  "entries": [
+    {
+      "id": 1,
+      "section": "A / a",
+      "word": "a",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "冠",
+          "ja": "1つの、1人の",
+          "page": "1年生 p.14"
+        },
+        {
+          "pos": "冠",
+          "ja": "～につき、～ごとに",
+          "page": "2年生 p.101"
+        }
+      ],
+      "page_first": "1年生 p.14"
+    },
+    {
+      "id": 248,
+      "section": null,
+      "word": "a bit",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "少し",
+          "page": "2年生 p.12"
+        }
+      ],
+      "page_first": "2年生 p.12"
+    },
+    {
+      "id": 2,
+      "section": null,
+      "word": "a few ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": null,
+          "page": "3年生 p.13"
+        }
+      ],
+      "page_first": "3年生 p.13"
+    },
+    {
+      "id": 792,
+      "section": null,
+      "word": "a few ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "少しの～、いくつかの～",
+          "page": "3年生 p.13"
+        }
+      ],
+      "page_first": "3年生 p.13"
+    },
+    {
+      "id": 1341,
+      "section": null,
+      "word": "a little",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "少し",
+          "page": "1年生 p.83"
+        }
+      ],
+      "page_first": "1年生 p.83"
+    },
+    {
+      "id": 1354,
+      "section": null,
+      "word": "a long time ago",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "昔々、ずっと前",
+          "page": "2年生 p.46"
+        }
+      ],
+      "page_first": "2年生 p.46"
+    },
+    {
+      "id": 1363,
+      "section": null,
+      "word": "a lot",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "よく、おおいに、たくさん",
+          "page": "1年生 p.111"
+        }
+      ],
+      "page_first": "1年生 p.111"
+    },
+    {
+      "id": 1364,
+      "section": null,
+      "word": "a lot of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "たくさんの～",
+          "page": "1年生 p.85"
+        }
+      ],
+      "page_first": "1年生 p.85"
+    },
+    {
+      "id": 1713,
+      "section": null,
+      "word": "a piece of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "1つ［1枚］の～",
+          "page": "2年生 p.86"
+        }
+      ],
+      "page_first": "2年生 p.86"
+    },
+    {
+      "id": 79,
+      "section": null,
+      "word": "a.m.",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "（ラテン語の略で）午前",
+          "page": "1年生 p.115"
+        }
+      ],
+      "page_first": "1年生 p.115"
+    },
+    {
+      "id": 4,
+      "section": null,
+      "word": "able",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "できる、能力がある",
+          "page": "2年生 p.81"
+        }
+      ],
+      "page_first": "2年生 p.81"
+    },
+    {
+      "id": 6,
+      "section": null,
+      "word": "about",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "前",
+          "ja": "〜について",
+          "page": "1年生 p.66"
+        },
+        {
+          "pos": "副",
+          "ja": "およそ、約",
+          "page": "1年生 p.115"
+        }
+      ],
+      "page_first": "1年生 p.66"
+    },
+    {
+      "id": 8,
+      "section": null,
+      "word": "above",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "前",
+          "ja": "～の上（のほう）に［の］",
+          "page": "2年生 p.92"
+        }
+      ],
+      "page_first": "2年生 p.92"
+    },
+    {
+      "id": 9,
+      "section": null,
+      "word": "abroad",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "外国へ［に、で］",
+          "page": "3年生 p.97"
+        }
+      ],
+      "page_first": "3年生 p.97"
+    },
+    {
+      "id": 10,
+      "section": null,
+      "word": "absolutely",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "(返答で）まったくそのとおり",
+          "page": "2年生 p.111"
+        }
+      ],
+      "page_first": "2年生 p.111"
+    },
+    {
+      "id": 11,
+      "section": null,
+      "word": "access",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（場所への）接近方法、交通手段",
+          "page": "3年生 p.105"
+        }
+      ],
+      "page_first": "3年生 p.105"
+    },
+    {
+      "id": 12,
+      "section": null,
+      "word": "accident",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "事故",
+          "page": "2年生 p.95"
+        }
+      ],
+      "page_first": "2年生 p.95"
+    },
+    {
+      "id": 13,
+      "section": null,
+      "word": "according",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "（according to ～で）～（の言うところ）によれば",
+          "page": "3年生 p.60"
+        }
+      ],
+      "page_first": "3年生 p.60"
+    },
+    {
+      "id": 14,
+      "section": null,
+      "word": "according to ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～によれば",
+          "page": "3年生 p.60"
+        }
+      ],
+      "page_first": "3年生 p.60"
+    },
+    {
+      "id": 15,
+      "section": null,
+      "word": "accordion",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "アコーディオン",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.143"
+    },
+    {
+      "id": 16,
+      "section": null,
+      "word": "achieve",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "達成する、成し遂げる",
+          "page": "3年生 p.125"
+        }
+      ],
+      "page_first": "3年生 p.125"
+    },
+    {
+      "id": 17,
+      "section": null,
+      "word": "achievement test",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "学力テスト",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 18,
+      "section": null,
+      "word": "acoustic guitar",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "アコースティックギター",
+          "page": "2年生 p.131"
+        }
+      ],
+      "page_first": "2年生 p.131"
+    },
+    {
+      "id": 19,
+      "section": null,
+      "word": "across",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "前",
+          "ja": "〜を横切って",
+          "page": "1年生 p.75"
+        }
+      ],
+      "page_first": "1年生 p.75"
+    },
+    {
+      "id": 20,
+      "section": null,
+      "word": "action",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "行動",
+          "page": "2年生 p.70"
+        }
+      ],
+      "page_first": "2年生 p.70"
+    },
+    {
+      "id": 22,
+      "section": null,
+      "word": "active",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "活発な",
+          "page": "1年生 p.26"
+        }
+      ],
+      "page_first": "1年生 p.26"
+    },
+    {
+      "id": 23,
+      "section": null,
+      "word": "activity",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "活動",
+          "page": "3年生 p.90"
+        }
+      ],
+      "page_first": "3年生 p.90"
+    },
+    {
+      "id": 24,
+      "section": null,
+      "word": "actor",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "俳優",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 25,
+      "section": null,
+      "word": "actress",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "女優（現在は女性でもactorがふつう）",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 26,
+      "section": null,
+      "word": "actually",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "実際に、実のところ",
+          "page": "2年生 p.52"
+        }
+      ],
+      "page_first": "2年生 p.52"
+    },
+    {
+      "id": 27,
+      "section": null,
+      "word": "add",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "付け加える",
+          "page": "2年生 p.42"
+        }
+      ],
+      "page_first": "2年生 p.42"
+    },
+    {
+      "id": 28,
+      "section": null,
+      "word": "addition",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "追加",
+          "page": "3年生 p.63"
+        }
+      ],
+      "page_first": "3年生 p.63"
+    },
+    {
+      "id": 30,
+      "section": null,
+      "word": "additional",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "追加の",
+          "page": "3年生 p.75"
+        }
+      ],
+      "page_first": "3年生 p.75"
+    },
+    {
+      "id": 31,
+      "section": null,
+      "word": "address",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "住所、（Eメールの）アドレス",
+          "page": "3年生 p.75"
+        }
+      ],
+      "page_first": "3年生 p.75"
+    },
+    {
+      "id": 32,
+      "section": null,
+      "word": "admire",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "賞賛する、感心する",
+          "page": "2年生 p.120"
+        }
+      ],
+      "page_first": "2年生 p.120"
+    },
+    {
+      "id": 33,
+      "section": null,
+      "word": "adorable",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "とてもかわいい",
+          "page": "2年生 p.101"
+        }
+      ],
+      "page_first": "2年生 p.101"
+    },
+    {
+      "id": 34,
+      "section": null,
+      "word": "adult",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "おとな、成人",
+          "page": "3年生 p.75"
+        }
+      ],
+      "page_first": "3年生 p.75"
+    },
+    {
+      "id": 35,
+      "section": null,
+      "word": "affect",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "影響を与える",
+          "page": "3年生 p.21"
+        }
+      ],
+      "page_first": "3年生 p.21"
+    },
+    {
+      "id": 36,
+      "section": null,
+      "word": "affection",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "愛情",
+          "page": "3年生 p.117"
+        }
+      ],
+      "page_first": "3年生 p.117"
+    },
+    {
+      "id": 37,
+      "section": null,
+      "word": "Afghan",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "アフガニスタン人",
+          "page": "3年生 p.121"
+        },
+        {
+          "pos": "形",
+          "ja": "アフガニスタン（人）の",
+          "page": "3年生 p.121"
+        }
+      ],
+      "page_first": "3年生 p.121"
+    }
+  ]
+}

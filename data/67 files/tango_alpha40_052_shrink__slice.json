@@ -1,0 +1,724 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 52,
+    "range": {
+      "from": "shrink",
+      "to": "slice"
+    }
+  },
+  "entries": [
+    {
+      "id": 2036,
+      "section": null,
+      "word": "shrink",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "縮ませる、減らす",
+          "page": "3年生 p.103"
+        }
+      ],
+      "page_first": "3年生 p.103"
+    },
+    {
+      "id": 2037,
+      "section": null,
+      "word": "Shrink Ray",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "スモールライト（マンガ『ドラえもん』に登場する何でも小さくできる未来の道具）",
+          "page": "3年生 p.103"
+        }
+      ],
+      "page_first": "3年生 p.103"
+    },
+    {
+      "id": 2038,
+      "section": null,
+      "word": "shy",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "恥ずかしがりの",
+          "page": "1年生 p.23"
+        }
+      ],
+      "page_first": "1年生 p.23"
+    },
+    {
+      "id": 2039,
+      "section": null,
+      "word": "sick",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "病気の",
+          "page": "1年生 p.66"
+        }
+      ],
+      "page_first": "1年生 p.66"
+    },
+    {
+      "id": 2040,
+      "section": null,
+      "word": "side",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "側、側面",
+          "page": "3年生 p.71"
+        }
+      ],
+      "page_first": "3年生 p.71"
+    },
+    {
+      "id": 2041,
+      "section": null,
+      "word": "sign",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "きざし、兆候",
+          "page": "2年生 p.127"
+        },
+        {
+          "pos": "名",
+          "ja": "身ぶり、手まね",
+          "page": "3年生 p.61"
+        }
+      ],
+      "page_first": "2年生 p.127"
+    },
+    {
+      "id": 2042,
+      "section": null,
+      "word": "sign language",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "手話",
+          "page": "3年生 p.55"
+        }
+      ],
+      "page_first": "3年生 p.55"
+    },
+    {
+      "id": 2043,
+      "section": null,
+      "word": "silent",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "静かな、沈黙した",
+          "page": "3年生 p.109"
+        }
+      ],
+      "page_first": "3年生 p.109"
+    },
+    {
+      "id": 2044,
+      "section": null,
+      "word": "Silent Spring",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "沈黙の春（書名）",
+          "page": "2年生 p.120"
+        }
+      ],
+      "page_first": "2年生 p.120"
+    },
+    {
+      "id": 2045,
+      "section": null,
+      "word": "silly",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "ばかげた、くだらない",
+          "page": "3年生 p.118"
+        }
+      ],
+      "page_first": "3年生 p.118"
+    },
+    {
+      "id": 2046,
+      "section": null,
+      "word": "silver",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "銀色（の）",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 2047,
+      "section": null,
+      "word": "simple",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "飾り気のない、単純な、簡素な",
+          "page": "3年生 p.100"
+        }
+      ],
+      "page_first": "3年生 p.100"
+    },
+    {
+      "id": 2048,
+      "section": null,
+      "word": "since",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "接",
+          "ja": "～して以来、～してから",
+          "page": "3年生 p.19"
+        },
+        {
+          "pos": "前",
+          "ja": "～以来、～から",
+          "page": "3年生 p.27"
+        },
+        {
+          "pos": "接",
+          "ja": "～だから",
+          "page": "3年生 p.125"
+        }
+      ],
+      "page_first": "3年生 p.19"
+    },
+    {
+      "id": 2049,
+      "section": null,
+      "word": "sing",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "（歌を）歌う",
+          "page": "1年生 p.36"
+        }
+      ],
+      "page_first": "1年生 p.36"
+    },
+    {
+      "id": 2050,
+      "section": null,
+      "word": "singer",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "歌手",
+          "page": "1年生 p.73"
+        }
+      ],
+      "page_first": "1年生 p.73"
+    },
+    {
+      "id": 2051,
+      "section": null,
+      "word": "sink",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "沈む",
+          "page": "2年生 p.93"
+        }
+      ],
+      "page_first": "2年生 p.93"
+    },
+    {
+      "id": 2052,
+      "section": null,
+      "word": "sister",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "姉、妹",
+          "page": "1年生 p.56"
+        }
+      ],
+      "page_first": "1年生 p.56"
+    },
+    {
+      "id": 2053,
+      "section": null,
+      "word": "sit",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "座る、座っている",
+          "page": "1年生 p.107"
+        },
+        {
+          "pos": "動",
+          "ja": "（sit upで）寝ずに起きている",
+          "page": "2年生 p.129"
+        }
+      ],
+      "page_first": "1年生 p.107"
+    },
+    {
+      "id": 2054,
+      "section": null,
+      "word": "sit up late at night",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "夜ふかしをする",
+          "page": "2年生 p.129"
+        }
+      ],
+      "page_first": "2年生 p.129"
+    },
+    {
+      "id": 2055,
+      "section": null,
+      "word": "site",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（ウェブ）サイト、場所",
+          "page": "1年生 p.94"
+        }
+      ],
+      "page_first": "1年生 p.94"
+    },
+    {
+      "id": 2056,
+      "section": null,
+      "word": "situation",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "状況",
+          "page": "2年生 p.127"
+        }
+      ],
+      "page_first": "2年生 p.127"
+    },
+    {
+      "id": 2057,
+      "section": null,
+      "word": "six",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "6（の）",
+          "page": "1年生 p.50"
+        }
+      ],
+      "page_first": "1年生 p.50"
+    },
+    {
+      "id": 2058,
+      "section": null,
+      "word": "sixteen",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "16（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 2059,
+      "section": null,
+      "word": "sixteenth",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "16日、16番目（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 2060,
+      "section": null,
+      "word": "sixth",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "6日、6番目（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 2061,
+      "section": null,
+      "word": "sixty",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "60（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 2062,
+      "section": null,
+      "word": "size",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "大きさ、サイズ",
+          "page": "1年生 p.50"
+        }
+      ],
+      "page_first": "1年生 p.50"
+    },
+    {
+      "id": 2063,
+      "section": null,
+      "word": "skate",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "スケートをする",
+          "page": "1年生 p.39"
+        }
+      ],
+      "page_first": "1年生 p.39"
+    },
+    {
+      "id": 2064,
+      "section": null,
+      "word": "skateboarding",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "スケートボード（競技）",
+          "page": "2年生 p.131"
+        }
+      ],
+      "page_first": "2年生 p.131"
+    },
+    {
+      "id": 2065,
+      "section": null,
+      "word": "skating",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "スケート（競技）",
+          "page": "3年生 p.81"
+        }
+      ],
+      "page_first": "3年生 p.81"
+    },
+    {
+      "id": 2066,
+      "section": null,
+      "word": "ski",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "スキーをする",
+          "page": "1年生 p.39"
+        }
+      ],
+      "page_first": "1年生 p.39"
+    },
+    {
+      "id": 2067,
+      "section": null,
+      "word": "skill",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "技術",
+          "page": "1年生 p.94"
+        }
+      ],
+      "page_first": "1年生 p.94"
+    },
+    {
+      "id": 2068,
+      "section": null,
+      "word": "skillful",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "熟練した、じょうずな",
+          "page": "1年生 p.104"
+        }
+      ],
+      "page_first": "1年生 p.104"
+    },
+    {
+      "id": 2069,
+      "section": null,
+      "word": "sky",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "空",
+          "page": "1年生 p.42"
+        }
+      ],
+      "page_first": "1年生 p.42"
+    },
+    {
+      "id": 2070,
+      "section": null,
+      "word": "Sky Family",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "スカイファミリー（架空のマンガのタイトル）",
+          "page": "3年生 p.18"
+        }
+      ],
+      "page_first": "3年生 p.18"
+    },
+    {
+      "id": 2071,
+      "section": null,
+      "word": "sleep",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "眠る",
+          "page": "1年生 p.110"
+        },
+        {
+          "pos": "名",
+          "ja": "睡眠",
+          "page": "3年生 p.21"
+        }
+      ],
+      "page_first": "1年生 p.110"
+    },
+    {
+      "id": 2072,
+      "section": null,
+      "word": "sleepy",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "眠い",
+          "page": "1年生 p.125"
+        }
+      ],
+      "page_first": "1年生 p.125"
+    },
+    {
+      "id": 2073,
+      "section": null,
+      "word": "sleigh",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "そり",
+          "page": "1年生 p.128"
+        }
+      ],
+      "page_first": "1年生 p.128"
+    },
+    {
+      "id": 2074,
+      "section": null,
+      "word": "slept",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "sleep（眠る）の過去形《過去分詞も同形》",
+          "page": "1年生 p.117"
+        }
+      ],
+      "page_first": "1年生 p.117"
+    },
+    {
+      "id": 2075,
+      "section": null,
+      "word": "slice",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（うすく切った）1切れ",
+          "page": "2年生 p.43"
+        }
+      ],
+      "page_first": "2年生 p.43"
+    }
+  ]
+}

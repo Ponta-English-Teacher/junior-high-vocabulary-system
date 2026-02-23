@@ -1,0 +1,724 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 55,
+    "range": {
+      "from": "sport",
+      "to": "stream"
+    }
+  },
+  "entries": [
+    {
+      "id": 2157,
+      "section": null,
+      "word": "sport",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "スポーツ",
+          "page": "1年生 p.14"
+        }
+      ],
+      "page_first": "1年生 p.14"
+    },
+    {
+      "id": 2158,
+      "section": null,
+      "word": "sports day",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "運動会（の日）",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 2159,
+      "section": null,
+      "word": "sportsmanship",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "スポーツマンシップ",
+          "page": "2年生 p.25"
+        }
+      ],
+      "page_first": "2年生 p.25"
+    },
+    {
+      "id": 2160,
+      "section": null,
+      "word": "spread",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "広がる、広まる《過去形・過去分詞も同形》",
+          "page": "3年生 p.50"
+        }
+      ],
+      "page_first": "3年生 p.50"
+    },
+    {
+      "id": 2161,
+      "section": null,
+      "word": "spring",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "春",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 2162,
+      "section": null,
+      "word": "spring roll",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "春巻き",
+          "page": "3年生 p.129"
+        }
+      ],
+      "page_first": "3年生 p.129"
+    },
+    {
+      "id": 2163,
+      "section": null,
+      "word": "square",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "正方形の、四角い",
+          "page": "2年生 p.86"
+        }
+      ],
+      "page_first": "2年生 p.86"
+    },
+    {
+      "id": 2164,
+      "section": null,
+      "word": "squirrel",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "リス",
+          "page": "1年生 p.142"
+        }
+      ],
+      "page_first": "1年生 p.142"
+    },
+    {
+      "id": 2165,
+      "section": null,
+      "word": "St.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "〜通り（街路名の前に置く）",
+          "page": "1年生 p.140"
+        }
+      ],
+      "page_first": "1年生 p.140"
+    },
+    {
+      "id": 2166,
+      "section": null,
+      "word": "stadium",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "球場、競技場",
+          "page": "1年生 p.89"
+        }
+      ],
+      "page_first": "1年生 p.89"
+    },
+    {
+      "id": 2167,
+      "section": null,
+      "word": "staff",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "スタッフ、職員",
+          "page": "1年生 p.50"
+        }
+      ],
+      "page_first": "1年生 p.50"
+    },
+    {
+      "id": 2168,
+      "section": null,
+      "word": "stage",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ステージ、舞台",
+          "page": "3年生 p.64"
+        }
+      ],
+      "page_first": "3年生 p.64"
+    },
+    {
+      "id": 2169,
+      "section": null,
+      "word": "stair",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（ふつう複数形で）階段",
+          "page": "1年生 p.91"
+        }
+      ],
+      "page_first": "1年生 p.91"
+    },
+    {
+      "id": 2170,
+      "section": null,
+      "word": "stand",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "屋台",
+          "page": "1年生 p.103"
+        },
+        {
+          "pos": "動",
+          "ja": "立つ",
+          "page": "2年生 p.108"
+        }
+      ],
+      "page_first": "1年生 p.103"
+    },
+    {
+      "id": 2171,
+      "section": null,
+      "word": "stapler",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ホチキス",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 2172,
+      "section": null,
+      "word": "star",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "スター、星",
+          "page": "3年生 p.130"
+        }
+      ],
+      "page_first": "3年生 p.130"
+    },
+    {
+      "id": 2173,
+      "section": null,
+      "word": "STAR WARS",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "スター・ウォーズ（映画のタイトル）",
+          "page": "1年生 p.73"
+        }
+      ],
+      "page_first": "1年生 p.73"
+    },
+    {
+      "id": 2174,
+      "section": null,
+      "word": "start",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "出発する、始める",
+          "page": "1年生 p.129"
+        },
+        {
+          "pos": "名",
+          "ja": "はじまり、出発",
+          "page": "2年生 p.7"
+        }
+      ],
+      "page_first": "1年生 p.129"
+    },
+    {
+      "id": 2175,
+      "section": null,
+      "word": "starving",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "（死にそうなほど）おなかがすいて、餓死しそうな",
+          "page": "3年生 p.11"
+        }
+      ],
+      "page_first": "3年生 p.11"
+    },
+    {
+      "id": 2176,
+      "section": null,
+      "word": "station",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "駅",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    },
+    {
+      "id": 2177,
+      "section": null,
+      "word": "stationery",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "文房具",
+          "page": "2年生 p.109"
+        }
+      ],
+      "page_first": "2年生 p.109"
+    },
+    {
+      "id": 2178,
+      "section": null,
+      "word": "stationery store",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "文房具店",
+          "page": "2年生 p.132"
+        }
+      ],
+      "page_first": "2年生 p.132"
+    },
+    {
+      "id": 2179,
+      "section": null,
+      "word": "stay",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "（同じ場所に）いる、とどまる",
+          "page": "1年生 p.110"
+        },
+        {
+          "pos": "名",
+          "ja": "滞在",
+          "page": "1年生 p.122"
+        }
+      ],
+      "page_first": "1年生 p.110"
+    },
+    {
+      "id": 2180,
+      "section": null,
+      "word": "steak",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ステーキ",
+          "page": "1年生 p.82"
+        }
+      ],
+      "page_first": "1年生 p.82"
+    },
+    {
+      "id": 2181,
+      "section": null,
+      "word": "steam",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "湯気を立てる",
+          "page": "1年生 p.130"
+        }
+      ],
+      "page_first": "1年生 p.130"
+    },
+    {
+      "id": 2182,
+      "section": null,
+      "word": "steamed meat dumpling",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "シューマイ",
+          "page": "3年生 p.129"
+        }
+      ],
+      "page_first": "3年生 p.129"
+    },
+    {
+      "id": 2183,
+      "section": null,
+      "word": "stew",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "シチュー",
+          "page": "3年生 p.81"
+        }
+      ],
+      "page_first": "3年生 p.81"
+    },
+    {
+      "id": 2184,
+      "section": null,
+      "word": "stick",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "くっつく",
+          "page": "2年生 p.79"
+        },
+        {
+          "pos": "名",
+          "ja": "棒",
+          "page": "3年生 p.81"
+        }
+      ],
+      "page_first": "2年生 p.79"
+    },
+    {
+      "id": 2185,
+      "section": null,
+      "word": "stick to ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～にくっつく",
+          "page": "2年生 p.79"
+        }
+      ],
+      "page_first": "2年生 p.79"
+    },
+    {
+      "id": 2186,
+      "section": null,
+      "word": "still",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "まだ、今でも",
+          "page": "1年生 p.100"
+        }
+      ],
+      "page_first": "1年生 p.100"
+    },
+    {
+      "id": 2187,
+      "section": null,
+      "word": "stock",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "だし、煮出し汁",
+          "page": "2年生 p.103"
+        },
+        {
+          "pos": "名",
+          "ja": "（商品の）在庫",
+          "page": "3年生 p.13"
+        }
+      ],
+      "page_first": "2年生 p.103"
+    },
+    {
+      "id": 2189,
+      "section": null,
+      "word": "stomach",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "胃",
+          "page": "3年生 p.50"
+        }
+      ],
+      "page_first": "3年生 p.50"
+    },
+    {
+      "id": 2190,
+      "section": null,
+      "word": "stone",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "石",
+          "page": "2年生 p.88"
+        }
+      ],
+      "page_first": "2年生 p.88"
+    },
+    {
+      "id": 2191,
+      "section": null,
+      "word": "stop",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "止める、止まる",
+          "page": "1年生 p.118"
+        }
+      ],
+      "page_first": "1年生 p.118"
+    },
+    {
+      "id": 2192,
+      "section": null,
+      "word": "store",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "店",
+          "page": "2年生 p.109"
+        }
+      ],
+      "page_first": "2年生 p.109"
+    },
+    {
+      "id": 2193,
+      "section": null,
+      "word": "story",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "物語",
+          "page": "1年生 p.124"
+        }
+      ],
+      "page_first": "1年生 p.124"
+    },
+    {
+      "id": 2194,
+      "section": null,
+      "word": "straight",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "まっすぐに",
+          "page": "1年生 p.91"
+        }
+      ],
+      "page_first": "1年生 p.91"
+    },
+    {
+      "id": 2195,
+      "section": null,
+      "word": "straw",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ストロー",
+          "page": "2年生 p.116"
+        }
+      ],
+      "page_first": "2年生 p.116"
+    },
+    {
+      "id": 2196,
+      "section": null,
+      "word": "strawberry",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "イチゴ",
+          "page": "1年生 p.101"
+        }
+      ],
+      "page_first": "1年生 p.101"
+    },
+    {
+      "id": 2197,
+      "section": null,
+      "word": "stream",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "流れ",
+          "page": "3年生 p.122"
+        }
+      ],
+      "page_first": "3年生 p.122"
+    }
+  ]
+}

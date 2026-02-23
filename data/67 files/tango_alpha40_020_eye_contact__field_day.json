@@ -1,0 +1,714 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 20,
+    "range": {
+      "from": "eye contact",
+      "to": "field day"
+    }
+  },
+  "entries": [
+    {
+      "id": 752,
+      "section": null,
+      "word": "eye contact",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "視線を合わすこと、アイコンタクト",
+          "page": "3年生 p.46"
+        }
+      ],
+      "page_first": "3年生 p.46"
+    },
+    {
+      "id": 753,
+      "section": "F / f",
+      "word": "face",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "顔",
+          "page": "1年生 p.36"
+        }
+      ],
+      "page_first": "1年生 p.36"
+    },
+    {
+      "id": 754,
+      "section": null,
+      "word": "facial",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "顔の",
+          "page": "3年生 p.46"
+        }
+      ],
+      "page_first": "3年生 p.46"
+    },
+    {
+      "id": 755,
+      "section": null,
+      "word": "facility",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "施設、設備",
+          "page": "3年生 p.63"
+        }
+      ],
+      "page_first": "3年生 p.63"
+    },
+    {
+      "id": 756,
+      "section": null,
+      "word": "fact",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "事実",
+          "page": "2年生 p.25"
+        }
+      ],
+      "page_first": "2年生 p.25"
+    },
+    {
+      "id": 758,
+      "section": null,
+      "word": "failure",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "失敗",
+          "page": "2年生 p.127"
+        }
+      ],
+      "page_first": "2年生 p.127"
+    },
+    {
+      "id": 759,
+      "section": null,
+      "word": "fair",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "まあまあの、ふつうの",
+          "page": "3年生 p.46"
+        },
+        {
+          "pos": "形",
+          "ja": "公平な",
+          "page": "3年生 p.71"
+        }
+      ],
+      "page_first": "3年生 p.46"
+    },
+    {
+      "id": 760,
+      "section": null,
+      "word": "fair trade",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "フェアトレード、公正取引",
+          "page": "3年生 p.71"
+        }
+      ],
+      "page_first": "3年生 p.71"
+    },
+    {
+      "id": 761,
+      "section": null,
+      "word": "faithful",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "忠実な",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    },
+    {
+      "id": 762,
+      "section": null,
+      "word": "fall",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "秋",
+          "page": "1年生 p.141"
+        },
+        {
+          "pos": "動",
+          "ja": "落ちる",
+          "page": "2年生 p.71"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 137,
+      "section": null,
+      "word": "fall asleep",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "眠りに落ちる、寝入る",
+          "page": "2年生 p.71"
+        }
+      ],
+      "page_first": "2年生 p.71"
+    },
+    {
+      "id": 763,
+      "section": null,
+      "word": "fall into ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～に落ちる",
+          "page": "2年生 p.80"
+        }
+      ],
+      "page_first": "2年生 p.80"
+    },
+    {
+      "id": 764,
+      "section": null,
+      "word": "fall over",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "転ぶ、倒れる",
+          "page": "3年生 p.44"
+        }
+      ],
+      "page_first": "3年生 p.44"
+    },
+    {
+      "id": 765,
+      "section": null,
+      "word": "family",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "家族",
+          "page": "1年生 p.106"
+        }
+      ],
+      "page_first": "1年生 p.106"
+    },
+    {
+      "id": 766,
+      "section": null,
+      "word": "famous",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "有名な",
+          "page": "1年生 p.52"
+        }
+      ],
+      "page_first": "1年生 p.52"
+    },
+    {
+      "id": 768,
+      "section": null,
+      "word": "fan",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ファン、熱烈な支持者",
+          "page": "1年生 p.26"
+        }
+      ],
+      "page_first": "1年生 p.26"
+    },
+    {
+      "id": 769,
+      "section": null,
+      "word": "fantastic",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "すばらしい",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    },
+    {
+      "id": 770,
+      "section": null,
+      "word": "far",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "遠くに",
+          "page": "1年生 p.83"
+        }
+      ],
+      "page_first": "1年生 p.83"
+    },
+    {
+      "id": 771,
+      "section": null,
+      "word": "far away",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "はるか遠くに",
+          "page": "3年生 p.100"
+        }
+      ],
+      "page_first": "3年生 p.100"
+    },
+    {
+      "id": 772,
+      "section": null,
+      "word": "farewell",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "別れの、送別の",
+          "page": "2年生 p.11"
+        }
+      ],
+      "page_first": "2年生 p.11"
+    },
+    {
+      "id": 773,
+      "section": null,
+      "word": "farm",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "農園、農場",
+          "page": "3年生 p.71"
+        }
+      ],
+      "page_first": "3年生 p.71"
+    },
+    {
+      "id": 774,
+      "section": null,
+      "word": "farmer",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "農場主、農民",
+          "page": "2年生 p.42"
+        }
+      ],
+      "page_first": "2年生 p.42"
+    },
+    {
+      "id": 775,
+      "section": null,
+      "word": "fashion model",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ファッションモデル",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 776,
+      "section": null,
+      "word": "fashionable",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "流行の",
+          "page": "2年生 p.73"
+        }
+      ],
+      "page_first": "2年生 p.73"
+    },
+    {
+      "id": 777,
+      "section": null,
+      "word": "fast",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "速く",
+          "page": "1年生 p.39"
+        },
+        {
+          "pos": "形",
+          "ja": "速い",
+          "page": "1年生 p.53"
+        }
+      ],
+      "page_first": "1年生 p.39"
+    },
+    {
+      "id": 778,
+      "section": null,
+      "word": "father",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "お父さん、父",
+          "page": "1年生 p.39"
+        }
+      ],
+      "page_first": "1年生 p.39"
+    },
+    {
+      "id": 779,
+      "section": null,
+      "word": "favorite",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "お気に入りの、大好きな",
+          "page": "1年生 p.55"
+        }
+      ],
+      "page_first": "1年生 p.55"
+    },
+    {
+      "id": 780,
+      "section": null,
+      "word": "feather",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "羽、羽毛",
+          "page": "3年生 p.52"
+        }
+      ],
+      "page_first": "3年生 p.52"
+    },
+    {
+      "id": 781,
+      "section": null,
+      "word": "February",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "2月",
+          "page": "1年生 p.140"
+        }
+      ],
+      "page_first": "1年生 p.140"
+    },
+    {
+      "id": 782,
+      "section": null,
+      "word": "feed",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "えさ",
+          "page": "1年生 p.88"
+        }
+      ],
+      "page_first": "1年生 p.88"
+    },
+    {
+      "id": 783,
+      "section": null,
+      "word": "feel",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "感じる",
+          "page": "1年生 p.101"
+        }
+      ],
+      "page_first": "1年生 p.101"
+    },
+    {
+      "id": 784,
+      "section": null,
+      "word": "feel like ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "〜のように感じる",
+          "page": "3年生 p.125"
+        }
+      ],
+      "page_first": "3年生 p.125"
+    },
+    {
+      "id": 785,
+      "section": null,
+      "word": "Felipe",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "フェリペ（男子の名）",
+          "page": "1年生 p.22"
+        }
+      ],
+      "page_first": "1年生 p.22"
+    },
+    {
+      "id": 786,
+      "section": null,
+      "word": "fell",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "fall（落ちる）の過去形",
+          "page": "2年生 p.71"
+        }
+      ],
+      "page_first": "2年生 p.71"
+    },
+    {
+      "id": 787,
+      "section": null,
+      "word": "felt",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "feel（感じる）の過去形《過去分詞も同形》",
+          "page": "3年生 p.22"
+        }
+      ],
+      "page_first": "3年生 p.22"
+    },
+    {
+      "id": 788,
+      "section": null,
+      "word": "female",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "雌、女性",
+          "page": "3年生 p.67"
+        }
+      ],
+      "page_first": "3年生 p.67"
+    },
+    {
+      "id": 789,
+      "section": null,
+      "word": "festival",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "祭り",
+          "page": "2年生 p.32"
+        }
+      ],
+      "page_first": "2年生 p.32"
+    },
+    {
+      "id": 790,
+      "section": null,
+      "word": "fever",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "熱、発熱",
+          "page": "3年生 p.97"
+        }
+      ],
+      "page_first": "3年生 p.97"
+    },
+    {
+      "id": 791,
+      "section": null,
+      "word": "few",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "（a fewで）少数の、少しの",
+          "page": "3年生 p.13"
+        }
+      ],
+      "page_first": "3年生 p.13"
+    },
+    {
+      "id": 793,
+      "section": null,
+      "word": "field day",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "運動会（の日）",
+          "page": "2年生 p.27"
+        }
+      ],
+      "page_first": "2年生 p.27"
+    }
+  ]
+}

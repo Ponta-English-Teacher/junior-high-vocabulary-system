@@ -1,0 +1,729 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 22,
+    "range": {
+      "from": "flower shop",
+      "to": "frank"
+    }
+  },
+  "entries": [
+    {
+      "id": 837,
+      "section": null,
+      "word": "flower shop",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "花屋",
+          "page": "2年生 p.132"
+        }
+      ],
+      "page_first": "2年生 p.132"
+    },
+    {
+      "id": 838,
+      "section": null,
+      "word": "flu",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "インフルエンザ（＝influenza）",
+          "page": "3年生 p.130"
+        }
+      ],
+      "page_first": "3年生 p.130"
+    },
+    {
+      "id": 839,
+      "section": null,
+      "word": "fluffy",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "ふわふわした",
+          "page": "1年生 p.131"
+        }
+      ],
+      "page_first": "1年生 p.131"
+    },
+    {
+      "id": 840,
+      "section": null,
+      "word": "flute",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "フルート",
+          "page": "1年生 p.14"
+        }
+      ],
+      "page_first": "1年生 p.14"
+    },
+    {
+      "id": 841,
+      "section": null,
+      "word": "fly",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "飛ぶ",
+          "page": "1年生 p.42"
+        }
+      ],
+      "page_first": "1年生 p.42"
+    },
+    {
+      "id": 842,
+      "section": null,
+      "word": "flying fish",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "トビウオ",
+          "page": "2年生 p.103"
+        }
+      ],
+      "page_first": "2年生 p.103"
+    },
+    {
+      "id": 843,
+      "section": null,
+      "word": "foggy",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "霧のかかった",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 844,
+      "section": null,
+      "word": "fold",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "折る",
+          "page": "2年生 p.113"
+        }
+      ],
+      "page_first": "2年生 p.113"
+    },
+    {
+      "id": 845,
+      "section": null,
+      "word": "follow",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "従う、ついていく、続く",
+          "page": "1年生 p.127"
+        }
+      ],
+      "page_first": "1年生 p.127"
+    },
+    {
+      "id": 846,
+      "section": null,
+      "word": "following",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "（the followingで）次の、以下の",
+          "page": "3年生 p.119"
+        }
+      ],
+      "page_first": "3年生 p.119"
+    },
+    {
+      "id": 847,
+      "section": null,
+      "word": "food",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "食べ物",
+          "page": "1年生 p.13"
+        }
+      ],
+      "page_first": "1年生 p.13"
+    },
+    {
+      "id": 848,
+      "section": null,
+      "word": "food poisoning",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "食中毒",
+          "page": "3年生 p.90"
+        }
+      ],
+      "page_first": "3年生 p.90"
+    },
+    {
+      "id": 849,
+      "section": null,
+      "word": "food waste",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "食品廃棄物",
+          "page": "3年生 p.13"
+        }
+      ],
+      "page_first": "3年生 p.13"
+    },
+    {
+      "id": 850,
+      "section": null,
+      "word": "footprint",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "足跡",
+          "page": "2年生 p.51"
+        }
+      ],
+      "page_first": "2年生 p.51"
+    },
+    {
+      "id": 851,
+      "section": null,
+      "word": "for",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "前",
+          "ja": "〜用の［に］、〜に向けた",
+          "page": "1年生 p.33"
+        },
+        {
+          "pos": "前",
+          "ja": "（利益・目的・原因・理由を表して）〜のために［の］",
+          "page": "1年生 p.38"
+        },
+        {
+          "pos": "前",
+          "ja": "〜にとって",
+          "page": "1年生 p.94"
+        },
+        {
+          "pos": "前",
+          "ja": "～の代わりに",
+          "page": "2年生 p.13"
+        },
+        {
+          "pos": "前",
+          "ja": "（会社・チームに）雇われて、所属して",
+          "page": "2年生 p.29"
+        },
+        {
+          "pos": "前",
+          "ja": "（時間・期間）の間",
+          "page": "2年生 p.93"
+        },
+        {
+          "pos": "前",
+          "ja": "～を求めて",
+          "page": "2年生 p.47"
+        }
+      ],
+      "page_first": "1年生 p.33"
+    },
+    {
+      "id": 2561,
+      "section": null,
+      "word": "for a while",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "しばらくの間",
+          "page": "2年生 p.47"
+        }
+      ],
+      "page_first": "2年生 p.47"
+    },
+    {
+      "id": 734,
+      "section": null,
+      "word": "for example",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "たとえば",
+          "page": "1年生 p.80"
+        }
+      ],
+      "page_first": "1年生 p.80"
+    },
+    {
+      "id": 875,
+      "section": null,
+      "word": "for free",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "無料で",
+          "page": "2年生 p.64"
+        }
+      ],
+      "page_first": "2年生 p.64"
+    },
+    {
+      "id": 852,
+      "section": null,
+      "word": "For here or to go?",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "こちらでめしあがりますか、お持ち帰りになりますか。",
+          "page": "1年生 p.50"
+        }
+      ],
+      "page_first": "1年生 p.50"
+    },
+    {
+      "id": 818,
+      "section": null,
+      "word": "for the first time",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "初めて",
+          "page": "2年生 p.33"
+        }
+      ],
+      "page_first": "2年生 p.33"
+    },
+    {
+      "id": 853,
+      "section": null,
+      "word": "force",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "（～に…するのを）強いる、強制する",
+          "page": "3年生 p.71"
+        }
+      ],
+      "page_first": "3年生 p.71"
+    },
+    {
+      "id": 854,
+      "section": null,
+      "word": "forecast",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "予報、予想",
+          "page": "2年生 p.29"
+        }
+      ],
+      "page_first": "2年生 p.29"
+    },
+    {
+      "id": 855,
+      "section": null,
+      "word": "foreign",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "外国の",
+          "page": "1年生 p.94"
+        }
+      ],
+      "page_first": "1年生 p.94"
+    },
+    {
+      "id": 856,
+      "section": null,
+      "word": "forest",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "森",
+          "page": "2年生 p.56"
+        }
+      ],
+      "page_first": "2年生 p.56"
+    },
+    {
+      "id": 857,
+      "section": null,
+      "word": "forever",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "永遠に",
+          "page": "3年生 p.125"
+        }
+      ],
+      "page_first": "3年生 p.125"
+    },
+    {
+      "id": 858,
+      "section": null,
+      "word": "forget",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "忘れる",
+          "page": "2年生 p.12"
+        }
+      ],
+      "page_first": "2年生 p.12"
+    },
+    {
+      "id": 859,
+      "section": null,
+      "word": "forgot",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "forget（忘れる）の過去形",
+          "page": "3年生 p.57"
+        }
+      ],
+      "page_first": "3年生 p.57"
+    },
+    {
+      "id": 860,
+      "section": null,
+      "word": "former",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "前の、元の",
+          "page": "2年生 p.94"
+        }
+      ],
+      "page_first": "2年生 p.94"
+    },
+    {
+      "id": 861,
+      "section": null,
+      "word": "forty",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "40（の）",
+          "page": "1年生 p.23"
+        }
+      ],
+      "page_first": "1年生 p.23"
+    },
+    {
+      "id": 862,
+      "section": null,
+      "word": "forward",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "先へ",
+          "page": "2年生 p.36"
+        }
+      ],
+      "page_first": "2年生 p.36"
+    },
+    {
+      "id": 864,
+      "section": null,
+      "word": "foster",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "育てる",
+          "page": "2年生 p.25"
+        }
+      ],
+      "page_first": "2年生 p.25"
+    },
+    {
+      "id": 865,
+      "section": null,
+      "word": "fought",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "fight（戦う）の過去形《過去分詞も同形》",
+          "page": "3年生 p.122"
+        }
+      ],
+      "page_first": "3年生 p.122"
+    },
+    {
+      "id": 866,
+      "section": null,
+      "word": "found",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "find（見つける）の過去形《過去分詞も同形》",
+          "page": "1年生 p.114"
+        }
+      ],
+      "page_first": "1年生 p.114"
+    },
+    {
+      "id": 867,
+      "section": null,
+      "word": "four",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "4（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 868,
+      "section": null,
+      "word": "fourteen",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "14（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 869,
+      "section": null,
+      "word": "fourteenth",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "14日、14番目（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 870,
+      "section": null,
+      "word": "fourth",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "4日、4番目（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 871,
+      "section": null,
+      "word": "fox",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "キツネ",
+          "page": "1年生 p.16"
+        }
+      ],
+      "page_first": "1年生 p.16"
+    },
+    {
+      "id": 872,
+      "section": null,
+      "word": "France",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "フランス",
+          "page": "1年生 p.104"
+        }
+      ],
+      "page_first": "1年生 p.104"
+    },
+    {
+      "id": 873,
+      "section": null,
+      "word": "frank",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "気さくな、率直な",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    }
+  ]
+}

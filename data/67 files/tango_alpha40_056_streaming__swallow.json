@@ -1,0 +1,704 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 56,
+    "range": {
+      "from": "streaming",
+      "to": "swallow"
+    }
+  },
+  "entries": [
+    {
+      "id": 2198,
+      "section": null,
+      "word": "streaming",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ストリーミング（インターネット上で映像や音楽を受信しながら同時に再生する方式）",
+          "page": "1年生 p.106"
+        }
+      ],
+      "page_first": "1年生 p.106"
+    },
+    {
+      "id": 2199,
+      "section": null,
+      "word": "street",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "街路、通り",
+          "page": "1年生 p.140"
+        }
+      ],
+      "page_first": "1年生 p.140"
+    },
+    {
+      "id": 2200,
+      "section": null,
+      "word": "street singer",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ストリートシンガー、路上歌手",
+          "page": "1年生 p.53"
+        }
+      ],
+      "page_first": "1年生 p.53"
+    },
+    {
+      "id": 2201,
+      "section": null,
+      "word": "strict",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "厳しい",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    },
+    {
+      "id": 2202,
+      "section": null,
+      "word": "stripe",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "しま、ストライプ",
+          "page": "3年生 p.67"
+        }
+      ],
+      "page_first": "3年生 p.67"
+    },
+    {
+      "id": 2203,
+      "section": null,
+      "word": "strong",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "強い、がんじょうな",
+          "page": "1年生 p.78"
+        }
+      ],
+      "page_first": "1年生 p.78"
+    },
+    {
+      "id": 2204,
+      "section": null,
+      "word": "student",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "生徒、学生",
+          "page": "1年生 p.23"
+        }
+      ],
+      "page_first": "1年生 p.23"
+    },
+    {
+      "id": 2205,
+      "section": null,
+      "word": "study",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "勉強する",
+          "page": "1年生 p.31"
+        }
+      ],
+      "page_first": "1年生 p.31"
+    },
+    {
+      "id": 2206,
+      "section": null,
+      "word": "stylish",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "流行の、しゃれた",
+          "page": "2年生 p.76"
+        }
+      ],
+      "page_first": "2年生 p.76"
+    },
+    {
+      "id": 2207,
+      "section": null,
+      "word": "subject",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "教科、科目",
+          "page": "1年生 p.12"
+        }
+      ],
+      "page_first": "1年生 p.12"
+    },
+    {
+      "id": 2208,
+      "section": null,
+      "word": "subway",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "地下鉄",
+          "page": "3年生 p.129"
+        }
+      ],
+      "page_first": "3年生 p.129"
+    },
+    {
+      "id": 2209,
+      "section": null,
+      "word": "successful",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "成功した",
+          "page": "2年生 p.23"
+        }
+      ],
+      "page_first": "2年生 p.23"
+    },
+    {
+      "id": 2210,
+      "section": null,
+      "word": "successfully",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "成功して、うまく",
+          "page": "2年生 p.127"
+        }
+      ],
+      "page_first": "2年生 p.127"
+    },
+    {
+      "id": 2211,
+      "section": null,
+      "word": "such",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "そのような",
+          "page": "2年生 p.42"
+        }
+      ],
+      "page_first": "2年生 p.42"
+    },
+    {
+      "id": 2212,
+      "section": null,
+      "word": "such as ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "たとえば～など",
+          "page": "2年生 p.42"
+        }
+      ],
+      "page_first": "2年生 p.42"
+    },
+    {
+      "id": 2213,
+      "section": null,
+      "word": "suddenly",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "突然、急に",
+          "page": "2年生 p.92"
+        }
+      ],
+      "page_first": "2年生 p.92"
+    },
+    {
+      "id": 2214,
+      "section": null,
+      "word": "suffer",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "苦しむ",
+          "page": "3年生 p.122"
+        }
+      ],
+      "page_first": "3年生 p.122"
+    },
+    {
+      "id": 2215,
+      "section": null,
+      "word": "sugar",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "砂糖",
+          "page": "2年生 p.86"
+        }
+      ],
+      "page_first": "2年生 p.86"
+    },
+    {
+      "id": 2216,
+      "section": null,
+      "word": "suggest",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "勧める、提案する",
+          "page": "3年生 p.15"
+        }
+      ],
+      "page_first": "3年生 p.15"
+    },
+    {
+      "id": 2217,
+      "section": null,
+      "word": "suggestion",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "提案",
+          "page": "3年生 p.93"
+        }
+      ],
+      "page_first": "3年生 p.93"
+    },
+    {
+      "id": 2218,
+      "section": null,
+      "word": "suitcase",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "スーツケース",
+          "page": "3年生 p.9"
+        }
+      ],
+      "page_first": "3年生 p.9"
+    },
+    {
+      "id": 2219,
+      "section": null,
+      "word": "summer",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "夏",
+          "page": "1年生 p.39"
+        }
+      ],
+      "page_first": "1年生 p.39"
+    },
+    {
+      "id": 2220,
+      "section": null,
+      "word": "sun",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（ふつうtheをつけて）太陽",
+          "page": "1年生 p.115"
+        }
+      ],
+      "page_first": "1年生 p.115"
+    },
+    {
+      "id": 2221,
+      "section": null,
+      "word": "Sunday",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "日曜日",
+          "page": "1年生 p.35"
+        }
+      ],
+      "page_first": "1年生 p.35"
+    },
+    {
+      "id": 2222,
+      "section": null,
+      "word": "sunflower",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ヒマワリ",
+          "page": "2年生 p.105"
+        }
+      ],
+      "page_first": "2年生 p.105"
+    },
+    {
+      "id": 2223,
+      "section": null,
+      "word": "sung",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "sing（歌う）の過去分詞",
+          "page": "2年生 p.109"
+        }
+      ],
+      "page_first": "2年生 p.109"
+    },
+    {
+      "id": 2224,
+      "section": null,
+      "word": "sunny",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "晴れの",
+          "page": "1年生 p.101"
+        }
+      ],
+      "page_first": "1年生 p.101"
+    },
+    {
+      "id": 2225,
+      "section": null,
+      "word": "Sunshine Airlines",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "サンシャイン航空（架空の航空会社）",
+          "page": "2年生 p.117"
+        }
+      ],
+      "page_first": "2年生 p.117"
+    },
+    {
+      "id": 2226,
+      "section": null,
+      "word": "Sunshine Band",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "サンシャインバンド（架空のバンド名）",
+          "page": "3年生 p.57"
+        }
+      ],
+      "page_first": "3年生 p.57"
+    },
+    {
+      "id": 2227,
+      "section": null,
+      "word": "Sunshine Shopping Mall",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（theをつけて）サンシャインショッピングモール（架空の複合型商業施設）",
+          "page": "1年生 p.125"
+        }
+      ],
+      "page_first": "1年生 p.125"
+    },
+    {
+      "id": 2228,
+      "section": null,
+      "word": "supermarket",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "スーパーマーケット",
+          "page": "1年生 p.101"
+        }
+      ],
+      "page_first": "1年生 p.101"
+    },
+    {
+      "id": 2229,
+      "section": null,
+      "word": "support",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "支援する",
+          "page": "1年生 p.66"
+        }
+      ],
+      "page_first": "1年生 p.66"
+    },
+    {
+      "id": 2230,
+      "section": null,
+      "word": "sure",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "（承諾の返事）もちろん、いいですよ、わかった",
+          "page": "1年生 p.33"
+        },
+        {
+          "pos": "形",
+          "ja": "確信して",
+          "page": "3年生 p.15"
+        }
+      ],
+      "page_first": "1年生 p.33"
+    },
+    {
+      "id": 2231,
+      "section": null,
+      "word": "surf",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "ネットサーフィンをする",
+          "page": "1年生 p.125"
+        }
+      ],
+      "page_first": "1年生 p.125"
+    },
+    {
+      "id": 2232,
+      "section": null,
+      "word": "surprised",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "おどろいて",
+          "page": "1年生 p.125"
+        }
+      ],
+      "page_first": "1年生 p.125"
+    },
+    {
+      "id": 2233,
+      "section": null,
+      "word": "surprising",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "おどろくべき、意外な",
+          "page": "2年生 p.102"
+        }
+      ],
+      "page_first": "2年生 p.102"
+    },
+    {
+      "id": 2234,
+      "section": null,
+      "word": "surprisingly",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "おどろいたことに",
+          "page": "3年生 p.118"
+        }
+      ],
+      "page_first": "3年生 p.118"
+    },
+    {
+      "id": 2235,
+      "section": null,
+      "word": "survive",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "生き延びる",
+          "page": "2年生 p.80"
+        }
+      ],
+      "page_first": "2年生 p.80"
+    },
+    {
+      "id": 2236,
+      "section": null,
+      "word": "survivor",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "生存者",
+          "page": "2年生 p.93"
+        }
+      ],
+      "page_first": "2年生 p.93"
+    },
+    {
+      "id": 2237,
+      "section": null,
+      "word": "swallow",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "飲み込む",
+          "page": "3年生 p.87"
+        }
+      ],
+      "page_first": "3年生 p.87"
+    }
+  ]
+}

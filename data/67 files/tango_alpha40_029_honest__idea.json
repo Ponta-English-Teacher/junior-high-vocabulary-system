@@ -1,0 +1,729 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 29,
+    "range": {
+      "from": "honest",
+      "to": "idea"
+    }
+  },
+  "entries": [
+    {
+      "id": 1105,
+      "section": null,
+      "word": "honest",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "正直な",
+          "page": "1年生 p.26"
+        }
+      ],
+      "page_first": "1年生 p.26"
+    },
+    {
+      "id": 1106,
+      "section": null,
+      "word": "honey",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "はちみつ",
+          "page": "2年生 p.73"
+        }
+      ],
+      "page_first": "2年生 p.73"
+    },
+    {
+      "id": 1107,
+      "section": null,
+      "word": "hood",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（上着の）フード",
+          "page": "2年生 p.52"
+        }
+      ],
+      "page_first": "2年生 p.52"
+    },
+    {
+      "id": 1108,
+      "section": null,
+      "word": "hoop",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（バスケットボールの）ゴール、リング",
+          "page": "3年生 p.37"
+        }
+      ],
+      "page_first": "3年生 p.37"
+    },
+    {
+      "id": 1109,
+      "section": null,
+      "word": "hope",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "望む、希望する",
+          "page": "2年生 p.12"
+        },
+        {
+          "pos": "名",
+          "ja": "望み、希望",
+          "page": "2年生 p.107"
+        }
+      ],
+      "page_first": "2年生 p.12"
+    },
+    {
+      "id": 1110,
+      "section": null,
+      "word": "Hopter",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "タケコプター（マンガ『ドラえもん』に登場する空を飛ぶための未来の道具）",
+          "page": "3年生 p.103"
+        }
+      ],
+      "page_first": "3年生 p.103"
+    },
+    {
+      "id": 1111,
+      "section": null,
+      "word": "horse",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ウマ",
+          "page": "1年生 p.53"
+        }
+      ],
+      "page_first": "1年生 p.53"
+    },
+    {
+      "id": 1112,
+      "section": null,
+      "word": "hospital",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "病院",
+          "page": "1年生 p.66"
+        }
+      ],
+      "page_first": "1年生 p.66"
+    },
+    {
+      "id": 1113,
+      "section": null,
+      "word": "hot",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "熱い、暑い",
+          "page": "1年生 p.130"
+        },
+        {
+          "pos": "形",
+          "ja": "辛い",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.130"
+    },
+    {
+      "id": 1114,
+      "section": null,
+      "word": "hotel",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ホテル",
+          "page": "2年生 p.132"
+        }
+      ],
+      "page_first": "2年生 p.132"
+    },
+    {
+      "id": 1115,
+      "section": null,
+      "word": "hour",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "時間、１時間",
+          "page": "1年生 p.75"
+        }
+      ],
+      "page_first": "1年生 p.75"
+    },
+    {
+      "id": 1116,
+      "section": null,
+      "word": "house",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "家",
+          "page": "1年生 p.83"
+        }
+      ],
+      "page_first": "1年生 p.83"
+    },
+    {
+      "id": 1117,
+      "section": null,
+      "word": "Houston",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ヒューストン（米国テキサス州の都市。NASAの所在地）",
+          "page": "2年生 p.125"
+        }
+      ],
+      "page_first": "2年生 p.125"
+    },
+    {
+      "id": 1118,
+      "section": null,
+      "word": "how",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "（程度をたずねて）どのくらい",
+          "page": "1年生 p.34"
+        },
+        {
+          "pos": "副",
+          "ja": "（方法・手段をたずねて）どのようにして",
+          "page": "1年生 p.82"
+        },
+        {
+          "pos": "副",
+          "ja": "（状態）どんな様子［具合］で",
+          "page": "1年生 p.101"
+        },
+        {
+          "pos": "副",
+          "ja": "（感嘆を表して）なんて、なんと",
+          "page": "1年生 p.110"
+        }
+      ],
+      "page_first": "1年生 p.34"
+    },
+    {
+      "id": 7,
+      "section": null,
+      "word": "How about ～?",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～はどうですか。",
+          "page": "1年生 p.73"
+        }
+      ],
+      "page_first": "1年生 p.73"
+    },
+    {
+      "id": 1396,
+      "section": null,
+      "word": "How many ～?",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "どれくらいの～、いくつの～",
+          "page": "1年生 p.34"
+        }
+      ],
+      "page_first": "1年生 p.34"
+    },
+    {
+      "id": 1504,
+      "section": null,
+      "word": "How much ～?",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～はいくらですか。",
+          "page": "1年生 p.50"
+        }
+      ],
+      "page_first": "1年生 p.50"
+    },
+    {
+      "id": 1120,
+      "section": null,
+      "word": "however",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "しかし",
+          "page": "2年生 p.93"
+        }
+      ],
+      "page_first": "2年生 p.93"
+    },
+    {
+      "id": 1121,
+      "section": null,
+      "word": "how’s",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（how isの短縮形）",
+          "page": "1年生 p.113"
+        }
+      ],
+      "page_first": "1年生 p.113"
+    },
+    {
+      "id": 1119,
+      "section": null,
+      "word": "How’s it going?",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "調子はどうですか。",
+          "page": "1年生 p.113"
+        }
+      ],
+      "page_first": "1年生 p.113"
+    },
+    {
+      "id": 1122,
+      "section": null,
+      "word": "huge",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "巨大な、莫大な",
+          "page": "3年生 p.49"
+        }
+      ],
+      "page_first": "3年生 p.49"
+    },
+    {
+      "id": 1123,
+      "section": null,
+      "word": "human",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "人、人間",
+          "page": "3年生 p.50"
+        }
+      ],
+      "page_first": "3年生 p.50"
+    },
+    {
+      "id": 1124,
+      "section": null,
+      "word": "humid",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "蒸し暑い",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 1125,
+      "section": null,
+      "word": "humorous",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "ユーモアのある、おかしい",
+          "page": "3年生 p.120"
+        }
+      ],
+      "page_first": "3年生 p.120"
+    },
+    {
+      "id": 1126,
+      "section": null,
+      "word": "hundred",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "100（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 1127,
+      "section": null,
+      "word": "hundreds of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "何百もの～、たくさんの～",
+          "page": "3年生 p.123"
+        }
+      ],
+      "page_first": "3年生 p.123"
+    },
+    {
+      "id": 1128,
+      "section": null,
+      "word": "hunger",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "飢え、空腹",
+          "page": "3年生 p.122"
+        }
+      ],
+      "page_first": "3年生 p.122"
+    },
+    {
+      "id": 1129,
+      "section": null,
+      "word": "hungry",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "おなかがすいて",
+          "page": "1年生 p.82"
+        }
+      ],
+      "page_first": "1年生 p.82"
+    },
+    {
+      "id": 1130,
+      "section": null,
+      "word": "hunter",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "狩りをする人、猟師",
+          "page": "3年生 p.50"
+        }
+      ],
+      "page_first": "3年生 p.50"
+    },
+    {
+      "id": 1131,
+      "section": null,
+      "word": "hurry",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "急ぐこと",
+          "page": "3年生 p.19"
+        },
+        {
+          "pos": "動",
+          "ja": "急ぐ、急いで行く",
+          "page": "3年生 p.116"
+        }
+      ],
+      "page_first": "3年生 p.19"
+    },
+    {
+      "id": 1133,
+      "section": null,
+      "word": "hurt",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "傷つける",
+          "page": "3年生 p.84"
+        }
+      ],
+      "page_first": "3年生 p.84"
+    },
+    {
+      "id": 1134,
+      "section": null,
+      "word": "husband",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "夫",
+          "page": "3年生 p.132"
+        }
+      ],
+      "page_first": "3年生 p.132"
+    },
+    {
+      "id": 1135,
+      "section": "I / i",
+      "word": "I",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "私は［が］",
+          "page": "1年生 p.10"
+        }
+      ],
+      "page_first": "1年生 p.10"
+    },
+    {
+      "id": 925,
+      "section": null,
+      "word": "I got it!",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "わかった。",
+          "page": "1年生 p.58"
+        }
+      ],
+      "page_first": "1年生 p.58"
+    },
+    {
+      "id": 1977,
+      "section": null,
+      "word": "I see.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "なるほど。わかりました。",
+          "page": "1年生 p.10"
+        }
+      ],
+      "page_first": "1年生 p.10"
+    },
+    {
+      "id": 1136,
+      "section": null,
+      "word": "ice",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "氷",
+          "page": "3年生 p.81"
+        }
+      ],
+      "page_first": "3年生 p.81"
+    },
+    {
+      "id": 1137,
+      "section": null,
+      "word": "ice cream",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "アイスクリーム",
+          "page": "1年生 p.16"
+        }
+      ],
+      "page_first": "1年生 p.16"
+    },
+    {
+      "id": 1138,
+      "section": null,
+      "word": "ice hockey",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "アイスホッケー",
+          "page": "1年生 p.63"
+        }
+      ],
+      "page_first": "1年生 p.63"
+    },
+    {
+      "id": 1139,
+      "section": null,
+      "word": "icy",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "氷の（張った）",
+          "page": "2年生 p.80"
+        }
+      ],
+      "page_first": "2年生 p.80"
+    },
+    {
+      "id": 1141,
+      "section": null,
+      "word": "idea",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "考え、アイディア",
+          "page": "1年生 p.123"
+        }
+      ],
+      "page_first": "1年生 p.123"
+    }
+  ]
+}

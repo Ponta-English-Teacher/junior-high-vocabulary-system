@@ -1,0 +1,729 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 40,
+    "range": {
+      "from": "next to ～",
+      "to": "NSW"
+    }
+  },
+  "entries": [
+    {
+      "id": 1547,
+      "section": null,
+      "word": "next to ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～の隣に",
+          "page": "1年生 p.88"
+        }
+      ],
+      "page_first": "1年生 p.88"
+    },
+    {
+      "id": 1548,
+      "section": null,
+      "word": "Niagara Falls",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ナイアガラの滝",
+          "page": "2年生 p.29"
+        }
+      ],
+      "page_first": "2年生 p.29"
+    },
+    {
+      "id": 1549,
+      "section": null,
+      "word": "nice",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "よい、すてきな",
+          "page": "1年生 p.24"
+        },
+        {
+          "pos": "形",
+          "ja": "親切な",
+          "page": "1年生 p.23"
+        },
+        {
+          "pos": "形",
+          "ja": "おいしい",
+          "page": "1年生 p.39"
+        }
+      ],
+      "page_first": "1年生 p.24"
+    },
+    {
+      "id": 1434,
+      "section": null,
+      "word": "Nice to meet you.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（初対面の人に）お会いできてうれしいです。",
+          "page": "1年生 p.24"
+        }
+      ],
+      "page_first": "1年生 p.24"
+    },
+    {
+      "id": 1550,
+      "section": null,
+      "word": "niece",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "めい",
+          "page": "3年生 p.132"
+        }
+      ],
+      "page_first": "3年生 p.132"
+    },
+    {
+      "id": 1551,
+      "section": null,
+      "word": "night",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "夜",
+          "page": "1年生 p.110"
+        }
+      ],
+      "page_first": "1年生 p.110"
+    },
+    {
+      "id": 1553,
+      "section": null,
+      "word": "nighttime",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "夜間",
+          "page": "2年生 p.105"
+        }
+      ],
+      "page_first": "2年生 p.105"
+    },
+    {
+      "id": 1554,
+      "section": null,
+      "word": "nine",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "9（の）",
+          "page": "1年生 p.90"
+        }
+      ],
+      "page_first": "1年生 p.90"
+    },
+    {
+      "id": 1555,
+      "section": null,
+      "word": "nineteen",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "19（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 1556,
+      "section": null,
+      "word": "nineteenth",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "19日、19番目（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 1557,
+      "section": null,
+      "word": "ninety",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "90（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 1558,
+      "section": null,
+      "word": "ninth",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "9日、9番目（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 1559,
+      "section": null,
+      "word": "no",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "（問いに対して）いいえ",
+          "page": "1年生 p.22"
+        },
+        {
+          "pos": "形",
+          "ja": "少し［1つ、1人］も〜ない",
+          "page": "1年生 p.25"
+        },
+        {
+          "pos": "副",
+          "ja": "（おどろきを表して）まさか",
+          "page": "1年生 p.103"
+        }
+      ],
+      "page_first": "1年生 p.22"
+    },
+    {
+      "id": 1560,
+      "section": null,
+      "word": "no longer ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "もはや～でない",
+          "page": "3年生 p.101"
+        }
+      ],
+      "page_first": "3年生 p.101"
+    },
+    {
+      "id": 1781,
+      "section": null,
+      "word": "No problem.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "どういたしまして。",
+          "page": "1年生 p.25"
+        }
+      ],
+      "page_first": "1年生 p.25"
+    },
+    {
+      "id": 2522,
+      "section": null,
+      "word": "No way!",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "まさか。そんなばかな。",
+          "page": "1年生 p.76"
+        }
+      ],
+      "page_first": "1年生 p.76"
+    },
+    {
+      "id": 1564,
+      "section": null,
+      "word": "no-fly zone",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "飛行禁止空域",
+          "page": "2年生 p.92"
+        }
+      ],
+      "page_first": "2年生 p.92"
+    },
+    {
+      "id": 1561,
+      "section": null,
+      "word": "Nobel Peace Prize",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（theをつけて）ノーベル平和賞",
+          "page": "3年生 p.109"
+        }
+      ],
+      "page_first": "3年生 p.109"
+    },
+    {
+      "id": 1562,
+      "section": null,
+      "word": "Nobel Prize",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（theをつけて）ノーベル賞",
+          "page": "3年生 p.118"
+        }
+      ],
+      "page_first": "3年生 p.118"
+    },
+    {
+      "id": 1563,
+      "section": null,
+      "word": "noble",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "気高い",
+          "page": "3年生 p.49"
+        }
+      ],
+      "page_first": "3年生 p.49"
+    },
+    {
+      "id": 1565,
+      "section": null,
+      "word": "noise",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "騒音、物音",
+          "page": "2年生 p.59"
+        }
+      ],
+      "page_first": "2年生 p.59"
+    },
+    {
+      "id": 1566,
+      "section": null,
+      "word": "noisy",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "うるさい",
+          "page": "2年生 p.131"
+        }
+      ],
+      "page_first": "2年生 p.131"
+    },
+    {
+      "id": 1567,
+      "section": null,
+      "word": "non-slip",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "すべり止めのある",
+          "page": "2年生 p.80"
+        }
+      ],
+      "page_first": "2年生 p.80"
+    },
+    {
+      "id": 1568,
+      "section": null,
+      "word": "noodle",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（ふつう複数形で）めん類",
+          "page": "2年生 p.42"
+        }
+      ],
+      "page_first": "2年生 p.42"
+    },
+    {
+      "id": 1569,
+      "section": null,
+      "word": "noon",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "正午",
+          "page": "3年生 p.11"
+        }
+      ],
+      "page_first": "3年生 p.11"
+    },
+    {
+      "id": 1570,
+      "section": null,
+      "word": "normal",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "ふつうの",
+          "page": "3年生 p.13"
+        }
+      ],
+      "page_first": "3年生 p.13"
+    },
+    {
+      "id": 1571,
+      "section": null,
+      "word": "north",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "北、北方",
+          "page": "3年生 p.132"
+        }
+      ],
+      "page_first": "3年生 p.132"
+    },
+    {
+      "id": 1572,
+      "section": null,
+      "word": "northern",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "北（部）の",
+          "page": "3年生 p.108"
+        }
+      ],
+      "page_first": "3年生 p.108"
+    },
+    {
+      "id": 1573,
+      "section": null,
+      "word": "not",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "〜でない",
+          "page": "1年生 p.22"
+        }
+      ],
+      "page_first": "1年生 p.22"
+    },
+    {
+      "id": 78,
+      "section": null,
+      "word": "not always ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "いつも［必ずしも］～とは限らない",
+          "page": "2年生 p.103"
+        }
+      ],
+      "page_first": "2年生 p.103"
+    },
+    {
+      "id": 1575,
+      "section": null,
+      "word": "not only ～ but also ...",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～だけでなく…も（また）",
+          "page": "3年生 p.33"
+        }
+      ],
+      "page_first": "3年生 p.33"
+    },
+    {
+      "id": 1574,
+      "section": null,
+      "word": "not ～ but ...",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～ではなく…",
+          "page": "3年生 p.101"
+        }
+      ],
+      "page_first": "3年生 p.101"
+    },
+    {
+      "id": 1576,
+      "section": null,
+      "word": "notebook",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ノート、帳面",
+          "page": "1年生 p.32"
+        }
+      ],
+      "page_first": "1年生 p.32"
+    },
+    {
+      "id": 1577,
+      "section": null,
+      "word": "nothing",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "何も～ない",
+          "page": "2年生 p.11"
+        }
+      ],
+      "page_first": "2年生 p.11"
+    },
+    {
+      "id": 1578,
+      "section": null,
+      "word": "notice",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "気づく",
+          "page": "3年生 p.123"
+        }
+      ],
+      "page_first": "3年生 p.123"
+    },
+    {
+      "id": 1579,
+      "section": null,
+      "word": "novelist",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "小説家",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 1580,
+      "section": null,
+      "word": "November",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "11月",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 1581,
+      "section": null,
+      "word": "now",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "今（は）、現在（では）",
+          "page": "1年生 p.91"
+        },
+        {
+          "pos": "副",
+          "ja": "今すぐ、ただちに",
+          "page": "1年生 p.104"
+        },
+        {
+          "pos": "副",
+          "ja": "さあ、さて",
+          "page": "1年生 p.129"
+        }
+      ],
+      "page_first": "1年生 p.91"
+    },
+    {
+      "id": 1583,
+      "section": null,
+      "word": "NPO",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "非営利組織［団体］（＝nonprofit organization）",
+          "page": "3年生 p.84"
+        }
+      ],
+      "page_first": "3年生 p.84"
+    },
+    {
+      "id": 1584,
+      "section": null,
+      "word": "NSW",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ニューサウスウェールズ州（＝New South Wales）（オーストラリアの州）",
+          "page": "1年生 p.140"
+        }
+      ],
+      "page_first": "1年生 p.140"
+    }
+  ]
+}

@@ -1,0 +1,709 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 62,
+    "range": {
+      "from": "U.N.",
+      "to": "very much"
+    }
+  },
+  "entries": [
+    {
+      "id": 2438,
+      "section": null,
+      "word": "U.N.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（theをつけて）国際連合（＝the United Nations）",
+          "page": "3年生 p.107"
+        }
+      ],
+      "page_first": "3年生 p.107"
+    },
+    {
+      "id": 2457,
+      "section": null,
+      "word": "U.S.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（theをつけて）アメリカ合衆国 = U.S.A.（the United States of America）",
+          "page": "1年生 p.23"
+        }
+      ],
+      "page_first": "1年生 p.23"
+    },
+    {
+      "id": 2435,
+      "section": "U / u",
+      "word": "uh-oh",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "間",
+          "ja": "（よくないことが起こったときに）おっと、あらら",
+          "page": "2年生 p.52"
+        }
+      ],
+      "page_first": "2年生 p.52"
+    },
+    {
+      "id": 2437,
+      "section": null,
+      "word": "umbrella",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "かさ、雨がさ",
+          "page": "1年生 p.16"
+        }
+      ],
+      "page_first": "1年生 p.16"
+    },
+    {
+      "id": 2439,
+      "section": null,
+      "word": "uncle",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "おじ",
+          "page": "1年生 p.39"
+        }
+      ],
+      "page_first": "1年生 p.39"
+    },
+    {
+      "id": 2440,
+      "section": null,
+      "word": "under",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "前",
+          "ja": "〜の下に",
+          "page": "1年生 p.134"
+        }
+      ],
+      "page_first": "1年生 p.134"
+    },
+    {
+      "id": 2517,
+      "section": null,
+      "word": "under water",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "水中で［に］",
+          "page": "2年生 p.18"
+        }
+      ],
+      "page_first": "2年生 p.18"
+    },
+    {
+      "id": 2441,
+      "section": null,
+      "word": "understand",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "わかる、理解する",
+          "page": "2年生 p.93"
+        }
+      ],
+      "page_first": "2年生 p.93"
+    },
+    {
+      "id": 2442,
+      "section": null,
+      "word": "understood",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "understand（理解する）の過去形《過去分詞も同形》",
+          "page": "3年生 p.122"
+        }
+      ],
+      "page_first": "3年生 p.122"
+    },
+    {
+      "id": 2443,
+      "section": null,
+      "word": "uneasy",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "不安な",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 2444,
+      "section": null,
+      "word": "unfairly",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "不当に、不公平に",
+          "page": "3年生 p.71"
+        }
+      ],
+      "page_first": "3年生 p.71"
+    },
+    {
+      "id": 2445,
+      "section": null,
+      "word": "unfortunately",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "不幸にも、運悪く",
+          "page": "3年生 p.115"
+        }
+      ],
+      "page_first": "3年生 p.115"
+    },
+    {
+      "id": 2446,
+      "section": null,
+      "word": "unhappy",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "不幸な",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 2447,
+      "section": null,
+      "word": "unicycle",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "一輪車",
+          "page": "2年生 p.67"
+        }
+      ],
+      "page_first": "2年生 p.67"
+    },
+    {
+      "id": 2448,
+      "section": null,
+      "word": "uniform",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ユニフォーム、制服",
+          "page": "1年生 p.16"
+        }
+      ],
+      "page_first": "1年生 p.16"
+    },
+    {
+      "id": 2449,
+      "section": null,
+      "word": "unique",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "独特な、たいへんめずらしい",
+          "page": "1年生 p.85"
+        }
+      ],
+      "page_first": "1年生 p.85"
+    },
+    {
+      "id": 2450,
+      "section": null,
+      "word": "United Nations",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（theをつけて）国際連合",
+          "page": "3年生 p.107"
+        }
+      ],
+      "page_first": "3年生 p.107"
+    },
+    {
+      "id": 2451,
+      "section": null,
+      "word": "university",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（総合）大学",
+          "page": "2年生 p.24"
+        }
+      ],
+      "page_first": "2年生 p.24"
+    },
+    {
+      "id": 2452,
+      "section": null,
+      "word": "unkind",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "不親切な",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    },
+    {
+      "id": 2453,
+      "section": null,
+      "word": "until",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "前",
+          "ja": "〜まで",
+          "page": "1年生 p.115"
+        }
+      ],
+      "page_first": "1年生 p.115"
+    },
+    {
+      "id": 2454,
+      "section": null,
+      "word": "unusual",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "ふつうでない、めずらしい",
+          "page": "3年生 p.118"
+        }
+      ],
+      "page_first": "3年生 p.118"
+    },
+    {
+      "id": 2455,
+      "section": null,
+      "word": "up",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "上へ［に］",
+          "page": "1年生 p.13"
+        },
+        {
+          "pos": "前",
+          "ja": "上へ［に］、上がって",
+          "page": "1年生 p.91"
+        },
+        {
+          "pos": "副",
+          "ja": "（事が）起こって",
+          "page": "2年生 p.11"
+        }
+      ],
+      "page_first": "1年生 p.13"
+    },
+    {
+      "id": 2456,
+      "section": null,
+      "word": "upset",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "動揺して",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 2458,
+      "section": null,
+      "word": "us",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "私たちを［に］",
+          "page": "1年生 p.79"
+        }
+      ],
+      "page_first": "1年生 p.79"
+    },
+    {
+      "id": 2459,
+      "section": null,
+      "word": "use",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "使う",
+          "page": "1年生 p.31"
+        }
+      ],
+      "page_first": "1年生 p.31"
+    },
+    {
+      "id": 2460,
+      "section": null,
+      "word": "use",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "使用、利用",
+          "page": "2年生 p.71"
+        }
+      ],
+      "page_first": "2年生 p.71"
+    },
+    {
+      "id": 2462,
+      "section": null,
+      "word": "useful",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "役に立つ",
+          "page": "2年生 p.77"
+        }
+      ],
+      "page_first": "2年生 p.77"
+    },
+    {
+      "id": 2463,
+      "section": null,
+      "word": "user",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "使用者、利用者、ユーザー",
+          "page": "3年生 p.60"
+        }
+      ],
+      "page_first": "3年生 p.60"
+    },
+    {
+      "id": 2464,
+      "section": null,
+      "word": "usually",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "ふつう、たいてい",
+          "page": "1年生 p.83"
+        }
+      ],
+      "page_first": "1年生 p.83"
+    },
+    {
+      "id": 2465,
+      "section": "V / v",
+      "word": "vacation",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "休暇",
+          "page": "1年生 p.119"
+        }
+      ],
+      "page_first": "1年生 p.119"
+    },
+    {
+      "id": 2466,
+      "section": null,
+      "word": "vacuum cleaner",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "電気掃除機",
+          "page": "3年生 p.96"
+        }
+      ],
+      "page_first": "3年生 p.96"
+    },
+    {
+      "id": 2467,
+      "section": null,
+      "word": "valuable",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "価値の高い、高価な",
+          "page": "3年生 p.52"
+        }
+      ],
+      "page_first": "3年生 p.52"
+    },
+    {
+      "id": 2468,
+      "section": null,
+      "word": "value",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "価値",
+          "page": "3年生 p.120"
+        }
+      ],
+      "page_first": "3年生 p.120"
+    },
+    {
+      "id": 2469,
+      "section": null,
+      "word": "Vancouver",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "バンクーバー（カナダの都市）",
+          "page": "2年生 p.29"
+        }
+      ],
+      "page_first": "2年生 p.29"
+    },
+    {
+      "id": 2470,
+      "section": null,
+      "word": "variety",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "種類、多様性",
+          "page": "3年生 p.13"
+        }
+      ],
+      "page_first": "3年生 p.13"
+    },
+    {
+      "id": 2471,
+      "section": null,
+      "word": "various",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "さまざまな",
+          "page": "3年生 p.100"
+        }
+      ],
+      "page_first": "3年生 p.100"
+    },
+    {
+      "id": 2472,
+      "section": null,
+      "word": "vegetable",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "野菜",
+          "page": "1年生 p.58"
+        }
+      ],
+      "page_first": "1年生 p.58"
+    },
+    {
+      "id": 2473,
+      "section": null,
+      "word": "vegetable shop",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "青果店",
+          "page": "2年生 p.132"
+        }
+      ],
+      "page_first": "2年生 p.132"
+    },
+    {
+      "id": 2474,
+      "section": null,
+      "word": "very",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "たいへん、とても",
+          "page": "1年生 p.14"
+        }
+      ],
+      "page_first": "1年生 p.14"
+    },
+    {
+      "id": 1505,
+      "section": null,
+      "word": "very much",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "とても",
+          "page": "1年生 p.31"
+        }
+      ],
+      "page_first": "1年生 p.31"
+    }
+  ]
+}

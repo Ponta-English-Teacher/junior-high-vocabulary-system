@@ -1,0 +1,744 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 33,
+    "range": {
+      "from": "Kate",
+      "to": "lasting"
+    }
+  },
+  "entries": [
+    {
+      "id": 1250,
+      "section": null,
+      "word": "Kate",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ケイト（女子の名）",
+          "page": "1年生 p.8"
+        }
+      ],
+      "page_first": "1年生 p.8"
+    },
+    {
+      "id": 1251,
+      "section": null,
+      "word": "keep",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "（ある状態）のままでいる",
+          "page": "2年生 p.12"
+        },
+        {
+          "pos": "動",
+          "ja": "守る、持ち続ける",
+          "page": "2年生 p.48"
+        },
+        {
+          "pos": "動",
+          "ja": "取っておく、保管する",
+          "page": "2年生 p.113"
+        }
+      ],
+      "page_first": "2年生 p.12"
+    },
+    {
+      "id": 592,
+      "section": null,
+      "word": "keep a diary",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "日記をつけている",
+          "page": "3年生 p.19"
+        }
+      ],
+      "page_first": "3年生 p.19"
+    },
+    {
+      "id": 1252,
+      "section": null,
+      "word": "keep a diary",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": null,
+          "page": "3年生 p.19"
+        }
+      ],
+      "page_first": "3年生 p.19"
+    },
+    {
+      "id": 2380,
+      "section": null,
+      "word": "keep in touch",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "連絡をとり続ける",
+          "page": "2年生 p.12"
+        }
+      ],
+      "page_first": "2年生 p.12"
+    },
+    {
+      "id": 1253,
+      "section": null,
+      "word": "Kent",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ケント（男子の名）",
+          "page": "1年生 p.23"
+        }
+      ],
+      "page_first": "1年生 p.23"
+    },
+    {
+      "id": 1254,
+      "section": null,
+      "word": "Kenya",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ケニア",
+          "page": "1年生 p.75"
+        }
+      ],
+      "page_first": "1年生 p.75"
+    },
+    {
+      "id": 1255,
+      "section": null,
+      "word": "kept",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "keep（持ち続ける）の過去分詞《過去形も同形》",
+          "page": "3年生 p.22"
+        }
+      ],
+      "page_first": "3年生 p.22"
+    },
+    {
+      "id": 1256,
+      "section": null,
+      "word": "Kevin",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ケビン（男子の名）",
+          "page": "1年生 p.100"
+        }
+      ],
+      "page_first": "1年生 p.100"
+    },
+    {
+      "id": 1257,
+      "section": null,
+      "word": "key",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "カギ",
+          "page": "1年生 p.42"
+        }
+      ],
+      "page_first": "1年生 p.42"
+    },
+    {
+      "id": 1258,
+      "section": null,
+      "word": "keyboard",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "キーボード",
+          "page": "2年生 p.131"
+        }
+      ],
+      "page_first": "2年生 p.131"
+    },
+    {
+      "id": 1259,
+      "section": null,
+      "word": "kid",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "からかう、冗談を言う",
+          "page": "1年生 p.65"
+        },
+        {
+          "pos": "名",
+          "ja": "子ども",
+          "page": "2年生 p.18"
+        }
+      ],
+      "page_first": "1年生 p.65"
+    },
+    {
+      "id": 1262,
+      "section": null,
+      "word": "kill",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "殺す",
+          "page": "3年生 p.83"
+        }
+      ],
+      "page_first": "3年生 p.83"
+    },
+    {
+      "id": 1263,
+      "section": null,
+      "word": "kilogram",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "キログラム",
+          "page": "3年生 p.84"
+        }
+      ],
+      "page_first": "3年生 p.84"
+    },
+    {
+      "id": 1264,
+      "section": null,
+      "word": "kilometer",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "キロメートル",
+          "page": "1年生 p.39"
+        }
+      ],
+      "page_first": "1年生 p.39"
+    },
+    {
+      "id": 1265,
+      "section": null,
+      "word": "kind",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "親切な",
+          "page": "1年生 p.23"
+        },
+        {
+          "pos": "名",
+          "ja": "種類",
+          "page": "1年生 p.122"
+        }
+      ],
+      "page_first": "1年生 p.23"
+    },
+    {
+      "id": 1267,
+      "section": null,
+      "word": "kindergarten teacher",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "幼稚園の先生",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 1268,
+      "section": null,
+      "word": "kindly",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "親切に",
+          "page": "2年生 p.69"
+        }
+      ],
+      "page_first": "2年生 p.69"
+    },
+    {
+      "id": 1269,
+      "section": null,
+      "word": "kindness",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "親切、やさしさ",
+          "page": "3年生 p.112"
+        }
+      ],
+      "page_first": "3年生 p.112"
+    },
+    {
+      "id": 1270,
+      "section": null,
+      "word": "king",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "王",
+          "page": "2年生 p.46"
+        }
+      ],
+      "page_first": "2年生 p.46"
+    },
+    {
+      "id": 1271,
+      "section": null,
+      "word": "kitchen",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "台所、キッチン",
+          "page": "2年生 p.109"
+        }
+      ],
+      "page_first": "2年生 p.109"
+    },
+    {
+      "id": 1272,
+      "section": null,
+      "word": "kiwi fruit",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "キウイ",
+          "page": "1年生 p.142"
+        }
+      ],
+      "page_first": "1年生 p.142"
+    },
+    {
+      "id": 1273,
+      "section": null,
+      "word": "knew",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "know（知る）の過去形",
+          "page": "2年生 p.47"
+        }
+      ],
+      "page_first": "2年生 p.47"
+    },
+    {
+      "id": 1274,
+      "section": null,
+      "word": "knife",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ナイフ",
+          "page": "3年生 p.54"
+        }
+      ],
+      "page_first": "3年生 p.54"
+    },
+    {
+      "id": 1275,
+      "section": null,
+      "word": "know",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "知る、知っている、わかる",
+          "page": "1年生 p.39"
+        }
+      ],
+      "page_first": "1年生 p.39"
+    },
+    {
+      "id": 1277,
+      "section": null,
+      "word": "known",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "know（知る）の過去分詞",
+          "page": "2年生 p.108"
+        }
+      ],
+      "page_first": "2年生 p.108"
+    },
+    {
+      "id": 1278,
+      "section": null,
+      "word": "koala",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "コアラ",
+          "page": "1年生 p.85"
+        }
+      ],
+      "page_first": "1年生 p.85"
+    },
+    {
+      "id": 1279,
+      "section": null,
+      "word": "Korean",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "韓国・朝鮮語",
+          "page": "1年生 p.63"
+        }
+      ],
+      "page_first": "1年生 p.63"
+    },
+    {
+      "id": 1280,
+      "section": null,
+      "word": "KRD Hall",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "KRDホール（架空のコンサートホール）",
+          "page": "3年生 p.57"
+        }
+      ],
+      "page_first": "3年生 p.57"
+    },
+    {
+      "id": 1281,
+      "section": null,
+      "word": "kronor",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "krona（クローナ：スウェーデンの通貨単位）の複数形",
+          "page": "3年生 p.120"
+        }
+      ],
+      "page_first": "3年生 p.120"
+    },
+    {
+      "id": 1282,
+      "section": "L / l",
+      "word": "lack",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "不足、欠乏",
+          "page": "3年生 p.21"
+        }
+      ],
+      "page_first": "3年生 p.21"
+    },
+    {
+      "id": 1283,
+      "section": null,
+      "word": "lady",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "女の人、貴婦人",
+          "page": "1年生 p.56"
+        }
+      ],
+      "page_first": "1年生 p.56"
+    },
+    {
+      "id": 1284,
+      "section": null,
+      "word": "lake",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "湖",
+          "page": "1年生 p.113"
+        }
+      ],
+      "page_first": "1年生 p.113"
+    },
+    {
+      "id": 1285,
+      "section": null,
+      "word": "land",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "着陸する、上陸する",
+          "page": "1年生 p.86"
+        },
+        {
+          "pos": "名",
+          "ja": "陸、陸地",
+          "page": "3年生 p.67"
+        }
+      ],
+      "page_first": "1年生 p.86"
+    },
+    {
+      "id": 1286,
+      "section": null,
+      "word": "language",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "言語、ことば",
+          "page": "1年生 p.94"
+        }
+      ],
+      "page_first": "1年生 p.94"
+    },
+    {
+      "id": 1287,
+      "section": null,
+      "word": "lap",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ひざ（座ったときの腰からひざ頭までの部分）",
+          "page": "3年生 p.35"
+        }
+      ],
+      "page_first": "3年生 p.35"
+    },
+    {
+      "id": 1289,
+      "section": null,
+      "word": "large",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "大きい、広い",
+          "page": "1年生 p.50"
+        }
+      ],
+      "page_first": "1年生 p.50"
+    },
+    {
+      "id": 1290,
+      "section": null,
+      "word": "last",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "（この）前の",
+          "page": "1年生 p.110"
+        },
+        {
+          "pos": "副",
+          "ja": "最後に",
+          "page": "2年生 p.73"
+        },
+        {
+          "pos": "形",
+          "ja": "最後の",
+          "page": "2年生 p.93"
+        },
+        {
+          "pos": "名",
+          "ja": "最後",
+          "page": "2年生 p.126"
+        },
+        {
+          "pos": "動",
+          "ja": "続く",
+          "page": "3年生 p.105"
+        }
+      ],
+      "page_first": "1年生 p.110"
+    },
+    {
+      "id": 1552,
+      "section": null,
+      "word": "last night",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "昨夜",
+          "page": "1年生 p.110"
+        }
+      ],
+      "page_first": "1年生 p.110"
+    },
+    {
+      "id": 1292,
+      "section": null,
+      "word": "lasting",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "長く続く、永続的な",
+          "page": "2年生 p.107"
+        }
+      ],
+      "page_first": "2年生 p.107"
+    }
+  ]
+}

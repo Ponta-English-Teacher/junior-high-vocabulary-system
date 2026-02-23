@@ -1,0 +1,709 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 43,
+    "range": {
+      "from": "parachute",
+      "to": "pet groomer"
+    }
+  },
+  "entries": [
+    {
+      "id": 1656,
+      "section": null,
+      "word": "parachute",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "パラシュート",
+          "page": "2年生 p.127"
+        }
+      ],
+      "page_first": "2年生 p.127"
+    },
+    {
+      "id": 1657,
+      "section": null,
+      "word": "pardon",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "許す",
+          "page": "1年生 p.23"
+        }
+      ],
+      "page_first": "1年生 p.23"
+    },
+    {
+      "id": 1658,
+      "section": null,
+      "word": "Pardon me?",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "すみません。何とおっしゃいましたか。",
+          "page": "1年生 p.23"
+        }
+      ],
+      "page_first": "1年生 p.23"
+    },
+    {
+      "id": 1659,
+      "section": null,
+      "word": "parent",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "親",
+          "page": "1年生 p.76"
+        }
+      ],
+      "page_first": "1年生 p.76"
+    },
+    {
+      "id": 1660,
+      "section": null,
+      "word": "parfait",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "パフェ",
+          "page": "2年生 p.76"
+        }
+      ],
+      "page_first": "2年生 p.76"
+    },
+    {
+      "id": 1661,
+      "section": null,
+      "word": "park",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "公園",
+          "page": "1年生 p.73"
+        }
+      ],
+      "page_first": "1年生 p.73"
+    },
+    {
+      "id": 1662,
+      "section": null,
+      "word": "parody",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "パロディ",
+          "page": "3年生 p.118"
+        }
+      ],
+      "page_first": "3年生 p.118"
+    },
+    {
+      "id": 1663,
+      "section": null,
+      "word": "part",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "部分、地域",
+          "page": "3年生 p.60"
+        }
+      ],
+      "page_first": "3年生 p.60"
+    },
+    {
+      "id": 1665,
+      "section": null,
+      "word": "particular",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（in particularで）特に",
+          "page": "2年生 p.70"
+        }
+      ],
+      "page_first": "2年生 p.70"
+    },
+    {
+      "id": 1667,
+      "section": null,
+      "word": "party",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "パーティー、会",
+          "page": "2年生 p.11"
+        },
+        {
+          "pos": "名",
+          "ja": "一行、集団",
+          "page": "2年生 p.61"
+        }
+      ],
+      "page_first": "2年生 p.11"
+    },
+    {
+      "id": 1668,
+      "section": null,
+      "word": "pass",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "（遠回しに）亡くなる、通り過ぎる",
+          "page": "2年生 p.112"
+        },
+        {
+          "pos": "動",
+          "ja": "（時が）過ぎる、経つ",
+          "page": "2年生 p.127"
+        }
+      ],
+      "page_first": "2年生 p.112"
+    },
+    {
+      "id": 1669,
+      "section": null,
+      "word": "pass away",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "亡くなる",
+          "page": "2年生 p.112"
+        }
+      ],
+      "page_first": "2年生 p.112"
+    },
+    {
+      "id": 1670,
+      "section": null,
+      "word": "passenger",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "乗客",
+          "page": "2年生 p.117"
+        }
+      ],
+      "page_first": "2年生 p.117"
+    },
+    {
+      "id": 1671,
+      "section": null,
+      "word": "passion",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "情熱、激しい感情",
+          "page": "3年生 p.51"
+        }
+      ],
+      "page_first": "3年生 p.51"
+    },
+    {
+      "id": 1672,
+      "section": null,
+      "word": "passionate",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "情熱的な",
+          "page": "2年生 p.23"
+        }
+      ],
+      "page_first": "2年生 p.23"
+    },
+    {
+      "id": 1673,
+      "section": null,
+      "word": "password",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "パスワード、合言葉",
+          "page": "3年生 p.104"
+        }
+      ],
+      "page_first": "3年生 p.104"
+    },
+    {
+      "id": 1674,
+      "section": null,
+      "word": "past",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "過去",
+          "page": "3年生 p.118"
+        }
+      ],
+      "page_first": "3年生 p.118"
+    },
+    {
+      "id": 1676,
+      "section": null,
+      "word": "pastry chef",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "パティシエ、菓子職人",
+          "page": "1年生 p.104"
+        }
+      ],
+      "page_first": "1年生 p.104"
+    },
+    {
+      "id": 1677,
+      "section": null,
+      "word": "patch",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "土地［海面］の一区画",
+          "page": "3年生 p.83"
+        }
+      ],
+      "page_first": "3年生 p.83"
+    },
+    {
+      "id": 1678,
+      "section": null,
+      "word": "patient",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "患者",
+          "page": "3年生 p.99"
+        }
+      ],
+      "page_first": "3年生 p.99"
+    },
+    {
+      "id": 1679,
+      "section": null,
+      "word": "paw",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（動物の）足",
+          "page": "2年生 p.80"
+        }
+      ],
+      "page_first": "2年生 p.80"
+    },
+    {
+      "id": 1681,
+      "section": null,
+      "word": "peace",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "平和",
+          "page": "2年生 p.24"
+        }
+      ],
+      "page_first": "2年生 p.24"
+    },
+    {
+      "id": 1682,
+      "section": null,
+      "word": "peach",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "モモ",
+          "page": "1年生 p.101"
+        }
+      ],
+      "page_first": "1年生 p.101"
+    },
+    {
+      "id": 1683,
+      "section": null,
+      "word": "pear",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "洋ナシ",
+          "page": "1年生 p.142"
+        }
+      ],
+      "page_first": "1年生 p.142"
+    },
+    {
+      "id": 1684,
+      "section": null,
+      "word": "pearl",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "真珠",
+          "page": "3年生 p.115"
+        }
+      ],
+      "page_first": "3年生 p.115"
+    },
+    {
+      "id": 1685,
+      "section": null,
+      "word": "pelican",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ペリカン",
+          "page": "3年生 p.75"
+        }
+      ],
+      "page_first": "3年生 p.75"
+    },
+    {
+      "id": 1686,
+      "section": null,
+      "word": "pen",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ペン",
+          "page": "1年生 p.18"
+        }
+      ],
+      "page_first": "1年生 p.18"
+    },
+    {
+      "id": 1687,
+      "section": null,
+      "word": "pencil",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "鉛筆",
+          "page": "1年生 p.34"
+        }
+      ],
+      "page_first": "1年生 p.34"
+    },
+    {
+      "id": 1688,
+      "section": null,
+      "word": "penguin",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ペンギン",
+          "page": "2年生 p.98"
+        }
+      ],
+      "page_first": "2年生 p.98"
+    },
+    {
+      "id": 1689,
+      "section": null,
+      "word": "people",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "人々",
+          "page": "1年生 p.42"
+        }
+      ],
+      "page_first": "1年生 p.42"
+    },
+    {
+      "id": 1690,
+      "section": null,
+      "word": "perfect",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "完ぺきな",
+          "page": "3年生 p.73"
+        }
+      ],
+      "page_first": "3年生 p.73"
+    },
+    {
+      "id": 1691,
+      "section": null,
+      "word": "perform",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "行う、演じる",
+          "page": "1年生 p.40"
+        }
+      ],
+      "page_first": "1年生 p.40"
+    },
+    {
+      "id": 1692,
+      "section": null,
+      "word": "performance",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "演技、パフォーマンス",
+          "page": "1年生 p.136"
+        }
+      ],
+      "page_first": "1年生 p.136"
+    },
+    {
+      "id": 1693,
+      "section": null,
+      "word": "perhaps",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "ひょっとしたら、たぶん",
+          "page": "3年生 p.116"
+        }
+      ],
+      "page_first": "3年生 p.116"
+    },
+    {
+      "id": 1694,
+      "section": null,
+      "word": "period",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "時代、時期",
+          "page": "3年生 p.123"
+        }
+      ],
+      "page_first": "3年生 p.123"
+    },
+    {
+      "id": 1695,
+      "section": null,
+      "word": "period for integrated studies",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "総合的な学習の時間（科目）",
+          "page": "1年生 p.142"
+        }
+      ],
+      "page_first": "1年生 p.142"
+    },
+    {
+      "id": 1696,
+      "section": null,
+      "word": "persimmon",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "カキ（くだもの）",
+          "page": "1年生 p.101"
+        }
+      ],
+      "page_first": "1年生 p.101"
+    },
+    {
+      "id": 1697,
+      "section": null,
+      "word": "person",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "人、個人",
+          "page": "2年生 p.23"
+        }
+      ],
+      "page_first": "2年生 p.23"
+    },
+    {
+      "id": 1698,
+      "section": null,
+      "word": "pet",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ペット",
+          "page": "2年生 p.80"
+        }
+      ],
+      "page_first": "2年生 p.80"
+    },
+    {
+      "id": 1699,
+      "section": null,
+      "word": "pet groomer",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "トリマー、ペット美容師",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    }
+  ]
+}

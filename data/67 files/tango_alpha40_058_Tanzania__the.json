@@ -1,0 +1,759 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 58,
+    "range": {
+      "from": "Tanzania",
+      "to": "the"
+    }
+  },
+  "entries": [
+    {
+      "id": 2265,
+      "section": null,
+      "word": "Tanzania",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "タンザニア（東アフリカにある国）",
+          "page": "2年生 p.23"
+        }
+      ],
+      "page_first": "2年生 p.23"
+    },
+    {
+      "id": 2266,
+      "section": null,
+      "word": "taste",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "味、経験",
+          "page": "2年生 p.31"
+        },
+        {
+          "pos": "動",
+          "ja": "〜の味がする",
+          "page": "2年生 p.61"
+        }
+      ],
+      "page_first": "2年生 p.31"
+    },
+    {
+      "id": 2267,
+      "section": null,
+      "word": "tasty",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "おいしい",
+          "page": "1年生 p.114"
+        }
+      ],
+      "page_first": "1年生 p.114"
+    },
+    {
+      "id": 2268,
+      "section": null,
+      "word": "taught",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "teach（教える）の過去形《過去分詞も同形》",
+          "page": "2年生 p.71"
+        }
+      ],
+      "page_first": "2年生 p.71"
+    },
+    {
+      "id": 2269,
+      "section": null,
+      "word": "taxi driver",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "タクシー運転手",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 2270,
+      "section": null,
+      "word": "tea",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "茶、紅茶",
+          "page": "1年生 p.36"
+        }
+      ],
+      "page_first": "1年生 p.36"
+    },
+    {
+      "id": 2271,
+      "section": null,
+      "word": "teach",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "教える",
+          "page": "2年生 p.24"
+        }
+      ],
+      "page_first": "2年生 p.24"
+    },
+    {
+      "id": 2272,
+      "section": null,
+      "word": "teacher",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "先生、教師",
+          "page": "1年生 p.23"
+        }
+      ],
+      "page_first": "1年生 p.23"
+    },
+    {
+      "id": 2273,
+      "section": null,
+      "word": "team",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "部、チーム",
+          "page": "1年生 p.14"
+        }
+      ],
+      "page_first": "1年生 p.14"
+    },
+    {
+      "id": 2274,
+      "section": null,
+      "word": "teammate",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "チームの仲間",
+          "page": "1年生 p.94"
+        }
+      ],
+      "page_first": "1年生 p.94"
+    },
+    {
+      "id": 2275,
+      "section": null,
+      "word": "teamwork",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "チームワーク、協力",
+          "page": "2年生 p.127"
+        }
+      ],
+      "page_first": "2年生 p.127"
+    },
+    {
+      "id": 2276,
+      "section": null,
+      "word": "tear",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（ふつう複数形で）涙",
+          "page": "3年生 p.124"
+        }
+      ],
+      "page_first": "3年生 p.124"
+    },
+    {
+      "id": 2277,
+      "section": null,
+      "word": "technical",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "専門的な、技術に関する",
+          "page": "3年生 p.122"
+        }
+      ],
+      "page_first": "3年生 p.122"
+    },
+    {
+      "id": 2278,
+      "section": null,
+      "word": "technique",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "技術",
+          "page": "3年生 p.123"
+        }
+      ],
+      "page_first": "3年生 p.123"
+    },
+    {
+      "id": 2279,
+      "section": null,
+      "word": "teeth",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "tooth（歯）の複数形",
+          "page": "2年生 p.105"
+        }
+      ],
+      "page_first": "2年生 p.105"
+    },
+    {
+      "id": 2280,
+      "section": null,
+      "word": "tell",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "伝える、言う",
+          "page": "1年生 p.75"
+        }
+      ],
+      "page_first": "1年生 p.75"
+    },
+    {
+      "id": 2281,
+      "section": null,
+      "word": "temperature",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "温度、気温",
+          "page": "2年生 p.29"
+        }
+      ],
+      "page_first": "2年生 p.29"
+    },
+    {
+      "id": 2282,
+      "section": null,
+      "word": "temple",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "寺",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    },
+    {
+      "id": 2283,
+      "section": null,
+      "word": "ten",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "10（の）",
+          "page": "1年生 p.90"
+        }
+      ],
+      "page_first": "1年生 p.90"
+    },
+    {
+      "id": 2284,
+      "section": null,
+      "word": "Tenali Rama",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "テナリ・ラマ（人名）",
+          "page": "2年生 p.47"
+        }
+      ],
+      "page_first": "2年生 p.47"
+    },
+    {
+      "id": 2285,
+      "section": null,
+      "word": "tender",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（肉などが）柔らかい",
+          "page": "2年生 p.129"
+        }
+      ],
+      "page_first": "2年生 p.129"
+    },
+    {
+      "id": 2286,
+      "section": null,
+      "word": "tennis",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "テニス",
+          "page": "1年生 p.19"
+        }
+      ],
+      "page_first": "1年生 p.19"
+    },
+    {
+      "id": 2287,
+      "section": null,
+      "word": "tent",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "テント",
+          "page": "3年生 p.54"
+        }
+      ],
+      "page_first": "3年生 p.54"
+    },
+    {
+      "id": 2288,
+      "section": null,
+      "word": "tenth",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "10日、10番目（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 2289,
+      "section": null,
+      "word": "term-end exam",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "期末試験（examはexaminationの短縮形）",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 2290,
+      "section": null,
+      "word": "terrible",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "恐ろしい、ひどい",
+          "page": "1年生 p.128"
+        }
+      ],
+      "page_first": "1年生 p.128"
+    },
+    {
+      "id": 2291,
+      "section": null,
+      "word": "Texas",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "テキサス（アメリカ合衆国南部の州）",
+          "page": "1年生 p.56"
+        }
+      ],
+      "page_first": "1年生 p.56"
+    },
+    {
+      "id": 2292,
+      "section": null,
+      "word": "text",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "（携帯電話で）メールを送る",
+          "page": "2年生 p.12"
+        }
+      ],
+      "page_first": "2年生 p.12"
+    },
+    {
+      "id": 2293,
+      "section": null,
+      "word": "textbook",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "教科書",
+          "page": "1年生 p.125"
+        }
+      ],
+      "page_first": "1年生 p.125"
+    },
+    {
+      "id": 2294,
+      "section": null,
+      "word": "Thailand",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "タイ",
+          "page": "3年生 p.130"
+        }
+      ],
+      "page_first": "3年生 p.130"
+    },
+    {
+      "id": 2295,
+      "section": null,
+      "word": "than",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "前",
+          "ja": "¨～よりも",
+          "page": "2年生 p.76"
+        }
+      ],
+      "page_first": "2年生 p.76"
+    },
+    {
+      "id": 2296,
+      "section": null,
+      "word": "thank",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（複数形で）ありがとう",
+          "page": "1年生 p.25"
+        },
+        {
+          "pos": "動",
+          "ja": "感謝する",
+          "page": "1年生 p.28"
+        }
+      ],
+      "page_first": "1年生 p.25"
+    },
+    {
+      "id": 2297,
+      "section": null,
+      "word": "Thank you.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "ありがとう。",
+          "page": "1年生 p.28"
+        }
+      ],
+      "page_first": "1年生 p.28"
+    },
+    {
+      "id": 2300,
+      "section": null,
+      "word": "thank-you",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "感謝［お礼］の",
+          "page": "2年生 p.71"
+        }
+      ],
+      "page_first": "2年生 p.71"
+    },
+    {
+      "id": 2298,
+      "section": null,
+      "word": "Thanks for ～.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～をありがとう。",
+          "page": "2年生 p.13"
+        }
+      ],
+      "page_first": "2年生 p.13"
+    },
+    {
+      "id": 2299,
+      "section": null,
+      "word": "thanks to ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～のおかげで",
+          "page": "3年生 p.51"
+        }
+      ],
+      "page_first": "3年生 p.51"
+    },
+    {
+      "id": 2301,
+      "section": null,
+      "word": "that",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "あれ、それ",
+          "page": "1年生 p.38"
+        },
+        {
+          "pos": "形",
+          "ja": "あの、その",
+          "page": "1年生 p.59"
+        },
+        {
+          "pos": "接",
+          "ja": "～ということ",
+          "page": "2年生 p.20"
+        },
+        {
+          "pos": "副",
+          "ja": "それほど、そんなに",
+          "page": "3年生 p.12"
+        },
+        {
+          "pos": "関代",
+          "ja": "～する［である］（人・もの・事がら）《主格》",
+          "page": "3年生 p.66"
+        },
+        {
+          "pos": "関代",
+          "ja": "～が…する（人・もの・事がら）《目的格》",
+          "page": "3年生 p.80"
+        }
+      ],
+      "page_first": "1年生 p.38"
+    },
+    {
+      "id": 2302,
+      "section": null,
+      "word": "that’s",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（that isの短縮形）",
+          "page": "1年生 p.38"
+        }
+      ],
+      "page_first": "1年生 p.38"
+    },
+    {
+      "id": 1889,
+      "section": null,
+      "word": "That’s right.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "そのとおりです。",
+          "page": "1年生 p.58"
+        }
+      ],
+      "page_first": "1年生 p.58"
+    },
+    {
+      "id": 2303,
+      "section": null,
+      "word": "the",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "冠",
+          "ja": "その（話している人の間で何を示すかわかっているときに使う）",
+          "page": "1年生 p.14"
+        },
+        {
+          "pos": "冠",
+          "ja": "（楽器名につける）",
+          "page": "1年生 p.31"
+        },
+        {
+          "pos": "冠",
+          "ja": "（ただ1つのものにつける）",
+          "page": "1年生 p.41"
+        },
+        {
+          "pos": "冠",
+          "ja": "（固有名詞につける）",
+          "page": "1年生 p.65"
+        },
+        {
+          "pos": "冠",
+          "ja": "（最上級・序数・only・same・lastなどにつける）",
+          "page": "1年生 p.91"
+        },
+        {
+          "pos": "冠",
+          "ja": "（期間・時期を表す語につける）",
+          "page": "1年生 p.111"
+        }
+      ],
+      "page_first": "1年生 p.14"
+    }
+  ]
+}

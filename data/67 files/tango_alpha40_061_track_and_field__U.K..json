@@ -1,0 +1,734 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 61,
+    "range": {
+      "from": "track and field",
+      "to": "U.K."
+    }
+  },
+  "entries": [
+    {
+      "id": 2390,
+      "section": null,
+      "word": "track and field",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "陸上競技",
+          "page": "1年生 p.53"
+        }
+      ],
+      "page_first": "1年生 p.53"
+    },
+    {
+      "id": 2391,
+      "section": null,
+      "word": "traditional",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "伝統的な",
+          "page": "1年生 p.56"
+        }
+      ],
+      "page_first": "1年生 p.56"
+    },
+    {
+      "id": 2392,
+      "section": null,
+      "word": "train",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "列車",
+          "page": "3年生 p.12"
+        }
+      ],
+      "page_first": "3年生 p.12"
+    },
+    {
+      "id": 2394,
+      "section": null,
+      "word": "trampoline",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "トランポリン",
+          "page": "1年生 p.127"
+        }
+      ],
+      "page_first": "1年生 p.127"
+    },
+    {
+      "id": 2395,
+      "section": null,
+      "word": "translator",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "翻訳家",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 2396,
+      "section": null,
+      "word": "trash",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ごみ、くず",
+          "page": "3年生 p.83"
+        }
+      ],
+      "page_first": "3年生 p.83"
+    },
+    {
+      "id": 2397,
+      "section": null,
+      "word": "trash can",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "くず入れ",
+          "page": "3年生 p.103"
+        }
+      ],
+      "page_first": "3年生 p.103"
+    },
+    {
+      "id": 2398,
+      "section": null,
+      "word": "travel",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "旅行する",
+          "page": "3年生 p.12"
+        },
+        {
+          "pos": "名",
+          "ja": "旅行",
+          "page": "3年生 p.57"
+        }
+      ],
+      "page_first": "3年生 p.12"
+    },
+    {
+      "id": 2399,
+      "section": null,
+      "word": "treat",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "扱う",
+          "page": "2年生 p.69"
+        },
+        {
+          "pos": "動",
+          "ja": "治療する、手当てする",
+          "page": "3年生 p.111"
+        }
+      ],
+      "page_first": "2年生 p.69"
+    },
+    {
+      "id": 2400,
+      "section": null,
+      "word": "treatment",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "治療",
+          "page": "3年生 p.49"
+        }
+      ],
+      "page_first": "3年生 p.49"
+    },
+    {
+      "id": 2401,
+      "section": null,
+      "word": "tree",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "木",
+          "page": "1年生 p.42"
+        }
+      ],
+      "page_first": "1年生 p.42"
+    },
+    {
+      "id": 2402,
+      "section": null,
+      "word": "trick",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "芸",
+          "page": "1年生 p.39"
+        }
+      ],
+      "page_first": "1年生 p.39"
+    },
+    {
+      "id": 2403,
+      "section": null,
+      "word": "trillion",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "1兆",
+          "page": "3年生 p.120"
+        }
+      ],
+      "page_first": "3年生 p.120"
+    },
+    {
+      "id": 2404,
+      "section": null,
+      "word": "trip",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "旅行",
+          "page": "1年生 p.109"
+        }
+      ],
+      "page_first": "1年生 p.109"
+    },
+    {
+      "id": 2406,
+      "section": null,
+      "word": "trombone",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "トロンボーン",
+          "page": "2年生 p.131"
+        }
+      ],
+      "page_first": "2年生 p.131"
+    },
+    {
+      "id": 2407,
+      "section": null,
+      "word": "trouble",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "困ったこと",
+          "page": "2年生 p.56"
+        }
+      ],
+      "page_first": "2年生 p.56"
+    },
+    {
+      "id": 2408,
+      "section": null,
+      "word": "True",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "ほんとうの",
+          "page": "2年生 p.55"
+        }
+      ],
+      "page_first": "2年生 p.55"
+    },
+    {
+      "id": 2411,
+      "section": null,
+      "word": "trumpet",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "トランペット",
+          "page": "1年生 p.14"
+        }
+      ],
+      "page_first": "1年生 p.14"
+    },
+    {
+      "id": 2412,
+      "section": null,
+      "word": "trunk",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（ゾウの）鼻",
+          "page": "3年生 p.67"
+        }
+      ],
+      "page_first": "3年生 p.67"
+    },
+    {
+      "id": 2413,
+      "section": null,
+      "word": "try",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "ためす",
+          "page": "1年生 p.14"
+        },
+        {
+          "pos": "動",
+          "ja": "～しようとする［努力する］",
+          "page": "2年生 p.70"
+        },
+        {
+          "pos": "名",
+          "ja": "ためし",
+          "page": "2年生 p.73"
+        }
+      ],
+      "page_first": "1年生 p.14"
+    },
+    {
+      "id": 2416,
+      "section": null,
+      "word": "Tuesday",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "火曜日",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 2417,
+      "section": null,
+      "word": "tuna",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "マグロ",
+          "page": "1年生 p.106"
+        }
+      ],
+      "page_first": "1年生 p.106"
+    },
+    {
+      "id": 2418,
+      "section": null,
+      "word": "Turkey",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "トルコ",
+          "page": "2年生 p.93"
+        }
+      ],
+      "page_first": "2年生 p.93"
+    },
+    {
+      "id": 2419,
+      "section": null,
+      "word": "Turkish",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "トルコ（人）の",
+          "page": "2年生 p.92"
+        },
+        {
+          "pos": "名",
+          "ja": "トルコ語",
+          "page": "2年生 p.93"
+        }
+      ],
+      "page_first": "2年生 p.92"
+    },
+    {
+      "id": 2420,
+      "section": null,
+      "word": "turn",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "曲がる",
+          "page": "1年生 p.91"
+        },
+        {
+          "pos": "動",
+          "ja": "ふり向く、体の向きを変える",
+          "page": "2年生 p.48"
+        },
+        {
+          "pos": "動",
+          "ja": "（～の状態に）変える［する］",
+          "page": "2年生 p.52"
+        }
+      ],
+      "page_first": "1年生 p.91"
+    },
+    {
+      "id": 2421,
+      "section": null,
+      "word": "turn down ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（音量を）下げる",
+          "page": "2年生 p.52"
+        }
+      ],
+      "page_first": "2年生 p.52"
+    },
+    {
+      "id": 2422,
+      "section": null,
+      "word": "turn off ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（テレビなどを）消す、止める",
+          "page": "2年生 p.83"
+        }
+      ],
+      "page_first": "2年生 p.83"
+    },
+    {
+      "id": 2423,
+      "section": null,
+      "word": "turtle",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "カメ",
+          "page": "1年生 p.88"
+        }
+      ],
+      "page_first": "1年生 p.88"
+    },
+    {
+      "id": 2424,
+      "section": null,
+      "word": "TV",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "テレビ",
+          "page": "1年生 p.36"
+        }
+      ],
+      "page_first": "1年生 p.36"
+    },
+    {
+      "id": 2425,
+      "section": null,
+      "word": "TV personality",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "テレビタレント",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 2426,
+      "section": null,
+      "word": "twelfth",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "12日、12番目（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 2427,
+      "section": null,
+      "word": "twelve",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "12（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 2428,
+      "section": null,
+      "word": "twentieth",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "20日、20番目（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 2429,
+      "section": null,
+      "word": "twenty",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "20（の）",
+          "page": "1年生 p.50"
+        }
+      ],
+      "page_first": "1年生 p.50"
+    },
+    {
+      "id": 2430,
+      "section": null,
+      "word": "twenty-four seven",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "いつでも、四六時中",
+          "page": "2年生 p.64"
+        }
+      ],
+      "page_first": "2年生 p.64"
+    },
+    {
+      "id": 2431,
+      "section": null,
+      "word": "twice",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "2回",
+          "page": "3年生 p.9"
+        }
+      ],
+      "page_first": "3年生 p.9"
+    },
+    {
+      "id": 2432,
+      "section": null,
+      "word": "two",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "2（の）",
+          "page": "1年生 p.34"
+        }
+      ],
+      "page_first": "1年生 p.34"
+    },
+    {
+      "id": 2433,
+      "section": null,
+      "word": "type",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "タイプ、型、種類",
+          "page": "3年生 p.61"
+        }
+      ],
+      "page_first": "3年生 p.61"
+    },
+    {
+      "id": 2434,
+      "section": null,
+      "word": "typhoon",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "台風",
+          "page": "2年生 p.93"
+        }
+      ],
+      "page_first": "2年生 p.93"
+    },
+    {
+      "id": 2436,
+      "section": null,
+      "word": "U.K.",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（theをつけて）イギリス（=the United Kingdom）",
+          "page": "1年生 p.26"
+        }
+      ],
+      "page_first": "1年生 p.26"
+    }
+  ]
+}

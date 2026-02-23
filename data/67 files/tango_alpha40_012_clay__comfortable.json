@@ -1,0 +1,719 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 12,
+    "range": {
+      "from": "clay",
+      "to": "comfortable"
+    }
+  },
+  "entries": [
+    {
+      "id": 427,
+      "section": null,
+      "word": "clay",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "粘土",
+          "page": "2年生 p.111"
+        }
+      ],
+      "page_first": "2年生 p.111"
+    },
+    {
+      "id": 428,
+      "section": null,
+      "word": "clean",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "掃除する",
+          "page": "1年生 p.31"
+        },
+        {
+          "pos": "形",
+          "ja": "きれいな、清潔な",
+          "page": "2年生 p.73"
+        }
+      ],
+      "page_first": "1年生 p.31"
+    },
+    {
+      "id": 429,
+      "section": null,
+      "word": "cleanup",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "大掃除、浄化",
+          "page": "3年生 p.84"
+        }
+      ],
+      "page_first": "3年生 p.84"
+    },
+    {
+      "id": 430,
+      "section": null,
+      "word": "clear",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "よく晴れた、雲のない",
+          "page": "2年生 p.55"
+        },
+        {
+          "pos": "形",
+          "ja": "明らかな",
+          "page": "2年生 p.125"
+        }
+      ],
+      "page_first": "2年生 p.55"
+    },
+    {
+      "id": 431,
+      "section": null,
+      "word": "clearly",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "はっきりと",
+          "page": "3年生 p.46"
+        }
+      ],
+      "page_first": "3年生 p.46"
+    },
+    {
+      "id": 432,
+      "section": null,
+      "word": "clerk",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "店員",
+          "page": "1年生 p.108"
+        }
+      ],
+      "page_first": "1年生 p.108"
+    },
+    {
+      "id": 433,
+      "section": null,
+      "word": "clever",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "賢い",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    },
+    {
+      "id": 434,
+      "section": null,
+      "word": "climb",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "登る",
+          "page": "1年生 p.42"
+        }
+      ],
+      "page_first": "1年生 p.42"
+    },
+    {
+      "id": 435,
+      "section": null,
+      "word": "clinic",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "診療所",
+          "page": "3年生 p.129"
+        }
+      ],
+      "page_first": "3年生 p.129"
+    },
+    {
+      "id": 436,
+      "section": null,
+      "word": "clock",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "掛け時計、置き時計",
+          "page": "3年生 p.54"
+        }
+      ],
+      "page_first": "3年生 p.54"
+    },
+    {
+      "id": 437,
+      "section": null,
+      "word": "close",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "閉じる",
+          "page": "1年生 p.36"
+        },
+        {
+          "pos": "形",
+          "ja": "親密な、親しい",
+          "page": "3年生 p.52"
+        }
+      ],
+      "page_first": "1年生 p.36"
+    },
+    {
+      "id": 438,
+      "section": null,
+      "word": "closet",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "押入れ、クローゼット",
+          "page": "1年生 p.131"
+        }
+      ],
+      "page_first": "1年生 p.131"
+    },
+    {
+      "id": 439,
+      "section": null,
+      "word": "closing ceremony",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "終業式",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 440,
+      "section": null,
+      "word": "cloth",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "布、布切れ",
+          "page": "2年生 p.86"
+        }
+      ],
+      "page_first": "2年生 p.86"
+    },
+    {
+      "id": 441,
+      "section": null,
+      "word": "clothes",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "衣服、着物",
+          "page": "1年生 p.62"
+        }
+      ],
+      "page_first": "1年生 p.62"
+    },
+    {
+      "id": 442,
+      "section": null,
+      "word": "clothing store",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "衣料品店",
+          "page": "2年生 p.132"
+        }
+      ],
+      "page_first": "2年生 p.132"
+    },
+    {
+      "id": 443,
+      "section": null,
+      "word": "cloudy",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "くもりの",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 444,
+      "section": null,
+      "word": "club",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "部、クラブ",
+          "page": "1年生 p.14"
+        }
+      ],
+      "page_first": "1年生 p.14"
+    },
+    {
+      "id": 445,
+      "section": null,
+      "word": "club activities",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "部活",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.143"
+    },
+    {
+      "id": 446,
+      "section": null,
+      "word": "coach",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "コーチ［指導］する",
+          "page": "2年生 p.24"
+        }
+      ],
+      "page_first": "2年生 p.24"
+    },
+    {
+      "id": 447,
+      "section": null,
+      "word": "coast",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "海岸",
+          "page": "2年生 p.93"
+        }
+      ],
+      "page_first": "2年生 p.93"
+    },
+    {
+      "id": 448,
+      "section": null,
+      "word": "coat",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "コート、オーバー",
+          "page": "2年生 p.29"
+        }
+      ],
+      "page_first": "2年生 p.29"
+    },
+    {
+      "id": 449,
+      "section": null,
+      "word": "coffee",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "コーヒー",
+          "page": "1年生 p.50"
+        }
+      ],
+      "page_first": "1年生 p.50"
+    },
+    {
+      "id": 450,
+      "section": null,
+      "word": "coffee shop",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "喫茶店",
+          "page": "2年生 p.132"
+        }
+      ],
+      "page_first": "2年生 p.132"
+    },
+    {
+      "id": 451,
+      "section": null,
+      "word": "coin",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "硬貨",
+          "page": "2年生 p.81"
+        }
+      ],
+      "page_first": "2年生 p.81"
+    },
+    {
+      "id": 452,
+      "section": null,
+      "word": "cola",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "コーラ（飲み物の名）",
+          "page": "1年生 p.50"
+        }
+      ],
+      "page_first": "1年生 p.50"
+    },
+    {
+      "id": 453,
+      "section": null,
+      "word": "cold",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "寒い、冷たい",
+          "page": "1年生 p.113"
+        },
+        {
+          "pos": "名",
+          "ja": "（病気の）かぜ",
+          "page": "2年生 p.67"
+        }
+      ],
+      "page_first": "1年生 p.113"
+    },
+    {
+      "id": 454,
+      "section": null,
+      "word": "collect",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "集める",
+          "page": "3年生 p.84"
+        }
+      ],
+      "page_first": "3年生 p.84"
+    },
+    {
+      "id": 455,
+      "section": null,
+      "word": "college",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（単科）大学",
+          "page": "1年生 p.83"
+        }
+      ],
+      "page_first": "1年生 p.83"
+    },
+    {
+      "id": 456,
+      "section": null,
+      "word": "collide",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "衝突する、ぶつかる",
+          "page": "3年生 p.44"
+        }
+      ],
+      "page_first": "3年生 p.44"
+    },
+    {
+      "id": 457,
+      "section": null,
+      "word": "color",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "色",
+          "page": "2年生 p.73"
+        }
+      ],
+      "page_first": "2年生 p.73"
+    },
+    {
+      "id": 458,
+      "section": null,
+      "word": "colorful",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "カラフルな、色彩豊かな",
+          "page": "3年生 p.11"
+        }
+      ],
+      "page_first": "3年生 p.11"
+    },
+    {
+      "id": 459,
+      "section": null,
+      "word": "combination",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "組み合わせ",
+          "page": "3年生 p.73"
+        }
+      ],
+      "page_first": "3年生 p.73"
+    },
+    {
+      "id": 460,
+      "section": null,
+      "word": "come",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "来る",
+          "page": "1年生 p.83"
+        }
+      ],
+      "page_first": "1年生 p.83"
+    },
+    {
+      "id": 461,
+      "section": null,
+      "word": "come back",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "もどる",
+          "page": "1年生 p.110"
+        }
+      ],
+      "page_first": "1年生 p.110"
+    },
+    {
+      "id": 462,
+      "section": null,
+      "word": "come true",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": null,
+          "page": "3年生 p.100"
+        }
+      ],
+      "page_first": "3年生 p.100"
+    },
+    {
+      "id": 2409,
+      "section": null,
+      "word": "come true",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "実現する",
+          "page": "3年生 p.100"
+        }
+      ],
+      "page_first": "3年生 p.100"
+    },
+    {
+      "id": 463,
+      "section": null,
+      "word": "come up to ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～のところにやって［近づいて］来る",
+          "page": "3年生 p.115"
+        }
+      ],
+      "page_first": "3年生 p.115"
+    },
+    {
+      "id": 464,
+      "section": null,
+      "word": "comedian",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "お笑い芸人、喜劇俳優",
+          "page": "3年生 p.67"
+        }
+      ],
+      "page_first": "3年生 p.67"
+    },
+    {
+      "id": 465,
+      "section": null,
+      "word": "comfortable",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "心地よい",
+          "page": "2年生 p.88"
+        }
+      ],
+      "page_first": "2年生 p.88"
+    }
+  ]
+}

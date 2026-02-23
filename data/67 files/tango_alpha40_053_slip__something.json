@@ -1,0 +1,724 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 53,
+    "range": {
+      "from": "slip",
+      "to": "something"
+    }
+  },
+  "entries": [
+    {
+      "id": 2076,
+      "section": null,
+      "word": "slip",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "すべる、すべってころぶ",
+          "page": "2年生 p.80"
+        }
+      ],
+      "page_first": "2年生 p.80"
+    },
+    {
+      "id": 2077,
+      "section": null,
+      "word": "slope",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "斜面、坂",
+          "page": "1年生 p.129"
+        }
+      ],
+      "page_first": "1年生 p.129"
+    },
+    {
+      "id": 2078,
+      "section": null,
+      "word": "slow",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "遅い",
+          "page": "2年生 p.131"
+        }
+      ],
+      "page_first": "2年生 p.131"
+    },
+    {
+      "id": 2079,
+      "section": null,
+      "word": "slowly",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "ゆっくり（と）",
+          "page": "2年生 p.73"
+        }
+      ],
+      "page_first": "2年生 p.73"
+    },
+    {
+      "id": 2080,
+      "section": null,
+      "word": "small",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "小さい",
+          "page": "1年生 p.50"
+        }
+      ],
+      "page_first": "1年生 p.50"
+    },
+    {
+      "id": 2081,
+      "section": null,
+      "word": "smart",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "頭のよい、かしこい",
+          "page": "2年生 p.102"
+        }
+      ],
+      "page_first": "2年生 p.102"
+    },
+    {
+      "id": 2082,
+      "section": null,
+      "word": "smartphone",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "スマートフォン、スマホ",
+          "page": "2年生 p.53"
+        }
+      ],
+      "page_first": "2年生 p.53"
+    },
+    {
+      "id": 2083,
+      "section": null,
+      "word": "smell",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "におい、香り",
+          "page": "2年生 p.39"
+        }
+      ],
+      "page_first": "2年生 p.39"
+    },
+    {
+      "id": 2084,
+      "section": null,
+      "word": "smile",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "ほほえむ",
+          "page": "3年生 p.31"
+        },
+        {
+          "pos": "名",
+          "ja": "ほほえみ、笑顔",
+          "page": "3年生 p.116"
+        }
+      ],
+      "page_first": "3年生 p.31"
+    },
+    {
+      "id": 2085,
+      "section": null,
+      "word": "Smith",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "スミス（姓）",
+          "page": "1年生 p.15"
+        }
+      ],
+      "page_first": "1年生 p.15"
+    },
+    {
+      "id": 2086,
+      "section": null,
+      "word": "smoothly",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "円滑に、スムーズに",
+          "page": "1年生 p.94"
+        }
+      ],
+      "page_first": "1年生 p.94"
+    },
+    {
+      "id": 2087,
+      "section": null,
+      "word": "snack",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "おやつ、軽食",
+          "page": "2年生 p.59"
+        }
+      ],
+      "page_first": "2年生 p.59"
+    },
+    {
+      "id": 2088,
+      "section": null,
+      "word": "snake",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ヘビ",
+          "page": "1年生 p.142"
+        }
+      ],
+      "page_first": "1年生 p.142"
+    },
+    {
+      "id": 2089,
+      "section": null,
+      "word": "sneaker",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（ふつう複数形で）スニーカー",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 2090,
+      "section": null,
+      "word": "snow",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "雪",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 2091,
+      "section": null,
+      "word": "snowboarding",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "スノーボード（競技）",
+          "page": "2年生 p.131"
+        }
+      ],
+      "page_first": "2年生 p.131"
+    },
+    {
+      "id": 2092,
+      "section": null,
+      "word": "snowy",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "雪の降る、雪の多い",
+          "page": "1年生 p.126"
+        }
+      ],
+      "page_first": "1年生 p.126"
+    },
+    {
+      "id": 2093,
+      "section": null,
+      "word": "so",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "とても、非常に",
+          "page": "1年生 p.40"
+        },
+        {
+          "pos": "接",
+          "ja": "だから、それで",
+          "page": "1年生 p.42"
+        },
+        {
+          "pos": "副",
+          "ja": "（前の文の代用で）そう、そのように",
+          "page": "2年生 p.12"
+        },
+        {
+          "pos": "副",
+          "ja": "前の文を受けて）～もまたそうで",
+          "page": "2年生 p.111"
+        }
+      ],
+      "page_first": "1年生 p.40"
+    },
+    {
+      "id": 2094,
+      "section": null,
+      "word": "so ～ that ...",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "あまりに～なので…",
+          "page": "2年生 p.115"
+        }
+      ],
+      "page_first": "2年生 p.115"
+    },
+    {
+      "id": 2126,
+      "section": null,
+      "word": "so-so",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "まあまあの、よくも悪くもない",
+          "page": "3年生 p.8"
+        }
+      ],
+      "page_first": "3年生 p.8"
+    },
+    {
+      "id": 2095,
+      "section": null,
+      "word": "soap",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "せっけん",
+          "page": "2年生 p.111"
+        }
+      ],
+      "page_first": "2年生 p.111"
+    },
+    {
+      "id": 2096,
+      "section": null,
+      "word": "soccer",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "サッカー",
+          "page": "1年生 p.16"
+        }
+      ],
+      "page_first": "1年生 p.16"
+    },
+    {
+      "id": 2097,
+      "section": null,
+      "word": "sociable",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "社交的な",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    },
+    {
+      "id": 2098,
+      "section": null,
+      "word": "social studies",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "社会科",
+          "page": "1年生 p.26"
+        }
+      ],
+      "page_first": "1年生 p.26"
+    },
+    {
+      "id": 2099,
+      "section": null,
+      "word": "society",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "社会",
+          "page": "3年生 p.101"
+        }
+      ],
+      "page_first": "3年生 p.101"
+    },
+    {
+      "id": 2100,
+      "section": null,
+      "word": "soft",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "柔らかい",
+          "page": "2年生 p.33"
+        }
+      ],
+      "page_first": "2年生 p.33"
+    },
+    {
+      "id": 2101,
+      "section": null,
+      "word": "soft tennis",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ソフトテニス",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.143"
+    },
+    {
+      "id": 2102,
+      "section": null,
+      "word": "softball",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ソフトボール",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.143"
+    },
+    {
+      "id": 2103,
+      "section": null,
+      "word": "softness",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "柔らかさ",
+          "page": "3年生 p.52"
+        }
+      ],
+      "page_first": "3年生 p.52"
+    },
+    {
+      "id": 2104,
+      "section": null,
+      "word": "sold",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "sell（売る）の過去形《過去分詞も同形》",
+          "page": "2年生 p.109"
+        }
+      ],
+      "page_first": "2年生 p.109"
+    },
+    {
+      "id": 2105,
+      "section": null,
+      "word": "soldier",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "兵士",
+          "page": "3年生 p.110"
+        }
+      ],
+      "page_first": "3年生 p.110"
+    },
+    {
+      "id": 2106,
+      "section": null,
+      "word": "sole",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "足の裏、靴の底",
+          "page": "2年生 p.80"
+        }
+      ],
+      "page_first": "2年生 p.80"
+    },
+    {
+      "id": 2107,
+      "section": null,
+      "word": "solid",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "固体［固形］の",
+          "page": "3年生 p.70"
+        }
+      ],
+      "page_first": "3年生 p.70"
+    },
+    {
+      "id": 2108,
+      "section": null,
+      "word": "solution",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "解決策",
+          "page": "2年生 p.126"
+        }
+      ],
+      "page_first": "2年生 p.126"
+    },
+    {
+      "id": 2109,
+      "section": null,
+      "word": "solve",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "解決する、（問題を）解く",
+          "page": "3年生 p.51"
+        }
+      ],
+      "page_first": "3年生 p.51"
+    },
+    {
+      "id": 2110,
+      "section": null,
+      "word": "some",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "いくらかの、いくつかの",
+          "page": "1年生 p.36"
+        },
+        {
+          "pos": "代",
+          "ja": "いくつか、数人",
+          "page": "1年生 p.114"
+        }
+      ],
+      "page_first": "1年生 p.36"
+    },
+    {
+      "id": 2111,
+      "section": null,
+      "word": "Some ～. Others ....",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～もいれば、…もいる。",
+          "page": "2年生 p.37"
+        }
+      ],
+      "page_first": "2年生 p.37"
+    },
+    {
+      "id": 2112,
+      "section": null,
+      "word": "someday",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "いつか",
+          "page": "1年生 p.86"
+        }
+      ],
+      "page_first": "1年生 p.86"
+    },
+    {
+      "id": 2113,
+      "section": null,
+      "word": "someone",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "だれか",
+          "page": "3年生 p.8"
+        }
+      ],
+      "page_first": "3年生 p.8"
+    },
+    {
+      "id": 2114,
+      "section": null,
+      "word": "something",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "何か",
+          "page": "1年生 p.82"
+        }
+      ],
+      "page_first": "1年生 p.82"
+    }
+  ]
+}

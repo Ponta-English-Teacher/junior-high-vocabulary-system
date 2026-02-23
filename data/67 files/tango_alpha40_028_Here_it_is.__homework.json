@@ -1,0 +1,734 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 28,
+    "range": {
+      "from": "Here it is.",
+      "to": "homework"
+    }
+  },
+  "entries": [
+    {
+      "id": 1064,
+      "section": null,
+      "word": "Here it is.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "はい、どうぞ。こちらです。",
+          "page": "1年生 p.108"
+        }
+      ],
+      "page_first": "1年生 p.108"
+    },
+    {
+      "id": 1065,
+      "section": null,
+      "word": "Here you are.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "はい、どうぞ。",
+          "page": "1年生 p.50"
+        }
+      ],
+      "page_first": "1年生 p.50"
+    },
+    {
+      "id": 1066,
+      "section": null,
+      "word": "here’s",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（here isの短縮形）",
+          "page": "2年生 p.32"
+        }
+      ],
+      "page_first": "2年生 p.32"
+    },
+    {
+      "id": 1067,
+      "section": null,
+      "word": "hero",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "英雄、あこがれの的",
+          "page": "2年生 p.120"
+        }
+      ],
+      "page_first": "2年生 p.120"
+    },
+    {
+      "id": 1068,
+      "section": null,
+      "word": "hers",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "彼女のもの",
+          "page": "1年生 p.70"
+        }
+      ],
+      "page_first": "1年生 p.70"
+    },
+    {
+      "id": 1070,
+      "section": null,
+      "word": "hey",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "間",
+          "ja": "（呼びかけ）おい、ちょっと",
+          "page": "1年生 p.131"
+        }
+      ],
+      "page_first": "1年生 p.131"
+    },
+    {
+      "id": 1056,
+      "section": null,
+      "word": "he’ll",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（he willの短縮形）",
+          "page": "2年生 p.8"
+        }
+      ],
+      "page_first": "2年生 p.8"
+    },
+    {
+      "id": 1069,
+      "section": null,
+      "word": "he’s",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（he isの短縮形）",
+          "page": "1年生 p.59"
+        }
+      ],
+      "page_first": "1年生 p.59"
+    },
+    {
+      "id": 1071,
+      "section": null,
+      "word": "hi",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "間",
+          "ja": "やあ、こんにちは",
+          "page": "1年生 p.22"
+        }
+      ],
+      "page_first": "1年生 p.22"
+    },
+    {
+      "id": 1072,
+      "section": null,
+      "word": "hide",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "隠す",
+          "page": "3年生 p.108"
+        }
+      ],
+      "page_first": "3年生 p.108"
+    },
+    {
+      "id": 1073,
+      "section": null,
+      "word": "high",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "高く",
+          "page": "1年生 p.15"
+        },
+        {
+          "pos": "形",
+          "ja": "高い",
+          "page": "1年生 p.23"
+        },
+        {
+          "pos": "名",
+          "ja": "最高気温、最高値",
+          "page": "2年生 p.29"
+        }
+      ],
+      "page_first": "1年生 p.15"
+    },
+    {
+      "id": 1074,
+      "section": null,
+      "word": "high school",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "高校",
+          "page": "1年生 p.59"
+        }
+      ],
+      "page_first": "1年生 p.59"
+    },
+    {
+      "id": 1075,
+      "section": null,
+      "word": "high-tech",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "ハイテクの、高度先端技術の",
+          "page": "2年生 p.75"
+        }
+      ],
+      "page_first": "2年生 p.75"
+    },
+    {
+      "id": 1076,
+      "section": null,
+      "word": "highlighter",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "蛍光マーカー",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 1077,
+      "section": null,
+      "word": "hike",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "ハイキングをする",
+          "page": "2年生 p.55"
+        }
+      ],
+      "page_first": "2年生 p.55"
+    },
+    {
+      "id": 1079,
+      "section": null,
+      "word": "hiking",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ハイキング",
+          "page": "2年生 p.56"
+        }
+      ],
+      "page_first": "2年生 p.56"
+    },
+    {
+      "id": 1080,
+      "section": null,
+      "word": "hill",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "丘",
+          "page": "1年生 p.129"
+        }
+      ],
+      "page_first": "1年生 p.129"
+    },
+    {
+      "id": 1081,
+      "section": null,
+      "word": "him",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "彼を［に］",
+          "page": "1年生 p.72"
+        }
+      ],
+      "page_first": "1年生 p.72"
+    },
+    {
+      "id": 1082,
+      "section": null,
+      "word": "himself",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "彼自身に［を］",
+          "page": "2年生 p.47"
+        }
+      ],
+      "page_first": "2年生 p.47"
+    },
+    {
+      "id": 1083,
+      "section": null,
+      "word": "hint",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ヒント、手がかり",
+          "page": "1年生 p.58"
+        }
+      ],
+      "page_first": "1年生 p.58"
+    },
+    {
+      "id": 1084,
+      "section": null,
+      "word": "hippo",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "カバ",
+          "page": "1年生 p.142"
+        }
+      ],
+      "page_first": "1年生 p.142"
+    },
+    {
+      "id": 1085,
+      "section": null,
+      "word": "Hiroshima Peace Memorial Park",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（theをつけて）広島平和記念公園",
+          "page": "2年生 p.111"
+        }
+      ],
+      "page_first": "2年生 p.111"
+    },
+    {
+      "id": 1086,
+      "section": null,
+      "word": "his",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "彼の",
+          "page": "1年生 p.63"
+        },
+        {
+          "pos": "代",
+          "ja": "彼のもの",
+          "page": "1年生 p.70"
+        }
+      ],
+      "page_first": "1年生 p.63"
+    },
+    {
+      "id": 1087,
+      "section": null,
+      "word": "historic",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "歴史的な",
+          "page": "3年生 p.122"
+        }
+      ],
+      "page_first": "3年生 p.122"
+    },
+    {
+      "id": 1088,
+      "section": null,
+      "word": "history",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "歴史",
+          "page": "2年生 p.21"
+        }
+      ],
+      "page_first": "2年生 p.21"
+    },
+    {
+      "id": 1089,
+      "section": null,
+      "word": "hit",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "打つ《過去形・過去分詞も同形》",
+          "page": "2年生 p.20"
+        },
+        {
+          "pos": "動",
+          "ja": "（災害・不幸が）襲う",
+          "page": "2年生 p.94"
+        },
+        {
+          "pos": "動",
+          "ja": "ぶつかる、当たる",
+          "page": "3年生 p.52"
+        }
+      ],
+      "page_first": "2年生 p.20"
+    },
+    {
+      "id": 1090,
+      "section": null,
+      "word": "hmm",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "間",
+          "ja": "（ためらい・疑いなどを表して）ふーむ、うーん",
+          "page": "3年生 p.56"
+        }
+      ],
+      "page_first": "3年生 p.56"
+    },
+    {
+      "id": 1091,
+      "section": null,
+      "word": "hobby",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "趣味",
+          "page": "1年生 p.136"
+        }
+      ],
+      "page_first": "1年生 p.136"
+    },
+    {
+      "id": 1092,
+      "section": null,
+      "word": "hockey",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ホッケー",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.143"
+    },
+    {
+      "id": 1093,
+      "section": null,
+      "word": "hold",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "持つ、つかむ",
+          "page": "1年生 p.129"
+        },
+        {
+          "pos": "動",
+          "ja": "催す、開く",
+          "page": "3年生 p.57"
+        }
+      ],
+      "page_first": "1年生 p.129"
+    },
+    {
+      "id": 1094,
+      "section": null,
+      "word": "hold on to ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～にしがみつく",
+          "page": "1年生 p.129"
+        }
+      ],
+      "page_first": "1年生 p.129"
+    },
+    {
+      "id": 1095,
+      "section": null,
+      "word": "Hold on.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（電話で）お待ちください。",
+          "page": "2年生 p.50"
+        }
+      ],
+      "page_first": "2年生 p.50"
+    },
+    {
+      "id": 1096,
+      "section": null,
+      "word": "holiday",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "休日",
+          "page": "1年生 p.110"
+        }
+      ],
+      "page_first": "1年生 p.110"
+    },
+    {
+      "id": 1097,
+      "section": null,
+      "word": "home",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "家、家庭",
+          "page": "1年生 p.30"
+        },
+        {
+          "pos": "副",
+          "ja": "家に［へ］",
+          "page": "1年生 p.104"
+        }
+      ],
+      "page_first": "1年生 p.30"
+    },
+    {
+      "id": 1099,
+      "section": null,
+      "word": "home attendant",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ホームヘルパー",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 1100,
+      "section": null,
+      "word": "home economics",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "家庭科",
+          "page": "1年生 p.62"
+        }
+      ],
+      "page_first": "1年生 p.62"
+    },
+    {
+      "id": 1102,
+      "section": null,
+      "word": "home run",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ホームラン",
+          "page": "2年生 p.20"
+        }
+      ],
+      "page_first": "2年生 p.20"
+    },
+    {
+      "id": 1101,
+      "section": null,
+      "word": "homemade",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "自家製の",
+          "page": "3年生 p.12"
+        }
+      ],
+      "page_first": "3年生 p.12"
+    },
+    {
+      "id": 1103,
+      "section": null,
+      "word": "hometown",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "故郷",
+          "page": "3年生 p.111"
+        }
+      ],
+      "page_first": "3年生 p.111"
+    },
+    {
+      "id": 1104,
+      "section": null,
+      "word": "homework",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "宿題",
+          "page": "1年生 p.125"
+        }
+      ],
+      "page_first": "1年生 p.125"
+    }
+  ]
+}

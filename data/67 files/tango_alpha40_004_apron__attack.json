@@ -1,0 +1,774 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 4,
+    "range": {
+      "from": "apron",
+      "to": "attack"
+    }
+  },
+  "entries": [
+    {
+      "id": 119,
+      "section": null,
+      "word": "apron",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "エプロン",
+          "page": "2年生 p.66"
+        }
+      ],
+      "page_first": "2年生 p.66"
+    },
+    {
+      "id": 120,
+      "section": null,
+      "word": "aquarium",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "水族館",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    },
+    {
+      "id": 121,
+      "section": null,
+      "word": "architect",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "建築家",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 122,
+      "section": null,
+      "word": "are",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "〜です、〜である（主語がwe、you、theyまたは複数名詞のときのbe動詞現在形）",
+          "page": "1年生 p.12"
+        },
+        {
+          "pos": "動",
+          "ja": "（人・ものが）いる［ある］",
+          "page": "1年生 p.25"
+        },
+        {
+          "pos": "助",
+          "ja": "（現在進行形を作る）",
+          "page": "1年生 p.100"
+        }
+      ],
+      "page_first": "1年生 p.12"
+    },
+    {
+      "id": 123,
+      "section": null,
+      "word": "aren’t",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（are notの短縮形）",
+          "page": "1年生 p.23"
+        }
+      ],
+      "page_first": "1年生 p.23"
+    },
+    {
+      "id": 124,
+      "section": null,
+      "word": "around",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "あちこちを［に、で］",
+          "page": "1年生 p.86"
+        },
+        {
+          "pos": "前",
+          "ja": "あちこちを［に、で］",
+          "page": "1年生 p.86"
+        },
+        {
+          "pos": "前",
+          "ja": "～ごろ、およそ",
+          "page": "2年生 p.21"
+        },
+        {
+          "pos": "前",
+          "ja": "～の周りに［を］",
+          "page": "3年生 p.67"
+        },
+        {
+          "pos": "前",
+          "ja": "～の近くで［の］",
+          "page": "3年生 p.99"
+        }
+      ],
+      "page_first": "1年生 p.86"
+    },
+    {
+      "id": 2601,
+      "section": null,
+      "word": "around the world",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "世界中を［に、で」",
+          "page": "1年生 p.122"
+        }
+      ],
+      "page_first": "1年生 p.122"
+    },
+    {
+      "id": 125,
+      "section": null,
+      "word": "arrive",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "着く、到着する",
+          "page": "2年生 p.46"
+        }
+      ],
+      "page_first": "2年生 p.46"
+    },
+    {
+      "id": 126,
+      "section": null,
+      "word": "art",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "美術、芸術",
+          "page": "1年生 p.15"
+        }
+      ],
+      "page_first": "1年生 p.15"
+    },
+    {
+      "id": 127,
+      "section": null,
+      "word": "art museum",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "美術館",
+          "page": "2年生 p.132"
+        }
+      ],
+      "page_first": "2年生 p.132"
+    },
+    {
+      "id": 128,
+      "section": null,
+      "word": "artist",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "芸術家、アーティスト",
+          "page": "1年生 p.32"
+        }
+      ],
+      "page_first": "1年生 p.32"
+    },
+    {
+      "id": 129,
+      "section": null,
+      "word": "as",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "前",
+          "ja": "～として",
+          "page": "2年生 p.25"
+        },
+        {
+          "pos": "接",
+          "ja": "～のように",
+          "page": "2年生 p.42"
+        },
+        {
+          "pos": "接副",
+          "ja": "（as ～ as ...の形で）…と同じくらい～",
+          "page": "2年生 p.76"
+        }
+      ],
+      "page_first": "2年生 p.25"
+    },
+    {
+      "id": 130,
+      "section": null,
+      "word": "as a result",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": null,
+          "page": "3年生 p.23"
+        }
+      ],
+      "page_first": "3年生 p.23"
+    },
+    {
+      "id": 1876,
+      "section": null,
+      "word": "as a result",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "その結果として",
+          "page": "3年生 p.23"
+        }
+      ],
+      "page_first": "3年生 p.23"
+    },
+    {
+      "id": 131,
+      "section": null,
+      "word": "as a result of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": null,
+          "page": "3年生 p.125"
+        }
+      ],
+      "page_first": "3年生 p.125"
+    },
+    {
+      "id": 1877,
+      "section": null,
+      "word": "as a result of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "〜の結果として",
+          "page": "3年生 p.125"
+        }
+      ],
+      "page_first": "3年生 p.125"
+    },
+    {
+      "id": 132,
+      "section": null,
+      "word": "ashamed",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "恥ずかしく思って",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 133,
+      "section": null,
+      "word": "Asia",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "アジア",
+          "page": "3年生 p.60"
+        }
+      ],
+      "page_first": "3年生 p.60"
+    },
+    {
+      "id": 134,
+      "section": null,
+      "word": "ask",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "頼む、求める",
+          "page": "2年生 p.47"
+        },
+        {
+          "pos": "動",
+          "ja": "たずねる、質問する",
+          "page": "2年生 p.48"
+        }
+      ],
+      "page_first": "2年生 p.47"
+    },
+    {
+      "id": 135,
+      "section": null,
+      "word": "ASL",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "アメリカ手話（＝American Sign Language）",
+          "page": "3年生 p.59"
+        }
+      ],
+      "page_first": "3年生 p.59"
+    },
+    {
+      "id": 136,
+      "section": null,
+      "word": "asleep",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "眠って",
+          "page": "2年生 p.71"
+        }
+      ],
+      "page_first": "2年生 p.71"
+    },
+    {
+      "id": 138,
+      "section": null,
+      "word": "assign",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "任命［指名］する",
+          "page": "3年生 p.52"
+        }
+      ],
+      "page_first": "3年生 p.52"
+    },
+    {
+      "id": 139,
+      "section": null,
+      "word": "assign ～ to ...",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～に…するように命じる",
+          "page": "3年生 p.52"
+        }
+      ],
+      "page_first": "3年生 p.52"
+    },
+    {
+      "id": 140,
+      "section": null,
+      "word": "astonished",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "ひどくおどろいて",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 141,
+      "section": null,
+      "word": "astronaut",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "宇宙飛行士",
+          "page": "2年生 p.125"
+        }
+      ],
+      "page_first": "2年生 p.125"
+    },
+    {
+      "id": 142,
+      "section": null,
+      "word": "at",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "前",
+          "ja": "（場所を表して）〜に［で］",
+          "page": "1年生 p.23"
+        },
+        {
+          "pos": "前",
+          "ja": "（対象を表して）〜が、〜に関しては",
+          "page": "1年生 p.26"
+        },
+        {
+          "pos": "前",
+          "ja": "（所属を表して）〜に［で］",
+          "page": "1年生 p.28"
+        },
+        {
+          "pos": "前",
+          "ja": "（方向・目標を表して）〜を、〜に向かって",
+          "page": "1年生 p.32"
+        },
+        {
+          "pos": "前",
+          "ja": "（順序・回数などを表して）〜に［で］",
+          "page": "1年生 p.114"
+        },
+        {
+          "pos": "前",
+          "ja": "（時間を表して）〜に",
+          "page": "1年生 p.118"
+        }
+      ],
+      "page_first": "1年生 p.23"
+    },
+    {
+      "id": 143,
+      "section": null,
+      "word": "at first",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": null,
+          "page": "3年生 p.61"
+        }
+      ],
+      "page_first": "3年生 p.61"
+    },
+    {
+      "id": 816,
+      "section": null,
+      "word": "at first",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "はじめは",
+          "page": "3年生 p.61"
+        }
+      ],
+      "page_first": "3年生 p.61"
+    },
+    {
+      "id": 1098,
+      "section": null,
+      "word": "at home",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "家で［に］",
+          "page": "1年生 p.30"
+        }
+      ],
+      "page_first": "1年生 p.30"
+    },
+    {
+      "id": 1291,
+      "section": null,
+      "word": "at last",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "ついに",
+          "page": "2年生 p.126"
+        }
+      ],
+      "page_first": "2年生 p.126"
+    },
+    {
+      "id": 144,
+      "section": null,
+      "word": "at least",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": null,
+          "page": "3年生 p.21"
+        }
+      ],
+      "page_first": "3年生 p.21"
+    },
+    {
+      "id": 1305,
+      "section": null,
+      "word": "at least",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "少なくとも、最低限",
+          "page": "3年生 p.21"
+        }
+      ],
+      "page_first": "3年生 p.21"
+    },
+    {
+      "id": 2348,
+      "section": null,
+      "word": "at one time",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "同時に、いっせいに",
+          "page": "1年生 p.114"
+        }
+      ],
+      "page_first": "1年生 p.114"
+    },
+    {
+      "id": 48,
+      "section": null,
+      "word": "at the age of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～歳のとき",
+          "page": "3年生 p.84"
+        }
+      ],
+      "page_first": "3年生 p.84"
+    },
+    {
+      "id": 145,
+      "section": null,
+      "word": "at the age of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": null,
+          "page": "3年生 p.84"
+        }
+      ],
+      "page_first": "3年生 p.84"
+    },
+    {
+      "id": 2506,
+      "section": null,
+      "word": "at war",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "戦争中で",
+          "page": "2年生 p.92"
+        }
+      ],
+      "page_first": "2年生 p.92"
+    },
+    {
+      "id": 146,
+      "section": null,
+      "word": "ate",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "eat（食べる）の過去形",
+          "page": "1年生 p.19"
+        }
+      ],
+      "page_first": "1年生 p.19"
+    },
+    {
+      "id": 147,
+      "section": null,
+      "word": "athlete",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "運動選手、アスリート",
+          "page": "2年生 p.66"
+        }
+      ],
+      "page_first": "2年生 p.66"
+    },
+    {
+      "id": 148,
+      "section": null,
+      "word": "atomic",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "原子（力）の",
+          "page": "2年生 p.112"
+        }
+      ],
+      "page_first": "2年生 p.112"
+    },
+    {
+      "id": 149,
+      "section": null,
+      "word": "attack",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "襲う、攻撃する",
+          "page": "1年生 p.76"
+        },
+        {
+          "pos": "名",
+          "ja": "暴行、襲撃",
+          "page": "3年生 p.121"
+        }
+      ],
+      "page_first": "1年生 p.76"
+    }
+  ]
+}

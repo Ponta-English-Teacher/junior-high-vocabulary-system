@@ -1,0 +1,719 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 8,
+    "range": {
+      "from": "bomb",
+      "to": "build"
+    }
+  },
+  "entries": [
+    {
+      "id": 265,
+      "section": null,
+      "word": "bomb",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "爆弾",
+          "page": "2年生 p.112"
+        }
+      ],
+      "page_first": "2年生 p.112"
+    },
+    {
+      "id": 266,
+      "section": null,
+      "word": "bone",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "骨",
+          "page": "2年生 p.43"
+        }
+      ],
+      "page_first": "2年生 p.43"
+    },
+    {
+      "id": 267,
+      "section": null,
+      "word": "book",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "本",
+          "page": "1年生 p.31"
+        }
+      ],
+      "page_first": "1年生 p.31"
+    },
+    {
+      "id": 268,
+      "section": null,
+      "word": "bookstore",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "本屋",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    },
+    {
+      "id": 269,
+      "section": null,
+      "word": "border",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "国境、境界（線）",
+          "page": "2年生 p.92"
+        }
+      ],
+      "page_first": "2年生 p.92"
+    },
+    {
+      "id": 270,
+      "section": null,
+      "word": "bored",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "退屈して",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 271,
+      "section": null,
+      "word": "boring",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "退屈な",
+          "page": "2年生 p.132"
+        }
+      ],
+      "page_first": "2年生 p.132"
+    },
+    {
+      "id": 272,
+      "section": null,
+      "word": "born",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "bear（生む）の過去分詞、（be bornで）生まれる",
+          "page": "2年生 p.120"
+        }
+      ],
+      "page_first": "2年生 p.120"
+    },
+    {
+      "id": 273,
+      "section": null,
+      "word": "borrow",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "（無料で）借りる",
+          "page": "3年生 p.38"
+        }
+      ],
+      "page_first": "3年生 p.38"
+    },
+    {
+      "id": 274,
+      "section": null,
+      "word": "both",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "両方、2人［2つ］とも",
+          "page": "2年生 p.67"
+        },
+        {
+          "pos": "形",
+          "ja": "両方の",
+          "page": "2年生 p.105"
+        }
+      ],
+      "page_first": "2年生 p.67"
+    },
+    {
+      "id": 275,
+      "section": null,
+      "word": "bottle",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ボトル、びん",
+          "page": "3年生 p.80"
+        }
+      ],
+      "page_first": "3年生 p.80"
+    },
+    {
+      "id": 276,
+      "section": null,
+      "word": "bottom",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "しり、最下部",
+          "page": "2年生 p.46"
+        }
+      ],
+      "page_first": "2年生 p.46"
+    },
+    {
+      "id": 277,
+      "section": null,
+      "word": "bought",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "buy（買う）の過去形《過去分詞も同形》",
+          "page": "1年生 p.114"
+        }
+      ],
+      "page_first": "1年生 p.114"
+    },
+    {
+      "id": 278,
+      "section": null,
+      "word": "bowl",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "どんぶり、わん",
+          "page": "2年生 p.32"
+        },
+        {
+          "pos": "動",
+          "ja": "ボウリングをする",
+          "page": "2年生 p.129"
+        }
+      ],
+      "page_first": "2年生 p.32"
+    },
+    {
+      "id": 280,
+      "section": null,
+      "word": "box",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "箱",
+          "page": "1年生 p.16"
+        }
+      ],
+      "page_first": "1年生 p.16"
+    },
+    {
+      "id": 281,
+      "section": null,
+      "word": "boy",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "少年",
+          "page": "1年生 p.53"
+        }
+      ],
+      "page_first": "1年生 p.53"
+    },
+    {
+      "id": 282,
+      "section": null,
+      "word": "Boyan Slat",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ボイヤン・スラット（人名）",
+          "page": "3年生 p.84"
+        }
+      ],
+      "page_first": "3年生 p.84"
+    },
+    {
+      "id": 283,
+      "section": null,
+      "word": "brain",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "脳",
+          "page": "2年生 p.102"
+        }
+      ],
+      "page_first": "2年生 p.102"
+    },
+    {
+      "id": 284,
+      "section": null,
+      "word": "brand",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ブランド、銘柄",
+          "page": "1年生 p.52"
+        }
+      ],
+      "page_first": "1年生 p.52"
+    },
+    {
+      "id": 285,
+      "section": null,
+      "word": "brass band",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "吹奏楽部、ブラスバンド",
+          "page": "1年生 p.14"
+        }
+      ],
+      "page_first": "1年生 p.14"
+    },
+    {
+      "id": 286,
+      "section": null,
+      "word": "brave",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "勇敢な",
+          "page": "1年生 p.26"
+        }
+      ],
+      "page_first": "1年生 p.26"
+    },
+    {
+      "id": 287,
+      "section": null,
+      "word": "Brazil",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ブラジル",
+          "page": "1年生 p.22"
+        }
+      ],
+      "page_first": "1年生 p.22"
+    },
+    {
+      "id": 288,
+      "section": null,
+      "word": "bread",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "パン",
+          "page": "2年生 p.131"
+        }
+      ],
+      "page_first": "2年生 p.131"
+    },
+    {
+      "id": 289,
+      "section": null,
+      "word": "break",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "休憩",
+          "page": "1年生 p.33"
+        },
+        {
+          "pos": "動",
+          "ja": "壊れる、壊す",
+          "page": "1年生 p.128"
+        },
+        {
+          "pos": "動",
+          "ja": "（人・心を）うちのめす、悲しませる",
+          "page": "2年生 p.111"
+        }
+      ],
+      "page_first": "1年生 p.33"
+    },
+    {
+      "id": 290,
+      "section": null,
+      "word": "breakfast",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "朝食",
+          "page": "1年生 p.36"
+        }
+      ],
+      "page_first": "1年生 p.36"
+    },
+    {
+      "id": 291,
+      "section": null,
+      "word": "breathe",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "息をする、呼吸する",
+          "page": "2年生 p.102"
+        }
+      ],
+      "page_first": "2年生 p.102"
+    },
+    {
+      "id": 292,
+      "section": null,
+      "word": "breathtaking",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "すごい、息をのむような",
+          "page": "2年生 p.56"
+        }
+      ],
+      "page_first": "2年生 p.56"
+    },
+    {
+      "id": 293,
+      "section": null,
+      "word": "bridge",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "橋",
+          "page": "3年生 p.129"
+        }
+      ],
+      "page_first": "3年生 p.129"
+    },
+    {
+      "id": 294,
+      "section": null,
+      "word": "bright",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "明るい、輝いている",
+          "page": "3年生 p.23"
+        }
+      ],
+      "page_first": "3年生 p.23"
+    },
+    {
+      "id": 295,
+      "section": null,
+      "word": "bring",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "持ってくる、連れてくる",
+          "page": "2年生 p.50"
+        }
+      ],
+      "page_first": "2年生 p.50"
+    },
+    {
+      "id": 296,
+      "section": null,
+      "word": "British",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "イギリス（人）の",
+          "page": "3年生 p.70"
+        }
+      ],
+      "page_first": "3年生 p.70"
+    },
+    {
+      "id": 297,
+      "section": null,
+      "word": "broke",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "break（壊れる）の過去形",
+          "page": "1年生 p.128"
+        }
+      ],
+      "page_first": "1年生 p.128"
+    },
+    {
+      "id": 298,
+      "section": null,
+      "word": "broken",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "break（壊れる、悲しくさせる）の過去分詞",
+          "page": "2年生 p.111"
+        }
+      ],
+      "page_first": "2年生 p.111"
+    },
+    {
+      "id": 299,
+      "section": null,
+      "word": "brooch",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ブローチ、飾り留めピン",
+          "page": "3年生 p.115"
+        }
+      ],
+      "page_first": "3年生 p.115"
+    },
+    {
+      "id": 300,
+      "section": null,
+      "word": "Brooklyn",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ブルックリン（ニューヨーク市の区の1つ）",
+          "page": "1年生 p.140"
+        }
+      ],
+      "page_first": "1年生 p.140"
+    },
+    {
+      "id": 301,
+      "section": null,
+      "word": "brother",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "兄、弟",
+          "page": "1年生 p.39"
+        }
+      ],
+      "page_first": "1年生 p.39"
+    },
+    {
+      "id": 302,
+      "section": null,
+      "word": "brought",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "bring（持ってくる）の過去分詞《過去形も同形》",
+          "page": "3年生 p.50"
+        }
+      ],
+      "page_first": "3年生 p.50"
+    },
+    {
+      "id": 303,
+      "section": null,
+      "word": "brown",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "茶色（の）",
+          "page": "2年生 p.109"
+        }
+      ],
+      "page_first": "2年生 p.109"
+    },
+    {
+      "id": 304,
+      "section": null,
+      "word": "brrr",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "間",
+          "ja": "（寒さを表して）ブルブル",
+          "page": "1年生 p.113"
+        }
+      ],
+      "page_first": "1年生 p.113"
+    },
+    {
+      "id": 305,
+      "section": null,
+      "word": "build",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "建てる、作る",
+          "page": "2年生 p.57"
+        }
+      ],
+      "page_first": "2年生 p.57"
+    }
+  ]
+}

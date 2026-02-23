@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Flashcard</title>
+  <style>
+    :root{
+      --bg:#f6f7fb;
+      --card:#ffffff;
+      --line:#d7dbe3;
+      --text:#111827;
+      --muted:#6b7280;
+
+      --blue:#2563eb;
+      --green:#16a34a;
+      --orange:#f59e0b;
+
+      --radius:18px;
+    }
+    body{
+      margin:0;
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
+      background:var(--bg);
+      color:var(--text);
+    }
+    .wrap{
+      max-width: 860px;
+      margin: 26px auto;
+      padding: 0 18px;
+    }
+    h1{
+      margin: 0 0 14px;
+      font-size: 44px;
+      letter-spacing: .2px;
+    }
+
+    .toolbar{
+      display:flex;
+      gap:12px;
+      align-items:center;
+      margin: 8px 0 14px;
+      flex-wrap: wrap;
+    }
+    .pill{
+      display:flex;
+      align-items:center;
+      gap:10px;
+      background:#fff;
+      border:1px solid var(--line);
+      border-radius: 999px;
+      padding: 8px 12px;
+    }
+    select{
+      border:1px solid var(--line);
+      border-radius: 10px;
+      padding: 6px 10px;
+      font-size: 14px;
+      background:#fff;
+    }
+
+    .card{
+      background:var(--card);
+      border:1px solid var(--line);
+      border-radius: var(--radius);
+      padding: 18px;
+      box-shadow: 0 10px 28px rgba(0,0,0,.08);
+    }
+    .meta{
+      display:flex;
+      justify-content: space-between;
+      gap: 12px;
+      color: var(--muted);
+      font-size: 14px;
+      margin-bottom: 10px;
+    }
+    .meta strong{ color: var(--text); font-weight: 600; }
+
+    .content{
+      border:1px solid var(--line);
+      border-radius: 16px;
+      padding: 26px 18px;
+      text-align:center;
+      font-size: 40px;
+      line-height: 1.25;
+      margin: 10px 0 16px;
+      background: #fff;
+      min-height: 92px;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+    }
+
+    .row{
+      display:flex;
+      gap: 12px;
+      justify-content:center;
+      flex-wrap: wrap;
+      margin: 10px 0;
+    }
+    button{
+      border:0;
+      border-radius: 12px;
+      padding: 12px 16px;
+      font-size: 16px;
+      font-weight: 700;
+      cursor:pointer;
+      box-shadow: 0 8px 16px rgba(0,0,0,.10);
+    }
+    button:active{ transform: translateY(1px); }
+
+    .btn-blue{ background: var(--blue); color:#fff; }
+    .btn-green{ background: var(--green); color:#fff; }
+    .btn-orange{ background: var(--orange); color:#111827; }
+
+    .btn-ghost{
+      background:#fff;
+      color: var(--text);
+      border:1px solid var(--line);
+      box-shadow:none;
+      font-weight: 600;
+    }
+
+    .learned{
+      display:flex;
+      align-items:center;
+      gap:10px;
+      padding: 10px 12px;
+      border:1px solid var(--line);
+      border-radius: 14px;
+      background:#fff;
+      color: var(--text);
+    }
+    .learned input{ width:18px; height:18px; }
+
+    @media (max-width: 520px){
+      h1{ font-size: 38px; }
+      .content{ font-size: 34px; padding: 22px 14px; }
+      button{ width: 100%; }
+      .pill{ width: 100%; justify-content: space-between; }
+      select{ width: 220px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Flashcard</h1>
+
+    <div class="toolbar">
+      <div class="pill">
+        <div style="font-size:14px;color:var(--muted);">Order</div>
+        <select id="orderSel" onchange="changeOrder()">
+          <option value="textbook" selected>Textbook</option>
+          <option value="alphabet">Alphabet</option>
+          <option value="id">ID</option>
+        </select>
+      </div>
+
+      <div class="pill" id="progressPill" style="color:var(--muted);">0 / 0</div>
+    </div>
+
+    <div class="card">
+      <div class="meta">
+        <div id="metaLeft">ID — · —</div>
+        <div id="metaRight"><strong id="learnedLabel">Not learned</strong></div>
+      </div>
+
+      <div class="content" id="content">Tap a button</div>
+
+      <div class="row">
+        <button class="btn-blue" onclick="showSpelling()">Show Spelling</button>
+        <button class="btn-green" onclick="showMeaning()">Show Meaning</button>
+        <button class="btn-orange" onclick="playAudio()">Play Pronunciation</button>
+      </div>
+
+      <div class="row" style="margin-top:14px;">
+        <button class="btn-ghost" onclick="prevCard()">Previous</button>
+        <button class="btn-green" onclick="nextCard()">Next</button>
+
+        <label class="learned" style="margin-left: 8px;">
+          <input type="checkbox" id="learnedChk" onclick="toggleLearned()" />
+          Learned
+        </label>
+      </div>
+    </div>
+  </div>
+
+<script>
+let entries = [];
+let currentIndex = 0;
+let currentOrder = "textbook";
+let audioPlayer = null;
+
+const contentEl = document.getElementById("content");
+const metaLeftEl = document.getElementById("metaLeft");
+const progressPillEl = document.getElementById("progressPill");
+const learnedChkEl = document.getElementById("learnedChk");
+const learnedLabelEl = document.getElementById("learnedLabel");
+
+function gradeToEnglish(pageFirst){
+  // examples: "1年生 p.14", "2年生 p.12", "3年生 p.132"
+  if (!pageFirst) return "";
+  const m = String(pageFirst).match(/^(\d)年生\s*(p\.\d+)/);
+  if (!m) return pageFirst; // fallback
+  const n = Number(m[1]);
+  const p = m[2];
+  const suffix = (n===1) ? "st" : (n===2) ? "nd" : (n===3) ? "rd" : "th";
+  return `${n}${suffix} year ${p}`;
+}
+
+function dataPathForOrder(order){
+  if (order === "textbook") return "../data/vocab_textbook.json";
+  if (order === "alphabet") return "../data/vocab.json";
+  if (order === "id") return "../data/vocab_id.json";
+  return "../data/vocab_textbook.json";
+}
+
+function stopAudio(){
+  if (audioPlayer) {
+    audioPlayer.pause();
+    audioPlayer.currentTime = 0;
+    audioPlayer = null;
+  }
+}
+
+function loadData(order){
+  currentOrder = order;
+  currentIndex = 0;
+  stopAudio();
+
+  fetch(dataPathForOrder(order))
+    .then(res => res.json())
+    .then(data => {
+      entries = data.entries || [];
+      loadEntry();
+    });
+}
+
+function loadEntry(){
+  const entry = entries[currentIndex];
+  if (!entry) return;
+
+  const page = gradeToEnglish(entry.page_first);
+
+  metaLeftEl.textContent = `ID ${entry.id} · ${page}`;
+  progressPillEl.textContent = `${currentIndex + 1} / ${entries.length}`;
+
+  contentEl.textContent = "Tap a button";
+
+  const learned = localStorage.getItem("learned_" + entry.id) === "true";
+  learnedChkEl.checked = learned;
+  learnedLabelEl.textContent = learned ? "Learned" : "Not learned";
+}
+
+function showSpelling(){
+  const entry = entries[currentIndex];
+  if (!entry) return;
+  contentEl.textContent = entry.word || "(no spelling)";
+}
+
+function showMeaning(){
+  const entry = entries[currentIndex];
+  if (!entry) return;
+  const firstSense = entry.senses && entry.senses[0];
+  contentEl.textContent = (firstSense && firstSense.ja) ? firstSense.ja : "(no meaning)";
+}
+
+function playAudio(){
+  const entry = entries[currentIndex];
+  if (!entry) return;
+
+  stopAudio();
+  audioPlayer = new Audio("../audio/" + entry.audio);
+  audioPlayer.play();
+}
+
+function nextCard(){
+  if (currentIndex < entries.length - 1) {
+    currentIndex++;
+    stopAudio();
+    loadEntry();
+  }
+}
+
+function prevCard(){
+  if (currentIndex > 0) {
+    currentIndex--;
+    stopAudio();
+    loadEntry();
+  }
+}
+
+function toggleLearned(){
+  const entry = entries[currentIndex];
+  if (!entry) return;
+
+  const val = learnedChkEl.checked;
+  localStorage.setItem("learned_" + entry.id, String(val));
+  learnedLabelEl.textContent = val ? "Learned" : "Not learned";
+}
+
+function changeOrder(){
+  const sel = document.getElementById("orderSel").value;
+  loadData(sel);
+}
+
+// start
+loadData("textbook");
+</script>
+</body>
+</html>

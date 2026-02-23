@@ -1,0 +1,754 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 48,
+    "range": {
+      "from": "researcher",
+      "to": "run"
+    }
+  },
+  "entries": [
+    {
+      "id": 1867,
+      "section": null,
+      "word": "researcher",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "研究者、調査者",
+          "page": "3年生 p.83"
+        }
+      ],
+      "page_first": "3年生 p.83"
+    },
+    {
+      "id": 1868,
+      "section": null,
+      "word": "respect",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "尊敬する",
+          "page": "1年生 p.75"
+        }
+      ],
+      "page_first": "1年生 p.75"
+    },
+    {
+      "id": 1869,
+      "section": null,
+      "word": "respectfully",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "うやうやしく、丁重に",
+          "page": "2年生 p.93"
+        }
+      ],
+      "page_first": "2年生 p.93"
+    },
+    {
+      "id": 1870,
+      "section": null,
+      "word": "responsible",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "責任感が強い",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    },
+    {
+      "id": 1871,
+      "section": null,
+      "word": "rest",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "休息、睡眠",
+          "page": "3年生 p.30"
+        }
+      ],
+      "page_first": "3年生 p.30"
+    },
+    {
+      "id": 1873,
+      "section": null,
+      "word": "restaurant",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "レストラン、料理店",
+          "page": "1年生 p.82"
+        }
+      ],
+      "page_first": "1年生 p.82"
+    },
+    {
+      "id": 1874,
+      "section": null,
+      "word": "restroom",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（ホテル・劇場などの）トイレ、洗面所",
+          "page": "3年生 p.63"
+        }
+      ],
+      "page_first": "3年生 p.63"
+    },
+    {
+      "id": 1875,
+      "section": null,
+      "word": "result",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "結果",
+          "page": "3年生 p.23"
+        }
+      ],
+      "page_first": "3年生 p.23"
+    },
+    {
+      "id": 1878,
+      "section": null,
+      "word": "return",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "帰る、もどる、もどす",
+          "page": "2年生 p.95"
+        }
+      ],
+      "page_first": "2年生 p.95"
+    },
+    {
+      "id": 1879,
+      "section": null,
+      "word": "revolution",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "革命、大変革",
+          "page": "2年生 p.30"
+        }
+      ],
+      "page_first": "2年生 p.30"
+    },
+    {
+      "id": 1880,
+      "section": null,
+      "word": "rhino",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "サイ",
+          "page": "1年生 p.142"
+        }
+      ],
+      "page_first": "1年生 p.142"
+    },
+    {
+      "id": 1881,
+      "section": null,
+      "word": "rice",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "米",
+          "page": "2年生 p.109"
+        }
+      ],
+      "page_first": "2年生 p.109"
+    },
+    {
+      "id": 1882,
+      "section": null,
+      "word": "rice ball",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "おにぎり",
+          "page": "2年生 p.131"
+        }
+      ],
+      "page_first": "2年生 p.131"
+    },
+    {
+      "id": 1883,
+      "section": null,
+      "word": "rich",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "豊かな、金持ちの",
+          "page": "1年生 p.86"
+        },
+        {
+          "pos": "形",
+          "ja": "こってりした",
+          "page": "2年生 p.129"
+        }
+      ],
+      "page_first": "1年生 p.86"
+    },
+    {
+      "id": 1884,
+      "section": null,
+      "word": "ride",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "（ウマ・自動車・オートバイなどに）乗る",
+          "page": "1年生 p.31"
+        }
+      ],
+      "page_first": "1年生 p.31"
+    },
+    {
+      "id": 1885,
+      "section": null,
+      "word": "right",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "正しい",
+          "page": "1年生 p.58"
+        },
+        {
+          "pos": "副",
+          "ja": "右に",
+          "page": "1年生 p.91"
+        },
+        {
+          "pos": "名",
+          "ja": "右（側）",
+          "page": "1年生 p.91"
+        },
+        {
+          "pos": "形",
+          "ja": "右の",
+          "page": "2年生 p.47"
+        },
+        {
+          "pos": "間",
+          "ja": "（同意を表して）そのとおり",
+          "page": "2年生 p.52"
+        },
+        {
+          "pos": "間",
+          "ja": "（確認のための表現）いいですね",
+          "page": "2年生 p.56"
+        },
+        {
+          "pos": "副",
+          "ja": "すぐ、ただちに、ちょうど",
+          "page": "2年生 p.125"
+        },
+        {
+          "pos": "形",
+          "ja": "正常な、通常の",
+          "page": "3年生 p.22"
+        },
+        {
+          "pos": "名",
+          "ja": "権利",
+          "page": "3年生 p.107"
+        }
+      ],
+      "page_first": "1年生 p.58"
+    },
+    {
+      "id": 1582,
+      "section": null,
+      "word": "right now",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "今すぐ",
+          "page": "3年生 p.18"
+        }
+      ],
+      "page_first": "3年生 p.18"
+    },
+    {
+      "id": 1888,
+      "section": null,
+      "word": "right now",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": null,
+          "page": "3年生 p.18"
+        }
+      ],
+      "page_first": "3年生 p.18"
+    },
+    {
+      "id": 1890,
+      "section": null,
+      "word": "rise",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "（太陽などが）昇る",
+          "page": "1年生 p.115"
+        }
+      ],
+      "page_first": "1年生 p.115"
+    },
+    {
+      "id": 1891,
+      "section": null,
+      "word": "river",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "川",
+          "page": "3年生 p.81"
+        }
+      ],
+      "page_first": "3年生 p.81"
+    },
+    {
+      "id": 1892,
+      "section": null,
+      "word": "road",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "道路、道",
+          "page": "1年生 p.115"
+        }
+      ],
+      "page_first": "1年生 p.115"
+    },
+    {
+      "id": 1893,
+      "section": null,
+      "word": "roast",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "焼いた、あぶった",
+          "page": "2年生 p.43"
+        }
+      ],
+      "page_first": "2年生 p.43"
+    },
+    {
+      "id": 1894,
+      "section": null,
+      "word": "robot",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ロボット",
+          "page": "1年生 p.42"
+        }
+      ],
+      "page_first": "1年生 p.42"
+    },
+    {
+      "id": 1895,
+      "section": null,
+      "word": "rock",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ロック（ミュージック）",
+          "page": "3年生 p.97"
+        },
+        {
+          "pos": "名",
+          "ja": "岩、岩石",
+          "page": "3年生 p.123"
+        }
+      ],
+      "page_first": "3年生 p.97"
+    },
+    {
+      "id": 1896,
+      "section": null,
+      "word": "Rocky Area",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ロッキーエリア（みらい水族館内の施設）",
+          "page": "3年生 p.75"
+        }
+      ],
+      "page_first": "3年生 p.75"
+    },
+    {
+      "id": 1897,
+      "section": null,
+      "word": "roll",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "巻いたもの",
+          "page": "1年生 p.38"
+        }
+      ],
+      "page_first": "1年生 p.38"
+    },
+    {
+      "id": 1898,
+      "section": null,
+      "word": "romantic",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "ロマンチックな、情熱的な",
+          "page": "1年生 p.73"
+        }
+      ],
+      "page_first": "1年生 p.73"
+    },
+    {
+      "id": 1899,
+      "section": null,
+      "word": "roof",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "屋根",
+          "page": "3年生 p.132"
+        }
+      ],
+      "page_first": "3年生 p.132"
+    },
+    {
+      "id": 1900,
+      "section": null,
+      "word": "room",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "部屋、室",
+          "page": "1年生 p.14"
+        }
+      ],
+      "page_first": "1年生 p.14"
+    },
+    {
+      "id": 1901,
+      "section": null,
+      "word": "root",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "応援する、（涙点に）励ます",
+          "page": "2年生 p.20"
+        }
+      ],
+      "page_first": "2年生 p.20"
+    },
+    {
+      "id": 1902,
+      "section": null,
+      "word": "root for ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～を応援する",
+          "page": "2年生 p.20"
+        }
+      ],
+      "page_first": "2年生 p.20"
+    },
+    {
+      "id": 1903,
+      "section": null,
+      "word": "rope",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "縄、ロープ",
+          "page": "3年生 p.19"
+        }
+      ],
+      "page_first": "3年生 p.19"
+    },
+    {
+      "id": 1904,
+      "section": null,
+      "word": "round",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "丸い",
+          "page": "1年生 p.58"
+        }
+      ],
+      "page_first": "1年生 p.58"
+    },
+    {
+      "id": 1905,
+      "section": null,
+      "word": "routine",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "日課、いつもの決まった仕事",
+          "page": "3年生 p.115"
+        }
+      ],
+      "page_first": "3年生 p.115"
+    },
+    {
+      "id": 1906,
+      "section": null,
+      "word": "row",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "列、並び",
+          "page": "3年生 p.118"
+        }
+      ],
+      "page_first": "3年生 p.118"
+    },
+    {
+      "id": 1908,
+      "section": null,
+      "word": "rude",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "無礼な",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    },
+    {
+      "id": 1909,
+      "section": null,
+      "word": "rugby",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ラグビー",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.143"
+    },
+    {
+      "id": 1910,
+      "section": null,
+      "word": "rule",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "規則、ルール",
+          "page": "2年生 p.56"
+        }
+      ],
+      "page_first": "2年生 p.56"
+    },
+    {
+      "id": 1911,
+      "section": null,
+      "word": "ruler",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "定規",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 1912,
+      "section": null,
+      "word": "run",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "走る",
+          "page": "1年生 p.14"
+        },
+        {
+          "pos": "動",
+          "ja": "（川・水などが）流れる",
+          "page": "2年生 p.79"
+        }
+      ],
+      "page_first": "1年生 p.14"
+    }
+  ]
+}

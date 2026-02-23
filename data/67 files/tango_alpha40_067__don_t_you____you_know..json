@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 67,
+    "range": {
+      "from": "～, don’t you?",
+      "to": "～, you know."
+    }
+  },
+  "entries": [
+    {
+      "id": 628,
+      "section": null,
+      "word": "～, don’t you?",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "〜ですよね。",
+          "page": "2年生 p.80"
+        }
+      ],
+      "page_first": "2年生 p.80"
+    },
+    {
+      "id": 1887,
+      "section": null,
+      "word": "～, right?",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～でよろしいですね。",
+          "page": "1年生 p.65"
+        }
+      ],
+      "page_first": "1年生 p.65"
+    },
+    {
+      "id": 1276,
+      "section": null,
+      "word": "～, you know.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～だよね。",
+          "page": "1年生 p.76"
+        }
+      ],
+      "page_first": "1年生 p.76"
+    }
+  ]
+}

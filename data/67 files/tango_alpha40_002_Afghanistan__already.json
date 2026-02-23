@@ -1,0 +1,709 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 2,
+    "range": {
+      "from": "Afghanistan",
+      "to": "already"
+    }
+  },
+  "entries": [
+    {
+      "id": 38,
+      "section": null,
+      "word": "Afghanistan",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "アフガニスタン",
+          "page": "3年生 p.121"
+        }
+      ],
+      "page_first": "3年生 p.121"
+    },
+    {
+      "id": 39,
+      "section": null,
+      "word": "afraid",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "（I’m afraid (that) ...で）残念ながら…",
+          "page": "3年生 p.56"
+        }
+      ],
+      "page_first": "3年生 p.56"
+    },
+    {
+      "id": 40,
+      "section": null,
+      "word": "Africa",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "アフリカ",
+          "page": "2年生 p.19"
+        }
+      ],
+      "page_first": "2年生 p.19"
+    },
+    {
+      "id": 41,
+      "section": null,
+      "word": "African Lion Safari",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "アフリカンライオンサファリ（カナダのサファリパーク）",
+          "page": "2年生 p.29"
+        }
+      ],
+      "page_first": "2年生 p.29"
+    },
+    {
+      "id": 42,
+      "section": null,
+      "word": "after",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "前",
+          "ja": "〜のあとに［で］",
+          "page": "1年生 p.31"
+        }
+      ],
+      "page_first": "1年生 p.31"
+    },
+    {
+      "id": 2560,
+      "section": null,
+      "word": "after a while",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "しばらくすると",
+          "page": "2年生 p.71"
+        }
+      ],
+      "page_first": "2年生 p.71"
+    },
+    {
+      "id": 1949,
+      "section": null,
+      "word": "after school",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "放課後",
+          "page": "1年生 p.31"
+        }
+      ],
+      "page_first": "1年生 p.31"
+    },
+    {
+      "id": 43,
+      "section": null,
+      "word": "afternoon",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "午後",
+          "page": "1年生 p.111"
+        }
+      ],
+      "page_first": "1年生 p.111"
+    },
+    {
+      "id": 44,
+      "section": null,
+      "word": "afterwards",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "そのあとで",
+          "page": "3年生 p.119"
+        }
+      ],
+      "page_first": "3年生 p.119"
+    },
+    {
+      "id": 45,
+      "section": null,
+      "word": "again",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "再び、また",
+          "page": "2年生 p.11"
+        }
+      ],
+      "page_first": "2年生 p.11"
+    },
+    {
+      "id": 46,
+      "section": null,
+      "word": "against",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "前",
+          "ja": "～に対抗して、反対して",
+          "page": "3年生 p.105"
+        }
+      ],
+      "page_first": "3年生 p.105"
+    },
+    {
+      "id": 47,
+      "section": null,
+      "word": "age",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "年齢",
+          "page": "3年生 p.84"
+        }
+      ],
+      "page_first": "3年生 p.84"
+    },
+    {
+      "id": 49,
+      "section": null,
+      "word": "aged",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "（数字の前で）～歳の［で］",
+          "page": "3年生 p.75"
+        }
+      ],
+      "page_first": "3年生 p.75"
+    },
+    {
+      "id": 50,
+      "section": null,
+      "word": "ago",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "（今から）〜前に",
+          "page": "1年生 p.111"
+        }
+      ],
+      "page_first": "1年生 p.111"
+    },
+    {
+      "id": 51,
+      "section": null,
+      "word": "agree",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "同意する、賛成する",
+          "page": "2年生 p.102"
+        }
+      ],
+      "page_first": "2年生 p.102"
+    },
+    {
+      "id": 52,
+      "section": null,
+      "word": "agree with ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～（人・考え）に賛成する",
+          "page": "3年生 p.54"
+        }
+      ],
+      "page_first": "3年生 p.54"
+    },
+    {
+      "id": 53,
+      "section": null,
+      "word": "agricultural chemical",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（ふつう複数形で）農薬",
+          "page": "2年生 p.120"
+        }
+      ],
+      "page_first": "2年生 p.120"
+    },
+    {
+      "id": 54,
+      "section": null,
+      "word": "agriculture",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "農業",
+          "page": "2年生 p.81"
+        }
+      ],
+      "page_first": "2年生 p.81"
+    },
+    {
+      "id": 55,
+      "section": null,
+      "word": "ah",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "間",
+          "ja": "ああ（喜び・悲しみなどを表す発声）",
+          "page": "1年生 p.124"
+        }
+      ],
+      "page_first": "1年生 p.124"
+    },
+    {
+      "id": 56,
+      "section": null,
+      "word": "AI",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "人工知能（＝Artificial Intelligence）",
+          "page": "3年生 p.99"
+        }
+      ],
+      "page_first": "3年生 p.99"
+    },
+    {
+      "id": 57,
+      "section": null,
+      "word": "aim",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "目ざす",
+          "page": "3年生 p.125"
+        }
+      ],
+      "page_first": "3年生 p.125"
+    },
+    {
+      "id": 58,
+      "section": null,
+      "word": "air",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（ふつうtheをつけて）空、空中",
+          "page": "1年生 p.101"
+        }
+      ],
+      "page_first": "1年生 p.101"
+    },
+    {
+      "id": 59,
+      "section": null,
+      "word": "air circulator",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "サーキュレーター（空気循環装置）",
+          "page": "2年生 p.83"
+        }
+      ],
+      "page_first": "2年生 p.83"
+    },
+    {
+      "id": 60,
+      "section": null,
+      "word": "air conditioner",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "エアコン",
+          "page": "2年生 p.83"
+        }
+      ],
+      "page_first": "2年生 p.83"
+    },
+    {
+      "id": 61,
+      "section": null,
+      "word": "airplane",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "飛行機",
+          "page": "1年生 p.76"
+        }
+      ],
+      "page_first": "1年生 p.76"
+    },
+    {
+      "id": 62,
+      "section": null,
+      "word": "airport",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "空港",
+          "page": "2年生 p.92"
+        }
+      ],
+      "page_first": "2年生 p.92"
+    },
+    {
+      "id": 63,
+      "section": null,
+      "word": "Alex",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "アレックス（男子の名）",
+          "page": "3年生 p.57"
+        }
+      ],
+      "page_first": "3年生 p.57"
+    },
+    {
+      "id": 64,
+      "section": null,
+      "word": "Alice",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "アリス（女子の名）",
+          "page": "2年生 p.73"
+        }
+      ],
+      "page_first": "2年生 p.73"
+    },
+    {
+      "id": 65,
+      "section": null,
+      "word": "all",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "すべての",
+          "page": "1年生 p.66"
+        },
+        {
+          "pos": "代",
+          "ja": "みんな、全部",
+          "page": "1年生 p.127"
+        }
+      ],
+      "page_first": "1年生 p.66"
+    },
+    {
+      "id": 560,
+      "section": null,
+      "word": "all day",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "一日中",
+          "page": "1年生 p.115"
+        }
+      ],
+      "page_first": "1年生 p.115"
+    },
+    {
+      "id": 66,
+      "section": null,
+      "word": "all over ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～のいたるところに",
+          "page": "2年生 p.101"
+        }
+      ],
+      "page_first": "2年生 p.101"
+    },
+    {
+      "id": 67,
+      "section": null,
+      "word": "all right",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": null,
+          "page": "3年生 p.116"
+        }
+      ],
+      "page_first": "3年生 p.116"
+    },
+    {
+      "id": 1886,
+      "section": null,
+      "word": "all right",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "申し分ない、問題ない",
+          "page": "3年生 p.116"
+        }
+      ],
+      "page_first": "3年生 p.116"
+    },
+    {
+      "id": 68,
+      "section": null,
+      "word": "all the time",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": null,
+          "page": "3年生 p.54"
+        }
+      ],
+      "page_first": "3年生 p.54"
+    },
+    {
+      "id": 2347,
+      "section": null,
+      "word": "all the time",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "いつでも",
+          "page": "3年生 p.54"
+        }
+      ],
+      "page_first": "3年生 p.54"
+    },
+    {
+      "id": 69,
+      "section": null,
+      "word": "alligator",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ワニ（米国・中国産）",
+          "page": "1年生 p.142"
+        }
+      ],
+      "page_first": "1年生 p.142"
+    },
+    {
+      "id": 70,
+      "section": null,
+      "word": "almost",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "ほとんど",
+          "page": "1年生 p.103"
+        }
+      ],
+      "page_first": "1年生 p.103"
+    },
+    {
+      "id": 71,
+      "section": null,
+      "word": "alone",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "孤独な、たったひとりの",
+          "page": "3年生 p.101"
+        },
+        {
+          "pos": "副",
+          "ja": "ひとりで",
+          "page": "3年生 p.115"
+        }
+      ],
+      "page_first": "3年生 p.101"
+    },
+    {
+      "id": 72,
+      "section": null,
+      "word": "along",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "前",
+          "ja": "～に沿って",
+          "page": "3年生 p.63"
+        }
+      ],
+      "page_first": "3年生 p.63"
+    },
+    {
+      "id": 74,
+      "section": null,
+      "word": "already",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "すでに、もう",
+          "page": "3年生 p.19"
+        }
+      ],
+      "page_first": "3年生 p.19"
+    }
+  ]
+}

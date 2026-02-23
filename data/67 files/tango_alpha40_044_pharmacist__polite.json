@@ -1,0 +1,744 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 44,
+    "range": {
+      "from": "pharmacist",
+      "to": "polite"
+    }
+  },
+  "entries": [
+    {
+      "id": 1700,
+      "section": null,
+      "word": "pharmacist",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "薬剤師",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 1701,
+      "section": null,
+      "word": "pharmacy",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "調剤薬局",
+          "page": "3年生 p.129"
+        }
+      ],
+      "page_first": "3年生 p.129"
+    },
+    {
+      "id": 1702,
+      "section": null,
+      "word": "phone",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "電話",
+          "page": "3年生 p.38"
+        }
+      ],
+      "page_first": "3年生 p.38"
+    },
+    {
+      "id": 1703,
+      "section": null,
+      "word": "photo",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "写真",
+          "page": "1年生 p.65"
+        }
+      ],
+      "page_first": "1年生 p.65"
+    },
+    {
+      "id": 1704,
+      "section": null,
+      "word": "photographer",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "写真家",
+          "page": "1年生 p.122"
+        }
+      ],
+      "page_first": "1年生 p.122"
+    },
+    {
+      "id": 1705,
+      "section": null,
+      "word": "pianist",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ピアニスト",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 1706,
+      "section": null,
+      "word": "piano",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ピアノ",
+          "page": "1年生 p.31"
+        }
+      ],
+      "page_first": "1年生 p.31"
+    },
+    {
+      "id": 1707,
+      "section": null,
+      "word": "pickle",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（ふつう複数形で）漬物、ピクルス",
+          "page": "3年生 p.15"
+        }
+      ],
+      "page_first": "3年生 p.15"
+    },
+    {
+      "id": 1708,
+      "section": null,
+      "word": "picnic",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ピクニック",
+          "page": "2年生 p.15"
+        }
+      ],
+      "page_first": "2年生 p.15"
+    },
+    {
+      "id": 1709,
+      "section": null,
+      "word": "picture",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "絵、写真",
+          "page": "1年生 p.32"
+        }
+      ],
+      "page_first": "1年生 p.32"
+    },
+    {
+      "id": 1711,
+      "section": null,
+      "word": "pie",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "パイ（肉やくだものなどを練り粉で包んで焼いた料理・菓子）",
+          "page": "1年生 p.50"
+        }
+      ],
+      "page_first": "1年生 p.50"
+    },
+    {
+      "id": 1712,
+      "section": null,
+      "word": "piece",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "1つ、1片",
+          "page": "2年生 p.73"
+        }
+      ],
+      "page_first": "2年生 p.73"
+    },
+    {
+      "id": 1714,
+      "section": null,
+      "word": "pig",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ブタ",
+          "page": "1年生 p.142"
+        }
+      ],
+      "page_first": "1年生 p.142"
+    },
+    {
+      "id": 1715,
+      "section": null,
+      "word": "piggy",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "ブタの形の",
+          "page": "3年生 p.116"
+        }
+      ],
+      "page_first": "3年生 p.116"
+    },
+    {
+      "id": 1716,
+      "section": null,
+      "word": "pilaf",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ピラフ",
+          "page": "2年生 p.131"
+        }
+      ],
+      "page_first": "2年生 p.131"
+    },
+    {
+      "id": 1717,
+      "section": null,
+      "word": "pilot",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "パイロット",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 1718,
+      "section": null,
+      "word": "pineapple",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "パイナップル",
+          "page": "1年生 p.101"
+        }
+      ],
+      "page_first": "1年生 p.101"
+    },
+    {
+      "id": 1719,
+      "section": null,
+      "word": "pink",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "ピンク色（の）",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 1720,
+      "section": null,
+      "word": "pioneer",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "先駆者、開拓者",
+          "page": "2年生 p.120"
+        }
+      ],
+      "page_first": "2年生 p.120"
+    },
+    {
+      "id": 1721,
+      "section": null,
+      "word": "pirate",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "海賊",
+          "page": "1年生 p.73"
+        }
+      ],
+      "page_first": "1年生 p.73"
+    },
+    {
+      "id": 1722,
+      "section": null,
+      "word": "pizza",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ピザ、ピッツァ",
+          "page": "1年生 p.19"
+        }
+      ],
+      "page_first": "1年生 p.19"
+    },
+    {
+      "id": 1723,
+      "section": null,
+      "word": "place",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "場所",
+          "page": "1年生 p.76"
+        },
+        {
+          "pos": "名",
+          "ja": "順位",
+          "page": "2年生 p.66"
+        },
+        {
+          "pos": "動",
+          "ja": "置く、設置する",
+          "page": "2年生 p.69"
+        }
+      ],
+      "page_first": "1年生 p.76"
+    },
+    {
+      "id": 1726,
+      "section": null,
+      "word": "plain",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "あっさりした",
+          "page": "2年生 p.129"
+        }
+      ],
+      "page_first": "2年生 p.129"
+    },
+    {
+      "id": 1727,
+      "section": null,
+      "word": "plan",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "予定、計画",
+          "page": "2年生 p.9"
+        },
+        {
+          "pos": "動",
+          "ja": "計画［予定］を立てる",
+          "page": "2年生 p.11"
+        }
+      ],
+      "page_first": "2年生 p.9"
+    },
+    {
+      "id": 1728,
+      "section": null,
+      "word": "plane",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "飛行機",
+          "page": "1年生 p.83"
+        }
+      ],
+      "page_first": "1年生 p.83"
+    },
+    {
+      "id": 1729,
+      "section": null,
+      "word": "planet",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（theをつけて）地球（特に地球環境を話題にするときに用いる）、惑星",
+          "page": "2年生 p.120"
+        }
+      ],
+      "page_first": "2年生 p.120"
+    },
+    {
+      "id": 1730,
+      "section": null,
+      "word": "plant",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "植物",
+          "page": "2年生 p.81"
+        }
+      ],
+      "page_first": "2年生 p.81"
+    },
+    {
+      "id": 1731,
+      "section": null,
+      "word": "plastic",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "プラスチック［ビニール］（製）の",
+          "page": "3年生 p.80"
+        },
+        {
+          "pos": "名",
+          "ja": "プラスチック、ビニール",
+          "page": "3年生 p.83"
+        }
+      ],
+      "page_first": "3年生 p.80"
+    },
+    {
+      "id": 1732,
+      "section": null,
+      "word": "plastic bag",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ビニール袋",
+          "page": "2年生 p.86"
+        }
+      ],
+      "page_first": "2年生 p.86"
+    },
+    {
+      "id": 1733,
+      "section": null,
+      "word": "play",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "（ゲーム、球技などを）する",
+          "page": "1年生 p.13"
+        },
+        {
+          "pos": "動",
+          "ja": "（楽器を）ひく、演奏する",
+          "page": "1年生 p.14"
+        },
+        {
+          "pos": "動",
+          "ja": "遊ぶ",
+          "page": "1年生 p.42"
+        },
+        {
+          "pos": "名",
+          "ja": "プレー、（試合中の）行為",
+          "page": "1年生 p.94"
+        }
+      ],
+      "page_first": "1年生 p.13"
+    },
+    {
+      "id": 1734,
+      "section": null,
+      "word": "player",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（運動）選手",
+          "page": "1年生 p.63"
+        }
+      ],
+      "page_first": "1年生 p.63"
+    },
+    {
+      "id": 1735,
+      "section": null,
+      "word": "please",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "間",
+          "ja": "どうぞ、どうか、お願いします",
+          "page": "1年生 p.50"
+        }
+      ],
+      "page_first": "1年生 p.50"
+    },
+    {
+      "id": 1736,
+      "section": null,
+      "word": "pleased",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "うれしい",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 1738,
+      "section": null,
+      "word": "pocket",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ポケット",
+          "page": "2年生 p.105"
+        }
+      ],
+      "page_first": "2年生 p.105"
+    },
+    {
+      "id": 1739,
+      "section": null,
+      "word": "point",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "点数、得点",
+          "page": "1年生 p.17"
+        },
+        {
+          "pos": "名",
+          "ja": "特徴、特色",
+          "page": "2年生 p.30"
+        },
+        {
+          "pos": "動",
+          "ja": "指さす",
+          "page": "3年生 p.61"
+        }
+      ],
+      "page_first": "1年生 p.17"
+    },
+    {
+      "id": 1740,
+      "section": null,
+      "word": "poisoning",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "中毒",
+          "page": "3年生 p.50"
+        }
+      ],
+      "page_first": "3年生 p.50"
+    },
+    {
+      "id": 1741,
+      "section": null,
+      "word": "police box",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "交番",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    },
+    {
+      "id": 1742,
+      "section": null,
+      "word": "police officer",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "警察官",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 1743,
+      "section": null,
+      "word": "police station",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "警察署",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    },
+    {
+      "id": 1744,
+      "section": null,
+      "word": "polite",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "礼儀正しい、ていねいな",
+          "page": "1年生 p.26"
+        }
+      ],
+      "page_first": "1年生 p.26"
+    }
+  ]
+}

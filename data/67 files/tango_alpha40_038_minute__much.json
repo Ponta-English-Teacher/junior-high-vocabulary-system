@@ -1,0 +1,769 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 38,
+    "range": {
+      "from": "minute",
+      "to": "much"
+    }
+  },
+  "entries": [
+    {
+      "id": 1460,
+      "section": null,
+      "word": "minute",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（時間の）分",
+          "page": "2年生 p.117"
+        }
+      ],
+      "page_first": "2年生 p.117"
+    },
+    {
+      "id": 1461,
+      "section": null,
+      "word": "miracle",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "奇跡",
+          "page": "3年生 p.121"
+        }
+      ],
+      "page_first": "3年生 p.121"
+    },
+    {
+      "id": 1462,
+      "section": null,
+      "word": "miraculously",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "奇跡的に",
+          "page": "3年生 p.109"
+        }
+      ],
+      "page_first": "3年生 p.109"
+    },
+    {
+      "id": 1463,
+      "section": null,
+      "word": "Mirai Fish Market",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "みらいフィッシュマーケット（架空の魚市場の名）",
+          "page": "1年生 p.106"
+        }
+      ],
+      "page_first": "1年生 p.106"
+    },
+    {
+      "id": 1464,
+      "section": null,
+      "word": "miserable",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "みじめな、不幸な",
+          "page": "3年生 p.108"
+        }
+      ],
+      "page_first": "3年生 p.108"
+    },
+    {
+      "id": 1465,
+      "section": null,
+      "word": "miso-flavored",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "みそ味［風味］の",
+          "page": "2年生 p.43"
+        }
+      ],
+      "page_first": "2年生 p.43"
+    },
+    {
+      "id": 1466,
+      "section": null,
+      "word": "miss",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "〜がいなくてさびしく思う",
+          "page": "1年生 p.140"
+        },
+        {
+          "pos": "動",
+          "ja": "見そこなう、～しそこなう",
+          "page": "2年生 p.30"
+        }
+      ],
+      "page_first": "1年生 p.140"
+    },
+    {
+      "id": 1467,
+      "section": null,
+      "word": "miss out on ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（チャンスなどを）のがす、見落とす",
+          "page": "3年生 p.94"
+        }
+      ],
+      "page_first": "3年生 p.94"
+    },
+    {
+      "id": 1468,
+      "section": null,
+      "word": "mission",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "使節、任務、使命",
+          "page": "2年生 p.93"
+        }
+      ],
+      "page_first": "2年生 p.93"
+    },
+    {
+      "id": 1469,
+      "section": null,
+      "word": "mistake",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "間違い",
+          "page": "2年生 p.69"
+        }
+      ],
+      "page_first": "2年生 p.69"
+    },
+    {
+      "id": 1471,
+      "section": null,
+      "word": "mmm",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "間",
+          "ja": "（考えながら）うーん",
+          "page": "1年生 p.128"
+        },
+        {
+          "pos": "間",
+          "ja": "（食べ物を気に入っていることを表して）うーん",
+          "page": "2年生 p.108"
+        }
+      ],
+      "page_first": "1年生 p.128"
+    },
+    {
+      "id": 1472,
+      "section": null,
+      "word": "model",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "模範、手本",
+          "page": "1年生 p.94"
+        }
+      ],
+      "page_first": "1年生 p.94"
+    },
+    {
+      "id": 1473,
+      "section": null,
+      "word": "mom",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "お母さん、ママ",
+          "page": "1年生 p.103"
+        }
+      ],
+      "page_first": "1年生 p.103"
+    },
+    {
+      "id": 1474,
+      "section": null,
+      "word": "moment",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "瞬間、ちょっとの間",
+          "page": "2年生 p.50"
+        }
+      ],
+      "page_first": "2年生 p.50"
+    },
+    {
+      "id": 1476,
+      "section": null,
+      "word": "Monday",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "月曜日",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 1477,
+      "section": null,
+      "word": "money",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "お金",
+          "page": "2年生 p.18"
+        }
+      ],
+      "page_first": "2年生 p.18"
+    },
+    {
+      "id": 1478,
+      "section": null,
+      "word": "monkey",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "サル",
+          "page": "1年生 p.16"
+        }
+      ],
+      "page_first": "1年生 p.16"
+    },
+    {
+      "id": 1479,
+      "section": null,
+      "word": "monster",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "怪獣、モンスター",
+          "page": "1年生 p.73"
+        }
+      ],
+      "page_first": "1年生 p.73"
+    },
+    {
+      "id": 1480,
+      "section": null,
+      "word": "month",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（暦の）月、ひと月",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 1481,
+      "section": null,
+      "word": "Montreal",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "モントリオール（カナダの都市）",
+          "page": "2年生 p.29"
+        }
+      ],
+      "page_first": "2年生 p.29"
+    },
+    {
+      "id": 1482,
+      "section": null,
+      "word": "monument",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "記念碑、慰霊碑",
+          "page": "2年生 p.112"
+        }
+      ],
+      "page_first": "2年生 p.112"
+    },
+    {
+      "id": 1483,
+      "section": null,
+      "word": "moon",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "月",
+          "page": "2年生 p.125"
+        }
+      ],
+      "page_first": "2年生 p.125"
+    },
+    {
+      "id": 1484,
+      "section": null,
+      "word": "moral education",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "道徳（科目）",
+          "page": "1年生 p.142"
+        }
+      ],
+      "page_first": "1年生 p.142"
+    },
+    {
+      "id": 1485,
+      "section": null,
+      "word": "more",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "（形容詞・副詞の前で比較級を作る）もっと",
+          "page": "2年生 p.76"
+        },
+        {
+          "pos": "副",
+          "ja": "より多く",
+          "page": "2年生 p.93"
+        },
+        {
+          "pos": "形",
+          "ja": "もっと多くの（many、muchの比較級）",
+          "page": "3年生 p.13"
+        }
+      ],
+      "page_first": "2年生 p.76"
+    },
+    {
+      "id": 1486,
+      "section": null,
+      "word": "more than ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～より多い",
+          "page": "2年生 p.93"
+        }
+      ],
+      "page_first": "2年生 p.93"
+    },
+    {
+      "id": 1488,
+      "section": null,
+      "word": "morning",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "朝",
+          "page": "1年生 p.75"
+        }
+      ],
+      "page_first": "1年生 p.75"
+    },
+    {
+      "id": 1489,
+      "section": null,
+      "word": "most",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "（形容詞・副詞の最上級を作る）もっとも",
+          "page": "2年生 p.76"
+        },
+        {
+          "pos": "名",
+          "ja": "もっとも多くのもの",
+          "page": "2年生 p.113"
+        },
+        {
+          "pos": "名",
+          "ja": "大部分",
+          "page": "2年生 p.126"
+        }
+      ],
+      "page_first": "2年生 p.76"
+    },
+    {
+      "id": 1491,
+      "section": null,
+      "word": "mostly",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "大部分は、おもに",
+          "page": "3年生 p.83"
+        }
+      ],
+      "page_first": "3年生 p.83"
+    },
+    {
+      "id": 1492,
+      "section": null,
+      "word": "mother",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "お母さん、母",
+          "page": "1年生 p.39"
+        }
+      ],
+      "page_first": "1年生 p.39"
+    },
+    {
+      "id": 1493,
+      "section": null,
+      "word": "mountain",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "山",
+          "page": "3年生 p.67"
+        }
+      ],
+      "page_first": "3年生 p.67"
+    },
+    {
+      "id": 1494,
+      "section": null,
+      "word": "mouse",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ハツカネズミ",
+          "page": "1年生 p.142"
+        }
+      ],
+      "page_first": "1年生 p.142"
+    },
+    {
+      "id": 1495,
+      "section": null,
+      "word": "mouth",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "口",
+          "page": "2年生 p.47"
+        }
+      ],
+      "page_first": "2年生 p.47"
+    },
+    {
+      "id": 1496,
+      "section": null,
+      "word": "move",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "引っ越す",
+          "page": "2年生 p.11"
+        },
+        {
+          "pos": "動",
+          "ja": "動く、移動する",
+          "page": "2年生 p.80"
+        },
+        {
+          "pos": "動",
+          "ja": "動かす、移動させる",
+          "page": "3年生 p.9"
+        },
+        {
+          "pos": "動",
+          "ja": "感動させる",
+          "page": "3年生 p.107"
+        }
+      ],
+      "page_first": "2年生 p.11"
+    },
+    {
+      "id": 1497,
+      "section": null,
+      "word": "movement",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（社会的な）運動",
+          "page": "3年生 p.71"
+        },
+        {
+          "pos": "名",
+          "ja": "動き、動作",
+          "page": "3年生 p.99"
+        }
+      ],
+      "page_first": "3年生 p.71"
+    },
+    {
+      "id": 1498,
+      "section": null,
+      "word": "movie",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "映画",
+          "page": "1年生 p.26"
+        }
+      ],
+      "page_first": "1年生 p.26"
+    },
+    {
+      "id": 1499,
+      "section": null,
+      "word": "movie director",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "映画監督",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 1500,
+      "section": null,
+      "word": "Mr.",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "〜さん、〜先生（男性に対する敬称）",
+          "page": "1年生 p.104"
+        }
+      ],
+      "page_first": "1年生 p.104"
+    },
+    {
+      "id": 1501,
+      "section": null,
+      "word": "Ms.",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "〜さん、〜先生（女性に対する敬称）",
+          "page": "1年生 p.12"
+        }
+      ],
+      "page_first": "1年生 p.12"
+    },
+    {
+      "id": 1502,
+      "section": null,
+      "word": "Mt.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（山の名の前に置いて）～山",
+          "page": "2年生 p.77"
+        }
+      ],
+      "page_first": "2年生 p.77"
+    },
+    {
+      "id": 1503,
+      "section": null,
+      "word": "much",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "おおいに",
+          "page": "1年生 p.31"
+        },
+        {
+          "pos": "代",
+          "ja": "たくさん、多額",
+          "page": "1年生 p.50"
+        },
+        {
+          "pos": "形",
+          "ja": "たくさんの、多くの",
+          "page": "2年生 p.13"
+        },
+        {
+          "pos": "副",
+          "ja": "（形容詞・副詞の比較級を修飾して）ずっと、はるかに",
+          "page": "3年生 p.103"
+        },
+        {
+          "pos": "副",
+          "ja": "（形容詞の原級を修飾して）とても、非常に",
+          "page": "3年生 p.122"
+        }
+      ],
+      "page_first": "1年生 p.31"
+    }
+  ]
+}

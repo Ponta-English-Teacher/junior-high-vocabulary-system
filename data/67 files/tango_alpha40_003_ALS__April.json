@@ -1,0 +1,739 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 3,
+    "range": {
+      "from": "ALS",
+      "to": "April"
+    }
+  },
+  "entries": [
+    {
+      "id": 75,
+      "section": null,
+      "word": "ALS",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "筋萎縮性側索硬化症（＝Amyotrophic Lateral Sclerosis）",
+          "page": "3年生 p.99"
+        }
+      ],
+      "page_first": "3年生 p.99"
+    },
+    {
+      "id": 76,
+      "section": null,
+      "word": "also",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "〜もまた、さらに",
+          "page": "1年生 p.110"
+        }
+      ],
+      "page_first": "1年生 p.110"
+    },
+    {
+      "id": 77,
+      "section": null,
+      "word": "always",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "いつも",
+          "page": "1年生 p.72"
+        }
+      ],
+      "page_first": "1年生 p.72"
+    },
+    {
+      "id": 80,
+      "section": null,
+      "word": "am",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "〜です、〜である（主語がIのときのbe動詞現在形）",
+          "page": "1年生 p.22"
+        },
+        {
+          "pos": "動",
+          "ja": "（〜に）いる",
+          "page": "1年生 p.28"
+        },
+        {
+          "pos": "助",
+          "ja": "（現在進行形を作る）",
+          "page": "1年生 p.100"
+        }
+      ],
+      "page_first": "1年生 p.22"
+    },
+    {
+      "id": 81,
+      "section": null,
+      "word": "amazing",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "すばらしい",
+          "page": "1年生 p.76"
+        }
+      ],
+      "page_first": "1年生 p.76"
+    },
+    {
+      "id": 82,
+      "section": null,
+      "word": "ambassador",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "大使",
+          "page": "2年生 p.94"
+        }
+      ],
+      "page_first": "2年生 p.94"
+    },
+    {
+      "id": 83,
+      "section": null,
+      "word": "ambitious",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "野心的な",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    },
+    {
+      "id": 84,
+      "section": null,
+      "word": "American",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "アメリカ（人）の",
+          "page": "2年生 p.35"
+        }
+      ],
+      "page_first": "2年生 p.35"
+    },
+    {
+      "id": 85,
+      "section": null,
+      "word": "American football",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "アメリカンフットボール",
+          "page": "2年生 p.131"
+        }
+      ],
+      "page_first": "2年生 p.131"
+    },
+    {
+      "id": 86,
+      "section": null,
+      "word": "among",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "前",
+          "ja": "～の間の［に、で］",
+          "page": "3年生 p.132"
+        }
+      ],
+      "page_first": "3年生 p.132"
+    },
+    {
+      "id": 87,
+      "section": null,
+      "word": "amount",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "量",
+          "page": "2年生 p.42"
+        }
+      ],
+      "page_first": "2年生 p.42"
+    },
+    {
+      "id": 88,
+      "section": null,
+      "word": "amusement park",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "遊園地",
+          "page": "2年生 p.15"
+        }
+      ],
+      "page_first": "2年生 p.15"
+    },
+    {
+      "id": 89,
+      "section": null,
+      "word": "an",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "冠",
+          "ja": "1つの、1人の",
+          "page": "1年生 p.50"
+        }
+      ],
+      "page_first": "1年生 p.50"
+    },
+    {
+      "id": 90,
+      "section": null,
+      "word": "and",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "接",
+          "ja": "〜と、そして",
+          "page": "1年生 p.14"
+        }
+      ],
+      "page_first": "1年生 p.14"
+    },
+    {
+      "id": 91,
+      "section": null,
+      "word": "angel",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "天使",
+          "page": "1年生 p.16"
+        }
+      ],
+      "page_first": "1年生 p.16"
+    },
+    {
+      "id": 92,
+      "section": null,
+      "word": "angry",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "怒って、腹を立てて",
+          "page": "3年生 p.51"
+        }
+      ],
+      "page_first": "3年生 p.51"
+    },
+    {
+      "id": 94,
+      "section": null,
+      "word": "animal",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "動物",
+          "page": "1年生 p.85"
+        }
+      ],
+      "page_first": "1年生 p.85"
+    },
+    {
+      "id": 95,
+      "section": null,
+      "word": "animator",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "アニメーター",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 96,
+      "section": null,
+      "word": "Ann",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "アン（女子の名）",
+          "page": "1年生 p.31"
+        }
+      ],
+      "page_first": "1年生 p.31"
+    },
+    {
+      "id": 97,
+      "section": null,
+      "word": "announce",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "発表する、知らせる",
+          "page": "3年生 p.51"
+        }
+      ],
+      "page_first": "3年生 p.51"
+    },
+    {
+      "id": 98,
+      "section": null,
+      "word": "announcement",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "発表",
+          "page": "3年生 p.94"
+        }
+      ],
+      "page_first": "3年生 p.94"
+    },
+    {
+      "id": 99,
+      "section": null,
+      "word": "announcer",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "アナウンサー",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 100,
+      "section": null,
+      "word": "annoyed",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "困って",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 101,
+      "section": null,
+      "word": "another",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "別の、もう1つ［1人］の",
+          "page": "2年生 p.79"
+        },
+        {
+          "pos": "形",
+          "ja": "（数量の前で）さらに［もう］～の",
+          "page": "2年生 p.127"
+        }
+      ],
+      "page_first": "2年生 p.79"
+    },
+    {
+      "id": 103,
+      "section": null,
+      "word": "answer",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "答え",
+          "page": "1年生 p.58"
+        },
+        {
+          "pos": "動",
+          "ja": "答える、返事をする",
+          "page": "2年生 p.48"
+        }
+      ],
+      "page_first": "1年生 p.58"
+    },
+    {
+      "id": 104,
+      "section": null,
+      "word": "ant",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "アリ",
+          "page": "1年生 p.53"
+        }
+      ],
+      "page_first": "1年生 p.53"
+    },
+    {
+      "id": 105,
+      "section": null,
+      "word": "anxious",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "不安な",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 106,
+      "section": null,
+      "word": "any",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "（疑問文で）いくらかの、いくつかの、何かの",
+          "page": "1年生 p.34"
+        },
+        {
+          "pos": "形",
+          "ja": "（否定文で）少しの［1つの、1人の］〜も（…ない）",
+          "page": "1年生 p.63"
+        },
+        {
+          "pos": "形",
+          "ja": "（if ～の文で）何か",
+          "page": "2年生 p.56"
+        }
+      ],
+      "page_first": "1年生 p.34"
+    },
+    {
+      "id": 107,
+      "section": null,
+      "word": "Anya",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "アーニャ（女子の名）",
+          "page": "1年生 p.33"
+        }
+      ],
+      "page_first": "1年生 p.33"
+    },
+    {
+      "id": 108,
+      "section": null,
+      "word": "anyone",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "（疑問文で）だれか",
+          "page": "3年生 p.93"
+        },
+        {
+          "pos": "代",
+          "ja": "（否定文で）だれも（～ない）",
+          "page": "3年生 p.117"
+        }
+      ],
+      "page_first": "3年生 p.93"
+    },
+    {
+      "id": 109,
+      "section": null,
+      "word": "anything",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "何か",
+          "page": "1年生 p.78"
+        },
+        {
+          "pos": "代",
+          "ja": "（否定文で）何も（〜ない）",
+          "page": "1年生 p.100"
+        }
+      ],
+      "page_first": "1年生 p.78"
+    },
+    {
+      "id": 110,
+      "section": null,
+      "word": "anywhere",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "（疑問文で）どこかに",
+          "page": "1年生 p.111"
+        }
+      ],
+      "page_first": "1年生 p.111"
+    },
+    {
+      "id": 111,
+      "section": null,
+      "word": "Anywhere Door",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "どこでもドア（マンガ『ドラえもん』に登場する行きたい場所に行ける未来の道具）",
+          "page": "3年生 p.100"
+        }
+      ],
+      "page_first": "3年生 p.100"
+    },
+    {
+      "id": 112,
+      "section": null,
+      "word": "Apollo 13",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "アポロ13号",
+          "page": "2年生 p.124"
+        }
+      ],
+      "page_first": "2年生 p.124"
+    },
+    {
+      "id": 113,
+      "section": null,
+      "word": "apologize",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "あやまる",
+          "page": "2年生 p.117"
+        }
+      ],
+      "page_first": "2年生 p.117"
+    },
+    {
+      "id": 114,
+      "section": null,
+      "word": "appear",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "現れる",
+          "page": "2年生 p.127"
+        }
+      ],
+      "page_first": "2年生 p.127"
+    },
+    {
+      "id": 115,
+      "section": null,
+      "word": "apple",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "リンゴ",
+          "page": "1年生 p.16"
+        }
+      ],
+      "page_first": "1年生 p.16"
+    },
+    {
+      "id": 116,
+      "section": null,
+      "word": "approach",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "近づく、接近する",
+          "page": "2年生 p.126"
+        }
+      ],
+      "page_first": "2年生 p.126"
+    },
+    {
+      "id": 117,
+      "section": null,
+      "word": "apricot",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "アンズ",
+          "page": "1年生 p.142"
+        }
+      ],
+      "page_first": "1年生 p.142"
+    },
+    {
+      "id": 118,
+      "section": null,
+      "word": "April",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "4月",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    }
+  ]
+}

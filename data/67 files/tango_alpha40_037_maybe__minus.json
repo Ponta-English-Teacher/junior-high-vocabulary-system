@@ -1,0 +1,719 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 37,
+    "range": {
+      "from": "maybe",
+      "to": "minus"
+    }
+  },
+  "entries": [
+    {
+      "id": 1419,
+      "section": null,
+      "word": "maybe",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "たぶん、おそらく",
+          "page": "2年生 p.15"
+        }
+      ],
+      "page_first": "2年生 p.15"
+    },
+    {
+      "id": 1420,
+      "section": null,
+      "word": "mayonnaise",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "マヨネーズ",
+          "page": "2年生 p.86"
+        }
+      ],
+      "page_first": "2年生 p.86"
+    },
+    {
+      "id": 1421,
+      "section": null,
+      "word": "me",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "（Iの代わりに）私",
+          "page": "1年生 p.10"
+        },
+        {
+          "pos": "代",
+          "ja": "私を［に］",
+          "page": "1年生 p.23"
+        }
+      ],
+      "page_first": "1年生 p.10"
+    },
+    {
+      "id": 1422,
+      "section": null,
+      "word": "meal",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "食事",
+          "page": "1年生 p.50"
+        }
+      ],
+      "page_first": "1年生 p.50"
+    },
+    {
+      "id": 1423,
+      "section": null,
+      "word": "mean",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "意味する、意図する",
+          "page": "1年生 p.66"
+        },
+        {
+          "pos": "形",
+          "ja": "意地悪な",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.66"
+    },
+    {
+      "id": 1424,
+      "section": null,
+      "word": "meaning",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（真の）意義、意味",
+          "page": "3年生 p.48"
+        }
+      ],
+      "page_first": "3年生 p.48"
+    },
+    {
+      "id": 1425,
+      "section": null,
+      "word": "meaningful",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "意味のある、有意義な",
+          "page": "3年生 p.52"
+        }
+      ],
+      "page_first": "3年生 p.52"
+    },
+    {
+      "id": 1426,
+      "section": null,
+      "word": "measure",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（しばしば複数形で）対策、手段",
+          "page": "3年生 p.91"
+        }
+      ],
+      "page_first": "3年生 p.91"
+    },
+    {
+      "id": 1427,
+      "section": null,
+      "word": "meat",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "肉",
+          "page": "1年生 p.55"
+        }
+      ],
+      "page_first": "1年生 p.55"
+    },
+    {
+      "id": 1428,
+      "section": null,
+      "word": "meatball",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ミートボール",
+          "page": "3年生 p.15"
+        }
+      ],
+      "page_first": "3年生 p.15"
+    },
+    {
+      "id": 1429,
+      "section": null,
+      "word": "mechanical pencil",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "シャープペンシル",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 1430,
+      "section": null,
+      "word": "medical",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "医療の、内科の",
+          "page": "1年生 p.111"
+        }
+      ],
+      "page_first": "1年生 p.111"
+    },
+    {
+      "id": 1431,
+      "section": null,
+      "word": "medicine",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "薬",
+          "page": "3年生 p.69"
+        }
+      ],
+      "page_first": "3年生 p.69"
+    },
+    {
+      "id": 1432,
+      "section": null,
+      "word": "medium",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "中間の",
+          "page": "1年生 p.50"
+        },
+        {
+          "pos": "形",
+          "ja": "（肉の焼き方が）ミディアムの",
+          "page": "2年生 p.61"
+        }
+      ],
+      "page_first": "1年生 p.50"
+    },
+    {
+      "id": 1433,
+      "section": null,
+      "word": "meet",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "会う",
+          "page": "1年生 p.14"
+        },
+        {
+          "pos": "動",
+          "ja": "（災難・事故などに）遭遇する、直面する",
+          "page": "2年生 p.93"
+        }
+      ],
+      "page_first": "1年生 p.14"
+    },
+    {
+      "id": 1435,
+      "section": null,
+      "word": "Meg",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "メグ（女子の名）",
+          "page": "1年生 p.63"
+        }
+      ],
+      "page_first": "1年生 p.63"
+    },
+    {
+      "id": 1436,
+      "section": null,
+      "word": "melon",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "メロン",
+          "page": "1年生 p.142"
+        }
+      ],
+      "page_first": "1年生 p.142"
+    },
+    {
+      "id": 1437,
+      "section": null,
+      "word": "member",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "一員、メンバー",
+          "page": "1年生 p.50"
+        }
+      ],
+      "page_first": "1年生 p.50"
+    },
+    {
+      "id": 1438,
+      "section": null,
+      "word": "memory",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "思い出、記憶",
+          "page": "3年生 p.112"
+        }
+      ],
+      "page_first": "3年生 p.112"
+    },
+    {
+      "id": 1439,
+      "section": null,
+      "word": "men",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "man（男性）の複数形",
+          "page": "2年生 p.126"
+        }
+      ],
+      "page_first": "2年生 p.126"
+    },
+    {
+      "id": 1440,
+      "section": null,
+      "word": "menu",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "メニュー",
+          "page": "1年生 p.50"
+        }
+      ],
+      "page_first": "1年生 p.50"
+    },
+    {
+      "id": 1441,
+      "section": null,
+      "word": "message",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "メッセージ、通信（文）、伝言",
+          "page": "2年生 p.46"
+        }
+      ],
+      "page_first": "2年生 p.46"
+    },
+    {
+      "id": 1442,
+      "section": null,
+      "word": "met",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "meet（会う）の過去形《過去分詞も同形》",
+          "page": "2年生 p.93"
+        }
+      ],
+      "page_first": "2年生 p.93"
+    },
+    {
+      "id": 1443,
+      "section": null,
+      "word": "meter",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "メートル",
+          "page": "2年生 p.66"
+        }
+      ],
+      "page_first": "2年生 p.66"
+    },
+    {
+      "id": 1444,
+      "section": null,
+      "word": "Mexico",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "メキシコ",
+          "page": "3年生 p.69"
+        }
+      ],
+      "page_first": "3年生 p.69"
+    },
+    {
+      "id": 1445,
+      "section": null,
+      "word": "Mia",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ミア（女子の名）",
+          "page": "1年生 p.23"
+        }
+      ],
+      "page_first": "1年生 p.23"
+    },
+    {
+      "id": 1446,
+      "section": null,
+      "word": "mice",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "mouse（ネズミ）の複数形",
+          "page": "2年生 p.105"
+        }
+      ],
+      "page_first": "2年生 p.105"
+    },
+    {
+      "id": 1447,
+      "section": null,
+      "word": "midfielder",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ミッドフィールダー（フォワードとディフェンダーの中間でプレーする選手）",
+          "page": "1年生 p.44"
+        }
+      ],
+      "page_first": "1年生 p.44"
+    },
+    {
+      "id": 1448,
+      "section": null,
+      "word": "midnight",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "真夜中",
+          "page": "1年生 p.103"
+        }
+      ],
+      "page_first": "1年生 p.103"
+    },
+    {
+      "id": 1449,
+      "section": null,
+      "word": "midterm exam",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "中間試験（examはexaminationの短縮形）",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 1450,
+      "section": null,
+      "word": "might",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "助",
+          "ja": "〜かもしれない",
+          "page": "2年生 p.126"
+        }
+      ],
+      "page_first": "2年生 p.126"
+    },
+    {
+      "id": 1451,
+      "section": null,
+      "word": "Mike",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "マイク（男子の名）",
+          "page": "1年生 p.8"
+        }
+      ],
+      "page_first": "1年生 p.8"
+    },
+    {
+      "id": 1452,
+      "section": null,
+      "word": "mild",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "温厚な",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    },
+    {
+      "id": 1453,
+      "section": null,
+      "word": "milk",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "牛乳、ミルク",
+          "page": "2年生 p.109"
+        }
+      ],
+      "page_first": "2年生 p.109"
+    },
+    {
+      "id": 1454,
+      "section": null,
+      "word": "Miller",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ミラー（姓）",
+          "page": "1年生 p.12"
+        }
+      ],
+      "page_first": "1年生 p.12"
+    },
+    {
+      "id": 1455,
+      "section": null,
+      "word": "million",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "100万（の）",
+          "page": "2年生 p.113"
+        }
+      ],
+      "page_first": "2年生 p.113"
+    },
+    {
+      "id": 1456,
+      "section": null,
+      "word": "mind",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "心、精神",
+          "page": "2年生 p.48"
+        }
+      ],
+      "page_first": "2年生 p.48"
+    },
+    {
+      "id": 1457,
+      "section": null,
+      "word": "mine",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "私のもの",
+          "page": "1年生 p.70"
+        }
+      ],
+      "page_first": "1年生 p.70"
+    },
+    {
+      "id": 1458,
+      "section": null,
+      "word": "mineral water",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ミネラルウォーター",
+          "page": "2年生 p.117"
+        }
+      ],
+      "page_first": "2年生 p.117"
+    },
+    {
+      "id": 1459,
+      "section": null,
+      "word": "minus",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "マイナスの",
+          "page": "2年生 p.29"
+        }
+      ],
+      "page_first": "2年生 p.29"
+    }
+  ]
+}

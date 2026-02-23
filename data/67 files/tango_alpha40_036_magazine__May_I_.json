@@ -1,0 +1,724 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 36,
+    "range": {
+      "from": "magazine",
+      "to": "May I ～?"
+    }
+  },
+  "entries": [
+    {
+      "id": 1379,
+      "section": null,
+      "word": "magazine",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "雑誌",
+          "page": "3年生 p.67"
+        }
+      ],
+      "page_first": "3年生 p.67"
+    },
+    {
+      "id": 1380,
+      "section": null,
+      "word": "magic",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "魔法の",
+          "page": "1年生 p.39"
+        }
+      ],
+      "page_first": "1年生 p.39"
+    },
+    {
+      "id": 1381,
+      "section": null,
+      "word": "magical",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "魔法の、不思議な",
+          "page": "2年生 p.88"
+        }
+      ],
+      "page_first": "2年生 p.88"
+    },
+    {
+      "id": 1382,
+      "section": null,
+      "word": "main",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "おもな",
+          "page": "3年生 p.105"
+        }
+      ],
+      "page_first": "3年生 p.105"
+    },
+    {
+      "id": 1383,
+      "section": null,
+      "word": "Main Stadium",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "メインスタジアム（みらい水族館内の施設）",
+          "page": "3年生 p.75"
+        }
+      ],
+      "page_first": "3年生 p.75"
+    },
+    {
+      "id": 1384,
+      "section": null,
+      "word": "mainly",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "おもに",
+          "page": "3年生 p.85"
+        }
+      ],
+      "page_first": "3年生 p.85"
+    },
+    {
+      "id": 1385,
+      "section": null,
+      "word": "make",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "作る",
+          "page": "1年生 p.14"
+        },
+        {
+          "pos": "動",
+          "ja": "生じさせる、引き起こす",
+          "page": "2年生 p.59"
+        },
+        {
+          "pos": "動",
+          "ja": "（人・物を）〜にする",
+          "page": "3年生 p.30"
+        },
+        {
+          "pos": "動",
+          "ja": "（人・物に）〜させる",
+          "page": "3年生 p.30"
+        }
+      ],
+      "page_first": "1年生 p.14"
+    },
+    {
+      "id": 1490,
+      "section": null,
+      "word": "make the most of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～を最大限に活用する",
+          "page": "2年生 p.113"
+        }
+      ],
+      "page_first": "2年生 p.113"
+    },
+    {
+      "id": 1386,
+      "section": null,
+      "word": "make up for ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～を補う",
+          "page": "3年生 p.21"
+        }
+      ],
+      "page_first": "3年生 p.21"
+    },
+    {
+      "id": 2461,
+      "section": null,
+      "word": "make use of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～を利用する、活用する",
+          "page": "2年生 p.71"
+        }
+      ],
+      "page_first": "2年生 p.71"
+    },
+    {
+      "id": 1387,
+      "section": null,
+      "word": "Malala Day",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "マララ・デー（国連がマララさんの功績をたたえて彼女の誕生日をマララ・デーと定めた）",
+          "page": "3年生 p.107"
+        }
+      ],
+      "page_first": "3年生 p.107"
+    },
+    {
+      "id": 1388,
+      "section": null,
+      "word": "Malala Yousafzai",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "マララ・ユスフザイ（人名）",
+          "page": "3年生 p.107"
+        }
+      ],
+      "page_first": "3年生 p.107"
+    },
+    {
+      "id": 1389,
+      "section": null,
+      "word": "male",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "雄、男性",
+          "page": "3年生 p.67"
+        }
+      ],
+      "page_first": "3年生 p.67"
+    },
+    {
+      "id": 1390,
+      "section": null,
+      "word": "mammal",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ほ乳類",
+          "page": "2年生 p.102"
+        }
+      ],
+      "page_first": "2年生 p.102"
+    },
+    {
+      "id": 1391,
+      "section": null,
+      "word": "man",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "男性、男の人",
+          "page": "1年生 p.53"
+        }
+      ],
+      "page_first": "1年生 p.53"
+    },
+    {
+      "id": 1392,
+      "section": null,
+      "word": "mandarin orange",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "みかん",
+          "page": "1年生 p.142"
+        }
+      ],
+      "page_first": "1年生 p.142"
+    },
+    {
+      "id": 1393,
+      "section": null,
+      "word": "mango",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "マンゴー（くだもの）",
+          "page": "1年生 p.142"
+        }
+      ],
+      "page_first": "1年生 p.142"
+    },
+    {
+      "id": 1394,
+      "section": null,
+      "word": "manner",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（複数形で）行儀、マナー",
+          "page": "2年生 p.25"
+        }
+      ],
+      "page_first": "2年生 p.25"
+    },
+    {
+      "id": 1395,
+      "section": null,
+      "word": "many",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "たくさんの",
+          "page": "1年生 p.31"
+        },
+        {
+          "pos": "代",
+          "ja": "多数の人［もの］",
+          "page": "2年生 p.25"
+        }
+      ],
+      "page_first": "1年生 p.31"
+    },
+    {
+      "id": 1266,
+      "section": null,
+      "word": "many kinds of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "たくさんの種類の～",
+          "page": "1年生 p.122"
+        }
+      ],
+      "page_first": "1年生 p.122"
+    },
+    {
+      "id": 1397,
+      "section": null,
+      "word": "map",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "地図",
+          "page": "1年生 p.39"
+        }
+      ],
+      "page_first": "1年生 p.39"
+    },
+    {
+      "id": 1398,
+      "section": null,
+      "word": "marathon",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "マラソン",
+          "page": "3年生 p.9"
+        }
+      ],
+      "page_first": "3年生 p.9"
+    },
+    {
+      "id": 1400,
+      "section": null,
+      "word": "March",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "3月",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 1401,
+      "section": null,
+      "word": "marine biologist",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "海洋生物学者",
+          "page": "2年生 p.120"
+        }
+      ],
+      "page_first": "2年生 p.120"
+    },
+    {
+      "id": 1402,
+      "section": null,
+      "word": "Marine Park",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "マリンパーク（みらい水族館内の施設）",
+          "page": "3年生 p.75"
+        }
+      ],
+      "page_first": "3年生 p.75"
+    },
+    {
+      "id": 1404,
+      "section": null,
+      "word": "Mark",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "マーク（男子の名）",
+          "page": "1年生 p.101"
+        }
+      ],
+      "page_first": "1年生 p.101"
+    },
+    {
+      "id": 1403,
+      "section": null,
+      "word": "mark",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "標章、記号",
+          "page": "3年生 p.71"
+        }
+      ],
+      "page_first": "3年生 p.71"
+    },
+    {
+      "id": 1405,
+      "section": null,
+      "word": "marker pen",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "マーカーペン",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 1406,
+      "section": null,
+      "word": "market",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "市場",
+          "page": "1年生 p.106"
+        }
+      ],
+      "page_first": "1年生 p.106"
+    },
+    {
+      "id": 1407,
+      "section": null,
+      "word": "marry",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "結婚する",
+          "page": "3年生 p.115"
+        }
+      ],
+      "page_first": "3年生 p.115"
+    },
+    {
+      "id": 1408,
+      "section": null,
+      "word": "Mary",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "メアリー（女子の名）",
+          "page": "3年生 p.116"
+        }
+      ],
+      "page_first": "3年生 p.116"
+    },
+    {
+      "id": 1409,
+      "section": null,
+      "word": "mascot",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "マスコット",
+          "page": "2年生 p.115"
+        }
+      ],
+      "page_first": "2年生 p.115"
+    },
+    {
+      "id": 1410,
+      "section": null,
+      "word": "mask",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "仮面",
+          "page": "3年生 p.100"
+        }
+      ],
+      "page_first": "3年生 p.100"
+    },
+    {
+      "id": 1411,
+      "section": null,
+      "word": "Massachusetts",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "マサチューセッツ（アメリカ北東部の州）",
+          "page": "3年生 p.34"
+        }
+      ],
+      "page_first": "3年生 p.34"
+    },
+    {
+      "id": 1412,
+      "section": null,
+      "word": "material",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "材料、原料",
+          "page": "2年生 p.88"
+        }
+      ],
+      "page_first": "2年生 p.88"
+    },
+    {
+      "id": 1413,
+      "section": null,
+      "word": "math",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "数学（＝mathematics）",
+          "page": "1年生 p.26"
+        }
+      ],
+      "page_first": "1年生 p.26"
+    },
+    {
+      "id": 1414,
+      "section": null,
+      "word": "matter",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（the matterで）困ったこと",
+          "page": "1年生 p.126"
+        }
+      ],
+      "page_first": "1年生 p.126"
+    },
+    {
+      "id": 1418,
+      "section": null,
+      "word": "May",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "5月",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 1416,
+      "section": null,
+      "word": "may",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "助",
+          "ja": "～してもよい",
+          "page": "2年生 p.50"
+        },
+        {
+          "pos": "助",
+          "ja": "～かもしれない",
+          "page": "2年生 p.126"
+        }
+      ],
+      "page_first": "2年生 p.50"
+    },
+    {
+      "id": 1417,
+      "section": null,
+      "word": "May I ～?",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～してもよろしいですか。",
+          "page": "2年生 p.50"
+        }
+      ],
+      "page_first": "2年生 p.50"
+    }
+  ]
+}

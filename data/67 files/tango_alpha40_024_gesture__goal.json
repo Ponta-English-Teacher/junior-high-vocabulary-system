@@ -1,0 +1,739 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 24,
+    "range": {
+      "from": "gesture",
+      "to": "goal"
+    }
+  },
+  "entries": [
+    {
+      "id": 918,
+      "section": null,
+      "word": "gesture",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "身ぶり、ジェスチャー",
+          "page": "3年生 p.55"
+        }
+      ],
+      "page_first": "3年生 p.55"
+    },
+    {
+      "id": 919,
+      "section": null,
+      "word": "get",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "（状態に）なる",
+          "page": "1年生 p.13"
+        },
+        {
+          "pos": "動",
+          "ja": "持ってくる、連れてくる",
+          "page": "1年生 p.50"
+        },
+        {
+          "pos": "動",
+          "ja": "わかる、理解する",
+          "page": "1年生 p.58"
+        },
+        {
+          "pos": "動",
+          "ja": "着く、到着する",
+          "page": "2年生 p.46"
+        },
+        {
+          "pos": "動",
+          "ja": "手に入れる、買う",
+          "page": "2年生 p.33"
+        },
+        {
+          "pos": "動",
+          "ja": "受け取る、もらう",
+          "page": "2年生 p.53"
+        },
+        {
+          "pos": "動",
+          "ja": "（人・物を）〜にする",
+          "page": "3年生 p.37"
+        }
+      ],
+      "page_first": "1年生 p.13"
+    },
+    {
+      "id": 73,
+      "section": null,
+      "word": "get along with ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～と仲よくやっていく",
+          "page": "3年生 p.101"
+        }
+      ],
+      "page_first": "3年生 p.101"
+    },
+    {
+      "id": 920,
+      "section": null,
+      "word": "get along with ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": null,
+          "page": "3年生 p.101"
+        }
+      ],
+      "page_first": "3年生 p.101"
+    },
+    {
+      "id": 93,
+      "section": null,
+      "word": "get angry with ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～に腹を立てる",
+          "page": "3年生 p.51"
+        }
+      ],
+      "page_first": "3年生 p.51"
+    },
+    {
+      "id": 921,
+      "section": null,
+      "word": "get angry with ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": null,
+          "page": "3年生 p.51"
+        }
+      ],
+      "page_first": "3年生 p.51"
+    },
+    {
+      "id": 368,
+      "section": null,
+      "word": "get caught in ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～にとらえられる",
+          "page": "3年生 p.83"
+        }
+      ],
+      "page_first": "3年生 p.83"
+    },
+    {
+      "id": 922,
+      "section": null,
+      "word": "get caught in ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": null,
+          "page": "3年生 p.83"
+        }
+      ],
+      "page_first": "3年生 p.83"
+    },
+    {
+      "id": 923,
+      "section": null,
+      "word": "get rest",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": null,
+          "page": "3年生 p.30"
+        }
+      ],
+      "page_first": "3年生 p.30"
+    },
+    {
+      "id": 1872,
+      "section": null,
+      "word": "get rest",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "休む",
+          "page": "3年生 p.30"
+        }
+      ],
+      "page_first": "3年生 p.30"
+    },
+    {
+      "id": 924,
+      "section": null,
+      "word": "get up",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "起きる",
+          "page": "1年生 p.13"
+        }
+      ],
+      "page_first": "1年生 p.13"
+    },
+    {
+      "id": 2539,
+      "section": null,
+      "word": "get well",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（体調が）よくなる",
+          "page": "2年生 p.112"
+        }
+      ],
+      "page_first": "2年生 p.112"
+    },
+    {
+      "id": 1724,
+      "section": null,
+      "word": "get ～ place",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（競争などで）～位になる",
+          "page": "2年生 p.66"
+        }
+      ],
+      "page_first": "2年生 p.66"
+    },
+    {
+      "id": 926,
+      "section": null,
+      "word": "Ghana",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ガーナ（西アフリカにある国）",
+          "page": "2年生 p.24"
+        }
+      ],
+      "page_first": "2年生 p.24"
+    },
+    {
+      "id": 927,
+      "section": null,
+      "word": "giant",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "巨人",
+          "page": "1年生 p.16"
+        }
+      ],
+      "page_first": "1年生 p.16"
+    },
+    {
+      "id": 928,
+      "section": null,
+      "word": "gift",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "贈り物",
+          "page": "2年生 p.46"
+        }
+      ],
+      "page_first": "2年生 p.46"
+    },
+    {
+      "id": 929,
+      "section": null,
+      "word": "ginger ale",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ジンジャーエール（飲み物の名）",
+          "page": "1年生 p.50"
+        }
+      ],
+      "page_first": "1年生 p.50"
+    },
+    {
+      "id": 930,
+      "section": null,
+      "word": "giraffe",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "キリン",
+          "page": "1年生 p.142"
+        }
+      ],
+      "page_first": "1年生 p.142"
+    },
+    {
+      "id": 931,
+      "section": null,
+      "word": "girl",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "少女",
+          "page": "1年生 p.35"
+        }
+      ],
+      "page_first": "1年生 p.35"
+    },
+    {
+      "id": 932,
+      "section": null,
+      "word": "girlfriend",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（女性の）恋人",
+          "page": "3年生 p.115"
+        }
+      ],
+      "page_first": "3年生 p.115"
+    },
+    {
+      "id": 933,
+      "section": null,
+      "word": "give",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "（催し物を）開く、（コンサートなどを）開催する",
+          "page": "1年生 p.122"
+        },
+        {
+          "pos": "動",
+          "ja": "与える",
+          "page": "2年生 p.67"
+        }
+      ],
+      "page_first": "1年生 p.122"
+    },
+    {
+      "id": 2414,
+      "section": null,
+      "word": "Give it a try.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "ためしてみてください。",
+          "page": "2年生 p.73"
+        }
+      ],
+      "page_first": "2年生 p.73"
+    },
+    {
+      "id": 934,
+      "section": null,
+      "word": "give up 〜",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～をあきらめる",
+          "page": "2年生 p.128"
+        }
+      ],
+      "page_first": "2年生 p.128"
+    },
+    {
+      "id": 935,
+      "section": null,
+      "word": "given",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "give（与える）の過去分詞",
+          "page": "3年生 p.35"
+        }
+      ],
+      "page_first": "3年生 p.35"
+    },
+    {
+      "id": 936,
+      "section": null,
+      "word": "glad",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "うれしい",
+          "page": "2年生 p.55"
+        }
+      ],
+      "page_first": "2年生 p.55"
+    },
+    {
+      "id": 937,
+      "section": null,
+      "word": "glass",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（複数形で）メガネ",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 938,
+      "section": null,
+      "word": "glove",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（ふつう複数形で）手袋",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 939,
+      "section": null,
+      "word": "go",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "行く",
+          "page": "1年生 p.25"
+        },
+        {
+          "pos": "動",
+          "ja": "（事が）進行する",
+          "page": "1年生 p.113"
+        }
+      ],
+      "page_first": "1年生 p.25"
+    },
+    {
+      "id": 279,
+      "section": null,
+      "word": "go bowling",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "ボウリングに行く",
+          "page": "2年生 p.129"
+        }
+      ],
+      "page_first": "2年生 p.129"
+    },
+    {
+      "id": 546,
+      "section": null,
+      "word": "go cycling",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "サイクリングに行く",
+          "page": "2年生 p.21"
+        }
+      ],
+      "page_first": "2年生 p.21"
+    },
+    {
+      "id": 940,
+      "section": null,
+      "word": "go down",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（太陽などが）沈む",
+          "page": "1年生 p.115"
+        }
+      ],
+      "page_first": "1年生 p.115"
+    },
+    {
+      "id": 820,
+      "section": null,
+      "word": "go fishing",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "つりに行く",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.143"
+    },
+    {
+      "id": 2498,
+      "section": null,
+      "word": "go for a walk",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "散歩する",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.143"
+    },
+    {
+      "id": 1078,
+      "section": null,
+      "word": "go hiking",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "ハイキングに行く",
+          "page": "2年生 p.55"
+        }
+      ],
+      "page_first": "2年生 p.55"
+    },
+    {
+      "id": 1233,
+      "section": null,
+      "word": "go jogging",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "ジョギングに行く",
+          "page": "2年生 p.129"
+        }
+      ],
+      "page_first": "2年生 p.129"
+    },
+    {
+      "id": 2405,
+      "section": null,
+      "word": "go on a trip",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "旅行へ行く",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.143"
+    },
+    {
+      "id": 2023,
+      "section": null,
+      "word": "go shopping",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "買い物に行く",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.143"
+    },
+    {
+      "id": 213,
+      "section": null,
+      "word": "go to bed",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "寝る、就寝する",
+          "page": "2年生 p.59"
+        }
+      ],
+      "page_first": "2年生 p.59"
+    },
+    {
+      "id": 941,
+      "section": null,
+      "word": "go with ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～と合う",
+          "page": "3年生 p.94"
+        }
+      ],
+      "page_first": "3年生 p.94"
+    },
+    {
+      "id": 942,
+      "section": null,
+      "word": "goal",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ゴール、目標",
+          "page": "2年生 p.25"
+        }
+      ],
+      "page_first": "2年生 p.25"
+    }
+  ]
+}

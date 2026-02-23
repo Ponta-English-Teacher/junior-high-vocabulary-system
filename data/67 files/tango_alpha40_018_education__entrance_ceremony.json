@@ -1,0 +1,714 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 18,
+    "range": {
+      "from": "education",
+      "to": "entrance ceremony"
+    }
+  },
+  "entries": [
+    {
+      "id": 673,
+      "section": null,
+      "word": "education",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "教育",
+          "page": "2年生 p.25"
+        }
+      ],
+      "page_first": "2年生 p.25"
+    },
+    {
+      "id": 674,
+      "section": null,
+      "word": "eel",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ウナギ",
+          "page": "3年生 p.8"
+        }
+      ],
+      "page_first": "3年生 p.8"
+    },
+    {
+      "id": 675,
+      "section": null,
+      "word": "effect",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "効果、影響",
+          "page": "2年生 p.25"
+        }
+      ],
+      "page_first": "2年生 p.25"
+    },
+    {
+      "id": 676,
+      "section": null,
+      "word": "effective",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "効果的な",
+          "page": "3年生 p.127"
+        }
+      ],
+      "page_first": "3年生 p.127"
+    },
+    {
+      "id": 677,
+      "section": null,
+      "word": "effort",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "努力",
+          "page": "2年生 p.83"
+        }
+      ],
+      "page_first": "2年生 p.83"
+    },
+    {
+      "id": 678,
+      "section": null,
+      "word": "egg",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "卵",
+          "page": "1年生 p.16"
+        }
+      ],
+      "page_first": "1年生 p.16"
+    },
+    {
+      "id": 679,
+      "section": null,
+      "word": "eight",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "8（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 680,
+      "section": null,
+      "word": "eighteen",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "18（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 681,
+      "section": null,
+      "word": "eighteenth",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "18日、18番目（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 682,
+      "section": null,
+      "word": "eighth",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "8日、８番目（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 683,
+      "section": null,
+      "word": "eighty",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "80（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 684,
+      "section": null,
+      "word": "either",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "（否定文で）～もまた（…ない）",
+          "page": "2年生 p.12"
+        }
+      ],
+      "page_first": "2年生 p.12"
+    },
+    {
+      "id": 685,
+      "section": null,
+      "word": "elderly",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "年配の、お年寄りの",
+          "page": "3年生 p.63"
+        }
+      ],
+      "page_first": "3年生 p.63"
+    },
+    {
+      "id": 686,
+      "section": null,
+      "word": "electric guitar",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "エレキギター",
+          "page": "2年生 p.131"
+        }
+      ],
+      "page_first": "2年生 p.131"
+    },
+    {
+      "id": 687,
+      "section": null,
+      "word": "electricity",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "電気",
+          "page": "2年生 p.83"
+        }
+      ],
+      "page_first": "2年生 p.83"
+    },
+    {
+      "id": 688,
+      "section": null,
+      "word": "elementary school",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "小学校",
+          "page": "1年生 p.68"
+        }
+      ],
+      "page_first": "1年生 p.68"
+    },
+    {
+      "id": 689,
+      "section": null,
+      "word": "elephant",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ゾウ",
+          "page": "1年生 p.53"
+        }
+      ],
+      "page_first": "1年生 p.53"
+    },
+    {
+      "id": 690,
+      "section": null,
+      "word": "eleven",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "11（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 691,
+      "section": null,
+      "word": "eleventh",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "11日、11番目（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 692,
+      "section": null,
+      "word": "else",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "ほかの［に］",
+          "page": "1年生 p.78"
+        }
+      ],
+      "page_first": "1年生 p.78"
+    },
+    {
+      "id": 693,
+      "section": null,
+      "word": "email",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "Eメール、電子メール",
+          "page": "2年生 p.109"
+        }
+      ],
+      "page_first": "2年生 p.109"
+    },
+    {
+      "id": 694,
+      "section": null,
+      "word": "embarrassed",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "恥ずかしい",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 695,
+      "section": null,
+      "word": "emergency",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "非常［緊急］事態",
+          "page": "2年生 p.125"
+        }
+      ],
+      "page_first": "2年生 p.125"
+    },
+    {
+      "id": 696,
+      "section": null,
+      "word": "Emily",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "エミリー（女子の名）",
+          "page": "1年生 p.12"
+        }
+      ],
+      "page_first": "1年生 p.12"
+    },
+    {
+      "id": 697,
+      "section": null,
+      "word": "emotion",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "感情",
+          "page": "3年生 p.100"
+        }
+      ],
+      "page_first": "3年生 p.100"
+    },
+    {
+      "id": 698,
+      "section": null,
+      "word": "emotional",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "感動的な、感情に訴える",
+          "page": "2年生 p.52"
+        }
+      ],
+      "page_first": "2年生 p.52"
+    },
+    {
+      "id": 699,
+      "section": null,
+      "word": "employee",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "従業員",
+          "page": "3年生 p.23"
+        }
+      ],
+      "page_first": "3年生 p.23"
+    },
+    {
+      "id": 700,
+      "section": null,
+      "word": "empty",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "空（から）の",
+          "page": "2年生 p.131"
+        }
+      ],
+      "page_first": "2年生 p.131"
+    },
+    {
+      "id": 701,
+      "section": null,
+      "word": "enable",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "（〜が…するのを）可能にする",
+          "page": "3年生 p.49"
+        }
+      ],
+      "page_first": "3年生 p.49"
+    },
+    {
+      "id": 702,
+      "section": null,
+      "word": "end",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "終わり、はし",
+          "page": "1年生 p.130"
+        },
+        {
+          "pos": "動",
+          "ja": "終える、終わらせる",
+          "page": "3年生 p.110"
+        }
+      ],
+      "page_first": "1年生 p.130"
+    },
+    {
+      "id": 703,
+      "section": null,
+      "word": "enemy",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "敵",
+          "page": "2年生 p.103"
+        }
+      ],
+      "page_first": "2年生 p.103"
+    },
+    {
+      "id": 704,
+      "section": null,
+      "word": "energy",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "エネルギー",
+          "page": "2年生 p.83"
+        }
+      ],
+      "page_first": "2年生 p.83"
+    },
+    {
+      "id": 705,
+      "section": null,
+      "word": "engineer",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "技術者、エンジニア",
+          "page": "2年生 p.57"
+        }
+      ],
+      "page_first": "2年生 p.57"
+    },
+    {
+      "id": 706,
+      "section": null,
+      "word": "English",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "英語",
+          "page": "1年生 p.36"
+        },
+        {
+          "pos": "形",
+          "ja": "英語の",
+          "page": "1年生 p.73"
+        }
+      ],
+      "page_first": "1年生 p.36"
+    },
+    {
+      "id": 707,
+      "section": null,
+      "word": "enjoy",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "楽しむ",
+          "page": "1年生 p.14"
+        }
+      ],
+      "page_first": "1年生 p.14"
+    },
+    {
+      "id": 708,
+      "section": null,
+      "word": "enough",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "十分に",
+          "page": "1年生 p.128"
+        },
+        {
+          "pos": "形",
+          "ja": "十分な",
+          "page": "2年生 p.93"
+        }
+      ],
+      "page_first": "1年生 p.128"
+    },
+    {
+      "id": 709,
+      "section": null,
+      "word": "enter",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "入る、入ってくる",
+          "page": "3年生 p.63"
+        }
+      ],
+      "page_first": "3年生 p.63"
+    },
+    {
+      "id": 710,
+      "section": null,
+      "word": "entertainer",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "芸能人",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 711,
+      "section": null,
+      "word": "entrance",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "入り口、玄関",
+          "page": "1年生 p.91"
+        }
+      ],
+      "page_first": "1年生 p.91"
+    },
+    {
+      "id": 712,
+      "section": null,
+      "word": "entrance ceremony",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "入学式",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    }
+  ]
+}

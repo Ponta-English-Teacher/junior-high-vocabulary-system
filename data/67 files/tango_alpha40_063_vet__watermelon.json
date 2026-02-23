@@ -1,0 +1,749 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 63,
+    "range": {
+      "from": "vet",
+      "to": "watermelon"
+    }
+  },
+  "entries": [
+    {
+      "id": 2475,
+      "section": null,
+      "word": "vet",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "獣医",
+          "page": "1年生 p.111"
+        }
+      ],
+      "page_first": "1年生 p.111"
+    },
+    {
+      "id": 2476,
+      "section": null,
+      "word": "victim",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "犠牲者",
+          "page": "2年生 p.112"
+        }
+      ],
+      "page_first": "2年生 p.112"
+    },
+    {
+      "id": 2477,
+      "section": null,
+      "word": "victory",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "勝利",
+          "page": "3年生 p.113"
+        }
+      ],
+      "page_first": "3年生 p.113"
+    },
+    {
+      "id": 2478,
+      "section": null,
+      "word": "video",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "映像の、動画の",
+          "page": "1年生 p.94"
+        },
+        {
+          "pos": "名",
+          "ja": "ビデオ、動画",
+          "page": "1年生 p.103"
+        }
+      ],
+      "page_first": "1年生 p.94"
+    },
+    {
+      "id": 2479,
+      "section": null,
+      "word": "video game",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "テレビゲーム",
+          "page": "1年生 p.26"
+        }
+      ],
+      "page_first": "1年生 p.26"
+    },
+    {
+      "id": 2480,
+      "section": null,
+      "word": "view",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "眺め、景色",
+          "page": "1年生 p.140"
+        },
+        {
+          "pos": "動",
+          "ja": "眺める",
+          "page": "3年生 p.119"
+        }
+      ],
+      "page_first": "1年生 p.140"
+    },
+    {
+      "id": 2481,
+      "section": null,
+      "word": "village",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "村",
+          "page": "2年生 p.93"
+        }
+      ],
+      "page_first": "2年生 p.93"
+    },
+    {
+      "id": 2482,
+      "section": null,
+      "word": "violin",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "バイオリン",
+          "page": "1年生 p.16"
+        }
+      ],
+      "page_first": "1年生 p.16"
+    },
+    {
+      "id": 2483,
+      "section": null,
+      "word": "violinist",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "バイオリニスト",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 2484,
+      "section": null,
+      "word": "visit",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "訪問する、訪れる",
+          "page": "1年生 p.113"
+        }
+      ],
+      "page_first": "1年生 p.113"
+    },
+    {
+      "id": 2485,
+      "section": null,
+      "word": "vocalist",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ボーカリスト、（バンドの）ボーカル",
+          "page": "3年生 p.97"
+        }
+      ],
+      "page_first": "3年生 p.97"
+    },
+    {
+      "id": 2486,
+      "section": null,
+      "word": "voice",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "声",
+          "page": "2年生 p.127"
+        }
+      ],
+      "page_first": "2年生 p.127"
+    },
+    {
+      "id": 2487,
+      "section": null,
+      "word": "voice actor",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "声優",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 2488,
+      "section": null,
+      "word": "volleyball",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "バレーボール",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.143"
+    },
+    {
+      "id": 2489,
+      "section": null,
+      "word": "volume",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ボリューム、音量",
+          "page": "2年生 p.52"
+        }
+      ],
+      "page_first": "2年生 p.52"
+    },
+    {
+      "id": 2490,
+      "section": null,
+      "word": "volunteer work",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ボランティア活動",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.143"
+    },
+    {
+      "id": 2491,
+      "section": "W / w",
+      "word": "wafer",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ウェハース",
+          "page": "3年生 p.73"
+        }
+      ],
+      "page_first": "3年生 p.73"
+    },
+    {
+      "id": 2492,
+      "section": null,
+      "word": "wait",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "待つ",
+          "page": "2年生 p.32"
+        }
+      ],
+      "page_first": "2年生 p.32"
+    },
+    {
+      "id": 2493,
+      "section": null,
+      "word": "waiter",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ウェイター、給仕",
+          "page": "3年生 p.56"
+        }
+      ],
+      "page_first": "3年生 p.56"
+    },
+    {
+      "id": 2494,
+      "section": null,
+      "word": "waiting room",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "待合室",
+          "page": "2年生 p.70"
+        }
+      ],
+      "page_first": "2年生 p.70"
+    },
+    {
+      "id": 2495,
+      "section": null,
+      "word": "wake",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "目がさめる、起きる",
+          "page": "3年生 p.30"
+        }
+      ],
+      "page_first": "3年生 p.30"
+    },
+    {
+      "id": 2496,
+      "section": null,
+      "word": "wake up",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "目をさます、起きる",
+          "page": "3年生 p.30"
+        }
+      ],
+      "page_first": "3年生 p.30"
+    },
+    {
+      "id": 2497,
+      "section": null,
+      "word": "walk",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "（イヌなどを）散歩させる",
+          "page": "1年生 p.30"
+        },
+        {
+          "pos": "動",
+          "ja": "歩く、歩いていく",
+          "page": "1年生 p.42"
+        },
+        {
+          "pos": "名",
+          "ja": "歩くこと、散歩",
+          "page": "1年生 p.111"
+        }
+      ],
+      "page_first": "1年生 p.30"
+    },
+    {
+      "id": 2501,
+      "section": null,
+      "word": "wall",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "壁",
+          "page": "3年生 p.63"
+        }
+      ],
+      "page_first": "3年生 p.63"
+    },
+    {
+      "id": 2502,
+      "section": null,
+      "word": "wallet",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "財布",
+          "page": "1年生 p.122"
+        }
+      ],
+      "page_first": "1年生 p.122"
+    },
+    {
+      "id": 2503,
+      "section": null,
+      "word": "want",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "ほしい、望む",
+          "page": "1年生 p.12"
+        }
+      ],
+      "page_first": "1年生 p.12"
+    },
+    {
+      "id": 2504,
+      "section": null,
+      "word": "want to ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～したい",
+          "page": "1年生 p.25"
+        }
+      ],
+      "page_first": "1年生 p.25"
+    },
+    {
+      "id": 2505,
+      "section": null,
+      "word": "war",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "戦争",
+          "page": "2年生 p.92"
+        }
+      ],
+      "page_first": "2年生 p.92"
+    },
+    {
+      "id": 2507,
+      "section": null,
+      "word": "warm",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "温める、温かくする",
+          "page": "1年生 p.130"
+        },
+        {
+          "pos": "形",
+          "ja": "温かい、暖かい",
+          "page": "1年生 p.131"
+        }
+      ],
+      "page_first": "1年生 p.130"
+    },
+    {
+      "id": 2508,
+      "section": null,
+      "word": "warm up ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～を温める",
+          "page": "2年生 p.101"
+        }
+      ],
+      "page_first": "2年生 p.101"
+    },
+    {
+      "id": 2509,
+      "section": null,
+      "word": "warm-hearted",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "心の温かい",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    },
+    {
+      "id": 2510,
+      "section": null,
+      "word": "warming",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "暖まること",
+          "page": "1年生 p.123"
+        }
+      ],
+      "page_first": "1年生 p.123"
+    },
+    {
+      "id": 2511,
+      "section": null,
+      "word": "was",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "am, isの過去形",
+          "page": "1年生 p.124"
+        },
+        {
+          "pos": "助",
+          "ja": "（過去進行形を作る）",
+          "page": "1年生 p.124"
+        }
+      ],
+      "page_first": "1年生 p.124"
+    },
+    {
+      "id": 2512,
+      "section": null,
+      "word": "wash",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "洗う",
+          "page": "1年生 p.36"
+        }
+      ],
+      "page_first": "1年生 p.36"
+    },
+    {
+      "id": 2513,
+      "section": null,
+      "word": "wasn’t",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（was notの短縮形）",
+          "page": "1年生 p.124"
+        }
+      ],
+      "page_first": "1年生 p.124"
+    },
+    {
+      "id": 2514,
+      "section": null,
+      "word": "waste",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ごみ、廃棄物",
+          "page": "3年生 p.80"
+        }
+      ],
+      "page_first": "3年生 p.80"
+    },
+    {
+      "id": 2515,
+      "section": null,
+      "word": "watch",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "見る",
+          "page": "1年生 p.31"
+        },
+        {
+          "pos": "名",
+          "ja": "腕時計",
+          "page": "1年生 p.35"
+        }
+      ],
+      "page_first": "1年生 p.31"
+    },
+    {
+      "id": 2516,
+      "section": null,
+      "word": "water",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "水面、水",
+          "page": "1年生 p.42"
+        },
+        {
+          "pos": "名",
+          "ja": "（陸・空に対して）水、水中",
+          "page": "2年生 p.18"
+        },
+        {
+          "pos": "動",
+          "ja": "よだれ［つば］を出す",
+          "page": "2年生 p.108"
+        },
+        {
+          "pos": "動",
+          "ja": "水をやる",
+          "page": "2年生 p.132"
+        }
+      ],
+      "page_first": "1年生 p.42"
+    },
+    {
+      "id": 2518,
+      "section": null,
+      "word": "water bottle",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "水筒",
+          "page": "2年生 p.50"
+        }
+      ],
+      "page_first": "2年生 p.50"
+    },
+    {
+      "id": 2519,
+      "section": null,
+      "word": "watermelon",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "スイカ",
+          "page": "1年生 p.142"
+        }
+      ],
+      "page_first": "1年生 p.142"
+    }
+  ]
+}

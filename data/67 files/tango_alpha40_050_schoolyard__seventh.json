@@ -1,0 +1,734 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 50,
+    "range": {
+      "from": "schoolyard",
+      "to": "seventh"
+    }
+  },
+  "entries": [
+    {
+      "id": 1954,
+      "section": null,
+      "word": "schoolyard",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "校庭",
+          "page": "3年生 p.9"
+        }
+      ],
+      "page_first": "3年生 p.9"
+    },
+    {
+      "id": 1955,
+      "section": null,
+      "word": "science",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "理科、科学",
+          "page": "1年生 p.26"
+        }
+      ],
+      "page_first": "1年生 p.26"
+    },
+    {
+      "id": 1956,
+      "section": null,
+      "word": "scientific",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "科学的な、科学（上）の",
+          "page": "3年生 p.119"
+        }
+      ],
+      "page_first": "3年生 p.119"
+    },
+    {
+      "id": 1957,
+      "section": null,
+      "word": "scientist",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "科学者",
+          "page": "3年生 p.118"
+        }
+      ],
+      "page_first": "3年生 p.118"
+    },
+    {
+      "id": 1958,
+      "section": null,
+      "word": "scissor",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（ふつう複数形で）はさみ",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 1959,
+      "section": null,
+      "word": "scoop",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "すくい上げる［取る］",
+          "page": "2年生 p.32"
+        }
+      ],
+      "page_first": "2年生 p.32"
+    },
+    {
+      "id": 1960,
+      "section": null,
+      "word": "scoop up ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "〜をすくい上げる",
+          "page": "2年生 p.32"
+        }
+      ],
+      "page_first": "2年生 p.32"
+    },
+    {
+      "id": 1961,
+      "section": null,
+      "word": "screen",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "画面、スクリーン",
+          "page": "3年生 p.23"
+        }
+      ],
+      "page_first": "3年生 p.23"
+    },
+    {
+      "id": 1962,
+      "section": null,
+      "word": "scriptwriter",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "コピーライター",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 1963,
+      "section": null,
+      "word": "SDGs",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "持続可能な開発目標（＝Sustainable Development Goals）",
+          "page": "3年生 p.90"
+        }
+      ],
+      "page_first": "3年生 p.90"
+    },
+    {
+      "id": 1964,
+      "section": null,
+      "word": "sea",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "海",
+          "page": "2年生 p.80"
+        }
+      ],
+      "page_first": "2年生 p.80"
+    },
+    {
+      "id": 1965,
+      "section": null,
+      "word": "sea otter",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ラッコ",
+          "page": "2年生 p.101"
+        }
+      ],
+      "page_first": "2年生 p.101"
+    },
+    {
+      "id": 1966,
+      "section": null,
+      "word": "seabird",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "海鳥",
+          "page": "2年生 p.103"
+        }
+      ],
+      "page_first": "2年生 p.103"
+    },
+    {
+      "id": 1967,
+      "section": null,
+      "word": "seafood",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "シーフード、海産食品",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.143"
+    },
+    {
+      "id": 1968,
+      "section": null,
+      "word": "seagull",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "カモメ",
+          "page": "1年生 p.142"
+        }
+      ],
+      "page_first": "1年生 p.142"
+    },
+    {
+      "id": 1969,
+      "section": null,
+      "word": "seal",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "アザラシ",
+          "page": "1年生 p.142"
+        }
+      ],
+      "page_first": "1年生 p.142"
+    },
+    {
+      "id": 1970,
+      "section": null,
+      "word": "seaplane",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "水上飛行機",
+          "page": "1年生 p.86"
+        }
+      ],
+      "page_first": "1年生 p.86"
+    },
+    {
+      "id": 1971,
+      "section": null,
+      "word": "search",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "捜索、探索",
+          "page": "2年生 p.81"
+        },
+        {
+          "pos": "動",
+          "ja": "さがす",
+          "page": "2年生 p.126"
+        }
+      ],
+      "page_first": "2年生 p.81"
+    },
+    {
+      "id": 1972,
+      "section": null,
+      "word": "season",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "季節",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 1973,
+      "section": null,
+      "word": "second",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "2日、2番目（の）",
+          "page": "1年生 p.91"
+        },
+        {
+          "pos": "副",
+          "ja": "2番目に",
+          "page": "2年生 p.30"
+        },
+        {
+          "pos": "名",
+          "ja": "秒",
+          "page": "3年生 p.120"
+        }
+      ],
+      "page_first": "1年生 p.91"
+    },
+    {
+      "id": 1974,
+      "section": null,
+      "word": "secret",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "秘密",
+          "page": "2年生 p.48"
+        }
+      ],
+      "page_first": "2年生 p.48"
+    },
+    {
+      "id": 1975,
+      "section": null,
+      "word": "secretary",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "秘書",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 1976,
+      "section": null,
+      "word": "see",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "わかる",
+          "page": "1年生 p.10"
+        },
+        {
+          "pos": "動",
+          "ja": "見る、見える",
+          "page": "1年生 p.34"
+        },
+        {
+          "pos": "動",
+          "ja": "会う",
+          "page": "2年生 p.16"
+        }
+      ],
+      "page_first": "1年生 p.10"
+    },
+    {
+      "id": 1978,
+      "section": null,
+      "word": "seed",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "種、種子",
+          "page": "2年生 p.105"
+        }
+      ],
+      "page_first": "2年生 p.105"
+    },
+    {
+      "id": 1979,
+      "section": null,
+      "word": "seen",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "see（見る）の過去分詞",
+          "page": "2年生 p.109"
+        }
+      ],
+      "page_first": "2年生 p.109"
+    },
+    {
+      "id": 1980,
+      "section": null,
+      "word": "selfish",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "わがままな",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    },
+    {
+      "id": 1981,
+      "section": null,
+      "word": "sell",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "売る",
+          "page": "2年生 p.36"
+        }
+      ],
+      "page_first": "2年生 p.36"
+    },
+    {
+      "id": 1982,
+      "section": null,
+      "word": "sell out ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "〜を売り切る、売りつくす",
+          "page": "3年生 p.8"
+        }
+      ],
+      "page_first": "3年生 p.8"
+    },
+    {
+      "id": 1983,
+      "section": null,
+      "word": "send",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "送る",
+          "page": "2年生 p.74"
+        }
+      ],
+      "page_first": "2年生 p.74"
+    },
+    {
+      "id": 1984,
+      "section": null,
+      "word": "senior",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "高齢者、お年寄り",
+          "page": "3年生 p.75"
+        }
+      ],
+      "page_first": "3年生 p.75"
+    },
+    {
+      "id": 1985,
+      "section": null,
+      "word": "sensitive",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "神経質な",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    },
+    {
+      "id": 1986,
+      "section": null,
+      "word": "sent",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "send（送る）の過去形《過去分詞も同形》",
+          "page": "2年生 p.92"
+        }
+      ],
+      "page_first": "2年生 p.92"
+    },
+    {
+      "id": 1987,
+      "section": null,
+      "word": "September",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "9月",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 1988,
+      "section": null,
+      "word": "serious",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "まじめな、真剣な",
+          "page": "3年生 p.118"
+        }
+      ],
+      "page_first": "3年生 p.118"
+    },
+    {
+      "id": 1989,
+      "section": null,
+      "word": "serve",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "（ボールを）サーブする",
+          "page": "3年生 p.37"
+        },
+        {
+          "pos": "動",
+          "ja": "（飲食物を）出す",
+          "page": "3年生 p.67"
+        }
+      ],
+      "page_first": "3年生 p.37"
+    },
+    {
+      "id": 1990,
+      "section": null,
+      "word": "set",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "（太陽などが）沈む",
+          "page": "1年生 p.115"
+        },
+        {
+          "pos": "名",
+          "ja": "ひとまとまり",
+          "page": "3年生 p.123"
+        }
+      ],
+      "page_first": "1年生 p.115"
+    },
+    {
+      "id": 1991,
+      "section": null,
+      "word": "seven",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "7（の）",
+          "page": "1年生 p.125"
+        }
+      ],
+      "page_first": "1年生 p.125"
+    },
+    {
+      "id": 1992,
+      "section": null,
+      "word": "seventeen",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "17（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 1993,
+      "section": null,
+      "word": "seventeenth",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "17日、17番目（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 1994,
+      "section": null,
+      "word": "seventh",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "7日、7番目（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    }
+  ]
+}

@@ -1,0 +1,719 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 21,
+    "range": {
+      "from": "field trip",
+      "to": "flower"
+    }
+  },
+  "entries": [
+    {
+      "id": 794,
+      "section": null,
+      "word": "field trip",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "校外見学",
+          "page": "2年生 p.50"
+        }
+      ],
+      "page_first": "2年生 p.50"
+    },
+    {
+      "id": 795,
+      "section": null,
+      "word": "fifteen",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "15（の）",
+          "page": "1年生 p.23"
+        }
+      ],
+      "page_first": "1年生 p.23"
+    },
+    {
+      "id": 796,
+      "section": null,
+      "word": "fifteenth",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "15日、15番目（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 797,
+      "section": null,
+      "word": "fifth",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "5日、5番目（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 798,
+      "section": null,
+      "word": "fifty",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "50（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 799,
+      "section": null,
+      "word": "fight",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "なぐり合う、けんかする、争う",
+          "page": "3年生 p.122"
+        }
+      ],
+      "page_first": "3年生 p.122"
+    },
+    {
+      "id": 800,
+      "section": null,
+      "word": "figure",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "人形",
+          "page": "1年生 p.104"
+        }
+      ],
+      "page_first": "1年生 p.104"
+    },
+    {
+      "id": 801,
+      "section": null,
+      "word": "fill",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "満たす",
+          "page": "2年生 p.108"
+        }
+      ],
+      "page_first": "2年生 p.108"
+    },
+    {
+      "id": 802,
+      "section": null,
+      "word": "film",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "撮影する",
+          "page": "2年生 p.88"
+        }
+      ],
+      "page_first": "2年生 p.88"
+    },
+    {
+      "id": 803,
+      "section": null,
+      "word": "finally",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "やっと、ついに",
+          "page": "1年生 p.130"
+        }
+      ],
+      "page_first": "1年生 p.130"
+    },
+    {
+      "id": 804,
+      "section": null,
+      "word": "find",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "見つける",
+          "page": "1年生 p.42"
+        }
+      ],
+      "page_first": "1年生 p.42"
+    },
+    {
+      "id": 805,
+      "section": null,
+      "word": "find out",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "わかる、気づく",
+          "page": "1年生 p.114"
+        }
+      ],
+      "page_first": "1年生 p.114"
+    },
+    {
+      "id": 806,
+      "section": null,
+      "word": "fine",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "元気な",
+          "page": "1年生 p.125"
+        },
+        {
+          "pos": "形",
+          "ja": "晴れの",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.125"
+    },
+    {
+      "id": 807,
+      "section": null,
+      "word": "finish",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "終える",
+          "page": "1年生 p.125"
+        }
+      ],
+      "page_first": "1年生 p.125"
+    },
+    {
+      "id": 808,
+      "section": null,
+      "word": "Finland",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "フィンランド",
+          "page": "1年生 p.109"
+        }
+      ],
+      "page_first": "1年生 p.109"
+    },
+    {
+      "id": 809,
+      "section": null,
+      "word": "Finnish",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "フィンランド式［人］の",
+          "page": "1年生 p.113"
+        }
+      ],
+      "page_first": "1年生 p.113"
+    },
+    {
+      "id": 810,
+      "section": null,
+      "word": "Finnish-style",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "フィンランド風の",
+          "page": "2年生 p.64"
+        }
+      ],
+      "page_first": "2年生 p.64"
+    },
+    {
+      "id": 811,
+      "section": null,
+      "word": "fire",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "火",
+          "page": "2年生 p.126"
+        }
+      ],
+      "page_first": "2年生 p.126"
+    },
+    {
+      "id": 812,
+      "section": null,
+      "word": "fire station",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "消防署",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    },
+    {
+      "id": 813,
+      "section": null,
+      "word": "firefighter",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "消防士",
+          "page": "1年生 p.23"
+        }
+      ],
+      "page_first": "1年生 p.23"
+    },
+    {
+      "id": 814,
+      "section": null,
+      "word": "firework",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（ふつう複数形で）花火",
+          "page": "2年生 p.99"
+        }
+      ],
+      "page_first": "2年生 p.99"
+    },
+    {
+      "id": 815,
+      "section": null,
+      "word": "first",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "最初の、初めての",
+          "page": "1年生 p.136"
+        },
+        {
+          "pos": "名形",
+          "ja": "1日（ついたち）、1番目の",
+          "page": "1年生 p.141"
+        },
+        {
+          "pos": "副",
+          "ja": "最初に、1番目に",
+          "page": "2年生 p.30"
+        }
+      ],
+      "page_first": "1年生 p.136"
+    },
+    {
+      "id": 817,
+      "section": null,
+      "word": "first of all",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "何よりもまず",
+          "page": "2年生 p.56"
+        }
+      ],
+      "page_first": "2年生 p.56"
+    },
+    {
+      "id": 819,
+      "section": null,
+      "word": "fish",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "魚をとる、つりをする",
+          "page": "1年生 p.14"
+        },
+        {
+          "pos": "名",
+          "ja": "魚（複数形も同形）",
+          "page": "1年生 p.38"
+        }
+      ],
+      "page_first": "1年生 p.14"
+    },
+    {
+      "id": 821,
+      "section": null,
+      "word": "fish shop",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "魚屋",
+          "page": "2年生 p.132"
+        }
+      ],
+      "page_first": "2年生 p.132"
+    },
+    {
+      "id": 822,
+      "section": null,
+      "word": "fisherman",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "漁業をする人",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 823,
+      "section": null,
+      "word": "fishing",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "漁業",
+          "page": "2年生 p.93"
+        }
+      ],
+      "page_first": "2年生 p.93"
+    },
+    {
+      "id": 824,
+      "section": null,
+      "word": "five",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "5（の）",
+          "page": "1年生 p.30"
+        }
+      ],
+      "page_first": "1年生 p.30"
+    },
+    {
+      "id": 825,
+      "section": null,
+      "word": "flag",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "旗",
+          "page": "2年生 p.20"
+        }
+      ],
+      "page_first": "2年生 p.20"
+    },
+    {
+      "id": 826,
+      "section": null,
+      "word": "flamingo",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "フラミンゴ",
+          "page": "1年生 p.142"
+        }
+      ],
+      "page_first": "1年生 p.142"
+    },
+    {
+      "id": 827,
+      "section": null,
+      "word": "flash",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（カメラの）フラッシュ",
+          "page": "2年生 p.73"
+        }
+      ],
+      "page_first": "2年生 p.73"
+    },
+    {
+      "id": 828,
+      "section": null,
+      "word": "flavor",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "風味、味",
+          "page": "3年生 p.73"
+        }
+      ],
+      "page_first": "3年生 p.73"
+    },
+    {
+      "id": 829,
+      "section": null,
+      "word": "flew",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "fly（飛ぶ）の過去形",
+          "page": "2年生 p.94"
+        }
+      ],
+      "page_first": "2年生 p.94"
+    },
+    {
+      "id": 830,
+      "section": null,
+      "word": "flight",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "定期航空便（の飛行機）、フライト、飛行",
+          "page": "2年生 p.117"
+        }
+      ],
+      "page_first": "2年生 p.117"
+    },
+    {
+      "id": 831,
+      "section": null,
+      "word": "flight attendant",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（旅客機の）客室乗務員",
+          "page": "2年生 p.117"
+        }
+      ],
+      "page_first": "2年生 p.117"
+    },
+    {
+      "id": 832,
+      "section": null,
+      "word": "flip",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "すばやくめくること",
+          "page": "1年生 p.32"
+        }
+      ],
+      "page_first": "1年生 p.32"
+    },
+    {
+      "id": 833,
+      "section": null,
+      "word": "floor",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "階、床（ゆか）",
+          "page": "1年生 p.91"
+        }
+      ],
+      "page_first": "1年生 p.91"
+    },
+    {
+      "id": 834,
+      "section": null,
+      "word": "florist",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "花屋の店主［店員］",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 835,
+      "section": null,
+      "word": "flour",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "小麦粉",
+          "page": "2年生 p.42"
+        }
+      ],
+      "page_first": "2年生 p.42"
+    },
+    {
+      "id": 836,
+      "section": null,
+      "word": "flower",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "花",
+          "page": "1年生 p.31"
+        }
+      ],
+      "page_first": "1年生 p.31"
+    }
+  ]
+}

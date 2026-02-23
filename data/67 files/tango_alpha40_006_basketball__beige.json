@@ -1,0 +1,719 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 6,
+    "range": {
+      "from": "basketball",
+      "to": "beige"
+    }
+  },
+  "entries": [
+    {
+      "id": 191,
+      "section": null,
+      "word": "basketball",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "バスケットボール",
+          "page": "1年生 p.14"
+        },
+        {
+          "pos": "名",
+          "ja": "バスケットボールのボール",
+          "page": "2年生 p.36"
+        }
+      ],
+      "page_first": "1年生 p.14"
+    },
+    {
+      "id": 192,
+      "section": null,
+      "word": "bat",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "コウモリ",
+          "page": "1年生 p.142"
+        },
+        {
+          "pos": "名",
+          "ja": "（野球の）バット",
+          "page": "3年生 p.19"
+        }
+      ],
+      "page_first": "1年生 p.142"
+    },
+    {
+      "id": 193,
+      "section": null,
+      "word": "bath",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "入浴",
+          "page": "1年生 p.36"
+        }
+      ],
+      "page_first": "1年生 p.36"
+    },
+    {
+      "id": 195,
+      "section": null,
+      "word": "bathroom",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "浴室、トイレ",
+          "page": "1年生 p.101"
+        }
+      ],
+      "page_first": "1年生 p.101"
+    },
+    {
+      "id": 196,
+      "section": null,
+      "word": "be",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "〜になる、〜である",
+          "page": "1年生 p.12"
+        }
+      ],
+      "page_first": "1年生 p.12"
+    },
+    {
+      "id": 5,
+      "section": null,
+      "word": "be able to ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～することができる",
+          "page": "2年生 p.81"
+        }
+      ],
+      "page_first": "2年生 p.81"
+    },
+    {
+      "id": 188,
+      "section": null,
+      "word": "be based on ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～をもとに作られている",
+          "page": "3年生 p.18"
+        }
+      ],
+      "page_first": "3年生 p.18"
+    },
+    {
+      "id": 197,
+      "section": null,
+      "word": "be based on ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": null,
+          "page": "3年生 p.18"
+        }
+      ],
+      "page_first": "3年生 p.18"
+    },
+    {
+      "id": 767,
+      "section": null,
+      "word": "be famous for ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～で有名である",
+          "page": "1年生 p.86"
+        }
+      ],
+      "page_first": "1年生 p.86"
+    },
+    {
+      "id": 894,
+      "section": null,
+      "word": "be from ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～の出身である",
+          "page": "1年生 p.22"
+        }
+      ],
+      "page_first": "1年生 p.22"
+    },
+    {
+      "id": 198,
+      "section": null,
+      "word": "be full of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": null,
+          "page": "3年生 p.22"
+        }
+      ],
+      "page_first": "3年生 p.22"
+    },
+    {
+      "id": 900,
+      "section": null,
+      "word": "be full of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～に満ちている、～でいっぱいである",
+          "page": "3年生 p.22"
+        }
+      ],
+      "page_first": "3年生 p.22"
+    },
+    {
+      "id": 946,
+      "section": null,
+      "word": "be good at ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～がじょうずである、得意である",
+          "page": "1年生 p.26"
+        }
+      ],
+      "page_first": "1年生 p.26"
+    },
+    {
+      "id": 1187,
+      "section": null,
+      "word": "be interested in ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～に興味［関心］を持っている",
+          "page": "2年生 p.21"
+        }
+      ],
+      "page_first": "2年生 p.21"
+    },
+    {
+      "id": 1790,
+      "section": null,
+      "word": "be proud of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～を誇りに思っている",
+          "page": "1年生 p.66"
+        }
+      ],
+      "page_first": "1年生 p.66"
+    },
+    {
+      "id": 1833,
+      "section": null,
+      "word": "be ready to ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～する準備［用意］ができている",
+          "page": "2年生 p.61"
+        }
+      ],
+      "page_first": "2年生 p.61"
+    },
+    {
+      "id": 199,
+      "section": null,
+      "word": "beach",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "砂浜、浜辺、海岸",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.143"
+    },
+    {
+      "id": 200,
+      "section": null,
+      "word": "bean",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "豆",
+          "page": "3年生 p.69"
+        }
+      ],
+      "page_first": "3年生 p.69"
+    },
+    {
+      "id": 201,
+      "section": null,
+      "word": "bean sprout",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "もやし",
+          "page": "2年生 p.43"
+        }
+      ],
+      "page_first": "2年生 p.43"
+    },
+    {
+      "id": 202,
+      "section": null,
+      "word": "bear",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "クマ",
+          "page": "1年生 p.16"
+        }
+      ],
+      "page_first": "1年生 p.16"
+    },
+    {
+      "id": 203,
+      "section": null,
+      "word": "beat",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "打ち負かす",
+          "page": "1年生 p.111"
+        }
+      ],
+      "page_first": "1年生 p.111"
+    },
+    {
+      "id": 204,
+      "section": null,
+      "word": "beautician",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "美容師",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 205,
+      "section": null,
+      "word": "beautiful",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "美しい、すばらしい",
+          "page": "1年生 p.31"
+        }
+      ],
+      "page_first": "1年生 p.31"
+    },
+    {
+      "id": 206,
+      "section": null,
+      "word": "beaver",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ビーバー",
+          "page": "2年生 p.57"
+        }
+      ],
+      "page_first": "2年生 p.57"
+    },
+    {
+      "id": 207,
+      "section": null,
+      "word": "became",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "become（～になる）の過去形",
+          "page": "2年生 p.74"
+        }
+      ],
+      "page_first": "2年生 p.74"
+    },
+    {
+      "id": 208,
+      "section": null,
+      "word": "because",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "接",
+          "ja": "（なぜなら）〜だから",
+          "page": "1年生 p.72"
+        }
+      ],
+      "page_first": "1年生 p.72"
+    },
+    {
+      "id": 209,
+      "section": null,
+      "word": "because of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～のために、～の理由［原因］で",
+          "page": "2年生 p.120"
+        }
+      ],
+      "page_first": "2年生 p.120"
+    },
+    {
+      "id": 210,
+      "section": null,
+      "word": "Becky",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ベッキー（女子の名）",
+          "page": "1年生 p.63"
+        }
+      ],
+      "page_first": "1年生 p.63"
+    },
+    {
+      "id": 211,
+      "section": null,
+      "word": "become",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "～になる",
+          "page": "2年生 p.66"
+        }
+      ],
+      "page_first": "2年生 p.66"
+    },
+    {
+      "id": 212,
+      "section": null,
+      "word": "bed",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ベッド",
+          "page": "1年生 p.127"
+        }
+      ],
+      "page_first": "1年生 p.127"
+    },
+    {
+      "id": 214,
+      "section": null,
+      "word": "bedroom",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "寝室",
+          "page": "1年生 p.127"
+        }
+      ],
+      "page_first": "1年生 p.127"
+    },
+    {
+      "id": 215,
+      "section": null,
+      "word": "bee",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ハチ、ミツバチ",
+          "page": "2年生 p.81"
+        }
+      ],
+      "page_first": "2年生 p.81"
+    },
+    {
+      "id": 216,
+      "section": null,
+      "word": "beef",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "牛肉、ビーフ",
+          "page": "2年生 p.86"
+        }
+      ],
+      "page_first": "2年生 p.86"
+    },
+    {
+      "id": 217,
+      "section": null,
+      "word": "been",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "beの過去分詞",
+          "page": "3年生 p.9"
+        }
+      ],
+      "page_first": "3年生 p.9"
+    },
+    {
+      "id": 218,
+      "section": null,
+      "word": "beetle",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "カブトムシ",
+          "page": "1年生 p.142"
+        }
+      ],
+      "page_first": "1年生 p.142"
+    },
+    {
+      "id": 219,
+      "section": null,
+      "word": "before",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "前",
+          "ja": "〜の前に",
+          "page": "1年生 p.31"
+        },
+        {
+          "pos": "接",
+          "ja": "〜する前に",
+          "page": "2年生 p.53"
+        }
+      ],
+      "page_first": "1年生 p.31"
+    },
+    {
+      "id": 220,
+      "section": null,
+      "word": "began",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "begin（始める）の過去形",
+          "page": "3年生 p.70"
+        }
+      ],
+      "page_first": "3年生 p.70"
+    },
+    {
+      "id": 221,
+      "section": null,
+      "word": "begin",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "始める",
+          "page": "3年生 p.70"
+        }
+      ],
+      "page_first": "3年生 p.70"
+    },
+    {
+      "id": 222,
+      "section": null,
+      "word": "behind",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "前",
+          "ja": "～のうしろ［背後］に［で］",
+          "page": "3年生 p.57"
+        },
+        {
+          "pos": "副",
+          "ja": "あとに（残して）",
+          "page": "3年生 p.83"
+        }
+      ],
+      "page_first": "3年生 p.57"
+    },
+    {
+      "id": 223,
+      "section": null,
+      "word": "beige",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "ベージュ（の）",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    }
+  ]
+}

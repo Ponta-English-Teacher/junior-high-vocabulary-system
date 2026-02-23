@@ -1,0 +1,764 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 34,
+    "range": {
+      "from": "late",
+      "to": "Lion Queen"
+    }
+  },
+  "entries": [
+    {
+      "id": 1293,
+      "section": null,
+      "word": "late",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "（時刻が）遅い、遅刻して",
+          "page": "2年生 p.8"
+        },
+        {
+          "pos": "副",
+          "ja": "遅く、遅れて",
+          "page": "2年生 p.129"
+        }
+      ],
+      "page_first": "2年生 p.8"
+    },
+    {
+      "id": 1294,
+      "section": null,
+      "word": "later",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "あとで、後に",
+          "page": "2年生 p.29"
+        }
+      ],
+      "page_first": "2年生 p.29"
+    },
+    {
+      "id": 1295,
+      "section": null,
+      "word": "later on",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "あとで",
+          "page": "3年生 p.21"
+        }
+      ],
+      "page_first": "3年生 p.21"
+    },
+    {
+      "id": 1296,
+      "section": null,
+      "word": "laugh",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "笑う",
+          "page": "3年生 p.31"
+        }
+      ],
+      "page_first": "3年生 p.31"
+    },
+    {
+      "id": 1297,
+      "section": null,
+      "word": "launch",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "打ち上げ、発射",
+          "page": "2年生 p.125"
+        }
+      ],
+      "page_first": "2年生 p.125"
+    },
+    {
+      "id": 1298,
+      "section": null,
+      "word": "laundry",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "洗濯（すること）",
+          "page": "2年生 p.132"
+        }
+      ],
+      "page_first": "2年生 p.132"
+    },
+    {
+      "id": 1299,
+      "section": null,
+      "word": "lawyer",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "弁護士",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 1300,
+      "section": null,
+      "word": "lazy",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "なまけ者の",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    },
+    {
+      "id": 1301,
+      "section": null,
+      "word": "lead",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "鉛（なまり）",
+          "page": "3年生 p.50"
+        }
+      ],
+      "page_first": "3年生 p.50"
+    },
+    {
+      "id": 1302,
+      "section": null,
+      "word": "leaf",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "葉",
+          "page": "2年生 p.79"
+        }
+      ],
+      "page_first": "2年生 p.79"
+    },
+    {
+      "id": 1303,
+      "section": null,
+      "word": "learn",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "学ぶ、習う",
+          "page": "2年生 p.25"
+        }
+      ],
+      "page_first": "2年生 p.25"
+    },
+    {
+      "id": 1304,
+      "section": null,
+      "word": "least",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "もっとも少ないもの［量］、最小限",
+          "page": "3年生 p.21"
+        }
+      ],
+      "page_first": "3年生 p.21"
+    },
+    {
+      "id": 1306,
+      "section": null,
+      "word": "leave",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "出発する、去る",
+          "page": "2年生 p.11"
+        },
+        {
+          "pos": "動",
+          "ja": "置いて［残して］いく",
+          "page": "2年生 p.51"
+        }
+      ],
+      "page_first": "2年生 p.11"
+    },
+    {
+      "id": 1307,
+      "section": null,
+      "word": "leave ～ behind",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "〜を置き去りにする",
+          "page": "3年生 p.83"
+        }
+      ],
+      "page_first": "3年生 p.83"
+    },
+    {
+      "id": 1308,
+      "section": null,
+      "word": "leaves",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "leaf（葉）の複数形",
+          "page": "2年生 p.79"
+        }
+      ],
+      "page_first": "2年生 p.79"
+    },
+    {
+      "id": 1309,
+      "section": null,
+      "word": "left",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "左に［へ］",
+          "page": "1年生 p.91"
+        },
+        {
+          "pos": "名",
+          "ja": "左（側）",
+          "page": "1年生 p.91"
+        },
+        {
+          "pos": "形",
+          "ja": "左の",
+          "page": "2年生 p.47"
+        },
+        {
+          "pos": "動",
+          "ja": "leave（出発する）の過去形《過去分詞も同形》",
+          "page": "2年生 p.93"
+        }
+      ],
+      "page_first": "1年生 p.91"
+    },
+    {
+      "id": 1310,
+      "section": null,
+      "word": "leftover",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（ふつう複数形で）残り物、食べ残し",
+          "page": "3年生 p.90"
+        }
+      ],
+      "page_first": "3年生 p.90"
+    },
+    {
+      "id": 1311,
+      "section": null,
+      "word": "leg",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（家具の）脚",
+          "page": "1年生 p.128"
+        },
+        {
+          "pos": "名",
+          "ja": "（人・動物の）脚",
+          "page": "2年生 p.18"
+        }
+      ],
+      "page_first": "1年生 p.128"
+    },
+    {
+      "id": 1312,
+      "section": null,
+      "word": "legend",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "伝説",
+          "page": "1年生 p.55"
+        }
+      ],
+      "page_first": "1年生 p.55"
+    },
+    {
+      "id": 1313,
+      "section": null,
+      "word": "lemon",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "レモン",
+          "page": "1年生 p.16"
+        }
+      ],
+      "page_first": "1年生 p.16"
+    },
+    {
+      "id": 1314,
+      "section": null,
+      "word": "lemonade",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "レモネード",
+          "page": "2年生 p.36"
+        }
+      ],
+      "page_first": "2年生 p.36"
+    },
+    {
+      "id": 1315,
+      "section": null,
+      "word": "lend",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "貸す",
+          "page": "2年生 p.66"
+        }
+      ],
+      "page_first": "2年生 p.66"
+    },
+    {
+      "id": 1316,
+      "section": null,
+      "word": "lent",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "lend（貸す）の過去形《過去分詞も同形》",
+          "page": "3年生 p.31"
+        }
+      ],
+      "page_first": "3年生 p.31"
+    },
+    {
+      "id": 1317,
+      "section": null,
+      "word": "less",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "little（少ない）の比較級",
+          "page": "2年生 p.83"
+        }
+      ],
+      "page_first": "2年生 p.83"
+    },
+    {
+      "id": 1318,
+      "section": null,
+      "word": "lesson",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "教訓",
+          "page": "2年生 p.48"
+        }
+      ],
+      "page_first": "2年生 p.48"
+    },
+    {
+      "id": 1319,
+      "section": null,
+      "word": "let",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "（〜が…するのを）許す、（望みの通り）～させる",
+          "page": "3年生 p.38"
+        }
+      ],
+      "page_first": "3年生 p.38"
+    },
+    {
+      "id": 1321,
+      "section": null,
+      "word": "letter",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "手紙",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.143"
+    },
+    {
+      "id": 1320,
+      "section": null,
+      "word": "let’s",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "〜しよう、〜しましょう",
+          "page": "1年生 p.14"
+        }
+      ],
+      "page_first": "1年生 p.14"
+    },
+    {
+      "id": 1322,
+      "section": null,
+      "word": "library",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "図書館、図書室",
+          "page": "1年生 p.83"
+        }
+      ],
+      "page_first": "1年生 p.83"
+    },
+    {
+      "id": 1323,
+      "section": null,
+      "word": "lid",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ふた",
+          "page": "2年生 p.79"
+        }
+      ],
+      "page_first": "2年生 p.79"
+    },
+    {
+      "id": 1324,
+      "section": null,
+      "word": "life",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "生活、人生",
+          "page": "2年生 p.64"
+        },
+        {
+          "pos": "名",
+          "ja": "命、生命",
+          "page": "3年生 p.52"
+        }
+      ],
+      "page_first": "2年生 p.64"
+    },
+    {
+      "id": 1325,
+      "section": null,
+      "word": "lift",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "持ち上げる",
+          "page": "3年生 p.96"
+        }
+      ],
+      "page_first": "3年生 p.96"
+    },
+    {
+      "id": 1326,
+      "section": null,
+      "word": "light",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "軽い",
+          "page": "2年生 p.33"
+        },
+        {
+          "pos": "形",
+          "ja": "（量が）少ない",
+          "page": "2年生 p.42"
+        },
+        {
+          "pos": "形",
+          "ja": "（食事が）あっさりした",
+          "page": "2年生 p.43"
+        },
+        {
+          "pos": "名",
+          "ja": "明かり、光",
+          "page": "2年生 p.83"
+        }
+      ],
+      "page_first": "2年生 p.33"
+    },
+    {
+      "id": 1327,
+      "section": null,
+      "word": "like",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "（〜が）好きである、好む",
+          "page": "1年生 p.12"
+        },
+        {
+          "pos": "前",
+          "ja": "〜のような［に］、〜に似ている",
+          "page": "1年生 p.24"
+        },
+        {
+          "pos": "動",
+          "ja": "ほしい、望む",
+          "page": "1年生 p.56"
+        },
+        {
+          "pos": "接",
+          "ja": "〜のように",
+          "page": "3年生 p.125"
+        }
+      ],
+      "page_first": "1年生 p.12"
+    },
+    {
+      "id": 1328,
+      "section": null,
+      "word": "limit",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "制限する",
+          "page": "3年生 p.49"
+        }
+      ],
+      "page_first": "3年生 p.49"
+    },
+    {
+      "id": 1329,
+      "section": null,
+      "word": "limited",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "限られた",
+          "page": "3年生 p.69"
+        }
+      ],
+      "page_first": "3年生 p.69"
+    },
+    {
+      "id": 1330,
+      "section": null,
+      "word": "Lin",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "リン（女子の名）",
+          "page": "1年生 p.73"
+        }
+      ],
+      "page_first": "1年生 p.73"
+    },
+    {
+      "id": 1331,
+      "section": null,
+      "word": "line",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "線",
+          "page": "2年生 p.109"
+        }
+      ],
+      "page_first": "2年生 p.109"
+    },
+    {
+      "id": 1332,
+      "section": null,
+      "word": "lion",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ライオン",
+          "page": "1年生 p.88"
+        }
+      ],
+      "page_first": "1年生 p.88"
+    },
+    {
+      "id": 1333,
+      "section": null,
+      "word": "Lion Queen",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ライオンクイーン（架空の映画のタイトル）",
+          "page": "1年生 p.101"
+        }
+      ],
+      "page_first": "1年生 p.101"
+    }
+  ]
+}

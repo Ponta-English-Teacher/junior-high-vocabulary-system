@@ -1,0 +1,734 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 57,
+    "range": {
+      "from": "Swat Valley",
+      "to": "tank"
+    }
+  },
+  "entries": [
+    {
+      "id": 2238,
+      "section": null,
+      "word": "Swat Valley",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（theをつけて）スワート渓谷（パキスタン）",
+          "page": "3年生 p.108"
+        }
+      ],
+      "page_first": "3年生 p.108"
+    },
+    {
+      "id": 2239,
+      "section": null,
+      "word": "sweater",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "セーター",
+          "page": "1年生 p.108"
+        }
+      ],
+      "page_first": "1年生 p.108"
+    },
+    {
+      "id": 2240,
+      "section": null,
+      "word": "Swedish",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "スウェーデンの",
+          "page": "3年生 p.120"
+        }
+      ],
+      "page_first": "3年生 p.120"
+    },
+    {
+      "id": 2241,
+      "section": null,
+      "word": "sweet",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "（味覚が）甘い",
+          "page": "1年生 p.56"
+        },
+        {
+          "pos": "名",
+          "ja": "（甘い）菓子",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.56"
+    },
+    {
+      "id": 2242,
+      "section": null,
+      "word": "swim",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "泳ぐ",
+          "page": "1年生 p.39"
+        }
+      ],
+      "page_first": "1年生 p.39"
+    },
+    {
+      "id": 2243,
+      "section": null,
+      "word": "swimming",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "水泳",
+          "page": "2年生 p.27"
+        }
+      ],
+      "page_first": "2年生 p.27"
+    },
+    {
+      "id": 2244,
+      "section": null,
+      "word": "swimming pool",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "プール",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    },
+    {
+      "id": 2245,
+      "section": null,
+      "word": "Swiss",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "スイス（人）の",
+          "page": "3年生 p.70"
+        }
+      ],
+      "page_first": "3年生 p.70"
+    },
+    {
+      "id": 2246,
+      "section": null,
+      "word": "Sydney",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "シドニー（オーストラリアの都市）",
+          "page": "1年生 p.85"
+        }
+      ],
+      "page_first": "1年生 p.85"
+    },
+    {
+      "id": 2247,
+      "section": null,
+      "word": "system",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "装置、（体系的）方法",
+          "page": "3年生 p.84"
+        }
+      ],
+      "page_first": "3年生 p.84"
+    },
+    {
+      "id": 2415,
+      "section": null,
+      "word": "T-shirt",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "Tシャツ",
+          "page": "1年生 p.108"
+        }
+      ],
+      "page_first": "1年生 p.108"
+    },
+    {
+      "id": 2248,
+      "section": "T / t",
+      "word": "table",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "テーブル、食卓、（レストランなどの）席",
+          "page": "2年生 p.61"
+        }
+      ],
+      "page_first": "2年生 p.61"
+    },
+    {
+      "id": 2249,
+      "section": null,
+      "word": "table tennis",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "卓球",
+          "page": "1年生 p.15"
+        }
+      ],
+      "page_first": "1年生 p.15"
+    },
+    {
+      "id": 2250,
+      "section": null,
+      "word": "tablet",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "タブレット（型コンピュータ）",
+          "page": "2年生 p.66"
+        }
+      ],
+      "page_first": "2年生 p.66"
+    },
+    {
+      "id": 2251,
+      "section": null,
+      "word": "tag",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "札、タグ",
+          "page": "3年生 p.116"
+        }
+      ],
+      "page_first": "3年生 p.116"
+    },
+    {
+      "id": 2252,
+      "section": null,
+      "word": "take",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "（動作を表す名詞とともに）〜をする",
+          "page": "1年生 p.36"
+        },
+        {
+          "pos": "動",
+          "ja": "（時間が）かかる",
+          "page": "1年生 p.75"
+        },
+        {
+          "pos": "動",
+          "ja": "連れていく、持っていく",
+          "page": "1年生 p.111"
+        },
+        {
+          "pos": "動",
+          "ja": "取る、買う",
+          "page": "1年生 p.118"
+        },
+        {
+          "pos": "動",
+          "ja": "（写真を）とる",
+          "page": "1年生 p.111"
+        },
+        {
+          "pos": "動",
+          "ja": "（乗り物などに）乗る、（〜への道を）とる",
+          "page": "3年生 p.39"
+        }
+      ],
+      "page_first": "1年生 p.36"
+    },
+    {
+      "id": 194,
+      "section": null,
+      "word": "take a bath",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "ふろに入る",
+          "page": "1年生 p.36"
+        }
+      ],
+      "page_first": "1年生 p.36"
+    },
+    {
+      "id": 422,
+      "section": null,
+      "word": "take a class",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "授業を受ける",
+          "page": "3年生 p.100"
+        }
+      ],
+      "page_first": "3年生 p.100"
+    },
+    {
+      "id": 2253,
+      "section": null,
+      "word": "take a class",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": null,
+          "page": "3年生 p.100"
+        }
+      ],
+      "page_first": "3年生 p.100"
+    },
+    {
+      "id": 1359,
+      "section": null,
+      "word": "take a look",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "ちらりと見る、見てみる",
+          "page": "2年生 p.111"
+        }
+      ],
+      "page_first": "2年生 p.111"
+    },
+    {
+      "id": 1521,
+      "section": null,
+      "word": "take a nap",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "昼寝をする",
+          "page": "2年生 p.129"
+        }
+      ],
+      "page_first": "2年生 p.129"
+    },
+    {
+      "id": 1710,
+      "section": null,
+      "word": "take a picture",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "写真をとる",
+          "page": "1年生 p.111"
+        }
+      ],
+      "page_first": "1年生 p.111"
+    },
+    {
+      "id": 2500,
+      "section": null,
+      "word": "take a walk",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "散歩する",
+          "page": "1年生 p.111"
+        }
+      ],
+      "page_first": "1年生 p.111"
+    },
+    {
+      "id": 21,
+      "section": null,
+      "word": "take action",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "行動を起こす",
+          "page": "2年生 p.70"
+        }
+      ],
+      "page_first": "2年生 p.70"
+    },
+    {
+      "id": 350,
+      "section": null,
+      "word": "take care",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "気をつける、注意する",
+          "page": "2年生 p.12"
+        }
+      ],
+      "page_first": "2年生 p.12"
+    },
+    {
+      "id": 351,
+      "section": null,
+      "word": "take care of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～の世話をする",
+          "page": "3年生 p.49"
+        }
+      ],
+      "page_first": "3年生 p.49"
+    },
+    {
+      "id": 2254,
+      "section": null,
+      "word": "take care of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": null,
+          "page": "3年生 p.49"
+        }
+      ],
+      "page_first": "3年生 p.49"
+    },
+    {
+      "id": 1664,
+      "section": null,
+      "word": "take part in ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～に参加する",
+          "page": "3年生 p.101"
+        }
+      ],
+      "page_first": "3年生 p.101"
+    },
+    {
+      "id": 2255,
+      "section": null,
+      "word": "take part in ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": null,
+          "page": "3年生 p.101"
+        }
+      ],
+      "page_first": "3年生 p.101"
+    },
+    {
+      "id": 1725,
+      "section": null,
+      "word": "take place",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "開催される、起こる",
+          "page": "2年生 p.23"
+        }
+      ],
+      "page_first": "2年生 p.23"
+    },
+    {
+      "id": 2499,
+      "section": null,
+      "word": "take ～ for a walk",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～を散歩に連れて行く",
+          "page": "2年生 p.71"
+        }
+      ],
+      "page_first": "2年生 p.71"
+    },
+    {
+      "id": 2256,
+      "section": null,
+      "word": "taken",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "take（とる）の過去分詞",
+          "page": "2年生 p.108"
+        }
+      ],
+      "page_first": "2年生 p.108"
+    },
+    {
+      "id": 2257,
+      "section": null,
+      "word": "talent",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "才能（のある人）",
+          "page": "1年生 p.40"
+        }
+      ],
+      "page_first": "1年生 p.40"
+    },
+    {
+      "id": 2258,
+      "section": null,
+      "word": "talented",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "才能のある",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    },
+    {
+      "id": 2259,
+      "section": null,
+      "word": "Taliban",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "タリバン（イスラム教過激派組織）",
+          "page": "3年生 p.108"
+        }
+      ],
+      "page_first": "3年生 p.108"
+    },
+    {
+      "id": 2260,
+      "section": null,
+      "word": "talk",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "話す",
+          "page": "1年生 p.66"
+        }
+      ],
+      "page_first": "1年生 p.66"
+    },
+    {
+      "id": 2261,
+      "section": null,
+      "word": "talkative",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "話し好きな",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    },
+    {
+      "id": 2262,
+      "section": null,
+      "word": "tall",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "身長［高さ］がある、背が高い",
+          "page": "2年生 p.77"
+        }
+      ],
+      "page_first": "2年生 p.77"
+    },
+    {
+      "id": 2263,
+      "section": null,
+      "word": "tambourine",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "タンバリン",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.143"
+    },
+    {
+      "id": 2264,
+      "section": null,
+      "word": "tank",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "タンク、水槽",
+          "page": "2年生 p.125"
+        },
+        {
+          "pos": "名",
+          "ja": "戦車",
+          "page": "3年生 p.110"
+        }
+      ],
+      "page_first": "2年生 p.125"
+    }
+  ]
+}

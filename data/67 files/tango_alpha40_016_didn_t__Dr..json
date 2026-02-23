@@ -1,0 +1,719 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 16,
+    "range": {
+      "from": "didn’t",
+      "to": "Dr."
+    }
+  },
+  "entries": [
+    {
+      "id": 595,
+      "section": null,
+      "word": "didn’t",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（did notの短縮形）",
+          "page": "1年生 p.110"
+        }
+      ],
+      "page_first": "1年生 p.110"
+    },
+    {
+      "id": 596,
+      "section": null,
+      "word": "die",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "死ぬ",
+          "page": "2年生 p.93"
+        }
+      ],
+      "page_first": "2年生 p.93"
+    },
+    {
+      "id": 597,
+      "section": null,
+      "word": "die of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（病気など）で死ぬ",
+          "page": "3年生 p.50"
+        }
+      ],
+      "page_first": "3年生 p.50"
+    },
+    {
+      "id": 598,
+      "section": null,
+      "word": "different",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "違う",
+          "page": "2年生 p.46"
+        }
+      ],
+      "page_first": "2年生 p.46"
+    },
+    {
+      "id": 599,
+      "section": null,
+      "word": "difficult",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "難しい",
+          "page": "2年生 p.21"
+        }
+      ],
+      "page_first": "2年生 p.21"
+    },
+    {
+      "id": 600,
+      "section": null,
+      "word": "dinner",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "夕食",
+          "page": "1年生 p.31"
+        }
+      ],
+      "page_first": "1年生 p.31"
+    },
+    {
+      "id": 601,
+      "section": null,
+      "word": "diplomat",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "外交官",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 602,
+      "section": null,
+      "word": "dirty",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "汚い",
+          "page": "2年生 p.131"
+        }
+      ],
+      "page_first": "2年生 p.131"
+    },
+    {
+      "id": 603,
+      "section": null,
+      "word": "disability",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（身体・精神の）障害",
+          "page": "3年生 p.52"
+        }
+      ],
+      "page_first": "3年生 p.52"
+    },
+    {
+      "id": 604,
+      "section": null,
+      "word": "disappear",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "消滅する",
+          "page": "3年生 p.121"
+        }
+      ],
+      "page_first": "3年生 p.121"
+    },
+    {
+      "id": 605,
+      "section": null,
+      "word": "disappointed",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "がっかりして",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 606,
+      "section": null,
+      "word": "discouraged",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "がっかりして",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 607,
+      "section": null,
+      "word": "discovery",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "発見",
+          "page": "3年生 p.119"
+        }
+      ],
+      "page_first": "3年生 p.119"
+    },
+    {
+      "id": 608,
+      "section": null,
+      "word": "discussion",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "話し合い、議論",
+          "page": "3年生 p.54"
+        }
+      ],
+      "page_first": "3年生 p.54"
+    },
+    {
+      "id": 609,
+      "section": null,
+      "word": "disease",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "病気",
+          "page": "3年生 p.99"
+        }
+      ],
+      "page_first": "3年生 p.99"
+    },
+    {
+      "id": 610,
+      "section": null,
+      "word": "dish",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "料理",
+          "page": "1年生 p.14"
+        },
+        {
+          "pos": "名",
+          "ja": "皿",
+          "page": "2年生 p.132"
+        }
+      ],
+      "page_first": "1年生 p.14"
+    },
+    {
+      "id": 612,
+      "section": null,
+      "word": "display",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "展示、見世物、ディスプレー",
+          "page": "2年生 p.88"
+        }
+      ],
+      "page_first": "2年生 p.88"
+    },
+    {
+      "id": 613,
+      "section": null,
+      "word": "dive",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "ダイビングする、飛び込む",
+          "page": "3年生 p.84"
+        }
+      ],
+      "page_first": "3年生 p.84"
+    },
+    {
+      "id": 614,
+      "section": null,
+      "word": "do",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "する、行う",
+          "page": "1年生 p.12"
+        },
+        {
+          "pos": "助",
+          "ja": "（疑問文・否定文で使う）",
+          "page": "1年生 p.12"
+        },
+        {
+          "pos": "助",
+          "ja": "（答えの文で動詞の代わりに使う）",
+          "page": "1年生 p.30"
+        }
+      ],
+      "page_first": "1年生 p.12"
+    },
+    {
+      "id": 236,
+      "section": null,
+      "word": "do one’s best",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "最善［ベスト］をつくす",
+          "page": "2年生 p.13"
+        }
+      ],
+      "page_first": "2年生 p.13"
+    },
+    {
+      "id": 611,
+      "section": null,
+      "word": "do the dishes",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "皿洗いをする",
+          "page": "2年生 p.132"
+        }
+      ],
+      "page_first": "2年生 p.132"
+    },
+    {
+      "id": 615,
+      "section": null,
+      "word": "doctor",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "医師、博士",
+          "page": "1年生 p.16"
+        }
+      ],
+      "page_first": "1年生 p.16"
+    },
+    {
+      "id": 616,
+      "section": null,
+      "word": "document",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（コンピュータの）ドキュメント、文書",
+          "page": "3年生 p.104"
+        }
+      ],
+      "page_first": "3年生 p.104"
+    },
+    {
+      "id": 617,
+      "section": null,
+      "word": "documentary",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ドキュメンタリー、（映画・テレビなどの）記録作品",
+          "page": "2年生 p.129"
+        }
+      ],
+      "page_first": "2年生 p.129"
+    },
+    {
+      "id": 618,
+      "section": null,
+      "word": "does",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動助",
+          "ja": "doの変化形（主語が三人称単数で現在のときに使う）",
+          "page": "1年生 p.62"
+        }
+      ],
+      "page_first": "1年生 p.62"
+    },
+    {
+      "id": 619,
+      "section": null,
+      "word": "doesn’t",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（does notの短縮形）",
+          "page": "1年生 p.62"
+        }
+      ],
+      "page_first": "1年生 p.62"
+    },
+    {
+      "id": 620,
+      "section": null,
+      "word": "dog",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "イヌ",
+          "page": "1年生 p.19"
+        }
+      ],
+      "page_first": "1年生 p.19"
+    },
+    {
+      "id": 621,
+      "section": null,
+      "word": "doll",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "人形",
+          "page": "2年生 p.46"
+        }
+      ],
+      "page_first": "2年生 p.46"
+    },
+    {
+      "id": 622,
+      "section": null,
+      "word": "dollar",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ドル（アメリカ、カナダ、オーストラリア、ニュージーランドなどの貨幣単位）",
+          "page": "1年生 p.50"
+        }
+      ],
+      "page_first": "1年生 p.50"
+    },
+    {
+      "id": 623,
+      "section": null,
+      "word": "dolphin",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "イルカ",
+          "page": "1年生 p.142"
+        }
+      ],
+      "page_first": "1年生 p.142"
+    },
+    {
+      "id": 624,
+      "section": null,
+      "word": "donate",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "寄付する",
+          "page": "2年生 p.39"
+        }
+      ],
+      "page_first": "2年生 p.39"
+    },
+    {
+      "id": 625,
+      "section": null,
+      "word": "done",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "do（行う）の過去分詞",
+          "page": "3年生 p.19"
+        }
+      ],
+      "page_first": "3年生 p.19"
+    },
+    {
+      "id": 626,
+      "section": null,
+      "word": "donkey",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ロバ",
+          "page": "1年生 p.142"
+        }
+      ],
+      "page_first": "1年生 p.142"
+    },
+    {
+      "id": 629,
+      "section": null,
+      "word": "donut",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ドーナツ",
+          "page": "2年生 p.131"
+        }
+      ],
+      "page_first": "2年生 p.131"
+    },
+    {
+      "id": 627,
+      "section": null,
+      "word": "don’t",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（do notの短縮形）",
+          "page": "1年生 p.30"
+        }
+      ],
+      "page_first": "1年生 p.30"
+    },
+    {
+      "id": 1035,
+      "section": null,
+      "word": "don’t have to ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～する必要はない",
+          "page": "2年生 p.52"
+        }
+      ],
+      "page_first": "2年生 p.52"
+    },
+    {
+      "id": 630,
+      "section": null,
+      "word": "door",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ドア、扉",
+          "page": "3年生 p.38"
+        }
+      ],
+      "page_first": "3年生 p.38"
+    },
+    {
+      "id": 631,
+      "section": null,
+      "word": "double dribble",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ダブルドリブル",
+          "page": "3年生 p.35"
+        }
+      ],
+      "page_first": "3年生 p.35"
+    },
+    {
+      "id": 632,
+      "section": null,
+      "word": "down",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "前",
+          "ja": "下って",
+          "page": "1年生 p.91"
+        },
+        {
+          "pos": "副",
+          "ja": "下へ［に］",
+          "page": "1年生 p.115"
+        }
+      ],
+      "page_first": "1年生 p.91"
+    },
+    {
+      "id": 633,
+      "section": null,
+      "word": "Dr.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（医者に対する敬称）～先生、～博士",
+          "page": "3年生 p.49"
+        }
+      ],
+      "page_first": "3年生 p.49"
+    }
+  ]
+}

@@ -1,0 +1,709 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 66,
+    "range": {
+      "from": "Would you like ～?",
+      "to": "～ year(s) old"
+    }
+  },
+  "entries": [
+    {
+      "id": 2607,
+      "section": null,
+      "word": "Would you like ～?",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～はいかがですか。",
+          "page": "1年生 p.56"
+        }
+      ],
+      "page_first": "1年生 p.56"
+    },
+    {
+      "id": 2608,
+      "section": null,
+      "word": "wouldn’t",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（would notの短縮形）",
+          "page": "3年生 p.96"
+        }
+      ],
+      "page_first": "3年生 p.96"
+    },
+    {
+      "id": 2609,
+      "section": null,
+      "word": "wound",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（刃物や銃弾などの武器による）傷、けが",
+          "page": "3年生 p.50"
+        }
+      ],
+      "page_first": "3年生 p.50"
+    },
+    {
+      "id": 2610,
+      "section": null,
+      "word": "wow",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "間",
+          "ja": "うわー",
+          "page": "1年生 p.32"
+        }
+      ],
+      "page_first": "1年生 p.32"
+    },
+    {
+      "id": 2611,
+      "section": null,
+      "word": "wrap",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "包む、くるむ",
+          "page": "2年生 p.86"
+        }
+      ],
+      "page_first": "2年生 p.86"
+    },
+    {
+      "id": 2612,
+      "section": null,
+      "word": "write",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "書く",
+          "page": "1年生 p.36"
+        }
+      ],
+      "page_first": "1年生 p.36"
+    },
+    {
+      "id": 2613,
+      "section": null,
+      "word": "writer",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "作家",
+          "page": "2年生 p.120"
+        }
+      ],
+      "page_first": "2年生 p.120"
+    },
+    {
+      "id": 2614,
+      "section": null,
+      "word": "writing",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "書くこと、筆談",
+          "page": "3年生 p.61"
+        }
+      ],
+      "page_first": "3年生 p.61"
+    },
+    {
+      "id": 2615,
+      "section": null,
+      "word": "written",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "write（書く）の過去分詞",
+          "page": "2年生 p.109"
+        }
+      ],
+      "page_first": "2年生 p.109"
+    },
+    {
+      "id": 2616,
+      "section": null,
+      "word": "wrong",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "間違った",
+          "page": "2年生 p.50"
+        }
+      ],
+      "page_first": "2年生 p.50"
+    },
+    {
+      "id": 2617,
+      "section": null,
+      "word": "wrote",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "write（書く）の過去形",
+          "page": "2年生 p.120"
+        }
+      ],
+      "page_first": "2年生 p.120"
+    },
+    {
+      "id": 2618,
+      "section": "X / x",
+      "word": "xylophone",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "木琴",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.143"
+    },
+    {
+      "id": 2619,
+      "section": "Y / y",
+      "word": "yacht",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ヨット、大型クルーザー",
+          "page": "1年生 p.16"
+        }
+      ],
+      "page_first": "1年生 p.16"
+    },
+    {
+      "id": 2620,
+      "section": null,
+      "word": "yard",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "庭",
+          "page": "3年生 p.74"
+        }
+      ],
+      "page_first": "3年生 p.74"
+    },
+    {
+      "id": 2621,
+      "section": null,
+      "word": "yeah",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "うん、ああ（yesのくだけた表現）",
+          "page": "1年生 p.73"
+        }
+      ],
+      "page_first": "1年生 p.73"
+    },
+    {
+      "id": 2622,
+      "section": null,
+      "word": "year",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "年",
+          "page": "1年生 p.53"
+        }
+      ],
+      "page_first": "1年生 p.53"
+    },
+    {
+      "id": 2624,
+      "section": null,
+      "word": "yellow",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "黄色（い）",
+          "page": "1年生 p.58"
+        }
+      ],
+      "page_first": "1年生 p.58"
+    },
+    {
+      "id": 2625,
+      "section": null,
+      "word": "Yellowknife",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "イエローナイフ（カナダの都市）",
+          "page": "2年生 p.29"
+        }
+      ],
+      "page_first": "2年生 p.29"
+    },
+    {
+      "id": 2626,
+      "section": null,
+      "word": "yen",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "円（日本の通貨単位）",
+          "page": "3年生 p.94"
+        }
+      ],
+      "page_first": "3年生 p.94"
+    },
+    {
+      "id": 2627,
+      "section": null,
+      "word": "yes",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "（問いに対して）はい",
+          "page": "1年生 p.23"
+        }
+      ],
+      "page_first": "1年生 p.23"
+    },
+    {
+      "id": 2628,
+      "section": null,
+      "word": "yesterday",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "昨日（は）",
+          "page": "1年生 p.110"
+        }
+      ],
+      "page_first": "1年生 p.110"
+    },
+    {
+      "id": 2629,
+      "section": null,
+      "word": "yet",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "（否定文で）まだ（～でない）",
+          "page": "3年生 p.18"
+        },
+        {
+          "pos": "副",
+          "ja": "（疑問文で）もう",
+          "page": "3年生 p.19"
+        }
+      ],
+      "page_first": "3年生 p.18"
+    },
+    {
+      "id": 2630,
+      "section": null,
+      "word": "yogurt",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ヨーグルト",
+          "page": "2年生 p.79"
+        }
+      ],
+      "page_first": "2年生 p.79"
+    },
+    {
+      "id": 2631,
+      "section": null,
+      "word": "you",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "あなた［がた］は［が］",
+          "page": "1年生 p.12"
+        },
+        {
+          "pos": "代",
+          "ja": "あなた［がた］を［に］",
+          "page": "1年生 p.24"
+        }
+      ],
+      "page_first": "1年生 p.12"
+    },
+    {
+      "id": 2633,
+      "section": null,
+      "word": "young",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "若い",
+          "page": "1年生 p.126"
+        }
+      ],
+      "page_first": "1年生 p.126"
+    },
+    {
+      "id": 2634,
+      "section": null,
+      "word": "your",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "あなた［がた］の",
+          "page": "1年生 p.12"
+        }
+      ],
+      "page_first": "1年生 p.12"
+    },
+    {
+      "id": 2636,
+      "section": null,
+      "word": "yours",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "あなた［がた］のもの",
+          "page": "1年生 p.70"
+        }
+      ],
+      "page_first": "1年生 p.70"
+    },
+    {
+      "id": 2637,
+      "section": null,
+      "word": "yourself",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "あなた自身を［に］",
+          "page": "1年生 p.130"
+        }
+      ],
+      "page_first": "1年生 p.130"
+    },
+    {
+      "id": 2638,
+      "section": null,
+      "word": "yourselves",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "あなたがた自身を［に］",
+          "page": "1年生 p.130"
+        }
+      ],
+      "page_first": "1年生 p.130"
+    },
+    {
+      "id": 2632,
+      "section": null,
+      "word": "you’ll",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（you willの短縮形）",
+          "page": "2年生 p.12"
+        }
+      ],
+      "page_first": "2年生 p.12"
+    },
+    {
+      "id": 2635,
+      "section": null,
+      "word": "you’re",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（you areの短縮形）",
+          "page": "1年生 p.24"
+        }
+      ],
+      "page_first": "1年生 p.24"
+    },
+    {
+      "id": 1261,
+      "section": null,
+      "word": "You’re kidding.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "冗談でしょう。まさか。",
+          "page": "2年生 p.11"
+        }
+      ],
+      "page_first": "2年生 p.11"
+    },
+    {
+      "id": 2536,
+      "section": null,
+      "word": "You’re welcome.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "どういたしまして。",
+          "page": "1年生 p.91"
+        }
+      ],
+      "page_first": "1年生 p.91"
+    },
+    {
+      "id": 2639,
+      "section": null,
+      "word": "you’ve",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（you haveの短縮形）",
+          "page": "3年生 p.19"
+        }
+      ],
+      "page_first": "3年生 p.19"
+    },
+    {
+      "id": 2640,
+      "section": "Z / z",
+      "word": "zebra",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "シマウマ",
+          "page": "1年生 p.53"
+        }
+      ],
+      "page_first": "1年生 p.53"
+    },
+    {
+      "id": 2641,
+      "section": null,
+      "word": "zero",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "0（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 2642,
+      "section": null,
+      "word": "Zimbabwe",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ジンバブエ",
+          "page": "3年生 p.120"
+        }
+      ],
+      "page_first": "3年生 p.120"
+    },
+    {
+      "id": 2643,
+      "section": null,
+      "word": "zoo",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "動物園",
+          "page": "1年生 p.16"
+        }
+      ],
+      "page_first": "1年生 p.16"
+    },
+    {
+      "id": 3,
+      "section": null,
+      "word": "～ times a day",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "1日に〜回",
+          "page": "2年生 p.101"
+        }
+      ],
+      "page_first": "2年生 p.101"
+    },
+    {
+      "id": 2623,
+      "section": null,
+      "word": "～ year(s) old",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～歳、～才",
+          "page": "1年生 p.53"
+        }
+      ],
+      "page_first": "1年生 p.53"
+    }
+  ]
+}

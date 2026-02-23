@@ -1,0 +1,804 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 41,
+    "range": {
+      "from": "number",
+      "to": "opening"
+    }
+  },
+  "entries": [
+    {
+      "id": 1585,
+      "section": null,
+      "word": "number",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（電話・住所などの）番号",
+          "page": "2年生 p.50"
+        }
+      ],
+      "page_first": "2年生 p.50"
+    },
+    {
+      "id": 1586,
+      "section": null,
+      "word": "nurse",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "看護師",
+          "page": "1年生 p.16"
+        }
+      ],
+      "page_first": "1年生 p.16"
+    },
+    {
+      "id": 1587,
+      "section": null,
+      "word": "nursery school",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "保育園",
+          "page": "2年生 p.71"
+        }
+      ],
+      "page_first": "2年生 p.71"
+    },
+    {
+      "id": 1588,
+      "section": null,
+      "word": "nursery school teacher",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "保育士",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 1589,
+      "section": null,
+      "word": "nursing home",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "介護施設",
+          "page": "3年生 p.129"
+        }
+      ],
+      "page_first": "3年生 p.129"
+    },
+    {
+      "id": 1590,
+      "section": null,
+      "word": "NY",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ニューヨーク（市または州）",
+          "page": "1年生 p.140"
+        }
+      ],
+      "page_first": "1年生 p.140"
+    },
+    {
+      "id": 1591,
+      "section": "O / o",
+      "word": "ocean",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "大洋、海",
+          "page": "1年生 p.16"
+        }
+      ],
+      "page_first": "1年生 p.16"
+    },
+    {
+      "id": 1592,
+      "section": null,
+      "word": "Ocean Cleanup",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（theをつけて）オーシャン・クリーンアップ（非営利組織の名）",
+          "page": "3年生 p.84"
+        }
+      ],
+      "page_first": "3年生 p.84"
+    },
+    {
+      "id": 1594,
+      "section": null,
+      "word": "October",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "10月",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 1595,
+      "section": null,
+      "word": "octopus",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "タコ",
+          "page": "1年生 p.16"
+        }
+      ],
+      "page_first": "1年生 p.16"
+    },
+    {
+      "id": 1596,
+      "section": null,
+      "word": "of",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "前",
+          "ja": "（所属・所有を表して）〜の",
+          "page": "1年生 p.26"
+        },
+        {
+          "pos": "前",
+          "ja": "（関連を表して）〜について",
+          "page": "1年生 p.66"
+        },
+        {
+          "pos": "前",
+          "ja": "～の中で（いちばん）",
+          "page": "2年生 p.77"
+        },
+        {
+          "pos": "前",
+          "ja": "（材料を表して）～で作った",
+          "page": "2年生 p.109"
+        }
+      ],
+      "page_first": "1年生 p.26"
+    },
+    {
+      "id": 514,
+      "section": null,
+      "word": "of course",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "もちろん",
+          "page": "1年生 p.114"
+        }
+      ],
+      "page_first": "1年生 p.114"
+    },
+    {
+      "id": 1597,
+      "section": null,
+      "word": "off",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "前",
+          "ja": "離れて",
+          "page": "1年生 p.128"
+        },
+        {
+          "pos": "副",
+          "ja": "～から離れて、落ちて",
+          "page": "2年生 p.79"
+        },
+        {
+          "pos": "副",
+          "ja": "（照明・機械などが）消えて、止まって",
+          "page": "2年生 p.83"
+        }
+      ],
+      "page_first": "1年生 p.128"
+    },
+    {
+      "id": 1598,
+      "section": null,
+      "word": "office",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "事務室",
+          "page": "1年生 p.91"
+        }
+      ],
+      "page_first": "1年生 p.91"
+    },
+    {
+      "id": 1599,
+      "section": null,
+      "word": "official",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "公式の、公の",
+          "page": "3年生 p.60"
+        }
+      ],
+      "page_first": "3年生 p.60"
+    },
+    {
+      "id": 1600,
+      "section": null,
+      "word": "often",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "しばしば、よく、たびたび",
+          "page": "1年生 p.41"
+        }
+      ],
+      "page_first": "1年生 p.41"
+    },
+    {
+      "id": 1601,
+      "section": null,
+      "word": "oh",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "間",
+          "ja": "まあ、おお、ああ",
+          "page": "1年生 p.22"
+        }
+      ],
+      "page_first": "1年生 p.22"
+    },
+    {
+      "id": 1602,
+      "section": null,
+      "word": "OK",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "間",
+          "ja": "わかりました、いいですよ",
+          "page": "1年生 p.40"
+        },
+        {
+          "pos": "形",
+          "ja": "よろしい、だいじょうぶ",
+          "page": "1年生 p.127"
+        }
+      ],
+      "page_first": "1年生 p.40"
+    },
+    {
+      "id": 1603,
+      "section": null,
+      "word": "old",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "（人が）〜歳の、（物が）（できてから）〜経った",
+          "page": "1年生 p.53"
+        },
+        {
+          "pos": "形",
+          "ja": "年をとった、古い",
+          "page": "2年生 p.70"
+        }
+      ],
+      "page_first": "1年生 p.53"
+    },
+    {
+      "id": 1604,
+      "section": null,
+      "word": "Oliver",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "オリバー（男子の名）",
+          "page": "2年生 p.83"
+        }
+      ],
+      "page_first": "2年生 p.83"
+    },
+    {
+      "id": 1605,
+      "section": null,
+      "word": "omelet",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "オムレツ",
+          "page": "1年生 p.39"
+        }
+      ],
+      "page_first": "1年生 p.39"
+    },
+    {
+      "id": 1606,
+      "section": null,
+      "word": "on",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": null,
+          "page": "1年生 p.30"
+        },
+        {
+          "pos": "前",
+          "ja": "（日を表して）〜に",
+          "page": "1年生 p.30"
+        },
+        {
+          "pos": "前",
+          "ja": "（手段・情報源を表して）〜で、〜に出て",
+          "page": "1年生 p.41"
+        },
+        {
+          "pos": "前",
+          "ja": "（場所を表して）〜（の上）に［で］",
+          "page": "1年生 p.42"
+        },
+        {
+          "pos": "前",
+          "ja": "（所属を表して）〜の一員で",
+          "page": "1年生 p.53"
+        },
+        {
+          "pos": "前",
+          "ja": "（関連を表して）〜について（の）",
+          "page": "1年生 p.81"
+        },
+        {
+          "pos": "前",
+          "ja": "〜側に、〜に面して［接して］",
+          "page": "1年生 p.91"
+        },
+        {
+          "pos": "副",
+          "ja": "しっかりと、くっついて",
+          "page": "1年生 p.129"
+        },
+        {
+          "pos": "前",
+          "ja": "（目的）のために",
+          "page": "1年生 p.143"
+        },
+        {
+          "pos": "前",
+          "ja": "～に従事して、（ある活動）で",
+          "page": "2年生 p.93"
+        }
+      ],
+      "page_first": "1年生 p.30"
+    },
+    {
+      "id": 1607,
+      "section": null,
+      "word": "on sale",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": null,
+          "page": "3年生 p.94"
+        }
+      ],
+      "page_first": "3年生 p.94"
+    },
+    {
+      "id": 1923,
+      "section": null,
+      "word": "on sale",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（商品が）販売されて",
+          "page": "3年生 p.94"
+        }
+      ],
+      "page_first": "3年生 p.94"
+    },
+    {
+      "id": 1016,
+      "section": null,
+      "word": "on the other hand",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "一方、それに対して",
+          "page": "3年生 p.120"
+        }
+      ],
+      "page_first": "3年生 p.120"
+    },
+    {
+      "id": 1608,
+      "section": null,
+      "word": "on the other hand",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": null,
+          "page": "3年生 p.120"
+        }
+      ],
+      "page_first": "3年生 p.120"
+    },
+    {
+      "id": 2523,
+      "section": null,
+      "word": "on the way (back) to ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～へ行く（もどる）途中で",
+          "page": "2年生 p.93"
+        }
+      ],
+      "page_first": "2年生 p.93"
+    },
+    {
+      "id": 2350,
+      "section": null,
+      "word": "on time",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "時間どおりに",
+          "page": "2年生 p.59"
+        }
+      ],
+      "page_first": "2年生 p.59"
+    },
+    {
+      "id": 2373,
+      "section": null,
+      "word": "on top of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～に加えて",
+          "page": "1年生 p.94"
+        }
+      ],
+      "page_first": "1年生 p.94"
+    },
+    {
+      "id": 1609,
+      "section": null,
+      "word": "once",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "一度、1回",
+          "page": "1年生 p.114"
+        },
+        {
+          "pos": "副",
+          "ja": "かつて、以前",
+          "page": "2年生 p.103"
+        }
+      ],
+      "page_first": "1年生 p.114"
+    },
+    {
+      "id": 1610,
+      "section": null,
+      "word": "one",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "もの（名詞のくり返しを避けるために使う）",
+          "page": "1年生 p.50"
+        },
+        {
+          "pos": "名形",
+          "ja": "1（の）",
+          "page": "1年生 p.103"
+        },
+        {
+          "pos": "代",
+          "ja": "1つ、1人",
+          "page": "1年生 p.104"
+        },
+        {
+          "pos": "代",
+          "ja": "者、物",
+          "page": "1年生 p.126"
+        },
+        {
+          "pos": "形",
+          "ja": "（時を表す名詞の前で）ある～",
+          "page": "2年生 p.80"
+        }
+      ],
+      "page_first": "1年生 p.50"
+    },
+    {
+      "id": 102,
+      "section": null,
+      "word": "one after another",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "次々と",
+          "page": "2年生 p.92"
+        }
+      ],
+      "page_first": "2年生 p.92"
+    },
+    {
+      "id": 563,
+      "section": null,
+      "word": "one day",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "ある日",
+          "page": "2年生 p.80"
+        }
+      ],
+      "page_first": "2年生 p.80"
+    },
+    {
+      "id": 1611,
+      "section": null,
+      "word": "one of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～のうちの１つ［１人］",
+          "page": "2年生 p.25"
+        }
+      ],
+      "page_first": "2年生 p.25"
+    },
+    {
+      "id": 1612,
+      "section": null,
+      "word": "ONE PIECE",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ワンピース（マンガ・アニメのタイトル）",
+          "page": "1年生 p.78"
+        }
+      ],
+      "page_first": "1年生 p.78"
+    },
+    {
+      "id": 1613,
+      "section": null,
+      "word": "onion",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "タマネギ",
+          "page": "2年生 p.61"
+        }
+      ],
+      "page_first": "2年生 p.61"
+    },
+    {
+      "id": 1614,
+      "section": null,
+      "word": "only",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "ただ〜だけ、ほんの〜にすぎない",
+          "page": "1年生 p.66"
+        }
+      ],
+      "page_first": "1年生 p.66"
+    },
+    {
+      "id": 1615,
+      "section": null,
+      "word": "oops",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "間",
+          "ja": "（失敗したときなどに）おっと、しまった",
+          "page": "1年生 p.124"
+        }
+      ],
+      "page_first": "1年生 p.124"
+    },
+    {
+      "id": 1616,
+      "section": null,
+      "word": "open",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "開ける、開く",
+          "page": "1年生 p.36"
+        }
+      ],
+      "page_first": "1年生 p.36"
+    },
+    {
+      "id": 1617,
+      "section": null,
+      "word": "opening",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "開店、開業",
+          "page": "3年生 p.94"
+        }
+      ],
+      "page_first": "3年生 p.94"
+    }
+  ]
+}

@@ -1,0 +1,739 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 9,
+    "range": {
+      "from": "building",
+      "to": "cannot"
+    }
+  },
+  "entries": [
+    {
+      "id": 306,
+      "section": null,
+      "word": "building",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "建物、ビルディング",
+          "page": "2年生 p.88"
+        }
+      ],
+      "page_first": "2年生 p.88"
+    },
+    {
+      "id": 307,
+      "section": null,
+      "word": "built",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "build（建てる）の過去分詞《過去形も同形》",
+          "page": "2年生 p.108"
+        }
+      ],
+      "page_first": "2年生 p.108"
+    },
+    {
+      "id": 308,
+      "section": null,
+      "word": "bullet",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "弾丸",
+          "page": "3年生 p.50"
+        }
+      ],
+      "page_first": "3年生 p.50"
+    },
+    {
+      "id": 309,
+      "section": null,
+      "word": "burger",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ハンバーガー、～バーガー",
+          "page": "2年生 p.30"
+        }
+      ],
+      "page_first": "2年生 p.30"
+    },
+    {
+      "id": 310,
+      "section": null,
+      "word": "bury",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "埋葬する、埋める",
+          "page": "2年生 p.93"
+        }
+      ],
+      "page_first": "2年生 p.93"
+    },
+    {
+      "id": 311,
+      "section": null,
+      "word": "bus",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "バス",
+          "page": "1年生 p.82"
+        }
+      ],
+      "page_first": "1年生 p.82"
+    },
+    {
+      "id": 312,
+      "section": null,
+      "word": "business",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "営業、商売、取引",
+          "page": "3年生 p.75"
+        }
+      ],
+      "page_first": "3年生 p.75"
+    },
+    {
+      "id": 313,
+      "section": null,
+      "word": "busy",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "忙しい",
+          "page": "1年生 p.101"
+        }
+      ],
+      "page_first": "1年生 p.101"
+    },
+    {
+      "id": 314,
+      "section": null,
+      "word": "but",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "接",
+          "ja": "しかし",
+          "page": "1年生 p.31"
+        }
+      ],
+      "page_first": "1年生 p.31"
+    },
+    {
+      "id": 315,
+      "section": null,
+      "word": "butcher shop",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "肉屋",
+          "page": "2年生 p.132"
+        }
+      ],
+      "page_first": "2年生 p.132"
+    },
+    {
+      "id": 316,
+      "section": null,
+      "word": "butter",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "バター",
+          "page": "2年生 p.109"
+        }
+      ],
+      "page_first": "2年生 p.109"
+    },
+    {
+      "id": 317,
+      "section": null,
+      "word": "butterfly",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "チョウ",
+          "page": "1年生 p.53"
+        }
+      ],
+      "page_first": "1年生 p.53"
+    },
+    {
+      "id": 318,
+      "section": null,
+      "word": "buy",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "買う",
+          "page": "1年生 p.52"
+        }
+      ],
+      "page_first": "1年生 p.52"
+    },
+    {
+      "id": 319,
+      "section": null,
+      "word": "by",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "前",
+          "ja": "（手段を表して）〜で",
+          "page": "1年生 p.82"
+        },
+        {
+          "pos": "前",
+          "ja": "（場所を表して）〜のそばに［で、の］、〜のわきに",
+          "page": "1年生 p.88"
+        },
+        {
+          "pos": "前",
+          "ja": "（時間・期日）までに",
+          "page": "2年生 p.53"
+        },
+        {
+          "pos": "前",
+          "ja": "～によって",
+          "page": "2年生 p.94"
+        }
+      ],
+      "page_first": "1年生 p.82"
+    },
+    {
+      "id": 1470,
+      "section": null,
+      "word": "by mistake",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "誤って、間違って",
+          "page": "2年生 p.69"
+        }
+      ],
+      "page_first": "2年生 p.69"
+    },
+    {
+      "id": 320,
+      "section": null,
+      "word": "by oneself",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "自力で、ひとりで",
+          "page": "2年生 p.36"
+        }
+      ],
+      "page_first": "2年生 p.36"
+    },
+    {
+      "id": 2521,
+      "section": null,
+      "word": "by the way",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "ところで",
+          "page": "2年生 p.11"
+        }
+      ],
+      "page_first": "2年生 p.11"
+    },
+    {
+      "id": 321,
+      "section": null,
+      "word": "bye",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "間",
+          "ja": "さようなら、じゃあね",
+          "page": "2年生 p.50"
+        }
+      ],
+      "page_first": "2年生 p.50"
+    },
+    {
+      "id": 322,
+      "section": "C / c",
+      "word": "cabbage",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "キャベツ",
+          "page": "2年生 p.43"
+        }
+      ],
+      "page_first": "2年生 p.43"
+    },
+    {
+      "id": 323,
+      "section": null,
+      "word": "cacao",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "カカオ",
+          "page": "3年生 p.69"
+        }
+      ],
+      "page_first": "3年生 p.69"
+    },
+    {
+      "id": 324,
+      "section": null,
+      "word": "Caesar salad",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "シーザーサラダ",
+          "page": "2年生 p.61"
+        }
+      ],
+      "page_first": "2年生 p.61"
+    },
+    {
+      "id": 325,
+      "section": null,
+      "word": "cafe",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "カフェ、喫茶店",
+          "page": "2年生 p.76"
+        }
+      ],
+      "page_first": "2年生 p.76"
+    },
+    {
+      "id": 326,
+      "section": null,
+      "word": "cage",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "鳥かご、檻（おり）",
+          "page": "3年生 p.49"
+        }
+      ],
+      "page_first": "3年生 p.49"
+    },
+    {
+      "id": 327,
+      "section": null,
+      "word": "cake",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ケーキ",
+          "page": "1年生 p.82"
+        }
+      ],
+      "page_first": "1年生 p.82"
+    },
+    {
+      "id": 328,
+      "section": null,
+      "word": "call",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "電話をかける",
+          "page": "1年生 p.125"
+        },
+        {
+          "pos": "名",
+          "ja": "呼び出し",
+          "page": "2年生 p.125"
+        },
+        {
+          "pos": "動",
+          "ja": "（〜を…と）呼ぶ",
+          "page": "3年生 p.38"
+        },
+        {
+          "pos": "名",
+          "ja": "電話をかけること、通話",
+          "page": "3年生 p.75"
+        }
+      ],
+      "page_first": "1年生 p.125"
+    },
+    {
+      "id": 329,
+      "section": null,
+      "word": "calligraphy",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "書道",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 330,
+      "section": null,
+      "word": "calm",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "落ち着いた、穏やかな",
+          "page": "2年生 p.127"
+        }
+      ],
+      "page_first": "2年生 p.127"
+    },
+    {
+      "id": 331,
+      "section": null,
+      "word": "came",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "come（来る）の過去形",
+          "page": "1年生 p.110"
+        }
+      ],
+      "page_first": "1年生 p.110"
+    },
+    {
+      "id": 332,
+      "section": null,
+      "word": "camera",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "カメラ",
+          "page": "2年生 p.73"
+        }
+      ],
+      "page_first": "2年生 p.73"
+    },
+    {
+      "id": 333,
+      "section": null,
+      "word": "camp",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "キャンプする",
+          "page": "2年生 p.9"
+        },
+        {
+          "pos": "名",
+          "ja": "キャンプ",
+          "page": "2年生 p.64"
+        }
+      ],
+      "page_first": "2年生 p.9"
+    },
+    {
+      "id": 334,
+      "section": null,
+      "word": "can",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "助",
+          "ja": "（可能）〜することができる",
+          "page": "1年生 p.12"
+        },
+        {
+          "pos": "助",
+          "ja": "（許可）〜してもよい",
+          "page": "1年生 p.50"
+        }
+      ],
+      "page_first": "1年生 p.12"
+    },
+    {
+      "id": 336,
+      "section": null,
+      "word": "Can I help you?",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（店員が客に）いらっしゃいませ。お手伝いしましょうか。",
+          "page": "1年生 p.108"
+        }
+      ],
+      "page_first": "1年生 p.108"
+    },
+    {
+      "id": 335,
+      "section": null,
+      "word": "Can I ～?",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～してもよいですか。",
+          "page": "1年生 p.50"
+        }
+      ],
+      "page_first": "1年生 p.50"
+    },
+    {
+      "id": 337,
+      "section": null,
+      "word": "Can you ～?",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～してもらえますか。",
+          "page": "1年生 p.85"
+        }
+      ],
+      "page_first": "1年生 p.85"
+    },
+    {
+      "id": 338,
+      "section": null,
+      "word": "Canada",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "カナダ",
+          "page": "1年生 p.26"
+        }
+      ],
+      "page_first": "1年生 p.26"
+    },
+    {
+      "id": 339,
+      "section": null,
+      "word": "Canadian",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "カナダ（人）の",
+          "page": "3年生 p.81"
+        }
+      ],
+      "page_first": "3年生 p.81"
+    },
+    {
+      "id": 340,
+      "section": null,
+      "word": "canal",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "運河、水路",
+          "page": "3年生 p.122"
+        }
+      ],
+      "page_first": "3年生 p.122"
+    },
+    {
+      "id": 341,
+      "section": null,
+      "word": "candy",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "あめ、キャンディー、菓子",
+          "page": "1年生 p.114"
+        }
+      ],
+      "page_first": "1年生 p.114"
+    },
+    {
+      "id": 342,
+      "section": null,
+      "word": "candy store",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "菓子屋",
+          "page": "2年生 p.132"
+        }
+      ],
+      "page_first": "2年生 p.132"
+    },
+    {
+      "id": 343,
+      "section": null,
+      "word": "cannot",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "助",
+          "ja": "～できない（canの否定形。ふつうcan notと2語に分けては書かない）",
+          "page": "1年生 p.43"
+        }
+      ],
+      "page_first": "1年生 p.43"
+    }
+  ]
+}

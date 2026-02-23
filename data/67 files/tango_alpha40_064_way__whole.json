@@ -1,0 +1,784 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 64,
+    "range": {
+      "from": "way",
+      "to": "whole"
+    }
+  },
+  "entries": [
+    {
+      "id": 2520,
+      "section": null,
+      "word": "way",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "道、方法",
+          "page": "1年生 p.71"
+        },
+        {
+          "pos": "名",
+          "ja": "方向",
+          "page": "2年生 p.61"
+        }
+      ],
+      "page_first": "1年生 p.71"
+    },
+    {
+      "id": 2524,
+      "section": null,
+      "word": "we",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "私たちは［が］",
+          "page": "1年生 p.14"
+        }
+      ],
+      "page_first": "1年生 p.14"
+    },
+    {
+      "id": 2525,
+      "section": null,
+      "word": "weak",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "弱い",
+          "page": "3年生 p.99"
+        }
+      ],
+      "page_first": "3年生 p.99"
+    },
+    {
+      "id": 2526,
+      "section": null,
+      "word": "weaken",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "弱める、衰弱させる",
+          "page": "3年生 p.50"
+        }
+      ],
+      "page_first": "3年生 p.50"
+    },
+    {
+      "id": 2527,
+      "section": null,
+      "word": "weapon",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "武器、兵器",
+          "page": "3年生 p.125"
+        }
+      ],
+      "page_first": "3年生 p.125"
+    },
+    {
+      "id": 2528,
+      "section": null,
+      "word": "wear",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "身につける、着る",
+          "page": "2年生 p.115"
+        }
+      ],
+      "page_first": "2年生 p.115"
+    },
+    {
+      "id": 2529,
+      "section": null,
+      "word": "weather",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "天気",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 2530,
+      "section": null,
+      "word": "weather forecaster",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "天気予報士",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 2531,
+      "section": null,
+      "word": "website",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ウェブサイト",
+          "page": "3年生 p.69"
+        }
+      ],
+      "page_first": "3年生 p.69"
+    },
+    {
+      "id": 2532,
+      "section": null,
+      "word": "Wednesday",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "水曜日",
+          "page": "1年生 p.14"
+        }
+      ],
+      "page_first": "1年生 p.14"
+    },
+    {
+      "id": 2533,
+      "section": null,
+      "word": "week",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "週、1週間",
+          "page": "1年生 p.113"
+        }
+      ],
+      "page_first": "1年生 p.113"
+    },
+    {
+      "id": 2534,
+      "section": null,
+      "word": "weekend",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "週末",
+          "page": "1年生 p.30"
+        }
+      ],
+      "page_first": "1年生 p.30"
+    },
+    {
+      "id": 2535,
+      "section": null,
+      "word": "welcome",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "歓迎される",
+          "page": "1年生 p.91"
+        },
+        {
+          "pos": "間",
+          "ja": "ようこそ、いらっしゃい",
+          "page": "1年生 p.122"
+        }
+      ],
+      "page_first": "1年生 p.91"
+    },
+    {
+      "id": 2538,
+      "section": null,
+      "word": "well",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "じょうずに",
+          "page": "1年生 p.39"
+        },
+        {
+          "pos": "間",
+          "ja": "えーと",
+          "page": "1年生 p.73"
+        },
+        {
+          "pos": "副",
+          "ja": "よく、十分に",
+          "page": "1年生 p.73"
+        },
+        {
+          "pos": "間",
+          "ja": "やれやれ",
+          "page": "1年生 p.128"
+        },
+        {
+          "pos": "形",
+          "ja": "健康で、元気で",
+          "page": "2年生 p.112"
+        }
+      ],
+      "page_first": "1年生 p.39"
+    },
+    {
+      "id": 2540,
+      "section": null,
+      "word": "well-done",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "（肉が）よく焼けた",
+          "page": "2年生 p.61"
+        }
+      ],
+      "page_first": "2年生 p.61"
+    },
+    {
+      "id": 2541,
+      "section": null,
+      "word": "went",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "go（行く）の過去形",
+          "page": "1年生 p.111"
+        }
+      ],
+      "page_first": "1年生 p.111"
+    },
+    {
+      "id": 2543,
+      "section": null,
+      "word": "were",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "areの過去形",
+          "page": "1年生 p.124"
+        },
+        {
+          "pos": "助",
+          "ja": "（過去進行形を作る）",
+          "page": "1年生 p.124"
+        }
+      ],
+      "page_first": "1年生 p.124"
+    },
+    {
+      "id": 2544,
+      "section": null,
+      "word": "weren’t",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（were notの短縮形）",
+          "page": "1年生 p.133"
+        }
+      ],
+      "page_first": "1年生 p.133"
+    },
+    {
+      "id": 2545,
+      "section": null,
+      "word": "west",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "西、西方",
+          "page": "3年生 p.132"
+        }
+      ],
+      "page_first": "3年生 p.132"
+    },
+    {
+      "id": 2546,
+      "section": null,
+      "word": "wet",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "ぬれた、湿った",
+          "page": "2年生 p.79"
+        }
+      ],
+      "page_first": "2年生 p.79"
+    },
+    {
+      "id": 2537,
+      "section": null,
+      "word": "we’ll",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（we willの短縮形）",
+          "page": "2年生 p.29"
+        }
+      ],
+      "page_first": "2年生 p.29"
+    },
+    {
+      "id": 2542,
+      "section": null,
+      "word": "we’re",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（we areの短縮形）",
+          "page": "1年生 p.103"
+        }
+      ],
+      "page_first": "1年生 p.103"
+    },
+    {
+      "id": 2547,
+      "section": null,
+      "word": "whale",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "クジラ",
+          "page": "1年生 p.142"
+        }
+      ],
+      "page_first": "1年生 p.142"
+    },
+    {
+      "id": 2548,
+      "section": null,
+      "word": "what",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "何",
+          "page": "1年生 p.12"
+        },
+        {
+          "pos": "形",
+          "ja": "何の、どの",
+          "page": "1年生 p.12"
+        },
+        {
+          "pos": "形",
+          "ja": "なんて、なんという",
+          "page": "2年生 p.56"
+        }
+      ],
+      "page_first": "1年生 p.12"
+    },
+    {
+      "id": 2551,
+      "section": null,
+      "word": "what’s",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（what isの短縮形）",
+          "page": "1年生 p.76"
+        }
+      ],
+      "page_first": "1年生 p.76"
+    },
+    {
+      "id": 1487,
+      "section": null,
+      "word": "what’s more",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "そのうえ",
+          "page": "3年生 p.94"
+        }
+      ],
+      "page_first": "3年生 p.94"
+    },
+    {
+      "id": 2549,
+      "section": null,
+      "word": "what’s more",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": null,
+          "page": "3年生 p.94"
+        }
+      ],
+      "page_first": "3年生 p.94"
+    },
+    {
+      "id": 1415,
+      "section": null,
+      "word": "What’s the matter?",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "どうしたのですか。",
+          "page": "1年生 p.126"
+        }
+      ],
+      "page_first": "1年生 p.126"
+    },
+    {
+      "id": 2550,
+      "section": null,
+      "word": "What’s up?",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "どうしたの。",
+          "page": "2年生 p.11"
+        }
+      ],
+      "page_first": "2年生 p.11"
+    },
+    {
+      "id": 2552,
+      "section": null,
+      "word": "wheat",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "小麦",
+          "page": "3年生 p.124"
+        }
+      ],
+      "page_first": "3年生 p.124"
+    },
+    {
+      "id": 2553,
+      "section": null,
+      "word": "whee",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "間",
+          "ja": "（喜び・興奮などを表して）やった、ワーイ",
+          "page": "1年生 p.129"
+        }
+      ],
+      "page_first": "1年生 p.129"
+    },
+    {
+      "id": 2554,
+      "section": null,
+      "word": "wheel",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "車輪",
+          "page": "3年生 p.35"
+        }
+      ],
+      "page_first": "3年生 p.35"
+    },
+    {
+      "id": 2555,
+      "section": null,
+      "word": "wheelchair",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "車いす",
+          "page": "3年生 p.35"
+        }
+      ],
+      "page_first": "3年生 p.35"
+    },
+    {
+      "id": 2556,
+      "section": null,
+      "word": "when",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "いつ",
+          "page": "1年生 p.12"
+        },
+        {
+          "pos": "接",
+          "ja": "～するときに",
+          "page": "2年生 p.20"
+        }
+      ],
+      "page_first": "1年生 p.12"
+    },
+    {
+      "id": 2557,
+      "section": null,
+      "word": "where",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "どこ",
+          "page": "1年生 p.12"
+        },
+        {
+          "pos": "副",
+          "ja": "どこへ［に、で］",
+          "page": "1年生 p.75"
+        }
+      ],
+      "page_first": "1年生 p.12"
+    },
+    {
+      "id": 2558,
+      "section": null,
+      "word": "which",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "どの、どちらの",
+          "page": "1年生 p.70"
+        },
+        {
+          "pos": "代",
+          "ja": "どれ、どちら",
+          "page": "2年生 p.48"
+        },
+        {
+          "pos": "関代",
+          "ja": "～する［である］（もの、事がら）《主格》",
+          "page": "3年生 p.66"
+        },
+        {
+          "pos": "関代",
+          "ja": "～が…する（もの、事がら）《目的格》",
+          "page": "3年生 p.80"
+        }
+      ],
+      "page_first": "1年生 p.70"
+    },
+    {
+      "id": 2559,
+      "section": null,
+      "word": "while",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "しばらくの間",
+          "page": "2年生 p.47"
+        },
+        {
+          "pos": "接",
+          "ja": "～する間に",
+          "page": "2年生 p.70"
+        }
+      ],
+      "page_first": "2年生 p.47"
+    },
+    {
+      "id": 2562,
+      "section": null,
+      "word": "white",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "白（い）",
+          "page": "2年生 p.33"
+        }
+      ],
+      "page_first": "2年生 p.33"
+    },
+    {
+      "id": 2563,
+      "section": null,
+      "word": "who",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "だれ、だれが",
+          "page": "1年生 p.52"
+        },
+        {
+          "pos": "関代",
+          "ja": "～する［である］（人）《主格》",
+          "page": "3年生 p.66"
+        },
+        {
+          "pos": "関代",
+          "ja": "～が…する（人）《目的格》",
+          "page": "3年生 p.88"
+        }
+      ],
+      "page_first": "1年生 p.52"
+    },
+    {
+      "id": 2565,
+      "section": null,
+      "word": "whole",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "全体の、すべての",
+          "page": "3年生 p.109"
+        }
+      ],
+      "page_first": "3年生 p.109"
+    }
+  ]
+}

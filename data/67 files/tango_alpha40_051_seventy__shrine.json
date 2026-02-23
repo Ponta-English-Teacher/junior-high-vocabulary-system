@@ -1,0 +1,754 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 51,
+    "range": {
+      "from": "seventy",
+      "to": "shrine"
+    }
+  },
+  "entries": [
+    {
+      "id": 1995,
+      "section": null,
+      "word": "seventy",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "70（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 1996,
+      "section": null,
+      "word": "several",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "いくつかの、数個［人］の",
+          "page": "3年生 p.105"
+        }
+      ],
+      "page_first": "3年生 p.105"
+    },
+    {
+      "id": 1997,
+      "section": null,
+      "word": "severe",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "厳しい",
+          "page": "3年生 p.49"
+        }
+      ],
+      "page_first": "3年生 p.49"
+    },
+    {
+      "id": 1998,
+      "section": null,
+      "word": "sew",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "縫い物をする",
+          "page": "1年生 p.62"
+        }
+      ],
+      "page_first": "1年生 p.62"
+    },
+    {
+      "id": 1999,
+      "section": null,
+      "word": "shake",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "振る、揺り動かす",
+          "page": "3年生 p.97"
+        }
+      ],
+      "page_first": "3年生 p.97"
+    },
+    {
+      "id": 1015,
+      "section": null,
+      "word": "shake hands with ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～と握手する",
+          "page": "3年生 p.97"
+        }
+      ],
+      "page_first": "3年生 p.97"
+    },
+    {
+      "id": 2000,
+      "section": null,
+      "word": "shake hands with ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": null,
+          "page": "3年生 p.97"
+        }
+      ],
+      "page_first": "3年生 p.97"
+    },
+    {
+      "id": 2001,
+      "section": null,
+      "word": "shallow",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "浅い",
+          "page": "2年生 p.131"
+        }
+      ],
+      "page_first": "2年生 p.131"
+    },
+    {
+      "id": 2002,
+      "section": null,
+      "word": "shampoo",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "シャンプー",
+          "page": "2年生 p.59"
+        }
+      ],
+      "page_first": "2年生 p.59"
+    },
+    {
+      "id": 2003,
+      "section": null,
+      "word": "share",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "分け合う",
+          "page": "2年生 p.61"
+        }
+      ],
+      "page_first": "2年生 p.61"
+    },
+    {
+      "id": 2004,
+      "section": null,
+      "word": "shark",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "サメ",
+          "page": "3年生 p.75"
+        }
+      ],
+      "page_first": "3年生 p.75"
+    },
+    {
+      "id": 2005,
+      "section": null,
+      "word": "sharp",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "鋭い",
+          "page": "3年生 p.49"
+        }
+      ],
+      "page_first": "3年生 p.49"
+    },
+    {
+      "id": 2006,
+      "section": null,
+      "word": "shawl",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ショール、肩掛け",
+          "page": "3年生 p.108"
+        }
+      ],
+      "page_first": "3年生 p.108"
+    },
+    {
+      "id": 2007,
+      "section": null,
+      "word": "she",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "彼女は［が］",
+          "page": "1年生 p.52"
+        }
+      ],
+      "page_first": "1年生 p.52"
+    },
+    {
+      "id": 2008,
+      "section": null,
+      "word": "shed",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "（涙を）流す《過去形・過去分詞も同形》",
+          "page": "3年生 p.124"
+        }
+      ],
+      "page_first": "3年生 p.124"
+    },
+    {
+      "id": 2009,
+      "section": null,
+      "word": "sheep",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ヒツジ（複数形も同形）",
+          "page": "1年生 p.142"
+        }
+      ],
+      "page_first": "1年生 p.142"
+    },
+    {
+      "id": 2010,
+      "section": null,
+      "word": "shelf",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "たな",
+          "page": "2年生 p.69"
+        }
+      ],
+      "page_first": "2年生 p.69"
+    },
+    {
+      "id": 2011,
+      "section": null,
+      "word": "shellfish",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "貝類",
+          "page": "2年生 p.101"
+        }
+      ],
+      "page_first": "2年生 p.101"
+    },
+    {
+      "id": 2012,
+      "section": null,
+      "word": "shelves",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "shelf（たな）の複数形",
+          "page": "2年生 p.69"
+        }
+      ],
+      "page_first": "2年生 p.69"
+    },
+    {
+      "id": 2013,
+      "section": null,
+      "word": "she’s",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（she isの短縮形）",
+          "page": "1年生 p.56"
+        }
+      ],
+      "page_first": "1年生 p.56"
+    },
+    {
+      "id": 2014,
+      "section": null,
+      "word": "ship",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "船",
+          "page": "2年生 p.93"
+        },
+        {
+          "pos": "動",
+          "ja": "（船・鉄道・トラックなどで）送る、輸送する",
+          "page": "3年生 p.70"
+        }
+      ],
+      "page_first": "2年生 p.93"
+    },
+    {
+      "id": 2015,
+      "section": null,
+      "word": "shirt",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "シャツ",
+          "page": "2年生 p.21"
+        }
+      ],
+      "page_first": "2年生 p.21"
+    },
+    {
+      "id": 2016,
+      "section": null,
+      "word": "shock",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "ショック［衝撃］を与える",
+          "page": "3年生 p.121"
+        }
+      ],
+      "page_first": "3年生 p.121"
+    },
+    {
+      "id": 2017,
+      "section": null,
+      "word": "shocked",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "ショック［衝撃］を受けて",
+          "page": "3年生 p.84"
+        }
+      ],
+      "page_first": "3年生 p.84"
+    },
+    {
+      "id": 2018,
+      "section": null,
+      "word": "shoe",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（ふつう複数形で）靴",
+          "page": "2年生 p.33"
+        }
+      ],
+      "page_first": "2年生 p.33"
+    },
+    {
+      "id": 2019,
+      "section": null,
+      "word": "shoe store",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "靴屋",
+          "page": "2年生 p.132"
+        }
+      ],
+      "page_first": "2年生 p.132"
+    },
+    {
+      "id": 2020,
+      "section": null,
+      "word": "shoot",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "（ボールを）シュートする",
+          "page": "1年生 p.14"
+        },
+        {
+          "pos": "動",
+          "ja": "撮影する",
+          "page": "1年生 p.103"
+        },
+        {
+          "pos": "動",
+          "ja": "撃つ",
+          "page": "2年生 p.92"
+        }
+      ],
+      "page_first": "1年生 p.14"
+    },
+    {
+      "id": 2021,
+      "section": null,
+      "word": "shoot down ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～を撃ち落とす",
+          "page": "2年生 p.92"
+        }
+      ],
+      "page_first": "2年生 p.92"
+    },
+    {
+      "id": 2022,
+      "section": null,
+      "word": "shop",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "店",
+          "page": "1年生 p.82"
+        },
+        {
+          "pos": "動",
+          "ja": "買い物をする",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.82"
+    },
+    {
+      "id": 2024,
+      "section": null,
+      "word": "shopping mall",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ショッピングモール",
+          "page": "1年生 p.83"
+        }
+      ],
+      "page_first": "1年生 p.83"
+    },
+    {
+      "id": 2025,
+      "section": null,
+      "word": "short",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "短い",
+          "page": "2年生 p.18"
+        },
+        {
+          "pos": "副",
+          "ja": "不足して",
+          "page": "2年生 p.92"
+        },
+        {
+          "pos": "形",
+          "ja": "背が低い",
+          "page": "2年生 p.131"
+        }
+      ],
+      "page_first": "2年生 p.18"
+    },
+    {
+      "id": 2027,
+      "section": null,
+      "word": "shot",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "写真、スナップ",
+          "page": "1年生 p.137"
+        },
+        {
+          "pos": "動",
+          "ja": "shoot（撃つ）の過去分詞《過去形も同形》",
+          "page": "3年生 p.107"
+        }
+      ],
+      "page_first": "1年生 p.137"
+    },
+    {
+      "id": 2028,
+      "section": null,
+      "word": "should",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "助",
+          "ja": "〜すべきだ、〜したほうがよい",
+          "page": "2年生 p.30"
+        }
+      ],
+      "page_first": "2年生 p.30"
+    },
+    {
+      "id": 2029,
+      "section": null,
+      "word": "shout",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "叫ぶ",
+          "page": "3年生 p.124"
+        }
+      ],
+      "page_first": "3年生 p.124"
+    },
+    {
+      "id": 2030,
+      "section": null,
+      "word": "shovel",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "シャベル、スコップ",
+          "page": "3年生 p.54"
+        }
+      ],
+      "page_first": "3年生 p.54"
+    },
+    {
+      "id": 2031,
+      "section": null,
+      "word": "show",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "見せ物、ショー、番組",
+          "page": "1年生 p.40"
+        },
+        {
+          "pos": "動",
+          "ja": "案内する",
+          "page": "1年生 p.86"
+        },
+        {
+          "pos": "動",
+          "ja": "（～に…を）見せる",
+          "page": "2年生 p.37"
+        },
+        {
+          "pos": "動",
+          "ja": "表す、示す",
+          "page": "2年生 p.37"
+        }
+      ],
+      "page_first": "1年生 p.40"
+    },
+    {
+      "id": 2032,
+      "section": null,
+      "word": "show ～ around",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～（人）を案内して回る",
+          "page": "1年生 p.86"
+        }
+      ],
+      "page_first": "1年生 p.86"
+    },
+    {
+      "id": 2033,
+      "section": null,
+      "word": "shower",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "シャワー",
+          "page": "1年生 p.101"
+        },
+        {
+          "pos": "名",
+          "ja": "にわか雨",
+          "page": "2年生 p.29"
+        }
+      ],
+      "page_first": "1年生 p.101"
+    },
+    {
+      "id": 2034,
+      "section": null,
+      "word": "shrimp",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "エビ",
+          "page": "1年生 p.122"
+        }
+      ],
+      "page_first": "1年生 p.122"
+    },
+    {
+      "id": 2035,
+      "section": null,
+      "word": "shrine",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "神社",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    }
+  ]
+}

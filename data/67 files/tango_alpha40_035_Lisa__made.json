@@ -1,0 +1,724 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 35,
+    "range": {
+      "from": "Lisa",
+      "to": "made"
+    }
+  },
+  "entries": [
+    {
+      "id": 1334,
+      "section": null,
+      "word": "Lisa",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "リサ（女子の名）",
+          "page": "3年生 p.57"
+        }
+      ],
+      "page_first": "3年生 p.57"
+    },
+    {
+      "id": 1335,
+      "section": null,
+      "word": "Lisa White",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "リサ・ホワイト（架空の人名、リサは女子の名）",
+          "page": "1年生 p.122"
+        }
+      ],
+      "page_first": "1年生 p.122"
+    },
+    {
+      "id": 1336,
+      "section": null,
+      "word": "list",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "リスト、一覧表",
+          "page": "2年生 p.59"
+        }
+      ],
+      "page_first": "2年生 p.59"
+    },
+    {
+      "id": 1337,
+      "section": null,
+      "word": "listen",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "聞く、耳を傾ける",
+          "page": "1年生 p.101"
+        }
+      ],
+      "page_first": "1年生 p.101"
+    },
+    {
+      "id": 1338,
+      "section": null,
+      "word": "listen to ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～を聞く、～に耳を傾ける",
+          "page": "1年生 p.101"
+        }
+      ],
+      "page_first": "1年生 p.101"
+    },
+    {
+      "id": 1339,
+      "section": null,
+      "word": "listener",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "聞き手",
+          "page": "2年生 p.70"
+        }
+      ],
+      "page_first": "2年生 p.70"
+    },
+    {
+      "id": 1340,
+      "section": null,
+      "word": "little",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "（a littleで）少し（は）",
+          "page": "1年生 p.83"
+        },
+        {
+          "pos": "形",
+          "ja": "年下の",
+          "page": "1年生 p.23"
+        }
+      ],
+      "page_first": "1年生 p.83"
+    },
+    {
+      "id": 1342,
+      "section": null,
+      "word": "little by little",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "少しずつ",
+          "page": "3年生 p.51"
+        }
+      ],
+      "page_first": "3年生 p.51"
+    },
+    {
+      "id": 1343,
+      "section": null,
+      "word": "live",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "住む、住んでいる",
+          "page": "1年生 p.65"
+        }
+      ],
+      "page_first": "1年生 p.65"
+    },
+    {
+      "id": 1345,
+      "section": null,
+      "word": "live",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "生の、実況の",
+          "page": "1年生 p.65"
+        }
+      ],
+      "page_first": "1年生 p.65"
+    },
+    {
+      "id": 1344,
+      "section": null,
+      "word": "live on",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "生き続ける",
+          "page": "3年生 p.125"
+        }
+      ],
+      "page_first": "3年生 p.125"
+    },
+    {
+      "id": 1346,
+      "section": null,
+      "word": "lives",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "life（生活）の複数形",
+          "page": "3年生 p.52"
+        }
+      ],
+      "page_first": "3年生 p.52"
+    },
+    {
+      "id": 1347,
+      "section": null,
+      "word": "living",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "生きている",
+          "page": "2年生 p.81"
+        }
+      ],
+      "page_first": "2年生 p.81"
+    },
+    {
+      "id": 1348,
+      "section": null,
+      "word": "local",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "地元の、（ある）地方の、現地の",
+          "page": "2年生 p.12"
+        }
+      ],
+      "page_first": "2年生 p.12"
+    },
+    {
+      "id": 1349,
+      "section": null,
+      "word": "lodge",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（ビーバーなどの）巣、山小屋",
+          "page": "2年生 p.57"
+        }
+      ],
+      "page_first": "2年生 p.57"
+    },
+    {
+      "id": 1350,
+      "section": null,
+      "word": "London",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ロンドン（イギリスの首都）",
+          "page": "2年生 p.77"
+        }
+      ],
+      "page_first": "2年生 p.77"
+    },
+    {
+      "id": 1351,
+      "section": null,
+      "word": "loneliness",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "孤独、さびしさ",
+          "page": "3年生 p.101"
+        }
+      ],
+      "page_first": "3年生 p.101"
+    },
+    {
+      "id": 1352,
+      "section": null,
+      "word": "lonely",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "さびしい、孤独な",
+          "page": "2年生 p.70"
+        }
+      ],
+      "page_first": "2年生 p.70"
+    },
+    {
+      "id": 1353,
+      "section": null,
+      "word": "long",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "長い",
+          "page": "1年生 p.58"
+        },
+        {
+          "pos": "副",
+          "ja": "（時間が）長く、長い間",
+          "page": "3年生 p.20"
+        }
+      ],
+      "page_first": "1年生 p.58"
+    },
+    {
+      "id": 1355,
+      "section": null,
+      "word": "look",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "見る、目を向ける",
+          "page": "1年生 p.32"
+        },
+        {
+          "pos": "動",
+          "ja": "〜に見える",
+          "page": "1年生 p.86"
+        },
+        {
+          "pos": "名",
+          "ja": "見ること",
+          "page": "2年生 p.111"
+        }
+      ],
+      "page_first": "1年生 p.32"
+    },
+    {
+      "id": 1356,
+      "section": null,
+      "word": "look at ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～（のほう）を見る",
+          "page": "1年生 p.32"
+        }
+      ],
+      "page_first": "1年生 p.32"
+    },
+    {
+      "id": 1357,
+      "section": null,
+      "word": "look for ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～を探す",
+          "page": "3年生 p.71"
+        }
+      ],
+      "page_first": "3年生 p.71"
+    },
+    {
+      "id": 863,
+      "section": null,
+      "word": "look forward to 〜",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "〜を楽しみに待つ",
+          "page": "2年生 p.36"
+        }
+      ],
+      "page_first": "2年生 p.36"
+    },
+    {
+      "id": 1358,
+      "section": null,
+      "word": "look like ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～のように見える",
+          "page": "1年生 p.86"
+        }
+      ],
+      "page_first": "1年生 p.86"
+    },
+    {
+      "id": 1360,
+      "section": null,
+      "word": "lose",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "失う、のがす",
+          "page": "2年生 p.125"
+        }
+      ],
+      "page_first": "2年生 p.125"
+    },
+    {
+      "id": 1361,
+      "section": null,
+      "word": "lost",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "lose（失う、のがす）の過去形《過去分詞も同形》",
+          "page": "2年生 p.125"
+        }
+      ],
+      "page_first": "2年生 p.125"
+    },
+    {
+      "id": 1362,
+      "section": null,
+      "word": "lot",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "たくさん、多数、大量",
+          "page": "1年生 p.85"
+        }
+      ],
+      "page_first": "1年生 p.85"
+    },
+    {
+      "id": 1365,
+      "section": null,
+      "word": "lots of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "たくさんの～",
+          "page": "3年生 p.123"
+        }
+      ],
+      "page_first": "3年生 p.123"
+    },
+    {
+      "id": 1366,
+      "section": null,
+      "word": "lotus",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ハス",
+          "page": "2年生 p.79"
+        }
+      ],
+      "page_first": "2年生 p.79"
+    },
+    {
+      "id": 1367,
+      "section": null,
+      "word": "loud",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "（音・声が）大きな、そうぞうしい",
+          "page": "2年生 p.59"
+        }
+      ],
+      "page_first": "2年生 p.59"
+    },
+    {
+      "id": 1368,
+      "section": null,
+      "word": "love",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "大好きである、愛する",
+          "page": "1年生 p.44"
+        }
+      ],
+      "page_first": "1年生 p.44"
+    },
+    {
+      "id": 1369,
+      "section": null,
+      "word": "lovely",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "愛らしい、美しい",
+          "page": "2年生 p.105"
+        }
+      ],
+      "page_first": "2年生 p.105"
+    },
+    {
+      "id": 1370,
+      "section": null,
+      "word": "low",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "少ない、低い",
+          "page": "1年生 p.88"
+        },
+        {
+          "pos": "名",
+          "ja": "最低気温、最低値",
+          "page": "2年生 p.29"
+        }
+      ],
+      "page_first": "1年生 p.88"
+    },
+    {
+      "id": 1371,
+      "section": null,
+      "word": "luck",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "幸運",
+          "page": "1年生 p.40"
+        }
+      ],
+      "page_first": "1年生 p.40"
+    },
+    {
+      "id": 1373,
+      "section": null,
+      "word": "lucky",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "幸運な、運のよい",
+          "page": "1年生 p.110"
+        }
+      ],
+      "page_first": "1年生 p.110"
+    },
+    {
+      "id": 1374,
+      "section": null,
+      "word": "Lucy",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ルーシー（女子の名）",
+          "page": "1年生 p.8"
+        }
+      ],
+      "page_first": "1年生 p.8"
+    },
+    {
+      "id": 1375,
+      "section": null,
+      "word": "Luffy",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ルフィー（男子の名）",
+          "page": "1年生 p.78"
+        }
+      ],
+      "page_first": "1年生 p.78"
+    },
+    {
+      "id": 1376,
+      "section": null,
+      "word": "lunch",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "昼食",
+          "page": "1年生 p.18"
+        }
+      ],
+      "page_first": "1年生 p.18"
+    },
+    {
+      "id": 1377,
+      "section": "M / m",
+      "word": "machine",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "機械、器具",
+          "page": "2年生 p.64"
+        }
+      ],
+      "page_first": "2年生 p.64"
+    },
+    {
+      "id": 1378,
+      "section": null,
+      "word": "made",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "make（作る）の過去形《過去分詞も同形》",
+          "page": "2年生 p.85"
+        }
+      ],
+      "page_first": "2年生 p.85"
+    }
+  ]
+}

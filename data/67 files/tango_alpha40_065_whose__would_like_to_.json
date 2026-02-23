@@ -1,0 +1,744 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 65,
+    "range": {
+      "from": "whose",
+      "to": "would like to ～"
+    }
+  },
+  "entries": [
+    {
+      "id": 2566,
+      "section": null,
+      "word": "whose",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "だれの",
+          "page": "1年生 p.70"
+        }
+      ],
+      "page_first": "1年生 p.70"
+    },
+    {
+      "id": 2564,
+      "section": null,
+      "word": "who’s",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（who isの短縮形）",
+          "page": "1年生 p.56"
+        }
+      ],
+      "page_first": "1年生 p.56"
+    },
+    {
+      "id": 2567,
+      "section": null,
+      "word": "why",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "なぜ",
+          "page": "1年生 p.72"
+        }
+      ],
+      "page_first": "1年生 p.72"
+    },
+    {
+      "id": 2568,
+      "section": null,
+      "word": "Why don’t we ～?",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（提案して）～しませんか。",
+          "page": "1年生 p.101"
+        }
+      ],
+      "page_first": "1年生 p.101"
+    },
+    {
+      "id": 2569,
+      "section": null,
+      "word": "Why don’t you ～?",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（提案して）～してはどうですか。",
+          "page": "2年生 p.15"
+        }
+      ],
+      "page_first": "2年生 p.15"
+    },
+    {
+      "id": 2570,
+      "section": null,
+      "word": "wide",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "（幅が）広い",
+          "page": "3年生 p.63"
+        }
+      ],
+      "page_first": "3年生 p.63"
+    },
+    {
+      "id": 2571,
+      "section": null,
+      "word": "widely",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "広く",
+          "page": "3年生 p.60"
+        }
+      ],
+      "page_first": "3年生 p.60"
+    },
+    {
+      "id": 2572,
+      "section": null,
+      "word": "wife",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "妻",
+          "page": "3年生 p.132"
+        }
+      ],
+      "page_first": "3年生 p.132"
+    },
+    {
+      "id": 2573,
+      "section": null,
+      "word": "wild",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "野生の",
+          "page": "3年生 p.49"
+        },
+        {
+          "pos": "名",
+          "ja": "野生（の状態）",
+          "page": "3年生 p.49"
+        }
+      ],
+      "page_first": "3年生 p.49"
+    },
+    {
+      "id": 2574,
+      "section": null,
+      "word": "will",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "助",
+          "ja": "～でしょう",
+          "page": "2年生 p.8"
+        },
+        {
+          "pos": "助",
+          "ja": "～するつもりだ、～しようと思う",
+          "page": "2年生 p.9"
+        }
+      ],
+      "page_first": "2年生 p.8"
+    },
+    {
+      "id": 2575,
+      "section": null,
+      "word": "win",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "勝つ、勝ちとる",
+          "page": "1年生 p.111"
+        }
+      ],
+      "page_first": "1年生 p.111"
+    },
+    {
+      "id": 2576,
+      "section": null,
+      "word": "wind",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（しばしばtheをつけて）風",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 2577,
+      "section": null,
+      "word": "window",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "窓、ショーウィンドー",
+          "page": "3年生 p.9"
+        }
+      ],
+      "page_first": "3年生 p.9"
+    },
+    {
+      "id": 2578,
+      "section": null,
+      "word": "windy",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "風の強い、風のある",
+          "page": "2年生 p.29"
+        }
+      ],
+      "page_first": "2年生 p.29"
+    },
+    {
+      "id": 2579,
+      "section": null,
+      "word": "wine",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ワイン、ブドウ酒",
+          "page": "2年生 p.116"
+        }
+      ],
+      "page_first": "2年生 p.116"
+    },
+    {
+      "id": 2580,
+      "section": null,
+      "word": "winner",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "受賞者、勝者",
+          "page": "3年生 p.119"
+        }
+      ],
+      "page_first": "3年生 p.119"
+    },
+    {
+      "id": 2581,
+      "section": null,
+      "word": "Winnipeg",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ウィニペグ（カナダの都市）",
+          "page": "2年生 p.29"
+        }
+      ],
+      "page_first": "2年生 p.29"
+    },
+    {
+      "id": 2582,
+      "section": null,
+      "word": "winter",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "冬",
+          "page": "1年生 p.39"
+        }
+      ],
+      "page_first": "1年生 p.39"
+    },
+    {
+      "id": 2583,
+      "section": null,
+      "word": "wire",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "針金",
+          "page": "2年生 p.47"
+        }
+      ],
+      "page_first": "2年生 p.47"
+    },
+    {
+      "id": 2584,
+      "section": null,
+      "word": "wisdom",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "英知、知恵",
+          "page": "2年生 p.127"
+        }
+      ],
+      "page_first": "2年生 p.127"
+    },
+    {
+      "id": 2585,
+      "section": null,
+      "word": "wise",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "賢明な",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    },
+    {
+      "id": 2586,
+      "section": null,
+      "word": "wish",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "祝福のことば",
+          "page": "1年生 p.140"
+        },
+        {
+          "pos": "名",
+          "ja": "願い、望み",
+          "page": "2年生 p.113"
+        },
+        {
+          "pos": "動",
+          "ja": "（仮定法過去で）〜であればよいのに（と思う）",
+          "page": "3年生 p.96"
+        }
+      ],
+      "page_first": "1年生 p.140"
+    },
+    {
+      "id": 2588,
+      "section": null,
+      "word": "with",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "前",
+          "ja": "〜といっしょに",
+          "page": "1年生 p.42"
+        },
+        {
+          "pos": "前",
+          "ja": "〜を連れた、〜を持った",
+          "page": "1年生 p.53"
+        },
+        {
+          "pos": "前",
+          "ja": "（手段・材料）～で",
+          "page": "2年生 p.36"
+        },
+        {
+          "pos": "前",
+          "ja": "（対象を表して）～に（対して）",
+          "page": "2年生 p.79"
+        },
+        {
+          "pos": "前",
+          "ja": "～に関する［関して］",
+          "page": "2年生 p.50"
+        }
+      ],
+      "page_first": "1年生 p.42"
+    },
+    {
+      "id": 2589,
+      "section": null,
+      "word": "without",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "前",
+          "ja": "～なしで、（without doingで）～せずに",
+          "page": "2年生 p.80"
+        }
+      ],
+      "page_first": "2年生 p.80"
+    },
+    {
+      "id": 2590,
+      "section": null,
+      "word": "wolf",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "オオカミ",
+          "page": "1年生 p.16"
+        }
+      ],
+      "page_first": "1年生 p.16"
+    },
+    {
+      "id": 2591,
+      "section": null,
+      "word": "woman",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "女性、女の人",
+          "page": "1年生 p.52"
+        }
+      ],
+      "page_first": "1年生 p.52"
+    },
+    {
+      "id": 2592,
+      "section": null,
+      "word": "women",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "woman（女性）の複数形",
+          "page": "3年生 p.125"
+        }
+      ],
+      "page_first": "3年生 p.125"
+    },
+    {
+      "id": 2593,
+      "section": null,
+      "word": "won",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "win（勝つ）の過去形",
+          "page": "1年生 p.118"
+        }
+      ],
+      "page_first": "1年生 p.118"
+    },
+    {
+      "id": 2595,
+      "section": null,
+      "word": "wonderful",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "すばらしい",
+          "page": "1年生 p.40"
+        }
+      ],
+      "page_first": "1年生 p.40"
+    },
+    {
+      "id": 2594,
+      "section": null,
+      "word": "won’t",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（will notの短縮形）",
+          "page": "2年生 p.12"
+        }
+      ],
+      "page_first": "2年生 p.12"
+    },
+    {
+      "id": 2596,
+      "section": null,
+      "word": "wood",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "木材",
+          "page": "2年生 p.109"
+        }
+      ],
+      "page_first": "2年生 p.109"
+    },
+    {
+      "id": 2597,
+      "section": null,
+      "word": "word",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ことば、発言、単語",
+          "page": "3年生 p.107"
+        }
+      ],
+      "page_first": "3年生 p.107"
+    },
+    {
+      "id": 2598,
+      "section": null,
+      "word": "work",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "働く",
+          "page": "1年生 p.66"
+        },
+        {
+          "pos": "名",
+          "ja": "仕事、職業、職場",
+          "page": "2年生 p.65"
+        }
+      ],
+      "page_first": "1年生 p.66"
+    },
+    {
+      "id": 2599,
+      "section": null,
+      "word": "worker",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "仕事［勉強］をする人、労働者",
+          "page": "2年生 p.95"
+        }
+      ],
+      "page_first": "2年生 p.95"
+    },
+    {
+      "id": 2600,
+      "section": null,
+      "word": "world",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "世界",
+          "page": "1年生 p.122"
+        }
+      ],
+      "page_first": "1年生 p.122"
+    },
+    {
+      "id": 2602,
+      "section": null,
+      "word": "worried",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "心配して、不安な",
+          "page": "2年生 p.12"
+        }
+      ],
+      "page_first": "2年生 p.12"
+    },
+    {
+      "id": 2603,
+      "section": null,
+      "word": "worry",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "心配する",
+          "page": "1年生 p.55"
+        }
+      ],
+      "page_first": "1年生 p.55"
+    },
+    {
+      "id": 2604,
+      "section": null,
+      "word": "worth",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "～の値打ち［価値］のある",
+          "page": "3年生 p.116"
+        }
+      ],
+      "page_first": "3年生 p.116"
+    },
+    {
+      "id": 2605,
+      "section": null,
+      "word": "would",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "助",
+          "ja": "willの過去形",
+          "page": "1年生 p.56"
+        }
+      ],
+      "page_first": "1年生 p.56"
+    },
+    {
+      "id": 2606,
+      "section": null,
+      "word": "would like to ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～したい（のですが）",
+          "page": "1年生 p.68"
+        }
+      ],
+      "page_first": "1年生 p.68"
+    }
+  ]
+}

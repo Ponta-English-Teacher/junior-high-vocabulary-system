@@ -1,0 +1,764 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 42,
+    "range": {
+      "from": "opening ceremony",
+      "to": "paper crane"
+    }
+  },
+  "entries": [
+    {
+      "id": 1618,
+      "section": null,
+      "word": "opening ceremony",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "始業式",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 1619,
+      "section": null,
+      "word": "Opera House",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（theをつけて）オペラハウス（オーストラリアの劇場）",
+          "page": "1年生 p.85"
+        }
+      ],
+      "page_first": "1年生 p.85"
+    },
+    {
+      "id": 1620,
+      "section": null,
+      "word": "opinion",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "意見",
+          "page": "3年生 p.78"
+        }
+      ],
+      "page_first": "3年生 p.78"
+    },
+    {
+      "id": 1621,
+      "section": null,
+      "word": "option",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "選択（肢）",
+          "page": "2年生 p.127"
+        }
+      ],
+      "page_first": "2年生 p.127"
+    },
+    {
+      "id": 1622,
+      "section": null,
+      "word": "or",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "接",
+          "ja": "または、それとも、あるいは",
+          "page": "1年生 p.50"
+        },
+        {
+          "pos": "接",
+          "ja": "（言いかえ）すなわち（ふつうorの前にカンマを置く）",
+          "page": "3年生 p.11"
+        }
+      ],
+      "page_first": "1年生 p.50"
+    },
+    {
+      "id": 1623,
+      "section": null,
+      "word": "orange",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "オレンジ",
+          "page": "1年生 p.50"
+        },
+        {
+          "pos": "名形",
+          "ja": "オレンジ色（の）",
+          "page": "2年生 p.127"
+        }
+      ],
+      "page_first": "1年生 p.50"
+    },
+    {
+      "id": 1624,
+      "section": null,
+      "word": "order",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "注文する",
+          "page": "2年生 p.61"
+        },
+        {
+          "pos": "名",
+          "ja": "注文",
+          "page": "3年生 p.99"
+        }
+      ],
+      "page_first": "2年生 p.61"
+    },
+    {
+      "id": 1626,
+      "section": null,
+      "word": "organ",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "オルガン",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.143"
+    },
+    {
+      "id": 1627,
+      "section": null,
+      "word": "organic",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "有機栽培［農法］の",
+          "page": "2年生 p.42"
+        }
+      ],
+      "page_first": "2年生 p.42"
+    },
+    {
+      "id": 1628,
+      "section": null,
+      "word": "original",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "最初の、本来の",
+          "page": "3年生 p.69"
+        }
+      ],
+      "page_first": "3年生 p.69"
+    },
+    {
+      "id": 1629,
+      "section": null,
+      "word": "other",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "ほかの",
+          "page": "1年生 p.115"
+        },
+        {
+          "pos": "代",
+          "ja": "（複数形で）ほかの人［もの］",
+          "page": "2年生 p.37"
+        },
+        {
+          "pos": "形",
+          "ja": "もう一方の",
+          "page": "2年生 p.102"
+        }
+      ],
+      "page_first": "1年生 p.115"
+    },
+    {
+      "id": 1631,
+      "section": null,
+      "word": "our",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "私たちの",
+          "page": "1年生 p.41"
+        }
+      ],
+      "page_first": "1年生 p.41"
+    },
+    {
+      "id": 1632,
+      "section": null,
+      "word": "ours",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "私たちのもの",
+          "page": "1年生 p.70"
+        }
+      ],
+      "page_first": "1年生 p.70"
+    },
+    {
+      "id": 1633,
+      "section": null,
+      "word": "out",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "見つけ［選び］出して",
+          "page": "1年生 p.114"
+        },
+        {
+          "pos": "副",
+          "ja": "外へ［に］",
+          "page": "2年生 p.47"
+        }
+      ],
+      "page_first": "1年生 p.114"
+    },
+    {
+      "id": 1634,
+      "section": null,
+      "word": "out of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～の中から外へ",
+          "page": "2年生 p.47"
+        }
+      ],
+      "page_first": "2年生 p.47"
+    },
+    {
+      "id": 1635,
+      "section": null,
+      "word": "outing",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "遠足",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 1636,
+      "section": null,
+      "word": "outside",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "戸外で［に、ヘ］",
+          "page": "1年生 p.115"
+        },
+        {
+          "pos": "名",
+          "ja": "外部、外側",
+          "page": "2年生 p.47"
+        },
+        {
+          "pos": "前",
+          "ja": "～の外で［に、の］、～（の範囲）を超えて",
+          "page": "2年生 p.94"
+        }
+      ],
+      "page_first": "1年生 p.115"
+    },
+    {
+      "id": 1637,
+      "section": null,
+      "word": "over",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "前",
+          "ja": "〜の向こうに",
+          "page": "1年生 p.82"
+        },
+        {
+          "pos": "前",
+          "ja": "～をおおって、～じゅうを",
+          "page": "2年生 p.101"
+        },
+        {
+          "pos": "副",
+          "ja": "倒れて、ひっくり返して",
+          "page": "3年生 p.44"
+        },
+        {
+          "pos": "前",
+          "ja": "～より多く、～を超えて",
+          "page": "3年生 p.60"
+        },
+        {
+          "pos": "前",
+          "ja": "～の間（ずっと）、〜にわたって",
+          "page": "3年生 p.118"
+        },
+        {
+          "pos": "前",
+          "ja": "～をめぐって、～について",
+          "page": "3年生 p.122"
+        }
+      ],
+      "page_first": "1年生 p.82"
+    },
+    {
+      "id": 2311,
+      "section": null,
+      "word": "over there",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "あそこに、向こうに",
+          "page": "1年生 p.82"
+        }
+      ],
+      "page_first": "1年生 p.82"
+    },
+    {
+      "id": 1638,
+      "section": null,
+      "word": "overseas",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "海外で［に、へ］",
+          "page": "2年生 p.13"
+        }
+      ],
+      "page_first": "2年生 p.13"
+    },
+    {
+      "id": 1639,
+      "section": null,
+      "word": "owl",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "フクロウ",
+          "page": "3年生 p.49"
+        }
+      ],
+      "page_first": "3年生 p.49"
+    },
+    {
+      "id": 1640,
+      "section": null,
+      "word": "own",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "自分自身の",
+          "page": "2年生 p.59"
+        }
+      ],
+      "page_first": "2年生 p.59"
+    },
+    {
+      "id": 1641,
+      "section": null,
+      "word": "oxygen",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "酸素",
+          "page": "2年生 p.125"
+        }
+      ],
+      "page_first": "2年生 p.125"
+    },
+    {
+      "id": 1642,
+      "section": null,
+      "word": "oyster",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "カキ（貝）",
+          "page": "1年生 p.106"
+        }
+      ],
+      "page_first": "1年生 p.106"
+    },
+    {
+      "id": 1593,
+      "section": null,
+      "word": "o’clock",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "〜時（ちょうど）",
+          "page": "1年生 p.90"
+        }
+      ],
+      "page_first": "1年生 p.90"
+    },
+    {
+      "id": 1680,
+      "section": null,
+      "word": "P.E.",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "体育（= physical education）",
+          "page": "1年生 p.26"
+        }
+      ],
+      "page_first": "1年生 p.26"
+    },
+    {
+      "id": 1737,
+      "section": null,
+      "word": "p.m.",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "午後（ラテン語の略）",
+          "page": "1年生 p.115"
+        }
+      ],
+      "page_first": "1年生 p.115"
+    },
+    {
+      "id": 1643,
+      "section": "P / p",
+      "word": "pack",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "１箱、1パック",
+          "page": "2年生 p.69"
+        }
+      ],
+      "page_first": "2年生 p.69"
+    },
+    {
+      "id": 1644,
+      "section": null,
+      "word": "package",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "パッケージ、包装",
+          "page": "3年生 p.71"
+        }
+      ],
+      "page_first": "3年生 p.71"
+    },
+    {
+      "id": 1645,
+      "section": null,
+      "word": "paint",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "（絵の具などで絵を）描く",
+          "page": "2年生 p.109"
+        }
+      ],
+      "page_first": "2年生 p.109"
+    },
+    {
+      "id": 1646,
+      "section": null,
+      "word": "pajama",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "パジャマ",
+          "page": "1年生 p.61"
+        }
+      ],
+      "page_first": "1年生 p.61"
+    },
+    {
+      "id": 1647,
+      "section": null,
+      "word": "Pakistan",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "パキスタン",
+          "page": "3年生 p.108"
+        }
+      ],
+      "page_first": "3年生 p.108"
+    },
+    {
+      "id": 1648,
+      "section": null,
+      "word": "Pakistani",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "パキスタン（人）の",
+          "page": "3年生 p.107"
+        }
+      ],
+      "page_first": "3年生 p.107"
+    },
+    {
+      "id": 1649,
+      "section": null,
+      "word": "palm",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "手のひら",
+          "page": "2年生 p.101"
+        }
+      ],
+      "page_first": "2年生 p.101"
+    },
+    {
+      "id": 1650,
+      "section": null,
+      "word": "pancake",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "パンケーキ、ホットケーキ",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.143"
+    },
+    {
+      "id": 1651,
+      "section": null,
+      "word": "panda",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "パンダ",
+          "page": "1年生 p.16"
+        }
+      ],
+      "page_first": "1年生 p.16"
+    },
+    {
+      "id": 1652,
+      "section": null,
+      "word": "papaya",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "パパイア",
+          "page": "1年生 p.142"
+        }
+      ],
+      "page_first": "1年生 p.142"
+    },
+    {
+      "id": 1653,
+      "section": null,
+      "word": "paper",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "紙",
+          "page": "2年生 p.67"
+        }
+      ],
+      "page_first": "2年生 p.67"
+    },
+    {
+      "id": 1654,
+      "section": null,
+      "word": "paper clip",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "紙ばさみ、ペーパークリップ",
+          "page": "2年生 p.81"
+        }
+      ],
+      "page_first": "2年生 p.81"
+    },
+    {
+      "id": 1655,
+      "section": null,
+      "word": "paper crane",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "折り鶴",
+          "page": "2年生 p.111"
+        }
+      ],
+      "page_first": "2年生 p.111"
+    }
+  ]
+}

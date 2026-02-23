@@ -1,0 +1,759 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 59,
+    "range": {
+      "from": "the dead",
+      "to": "tidy"
+    }
+  },
+  "entries": [
+    {
+      "id": 567,
+      "section": null,
+      "word": "the dead",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "死者",
+          "page": "2年生 p.93"
+        }
+      ],
+      "page_first": "2年生 p.93"
+    },
+    {
+      "id": 2304,
+      "section": null,
+      "word": "theater",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "劇場、映画館",
+          "page": "1年生 p.125"
+        }
+      ],
+      "page_first": "1年生 p.125"
+    },
+    {
+      "id": 2305,
+      "section": null,
+      "word": "their",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "彼ら［彼女ら、それら］の",
+          "page": "1年生 p.44"
+        }
+      ],
+      "page_first": "1年生 p.44"
+    },
+    {
+      "id": 2306,
+      "section": null,
+      "word": "theirs",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "彼ら［彼女ら、それら］のもの",
+          "page": "1年生 p.79"
+        }
+      ],
+      "page_first": "1年生 p.79"
+    },
+    {
+      "id": 2307,
+      "section": null,
+      "word": "them",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "彼ら［彼女ら、それら］を［に］",
+          "page": "1年生 p.78"
+        }
+      ],
+      "page_first": "1年生 p.78"
+    },
+    {
+      "id": 2308,
+      "section": null,
+      "word": "themselves",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "彼ら自身",
+          "page": "2年生 p.36"
+        }
+      ],
+      "page_first": "2年生 p.36"
+    },
+    {
+      "id": 2309,
+      "section": null,
+      "word": "then",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "それでは、それなら",
+          "page": "1年生 p.38"
+        },
+        {
+          "pos": "副",
+          "ja": "そのとき、そのころ",
+          "page": "1年生 p.125"
+        },
+        {
+          "pos": "副",
+          "ja": "それから、次に",
+          "page": "2年生 p.36"
+        }
+      ],
+      "page_first": "1年生 p.38"
+    },
+    {
+      "id": 2310,
+      "section": null,
+      "word": "there",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "そこで［に、へ］",
+          "page": "1年生 p.73"
+        },
+        {
+          "pos": "副",
+          "ja": "（There is [are] 〜.で）〜がある［いる］。",
+          "page": "1年生 p.82"
+        }
+      ],
+      "page_first": "1年生 p.73"
+    },
+    {
+      "id": 2313,
+      "section": null,
+      "word": "therefore",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "それゆえに、したがって",
+          "page": "2年生 p.47"
+        }
+      ],
+      "page_first": "2年生 p.47"
+    },
+    {
+      "id": 2312,
+      "section": null,
+      "word": "there’s",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（there isの短縮形）",
+          "page": "3年生 p.33"
+        }
+      ],
+      "page_first": "3年生 p.33"
+    },
+    {
+      "id": 2314,
+      "section": null,
+      "word": "these",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "（thisの複数形）これら",
+          "page": "1年生 p.79"
+        },
+        {
+          "pos": "形",
+          "ja": "これらの",
+          "page": "1年生 p.79"
+        }
+      ],
+      "page_first": "1年生 p.79"
+    },
+    {
+      "id": 564,
+      "section": null,
+      "word": "these days",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "近ごろは",
+          "page": "3年生 p.99"
+        }
+      ],
+      "page_first": "3年生 p.99"
+    },
+    {
+      "id": 2315,
+      "section": null,
+      "word": "these days",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": null,
+          "page": "3年生 p.99"
+        }
+      ],
+      "page_first": "3年生 p.99"
+    },
+    {
+      "id": 2316,
+      "section": null,
+      "word": "they",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "それら［彼ら、彼女ら］は［が］",
+          "page": "1年生 p.46"
+        }
+      ],
+      "page_first": "1年生 p.46"
+    },
+    {
+      "id": 2317,
+      "section": null,
+      "word": "they’re",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（they areの短縮形）",
+          "page": "2年生 p.57"
+        }
+      ],
+      "page_first": "2年生 p.57"
+    },
+    {
+      "id": 2318,
+      "section": null,
+      "word": "thick",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "（液体などが）濃い、こってりした",
+          "page": "2年生 p.43"
+        },
+        {
+          "pos": "形",
+          "ja": "太い",
+          "page": "2年生 p.43"
+        },
+        {
+          "pos": "形",
+          "ja": "厚い",
+          "page": "2年生 p.101"
+        }
+      ],
+      "page_first": "2年生 p.43"
+    },
+    {
+      "id": 2319,
+      "section": null,
+      "word": "thin",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "（厚さが）薄い",
+          "page": "2年生 p.32"
+        },
+        {
+          "pos": "形",
+          "ja": "細い、やせた",
+          "page": "2年生 p.43"
+        }
+      ],
+      "page_first": "2年生 p.32"
+    },
+    {
+      "id": 2320,
+      "section": null,
+      "word": "thing",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "もの、こと",
+          "page": "1年生 p.42"
+        },
+        {
+          "pos": "名",
+          "ja": "（複数形で）事態、事情",
+          "page": "3年生 p.85"
+        }
+      ],
+      "page_first": "1年生 p.42"
+    },
+    {
+      "id": 2321,
+      "section": null,
+      "word": "think",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "考える、思う",
+          "page": "1年生 p.76"
+        }
+      ],
+      "page_first": "1年生 p.76"
+    },
+    {
+      "id": 2322,
+      "section": null,
+      "word": "third",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "3日、3番目（の）",
+          "page": "1年生 p.91"
+        },
+        {
+          "pos": "副",
+          "ja": "3番目に",
+          "page": "2年生 p.30"
+        }
+      ],
+      "page_first": "1年生 p.91"
+    },
+    {
+      "id": 2323,
+      "section": null,
+      "word": "thirsty",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "のどが渇いて",
+          "page": "2年生 p.130"
+        }
+      ],
+      "page_first": "2年生 p.130"
+    },
+    {
+      "id": 2324,
+      "section": null,
+      "word": "thirteen",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "13（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 2325,
+      "section": null,
+      "word": "thirteenth",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "13日、13番目（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 2326,
+      "section": null,
+      "word": "thirtieth",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "30日、30番目（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 2327,
+      "section": null,
+      "word": "thirty",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "30（の）",
+          "page": "1年生 p.23"
+        }
+      ],
+      "page_first": "1年生 p.23"
+    },
+    {
+      "id": 2328,
+      "section": null,
+      "word": "this",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "この",
+          "page": "1年生 p.24"
+        },
+        {
+          "pos": "代",
+          "ja": "これ、こちら",
+          "page": "1年生 p.52"
+        },
+        {
+          "pos": "形",
+          "ja": "（時を表す語の前で）今（こん）～、今度の",
+          "page": "2年生 p.8"
+        }
+      ],
+      "page_first": "1年生 p.24"
+    },
+    {
+      "id": 2329,
+      "section": null,
+      "word": "Thomas Edison",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "トマス・エジソン（アメリカの発明家）",
+          "page": "1年生 p.23"
+        }
+      ],
+      "page_first": "1年生 p.23"
+    },
+    {
+      "id": 2330,
+      "section": null,
+      "word": "those",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "（thatの複数形）あれらの",
+          "page": "1年生 p.83"
+        }
+      ],
+      "page_first": "1年生 p.83"
+    },
+    {
+      "id": 2331,
+      "section": null,
+      "word": "though",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "接",
+          "ja": "～だけれども",
+          "page": "2年生 p.103"
+        }
+      ],
+      "page_first": "2年生 p.103"
+    },
+    {
+      "id": 2332,
+      "section": null,
+      "word": "thought",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "think（考える）の過去形《過去分詞も同形》",
+          "page": "2年生 p.47"
+        }
+      ],
+      "page_first": "2年生 p.47"
+    },
+    {
+      "id": 2333,
+      "section": null,
+      "word": "thousand",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "1000（の）",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 2334,
+      "section": null,
+      "word": "three",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名形",
+          "ja": "3（の）",
+          "page": "1年生 p.46"
+        }
+      ],
+      "page_first": "1年生 p.46"
+    },
+    {
+      "id": 2335,
+      "section": null,
+      "word": "through",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "前",
+          "ja": "（手段・経験）を通じて",
+          "page": "2年生 p.25"
+        },
+        {
+          "pos": "前",
+          "ja": "～を通り抜けて、貫いて",
+          "page": "2年生 p.47"
+        }
+      ],
+      "page_first": "2年生 p.25"
+    },
+    {
+      "id": 2336,
+      "section": null,
+      "word": "throughout",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "前",
+          "ja": "～のいたるところに［で］",
+          "page": "3年生 p.51"
+        }
+      ],
+      "page_first": "3年生 p.51"
+    },
+    {
+      "id": 2337,
+      "section": null,
+      "word": "throw",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "投げる",
+          "page": "3年生 p.37"
+        }
+      ],
+      "page_first": "3年生 p.37"
+    },
+    {
+      "id": 2338,
+      "section": null,
+      "word": "throw ～ away",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～を捨てる",
+          "page": "3年生 p.87"
+        }
+      ],
+      "page_first": "3年生 p.87"
+    },
+    {
+      "id": 2339,
+      "section": null,
+      "word": "Thursday",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "木曜日",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
+    },
+    {
+      "id": 2340,
+      "section": null,
+      "word": "thus",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "こうして、だから",
+          "page": "3年生 p.23"
+        }
+      ],
+      "page_first": "3年生 p.23"
+    },
+    {
+      "id": 2341,
+      "section": null,
+      "word": "ticket",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "入場券、切符、チケット",
+          "page": "2年生 p.98"
+        }
+      ],
+      "page_first": "2年生 p.98"
+    },
+    {
+      "id": 2342,
+      "section": null,
+      "word": "tidy",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "´",
+          "ja": "（部屋などが）片づいた、（人が）きちんとした",
+          "page": "2年生 p.73"
+        }
+      ],
+      "page_first": "2年生 p.73"
+    }
+  ]
+}

@@ -1,0 +1,779 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 27,
+    "range": {
+      "from": "Happy New Year!",
+      "to": "Here is ～."
+    }
+  },
+  "entries": [
+    {
+      "id": 1025,
+      "section": null,
+      "word": "Happy New Year!",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "新年おめでとう。",
+          "page": "1年生 p.99"
+        }
+      ],
+      "page_first": "1年生 p.99"
+    },
+    {
+      "id": 1026,
+      "section": null,
+      "word": "hard",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "一生懸命に",
+          "page": "1年生 p.73"
+        },
+        {
+          "pos": "形",
+          "ja": "きつい",
+          "page": "2年生 p.66"
+        },
+        {
+          "pos": "形",
+          "ja": "かたい",
+          "page": "2年生 p.109"
+        },
+        {
+          "pos": "形",
+          "ja": "難しい",
+          "page": "2年生 p.21"
+        }
+      ],
+      "page_first": "1年生 p.73"
+    },
+    {
+      "id": 1027,
+      "section": null,
+      "word": "harmonica",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ハーモニカ",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.143"
+    },
+    {
+      "id": 1028,
+      "section": null,
+      "word": "harmony",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "調和",
+          "page": "3年生 p.52"
+        },
+        {
+          "pos": "名",
+          "ja": "（音楽で）ハーモニー、和音",
+          "page": "3年生 p.113"
+        }
+      ],
+      "page_first": "3年生 p.52"
+    },
+    {
+      "id": 1029,
+      "section": null,
+      "word": "harp",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ハープ",
+          "page": "2年生 p.131"
+        }
+      ],
+      "page_first": "2年生 p.131"
+    },
+    {
+      "id": 1030,
+      "section": null,
+      "word": "Harry Potter",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ハリー・ポッター（小説のタイトル）",
+          "page": "3年生 p.19"
+        }
+      ],
+      "page_first": "3年生 p.19"
+    },
+    {
+      "id": 1031,
+      "section": null,
+      "word": "Harvard University",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ハーバード大学（アメリカの大学）",
+          "page": "3年生 p.119"
+        }
+      ],
+      "page_first": "3年生 p.119"
+    },
+    {
+      "id": 1032,
+      "section": null,
+      "word": "has",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "haveの変化形（主語が三人称単数で現在のときに使う）",
+          "page": "1年生 p.76"
+        },
+        {
+          "pos": "助",
+          "ja": "（主語が三人称単数で現在完了形の文で使う）",
+          "page": "3年生 p.16"
+        }
+      ],
+      "page_first": "1年生 p.76"
+    },
+    {
+      "id": 1033,
+      "section": null,
+      "word": "hat",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（ふちのある）帽子",
+          "page": "1年生 p.16"
+        }
+      ],
+      "page_first": "1年生 p.16"
+    },
+    {
+      "id": 1034,
+      "section": null,
+      "word": "have",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "持っている、〜がある［いる］",
+          "page": "1年生 p.13"
+        },
+        {
+          "pos": "動",
+          "ja": "飼う、飼っている",
+          "page": "1年生 p.30"
+        },
+        {
+          "pos": "動",
+          "ja": "（行事などを）する",
+          "page": "1年生 p.40"
+        },
+        {
+          "pos": "動",
+          "ja": "食べる、とる",
+          "page": "1年生 p.50"
+        },
+        {
+          "pos": "助",
+          "ja": "（現在完了形を作る）",
+          "page": "3年生 p.8"
+        }
+      ],
+      "page_first": "1年生 p.13"
+    },
+    {
+      "id": 2349,
+      "section": null,
+      "word": "have a good time",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "楽しい時を過ごす",
+          "page": "1年生 p.111"
+        }
+      ],
+      "page_first": "1年生 p.111"
+    },
+    {
+      "id": 1142,
+      "section": null,
+      "word": "have no idea",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "わからない",
+          "page": "2年生 p.102"
+        }
+      ],
+      "page_first": "2年生 p.102"
+    },
+    {
+      "id": 1037,
+      "section": null,
+      "word": "have to ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～しなければならない",
+          "page": "2年生 p.52"
+        }
+      ],
+      "page_first": "2年生 p.52"
+    },
+    {
+      "id": 1036,
+      "section": null,
+      "word": "have ～ in one’s lap",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": null,
+          "page": "3年生 p.35"
+        }
+      ],
+      "page_first": "3年生 p.35"
+    },
+    {
+      "id": 1288,
+      "section": null,
+      "word": "have ～ in one’s lap",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "ひざの上に～を置く",
+          "page": "3年生 p.35"
+        }
+      ],
+      "page_first": "3年生 p.35"
+    },
+    {
+      "id": 1038,
+      "section": null,
+      "word": "haven’t",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（have notの短縮形）",
+          "page": "3年生 p.8"
+        }
+      ],
+      "page_first": "3年生 p.8"
+    },
+    {
+      "id": 1039,
+      "section": null,
+      "word": "hawk",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "タカ",
+          "page": "1年生 p.142"
+        }
+      ],
+      "page_first": "1年生 p.142"
+    },
+    {
+      "id": 1040,
+      "section": null,
+      "word": "he",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "彼は［が］",
+          "page": "1年生 p.53"
+        }
+      ],
+      "page_first": "1年生 p.53"
+    },
+    {
+      "id": 1041,
+      "section": null,
+      "word": "head",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "頭、頭部",
+          "page": "2年生 p.52"
+        }
+      ],
+      "page_first": "2年生 p.52"
+    },
+    {
+      "id": 1042,
+      "section": null,
+      "word": "health",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "健康（状態）、体調",
+          "page": "3年生 p.21"
+        }
+      ],
+      "page_first": "3年生 p.21"
+    },
+    {
+      "id": 1043,
+      "section": null,
+      "word": "healthy",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "健康によい、健康な",
+          "page": "2年生 p.30"
+        }
+      ],
+      "page_first": "2年生 p.30"
+    },
+    {
+      "id": 1044,
+      "section": null,
+      "word": "hear",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "〜だと聞いている",
+          "page": "2年生 p.20"
+        },
+        {
+          "pos": "動",
+          "ja": "聞く",
+          "page": "2年生 p.48"
+        }
+      ],
+      "page_first": "2年生 p.20"
+    },
+    {
+      "id": 1045,
+      "section": null,
+      "word": "hear from ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～から手紙［伝言、電話、返信］をもらう",
+          "page": "2年生 p.53"
+        }
+      ],
+      "page_first": "2年生 p.53"
+    },
+    {
+      "id": 1046,
+      "section": null,
+      "word": "hear of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～のことを耳にする",
+          "page": "3年生 p.13"
+        }
+      ],
+      "page_first": "3年生 p.13"
+    },
+    {
+      "id": 1047,
+      "section": null,
+      "word": "heard",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "hear（聞く）の過去形《過去分詞も同形》",
+          "page": "3年生 p.13"
+        }
+      ],
+      "page_first": "3年生 p.13"
+    },
+    {
+      "id": 1048,
+      "section": null,
+      "word": "heart",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ハート形（のもの）",
+          "page": "1年生 p.86"
+        },
+        {
+          "pos": "名",
+          "ja": "心、感情",
+          "page": "2年生 p.48"
+        }
+      ],
+      "page_first": "1年生 p.86"
+    },
+    {
+      "id": 1049,
+      "section": null,
+      "word": "heat",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "熱、暑さ",
+          "page": "2年生 p.73"
+        }
+      ],
+      "page_first": "2年生 p.73"
+    },
+    {
+      "id": 1050,
+      "section": null,
+      "word": "heater",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "暖房器具、ヒーター",
+          "page": "3年生 p.97"
+        }
+      ],
+      "page_first": "3年生 p.97"
+    },
+    {
+      "id": 1051,
+      "section": null,
+      "word": "heave ho",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "間",
+          "ja": "よっこらしょ（ものを引き上げるときなどのかけ声）",
+          "page": "1年生 p.130"
+        }
+      ],
+      "page_first": "1年生 p.130"
+    },
+    {
+      "id": 1052,
+      "section": null,
+      "word": "heavy",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "重い",
+          "page": "1年生 p.42"
+        }
+      ],
+      "page_first": "1年生 p.42"
+    },
+    {
+      "id": 1053,
+      "section": null,
+      "word": "held",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "hold（催す）の過去分詞《過去形も同形》",
+          "page": "3年生 p.57"
+        }
+      ],
+      "page_first": "3年生 p.57"
+    },
+    {
+      "id": 1054,
+      "section": null,
+      "word": "Helen",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ヘレン（女子の名）",
+          "page": "3年生 p.117"
+        }
+      ],
+      "page_first": "3年生 p.117"
+    },
+    {
+      "id": 1055,
+      "section": null,
+      "word": "helicopter",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ヘリコプター",
+          "page": "1年生 p.86"
+        }
+      ],
+      "page_first": "1年生 p.86"
+    },
+    {
+      "id": 1057,
+      "section": null,
+      "word": "hello",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "間",
+          "ja": "やあ、こんにちは",
+          "page": "1年生 p.23"
+        },
+        {
+          "pos": "間",
+          "ja": "（電話で）もしもし",
+          "page": "1年生 p.101"
+        }
+      ],
+      "page_first": "1年生 p.23"
+    },
+    {
+      "id": 1058,
+      "section": null,
+      "word": "help",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "助ける、手伝う",
+          "page": "1年生 p.42"
+        },
+        {
+          "pos": "名",
+          "ja": "助け、手伝い",
+          "page": "1年生 p.101"
+        },
+        {
+          "pos": "動",
+          "ja": "（〜が…するのを）手伝う",
+          "page": "3年生 p.38"
+        }
+      ],
+      "page_first": "1年生 p.42"
+    },
+    {
+      "id": 1059,
+      "section": null,
+      "word": "help ～ with ...",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～の…を手伝う",
+          "page": "2年生 p.50"
+        }
+      ],
+      "page_first": "2年生 p.50"
+    },
+    {
+      "id": 1060,
+      "section": null,
+      "word": "helpful",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "助けになる",
+          "page": "2年生 p.132"
+        }
+      ],
+      "page_first": "2年生 p.132"
+    },
+    {
+      "id": 1061,
+      "section": null,
+      "word": "her",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "代",
+          "ja": "彼女の",
+          "page": "1年生 p.46"
+        },
+        {
+          "pos": "代",
+          "ja": "彼女を［に］",
+          "page": "1年生 p.72"
+        }
+      ],
+      "page_first": "1年生 p.46"
+    },
+    {
+      "id": 1062,
+      "section": null,
+      "word": "here",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "ここに[で］",
+          "page": "1年生 p.50"
+        },
+        {
+          "pos": "名",
+          "ja": "ここ",
+          "page": "1年生 p.50"
+        }
+      ],
+      "page_first": "1年生 p.50"
+    },
+    {
+      "id": 1063,
+      "section": null,
+      "word": "Here is ～.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（人に物を差し出して）はい、〜をどうぞ。こちらが〜です。",
+          "page": "2年生 p.32"
+        }
+      ],
+      "page_first": "2年生 p.32"
+    }
+  ]
+}

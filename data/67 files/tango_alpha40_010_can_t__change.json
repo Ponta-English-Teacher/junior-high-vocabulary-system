@@ -1,0 +1,719 @@
+{
+  "meta": {
+    "source_file": "TangoJukugo.xlsx",
+    "sheet": "Sheet1",
+    "generated_at": "2026-02-22T13:37:15",
+    "schema": "tango-jukugo/v1",
+    "sort": "alphabetical(word, case-insensitive)",
+    "chunk_size": 40,
+    "total_entries": 2643,
+    "total_chunks": 67,
+    "chunk_index": 10,
+    "range": {
+      "from": "can’t",
+      "to": "change"
+    }
+  },
+  "entries": [
+    {
+      "id": 344,
+      "section": null,
+      "word": "can’t",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（cannotの短縮形）",
+          "page": "1年生 p.38"
+        }
+      ],
+      "page_first": "1年生 p.38"
+    },
+    {
+      "id": 345,
+      "section": null,
+      "word": "cap",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（ふちのない）帽子",
+          "page": "3年生 p.57"
+        }
+      ],
+      "page_first": "3年生 p.57"
+    },
+    {
+      "id": 346,
+      "section": null,
+      "word": "captain",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "船長、（競技チームの）キャプテン",
+          "page": "2年生 p.125"
+        }
+      ],
+      "page_first": "2年生 p.125"
+    },
+    {
+      "id": 347,
+      "section": null,
+      "word": "car",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "車、自動車",
+          "page": "2年生 p.88"
+        }
+      ],
+      "page_first": "2年生 p.88"
+    },
+    {
+      "id": 348,
+      "section": null,
+      "word": "card",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（お祝いなどに送る）カード、ハガキ",
+          "page": "1年生 p.140"
+        },
+        {
+          "pos": "名",
+          "ja": "トランプの札、（複数形で）トランプ遊び",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.140"
+    },
+    {
+      "id": 349,
+      "section": null,
+      "word": "care",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "注意、用心",
+          "page": "2年生 p.12"
+        },
+        {
+          "pos": "名",
+          "ja": "世話、介護",
+          "page": "3年生 p.49"
+        }
+      ],
+      "page_first": "2年生 p.12"
+    },
+    {
+      "id": 355,
+      "section": null,
+      "word": "care worker",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "介護福祉士",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 352,
+      "section": null,
+      "word": "careful",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "注意深い",
+          "page": "1年生 p.26"
+        }
+      ],
+      "page_first": "1年生 p.26"
+    },
+    {
+      "id": 353,
+      "section": null,
+      "word": "carefully",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "注意深く",
+          "page": "2年生 p.46"
+        }
+      ],
+      "page_first": "2年生 p.46"
+    },
+    {
+      "id": 354,
+      "section": null,
+      "word": "careless",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "おっちょこちょいの、不注意な",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    },
+    {
+      "id": 356,
+      "section": null,
+      "word": "Carol",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "キャロル（女子の名）",
+          "page": "1年生 p.17"
+        }
+      ],
+      "page_first": "1年生 p.17"
+    },
+    {
+      "id": 357,
+      "section": null,
+      "word": "carp",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "コイ",
+          "page": "1年生 p.142"
+        }
+      ],
+      "page_first": "1年生 p.142"
+    },
+    {
+      "id": 358,
+      "section": null,
+      "word": "carpenter",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "大工",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 359,
+      "section": null,
+      "word": "carrot",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ニンジン",
+          "page": "3年生 p.11"
+        }
+      ],
+      "page_first": "3年生 p.11"
+    },
+    {
+      "id": 360,
+      "section": null,
+      "word": "carry",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "運ぶ",
+          "page": "1年生 p.42"
+        }
+      ],
+      "page_first": "1年生 p.42"
+    },
+    {
+      "id": 361,
+      "section": null,
+      "word": "cartoonist",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "マンガ家",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
+    },
+    {
+      "id": 362,
+      "section": null,
+      "word": "case",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ケース、箱",
+          "page": "1年生 p.70"
+        }
+      ],
+      "page_first": "1年生 p.70"
+    },
+    {
+      "id": 363,
+      "section": null,
+      "word": "castanet",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（ふつう複数形で）カスタネット",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.143"
+    },
+    {
+      "id": 364,
+      "section": null,
+      "word": "castle",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "城",
+          "page": "1年生 p.144"
+        }
+      ],
+      "page_first": "1年生 p.144"
+    },
+    {
+      "id": 365,
+      "section": null,
+      "word": "casual",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "ふだん着の、カジュアルな",
+          "page": "2年生 p.118"
+        }
+      ],
+      "page_first": "2年生 p.118"
+    },
+    {
+      "id": 366,
+      "section": null,
+      "word": "cat",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ネコ",
+          "page": "1年生 p.16"
+        }
+      ],
+      "page_first": "1年生 p.16"
+    },
+    {
+      "id": 367,
+      "section": null,
+      "word": "catch",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "つかまえる",
+          "page": "2年生 p.33"
+        },
+        {
+          "pos": "動",
+          "ja": "（火が）つく",
+          "page": "2年生 p.126"
+        }
+      ],
+      "page_first": "2年生 p.33"
+    },
+    {
+      "id": 369,
+      "section": null,
+      "word": "caught",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "catch（つかまえる）の過去形《過去分詞も同形》",
+          "page": "2年生 p.32"
+        }
+      ],
+      "page_first": "2年生 p.32"
+    },
+    {
+      "id": 370,
+      "section": null,
+      "word": "cause",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "原因",
+          "page": "3年生 p.13"
+        },
+        {
+          "pos": "動",
+          "ja": "引き起こす、もたらす",
+          "page": "3年生 p.50"
+        }
+      ],
+      "page_first": "3年生 p.13"
+    },
+    {
+      "id": 371,
+      "section": null,
+      "word": "cave",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "洞くつ、ほら穴",
+          "page": "2年生 p.88"
+        }
+      ],
+      "page_first": "2年生 p.88"
+    },
+    {
+      "id": 372,
+      "section": null,
+      "word": "CBC",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "シービーシー（カナダの放送局名）",
+          "page": "2年生 p.29"
+        }
+      ],
+      "page_first": "2年生 p.29"
+    },
+    {
+      "id": 373,
+      "section": null,
+      "word": "ceiling",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "天井",
+          "page": "3年生 p.132"
+        }
+      ],
+      "page_first": "3年生 p.132"
+    },
+    {
+      "id": 374,
+      "section": null,
+      "word": "celebrate",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "（公に）ほめたたえる、（式を挙げて）祝う",
+          "page": "3年生 p.118"
+        }
+      ],
+      "page_first": "3年生 p.118"
+    },
+    {
+      "id": 375,
+      "section": null,
+      "word": "cello",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "チェロ",
+          "page": "2年生 p.131"
+        }
+      ],
+      "page_first": "2年生 p.131"
+    },
+    {
+      "id": 376,
+      "section": null,
+      "word": "cent",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "セント（アメリカ、カナダ、オーストラリア、ニュージーランドなどの貨幣単位。1ドルの100分の1）",
+          "page": "1年生 p.50"
+        }
+      ],
+      "page_first": "1年生 p.50"
+    },
+    {
+      "id": 377,
+      "section": null,
+      "word": "centimeter",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "センチメートル（長さの単位）",
+          "page": "2年生 p.77"
+        }
+      ],
+      "page_first": "2年生 p.77"
+    },
+    {
+      "id": 378,
+      "section": null,
+      "word": "century",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "世紀",
+          "page": "3年生 p.70"
+        }
+      ],
+      "page_first": "3年生 p.70"
+    },
+    {
+      "id": 379,
+      "section": null,
+      "word": "ceremony",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "儀式、式典",
+          "page": "3年生 p.119"
+        }
+      ],
+      "page_first": "3年生 p.119"
+    },
+    {
+      "id": 380,
+      "section": null,
+      "word": "certainly",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "確かに",
+          "page": "3年生 p.101"
+        }
+      ],
+      "page_first": "3年生 p.101"
+    },
+    {
+      "id": 381,
+      "section": null,
+      "word": "chain",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "チェーン（店）",
+          "page": "3年生 p.13"
+        }
+      ],
+      "page_first": "3年生 p.13"
+    },
+    {
+      "id": 382,
+      "section": null,
+      "word": "chair",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "いす",
+          "page": "3年生 p.9"
+        }
+      ],
+      "page_first": "3年生 p.9"
+    },
+    {
+      "id": 383,
+      "section": null,
+      "word": "challenge",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "課題、難問",
+          "page": "3年生 p.92"
+        }
+      ],
+      "page_first": "3年生 p.92"
+    },
+    {
+      "id": 384,
+      "section": null,
+      "word": "championship",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "選手権（大会）",
+          "page": "2年生 p.23"
+        }
+      ],
+      "page_first": "2年生 p.23"
+    },
+    {
+      "id": 385,
+      "section": null,
+      "word": "chance",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "機会、チャンス",
+          "page": "3年生 p.35"
+        }
+      ],
+      "page_first": "3年生 p.35"
+    },
+    {
+      "id": 386,
+      "section": null,
+      "word": "change",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "動",
+          "ja": "変える、変更する",
+          "page": "2年生 p.117"
+        }
+      ],
+      "page_first": "2年生 p.117"
+    }
+  ]
+}
