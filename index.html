@@ -156,6 +156,14 @@
         </select>
       </div>
 
+<div class="pill">
+  <div style="font-size:14px;color:var(--muted);">Go to ID</div>
+  <div style="display:flex;gap:8px;align-items:center;">
+    <input id="goToIdInput" type="number" inputmode="numeric" placeholder="e.g., 2039" style="width:120px;padding:8px 10px;border-radius:10px;border:1px solid var(--line);background:var(--card);color:var(--text);">
+    <button class="btn-ghost" onclick="goToId()">Go</button>
+  </div>
+</div>
+
       <div class="pill" id="progressPill" style="color:var(--muted);">0 / 0</div>
     </div>
 
@@ -306,6 +314,17 @@ function changeOrder(){
 
 // start
 loadData("textbook");
+function goToId() {
+  const id = Number(document.getElementById("goToIdInput").value);
+  const index = entries.findIndex(e => Number(e.id) === id);
+  if (index !== -1) {
+    currentIndex = index;
+    loadEntry();
+  } else {
+    alert("ID not found");
+  }
+}
+
 </script>
 </body>
 </html>
