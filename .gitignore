@@ -1,6 +1,5 @@
 .DS_Store
 node_modules/
-audio/
 scripts/generateAudio.js
 scripts/generateAudio*.js
 .env
