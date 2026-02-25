@@ -307,11 +307,10 @@ function playAudio(){
     // If local path failed and base isn't set, ask once and retry.
     const nowBase = (localStorage.getItem("audio_base_url") || "").trim();
     if (!nowBase) {
-      const input = prompt(
-        "Audio base URL (Supabase public folder URL).
-Example: https://XXXX.supabase.co/storage/v1/object/public/BUCKET/PATH",
-        ""
-      );
+     const input = prompt(
+  "Audio base URL (Supabase public folder URL).\nExample: https://XXXX.supabase.co/storage/v1/object/public/BUCKET/PATH",
+  ""
+);
       if (input && input.trim()) {
         localStorage.setItem("audio_base_url", input.trim());
         const retryUrl = buildUrl(input);
