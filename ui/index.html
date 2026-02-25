@@ -155,8 +155,16 @@
           <option value="id">ID</option>
         </select>
       </div>
+      </select>
+</div>
 
-      <div class="pill" id="progressPill" style="color:var(--muted);">0 / 0</div>
+      <div class="pill">
+  <div style="font-size:14px;color:var(--muted);">Go to ID</div>
+  <input type="number" id="goToIdInput" placeholder="2039" style="width:80px;">
+  <button onclick="goToId()">Go</button>
+</div>
+
+<div class="pill" id="progressPill" style="color:var(--muted);">0 / 0</div>
     </div>
 
     <div class="card">
@@ -184,7 +192,18 @@
       </div>
     </div>
   </div>
+function goToId() {
+  const id = Number(document.getElementById("goToIdInput").value);
+  if (!id) return;
 
+  const index = entries.findIndex(e => Number(e.id) === id);
+  if (index !== -1) {
+    currentIndex = index;
+    loadEntry();
+  } else {
+    alert("ID not found");
+  }
+}
 <script>
 let entries = [];
 let currentIndex = 0;
@@ -270,9 +289,41 @@ function playAudio(){
   if (!entry) return;
 
   stopAudio();
-  audioPlayer = new Audio("../audio/" + entry.audio);
+
+  // If audio_base_url is set (Supabase public folder URL), use it.
+  // Otherwise try local folder first; if it fails, prompt once and save.
+  const savedBase = (localStorage.getItem("audio_base_url") || "").trim();
+
+  const buildUrl = (base) => {
+    const b = (base || "").trim().replace(/\/+$/g, "");
+    return b ? (b + "/" + entry.audio) : ("audio/" + entry.audio);
+  };
+
+  let url = savedBase ? buildUrl(savedBase) : buildUrl("");
+
+  audioPlayer = new Audio(url);
+
+  audioPlayer.addEventListener("error", () => {
+    // If local path failed and base isn't set, ask once and retry.
+    const nowBase = (localStorage.getItem("audio_base_url") || "").trim();
+    if (!nowBase) {
+      const input = prompt(
+        "Audio base URL (Supabase public folder URL).
+Example: https://XXXX.supabase.co/storage/v1/object/public/BUCKET/PATH",
+        ""
+      );
+      if (input && input.trim()) {
+        localStorage.setItem("audio_base_url", input.trim());
+        const retryUrl = buildUrl(input);
+        audioPlayer = new Audio(retryUrl);
+        audioPlayer.play();
+      }
+    }
+  }, { once: true });
+
   audioPlayer.play();
 }
+
 
 function nextCard(){
   if (currentIndex < entries.length - 1) {
