@@ -23,23 +23,6 @@
       "page_first": "1年生 p.14"
     },
     {
-      "id": 248,
-      "section": null,
-      "word": "a bit",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "少し",
-          "page": "2年生 p.12"
-        }
-      ],
-      "page_first": "2年生 p.12"
-    },
-    {
       "id": 2,
       "section": null,
       "word": "a few ～",
@@ -57,9 +40,9 @@
       "page_first": "3年生 p.13"
     },
     {
-      "id": 792,
+      "id": 3,
       "section": null,
-      "word": "a few ～",
+      "word": "～ times a day",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -67,113 +50,11 @@
       "senses": [
         {
           "pos": null,
-          "ja": "少しの～、いくつかの～",
-          "page": "3年生 p.13"
+          "ja": "1日に〜回",
+          "page": "2年生 p.101"
         }
       ],
-      "page_first": "3年生 p.13"
-    },
-    {
-      "id": 1341,
-      "section": null,
-      "word": "a little",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "少し",
-          "page": "1年生 p.83"
-        }
-      ],
-      "page_first": "1年生 p.83"
-    },
-    {
-      "id": 1354,
-      "section": null,
-      "word": "a long time ago",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "昔々、ずっと前",
-          "page": "2年生 p.46"
-        }
-      ],
-      "page_first": "2年生 p.46"
-    },
-    {
-      "id": 1363,
-      "section": null,
-      "word": "a lot",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "よく、おおいに、たくさん",
-          "page": "1年生 p.111"
-        }
-      ],
-      "page_first": "1年生 p.111"
-    },
-    {
-      "id": 1364,
-      "section": null,
-      "word": "a lot of ～",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "たくさんの～",
-          "page": "1年生 p.85"
-        }
-      ],
-      "page_first": "1年生 p.85"
-    },
-    {
-      "id": 1713,
-      "section": null,
-      "word": "a piece of ～",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "1つ［1枚］の～",
-          "page": "2年生 p.86"
-        }
-      ],
-      "page_first": "2年生 p.86"
-    },
-    {
-      "id": 79,
-      "section": null,
-      "word": "a.m.",
-      "flags": {
-        "learned_in_elementary": true,
-        "important": true
-      },
-      "senses": [
-        {
-          "pos": "副",
-          "ja": "（ラテン語の略で）午前",
-          "page": "1年生 p.115"
-        }
-      ],
-      "page_first": "1年生 p.115"
+      "page_first": "2年生 p.101"
     },
     {
       "id": 4,
@@ -187,6 +68,23 @@
         {
           "pos": "形",
           "ja": "できる、能力がある",
+          "page": "2年生 p.81"
+        }
+      ],
+      "page_first": "2年生 p.81"
+    },
+    {
+      "id": 5,
+      "section": null,
+      "word": "be able to ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～することができる",
           "page": "2年生 p.81"
         }
       ],
@@ -213,6 +111,23 @@
         }
       ],
       "page_first": "1年生 p.66"
+    },
+    {
+      "id": 7,
+      "section": null,
+      "word": "How about ～?",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～はどうですか。",
+          "page": "1年生 p.73"
+        }
+      ],
+      "page_first": "1年生 p.73"
     },
     {
       "id": 8,
@@ -436,6 +351,23 @@
       "page_first": "2年生 p.70"
     },
     {
+      "id": 21,
+      "section": null,
+      "word": "take action",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "行動を起こす",
+          "page": "2年生 p.70"
+        }
+      ],
+      "page_first": "2年生 p.70"
+    },
+    {
       "id": 22,
       "section": null,
       "word": "active",
@@ -549,6 +481,23 @@
         {
           "pos": "名",
           "ja": "追加",
+          "page": "3年生 p.63"
+        }
+      ],
+      "page_first": "3年生 p.63"
+    },
+    {
+      "id": 29,
+      "section": null,
+      "word": "in addition",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "そのうえ、さらに",
           "page": "3年生 p.63"
         }
       ],
@@ -781,40 +730,6 @@
       "page_first": "1年生 p.31"
     },
     {
-      "id": 2560,
-      "section": null,
-      "word": "after a while",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "しばらくすると",
-          "page": "2年生 p.71"
-        }
-      ],
-      "page_first": "2年生 p.71"
-    },
-    {
-      "id": 1949,
-      "section": null,
-      "word": "after school",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "放課後",
-          "page": "1年生 p.31"
-        }
-      ],
-      "page_first": "1年生 p.31"
-    },
-    {
       "id": 43,
       "section": null,
       "word": "afternoon",
@@ -894,6 +809,23 @@
         {
           "pos": "名",
           "ja": "年齢",
+          "page": "3年生 p.84"
+        }
+      ],
+      "page_first": "3年生 p.84"
+    },
+    {
+      "id": 48,
+      "section": null,
+      "word": "at the age of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～歳のとき",
           "page": "3年生 p.84"
         }
       ],
@@ -1194,23 +1126,6 @@
       "page_first": "1年生 p.66"
     },
     {
-      "id": 560,
-      "section": null,
-      "word": "all day",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "一日中",
-          "page": "1年生 p.115"
-        }
-      ],
-      "page_first": "1年生 p.115"
-    },
-    {
       "id": 66,
       "section": null,
       "word": "all over ～",
@@ -1245,41 +1160,7 @@
       "page_first": "3年生 p.116"
     },
     {
-      "id": 1886,
-      "section": null,
-      "word": "all right",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "申し分ない、問題ない",
-          "page": "3年生 p.116"
-        }
-      ],
-      "page_first": "3年生 p.116"
-    },
-    {
       "id": 68,
-      "section": null,
-      "word": "all the time",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "いつでも",
-          "page": "3年生 p.54"
-        }
-      ],
-      "page_first": "3年生 p.54"
-    },
-    {
-      "id": 2347,
       "section": null,
       "word": "all the time",
       "flags": {
@@ -1369,6 +1250,23 @@
       "page_first": "3年生 p.63"
     },
     {
+      "id": 73,
+      "section": null,
+      "word": "get along with ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～と仲よくやっていく",
+          "page": "3年生 p.101"
+        }
+      ],
+      "page_first": "3年生 p.101"
+    },
+    {
       "id": 74,
       "section": null,
       "word": "already",
@@ -1435,6 +1333,40 @@
         }
       ],
       "page_first": "1年生 p.72"
+    },
+    {
+      "id": 78,
+      "section": null,
+      "word": "not always ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "いつも［必ずしも］～とは限らない",
+          "page": "2年生 p.103"
+        }
+      ],
+      "page_first": "2年生 p.103"
+    },
+    {
+      "id": 79,
+      "section": null,
+      "word": "a.m.",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "（ラテン語の略で）午前",
+          "page": "1年生 p.115"
+        }
+      ],
+      "page_first": "1年生 p.115"
     },
     {
       "id": 80,
@@ -1668,6 +1600,23 @@
       "page_first": "3年生 p.51"
     },
     {
+      "id": 93,
+      "section": null,
+      "word": "get angry with ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～に腹を立てる",
+          "page": "3年生 p.51"
+        }
+      ],
+      "page_first": "3年生 p.51"
+    },
+    {
       "id": 94,
       "section": null,
       "word": "animal",
@@ -1807,6 +1756,23 @@
         }
       ],
       "page_first": "2年生 p.79"
+    },
+    {
+      "id": 102,
+      "section": null,
+      "word": "one after another",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "次々と",
+          "page": "2年生 p.92"
+        }
+      ],
+      "page_first": "2年生 p.92"
     },
     {
       "id": 103,
@@ -2238,23 +2204,6 @@
       "page_first": "1年生 p.86"
     },
     {
-      "id": 2601,
-      "section": null,
-      "word": "around the world",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "世界中で",
-          "page": "1年生 p.122"
-        }
-      ],
-      "page_first": "1年生 p.122"
-    },
-    {
       "id": 125,
       "section": null,
       "word": "arrive",
@@ -2367,41 +2316,7 @@
       "page_first": "3年生 p.23"
     },
     {
-      "id": 1876,
-      "section": null,
-      "word": "as a result",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "その結果として",
-          "page": "3年生 p.23"
-        }
-      ],
-      "page_first": "3年生 p.23"
-    },
-    {
       "id": 131,
-      "section": null,
-      "word": "as a result of ～",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "〜の結果として",
-          "page": "3年生 p.125"
-        }
-      ],
-      "page_first": "3年生 p.125"
-    },
-    {
-      "id": 1877,
       "section": null,
       "word": "as a result of ～",
       "flags": {
@@ -2502,6 +2417,23 @@
         {
           "pos": "形",
           "ja": "眠って",
+          "page": "2年生 p.71"
+        }
+      ],
+      "page_first": "2年生 p.71"
+    },
+    {
+      "id": 137,
+      "section": null,
+      "word": "fall asleep",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "眠りに落ちる、寝入る",
           "page": "2年生 p.71"
         }
       ],
@@ -2635,57 +2567,6 @@
       "page_first": "3年生 p.61"
     },
     {
-      "id": 816,
-      "section": null,
-      "word": "at first",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "はじめは",
-          "page": "3年生 p.61"
-        }
-      ],
-      "page_first": "3年生 p.61"
-    },
-    {
-      "id": 1098,
-      "section": null,
-      "word": "at home",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "家で［に］",
-          "page": "1年生 p.30"
-        }
-      ],
-      "page_first": "1年生 p.30"
-    },
-    {
-      "id": 1291,
-      "section": null,
-      "word": "at last",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "ついに",
-          "page": "2年生 p.126"
-        }
-      ],
-      "page_first": "2年生 p.126"
-    },
-    {
       "id": 144,
       "section": null,
       "word": "at least",
@@ -2703,57 +2584,6 @@
       "page_first": "3年生 p.21"
     },
     {
-      "id": 1305,
-      "section": null,
-      "word": "at least",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "少なくとも、最低限",
-          "page": "3年生 p.21"
-        }
-      ],
-      "page_first": "3年生 p.21"
-    },
-    {
-      "id": 2348,
-      "section": null,
-      "word": "at one time",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "同時に、いっせいに",
-          "page": "1年生 p.114"
-        }
-      ],
-      "page_first": "1年生 p.114"
-    },
-    {
-      "id": 48,
-      "section": null,
-      "word": "at the age of ～",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "～歳のとき",
-          "page": "3年生 p.84"
-        }
-      ],
-      "page_first": "3年生 p.84"
-    },
-    {
       "id": 145,
       "section": null,
       "word": "at the age of ～",
@@ -2769,23 +2599,6 @@
         }
       ],
       "page_first": "3年生 p.84"
-    },
-    {
-      "id": 2506,
-      "section": null,
-      "word": "at war",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "戦争中で",
-          "page": "2年生 p.92"
-        }
-      ],
-      "page_first": "2年生 p.92"
     },
     {
       "id": 146,
@@ -3522,6 +3335,23 @@
       "page_first": "3年生 p.18"
     },
     {
+      "id": 188,
+      "section": null,
+      "word": "be based on ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～をもとに作られている",
+          "page": "3年生 p.18"
+        }
+      ],
+      "page_first": "3年生 p.18"
+    },
+    {
       "id": 189,
       "section": null,
       "word": "baseball",
@@ -3617,6 +3447,23 @@
       "page_first": "1年生 p.36"
     },
     {
+      "id": 194,
+      "section": null,
+      "word": "take a bath",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "ふろに入る",
+          "page": "1年生 p.36"
+        }
+      ],
+      "page_first": "1年生 p.36"
+    },
+    {
       "id": 195,
       "section": null,
       "word": "bathroom",
@@ -3651,40 +3498,6 @@
       "page_first": "1年生 p.12"
     },
     {
-      "id": 5,
-      "section": null,
-      "word": "be able to ～",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "～することができる",
-          "page": "2年生 p.81"
-        }
-      ],
-      "page_first": "2年生 p.81"
-    },
-    {
-      "id": 188,
-      "section": null,
-      "word": "be based on ～",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "～をもとに作られている",
-          "page": "3年生 p.18"
-        }
-      ],
-      "page_first": "3年生 p.18"
-    },
-    {
       "id": 197,
       "section": null,
       "word": "be based on ～",
@@ -3702,40 +3515,6 @@
       "page_first": "3年生 p.18"
     },
     {
-      "id": 767,
-      "section": null,
-      "word": "be famous for ～",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "～で有名である",
-          "page": "1年生 p.86"
-        }
-      ],
-      "page_first": "1年生 p.86"
-    },
-    {
-      "id": 894,
-      "section": null,
-      "word": "be from ～",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "～の出身である",
-          "page": "1年生 p.22"
-        }
-      ],
-      "page_first": "1年生 p.22"
-    },
-    {
       "id": 198,
       "section": null,
       "word": "be full of ～",
@@ -3751,91 +3530,6 @@
         }
       ],
       "page_first": "3年生 p.22"
-    },
-    {
-      "id": 900,
-      "section": null,
-      "word": "be full of ～",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "～に満ちている、～でいっぱいである",
-          "page": "3年生 p.22"
-        }
-      ],
-      "page_first": "3年生 p.22"
-    },
-    {
-      "id": 946,
-      "section": null,
-      "word": "be good at ～",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "～がじょうずである、得意である",
-          "page": "1年生 p.26"
-        }
-      ],
-      "page_first": "1年生 p.26"
-    },
-    {
-      "id": 1187,
-      "section": null,
-      "word": "be interested in ～",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "～に興味［関心］を持っている",
-          "page": "2年生 p.21"
-        }
-      ],
-      "page_first": "2年生 p.21"
-    },
-    {
-      "id": 1790,
-      "section": null,
-      "word": "be proud of ～",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "～を誇りに思っている",
-          "page": "1年生 p.66"
-        }
-      ],
-      "page_first": "1年生 p.66"
-    },
-    {
-      "id": 1833,
-      "section": null,
-      "word": "be ready to ～",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "～する準備［用意］ができている",
-          "page": "2年生 p.61"
-        }
-      ],
-      "page_first": "2年生 p.61"
     },
     {
       "id": 199,
@@ -4074,6 +3768,23 @@
         }
       ],
       "page_first": "1年生 p.127"
+    },
+    {
+      "id": 213,
+      "section": null,
+      "word": "go to bed",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "寝る、就寝する",
+          "page": "2年生 p.59"
+        }
+      ],
+      "page_first": "2年生 p.59"
     },
     {
       "id": 214,
@@ -4470,9 +4181,9 @@
       "page_first": "1年生 p.46"
     },
     {
-      "id": 2587,
+      "id": 236,
       "section": null,
-      "word": "Best wishes,",
+      "word": "do one’s best",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -4480,11 +4191,11 @@
       "senses": [
         {
           "pos": null,
-          "ja": "（手紙などの結びに）幸運を祈ります。",
-          "page": "1年生 p.140"
+          "ja": "最善［ベスト］をつくす",
+          "page": "2年生 p.13"
         }
       ],
-      "page_first": "1年生 p.140"
+      "page_first": "2年生 p.13"
     },
     {
       "id": 237,
@@ -4604,23 +4315,6 @@
       "page_first": "1年生 p.70"
     },
     {
-      "id": 244,
-      "section": null,
-      "word": "Bill",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": "名",
-          "ja": "ビル（男子の名）",
-          "page": "2年生 p.85"
-        }
-      ],
-      "page_first": "2年生 p.85"
-    },
-    {
       "id": 243,
       "section": null,
       "word": "bill",
@@ -4636,6 +4330,23 @@
         }
       ],
       "page_first": "3年生 p.120"
+    },
+    {
+      "id": 244,
+      "section": null,
+      "word": "Bill",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ビル（男子の名）",
+          "page": "2年生 p.85"
+        }
+      ],
+      "page_first": "2年生 p.85"
     },
     {
       "id": 245,
@@ -4683,6 +4394,23 @@
         {
           "pos": "名",
           "ja": "少量、小片",
+          "page": "2年生 p.12"
+        }
+      ],
+      "page_first": "2年生 p.12"
+    },
+    {
+      "id": 248,
+      "section": null,
+      "word": "a bit",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "少し",
           "page": "2年生 p.12"
         }
       ],
@@ -5212,6 +4940,23 @@
         }
       ],
       "page_first": "2年生 p.32"
+    },
+    {
+      "id": 279,
+      "section": null,
+      "word": "go bowling",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "ボウリングに行く",
+          "page": "2年生 p.129"
+        }
+      ],
+      "page_first": "2年生 p.129"
     },
     {
       "id": 280,
@@ -5919,23 +5664,6 @@
       "page_first": "1年生 p.82"
     },
     {
-      "id": 1470,
-      "section": null,
-      "word": "by mistake",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "誤って、間違って",
-          "page": "2年生 p.69"
-        }
-      ],
-      "page_first": "2年生 p.69"
-    },
-    {
       "id": 320,
       "section": null,
       "word": "by oneself",
@@ -5951,23 +5679,6 @@
         }
       ],
       "page_first": "2年生 p.36"
-    },
-    {
-      "id": 2521,
-      "section": null,
-      "word": "by the way",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "ところで",
-          "page": "2年生 p.11"
-        }
-      ],
-      "page_first": "2年生 p.11"
     },
     {
       "id": 321,
@@ -6233,23 +5944,6 @@
       "page_first": "1年生 p.12"
     },
     {
-      "id": 336,
-      "section": null,
-      "word": "Can I help you?",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "（店員が客に）いらっしゃいませ。お手伝いしましょうか。",
-          "page": "1年生 p.108"
-        }
-      ],
-      "page_first": "1年生 p.108"
-    },
-    {
       "id": 335,
       "section": null,
       "word": "Can I ～?",
@@ -6265,6 +5959,23 @@
         }
       ],
       "page_first": "1年生 p.50"
+    },
+    {
+      "id": 336,
+      "section": null,
+      "word": "Can I help you?",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（店員が客に）いらっしゃいませ。お手伝いしましょうか。",
+          "page": "1年生 p.108"
+        }
+      ],
+      "page_first": "1年生 p.108"
     },
     {
       "id": 337,
@@ -6498,21 +6209,38 @@
       "page_first": "2年生 p.12"
     },
     {
-      "id": 355,
+      "id": 350,
       "section": null,
-      "word": "care worker",
+      "word": "take care",
       "flags": {
         "learned_in_elementary": false,
         "important": false
       },
       "senses": [
         {
-          "pos": "名",
-          "ja": "介護福祉士",
-          "page": "3年生 p.131"
+          "pos": null,
+          "ja": "気をつける、注意する",
+          "page": "2年生 p.12"
         }
       ],
-      "page_first": "3年生 p.131"
+      "page_first": "2年生 p.12"
+    },
+    {
+      "id": 351,
+      "section": null,
+      "word": "take care of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～の世話をする",
+          "page": "3年生 p.49"
+        }
+      ],
+      "page_first": "3年生 p.49"
     },
     {
       "id": 352,
@@ -6564,6 +6292,23 @@
         }
       ],
       "page_first": "1年生 p.144"
+    },
+    {
+      "id": 355,
+      "section": null,
+      "word": "care worker",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "介護福祉士",
+          "page": "3年生 p.131"
+        }
+      ],
+      "page_first": "3年生 p.131"
     },
     {
       "id": 356,
@@ -6773,6 +6518,23 @@
         }
       ],
       "page_first": "2年生 p.33"
+    },
+    {
+      "id": 368,
+      "section": null,
+      "word": "get caught in ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～にとらえられる",
+          "page": "3年生 p.83"
+        }
+      ],
+      "page_first": "3年生 p.83"
     },
     {
       "id": 369,
@@ -7087,23 +6849,6 @@
     },
     {
       "id": 387,
-      "section": null,
-      "word": "change trains",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "電車［列車］を乗りかえる",
-          "page": "3年生 p.39"
-        }
-      ],
-      "page_first": "3年生 p.39"
-    },
-    {
-      "id": 2393,
       "section": null,
       "word": "change trains",
       "flags": {
@@ -7701,6 +7446,23 @@
         }
       ],
       "page_first": "1年生 p.25"
+    },
+    {
+      "id": 422,
+      "section": null,
+      "word": "take a class",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "授業を受ける",
+          "page": "3年生 p.100"
+        }
+      ],
+      "page_first": "3年生 p.100"
     },
     {
       "id": 423,
@@ -8387,23 +8149,6 @@
     },
     {
       "id": 462,
-      "section": null,
-      "word": "come true",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "実現する",
-          "page": "3年生 p.100"
-        }
-      ],
-      "page_first": "3年生 p.100"
-    },
-    {
-      "id": 2409,
       "section": null,
       "word": "come true",
       "flags": {
@@ -9307,6 +9052,23 @@
       "page_first": "1年生 p.114"
     },
     {
+      "id": 514,
+      "section": null,
+      "word": "of course",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "もちろん",
+          "page": "1年生 p.114"
+        }
+      ],
+      "page_first": "1年生 p.114"
+    },
+    {
       "id": 515,
       "section": null,
       "word": "court",
@@ -9776,23 +9538,6 @@
       "page_first": "1年生 p.106"
     },
     {
-      "id": 543,
-      "section": null,
-      "word": "cut down ～",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "～を切り倒す",
-          "page": "2年生 p.57"
-        }
-      ],
-      "page_first": "2年生 p.57"
-    },
-    {
       "id": 542,
       "section": null,
       "word": "cut ～ off",
@@ -9808,6 +9553,23 @@
         }
       ],
       "page_first": "1年生 p.128"
+    },
+    {
+      "id": 543,
+      "section": null,
+      "word": "cut down ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～を切り倒す",
+          "page": "2年生 p.57"
+        }
+      ],
+      "page_first": "2年生 p.57"
     },
     {
       "id": 544,
@@ -9838,6 +9600,23 @@
         {
           "pos": "動",
           "ja": "自転車に乗る、サイクリングをする",
+          "page": "2年生 p.21"
+        }
+      ],
+      "page_first": "2年生 p.21"
+    },
+    {
+      "id": 546,
+      "section": null,
+      "word": "go cycling",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "サイクリングに行く",
           "page": "2年生 p.21"
         }
       ],
@@ -10075,6 +9854,91 @@
       "page_first": "1年生 p.14"
     },
     {
+      "id": 560,
+      "section": null,
+      "word": "all day",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "一日中",
+          "page": "1年生 p.115"
+        }
+      ],
+      "page_first": "1年生 p.115"
+    },
+    {
+      "id": 561,
+      "section": null,
+      "word": "every day",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "毎日",
+          "page": "1年生 p.14"
+        }
+      ],
+      "page_first": "1年生 p.14"
+    },
+    {
+      "id": 562,
+      "section": null,
+      "word": "in those days",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "当時、そのころ",
+          "page": "2年生 p.120"
+        }
+      ],
+      "page_first": "2年生 p.120"
+    },
+    {
+      "id": 563,
+      "section": null,
+      "word": "one day",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "ある日",
+          "page": "2年生 p.80"
+        }
+      ],
+      "page_first": "2年生 p.80"
+    },
+    {
+      "id": 564,
+      "section": null,
+      "word": "these days",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "近ごろは",
+          "page": "3年生 p.99"
+        }
+      ],
+      "page_first": "3年生 p.99"
+    },
+    {
       "id": 565,
       "section": null,
       "word": "daytime",
@@ -10103,6 +9967,23 @@
         {
           "pos": "形",
           "ja": "死んでいる",
+          "page": "2年生 p.93"
+        }
+      ],
+      "page_first": "2年生 p.93"
+    },
+    {
+      "id": 567,
+      "section": null,
+      "word": "the dead",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "死者",
           "page": "2年生 p.93"
         }
       ],
@@ -10527,6 +10408,23 @@
       "page_first": "3年生 p.19"
     },
     {
+      "id": 592,
+      "section": null,
+      "word": "keep a diary",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "日記をつけている",
+          "page": "3年生 p.19"
+        }
+      ],
+      "page_first": "3年生 p.19"
+    },
+    {
       "id": 593,
       "section": null,
       "word": "dictionary",
@@ -10838,6 +10736,23 @@
       "page_first": "1年生 p.14"
     },
     {
+      "id": 611,
+      "section": null,
+      "word": "do the dishes",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "皿洗いをする",
+          "page": "2年生 p.132"
+        }
+      ],
+      "page_first": "2年生 p.132"
+    },
+    {
       "id": 612,
       "section": null,
       "word": "display",
@@ -10897,40 +10812,6 @@
         }
       ],
       "page_first": "1年生 p.12"
-    },
-    {
-      "id": 236,
-      "section": null,
-      "word": "do one’s best",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "最善［ベスト］をつくす",
-          "page": "2年生 p.13"
-        }
-      ],
-      "page_first": "2年生 p.13"
-    },
-    {
-      "id": 611,
-      "section": null,
-      "word": "do the dishes",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "皿洗いをする",
-          "page": "2年生 p.132"
-        }
-      ],
-      "page_first": "2年生 p.132"
     },
     {
       "id": 615,
@@ -11137,23 +11018,6 @@
       "page_first": "1年生 p.142"
     },
     {
-      "id": 629,
-      "section": null,
-      "word": "donut",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": "名",
-          "ja": "ドーナツ",
-          "page": "2年生 p.131"
-        }
-      ],
-      "page_first": "2年生 p.131"
-    },
-    {
       "id": 627,
       "section": null,
       "word": "don’t",
@@ -11171,9 +11035,9 @@
       "page_first": "1年生 p.30"
     },
     {
-      "id": 1035,
+      "id": 628,
       "section": null,
-      "word": "don’t have to ～",
+      "word": "～, don’t you?",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -11181,11 +11045,28 @@
       "senses": [
         {
           "pos": null,
-          "ja": "～する必要はない",
-          "page": "2年生 p.52"
+          "ja": "〜ですよね。",
+          "page": "2年生 p.80"
         }
       ],
-      "page_first": "2年生 p.52"
+      "page_first": "2年生 p.80"
+    },
+    {
+      "id": 629,
+      "section": null,
+      "word": "donut",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ドーナツ",
+          "page": "2年生 p.131"
+        }
+      ],
+      "page_first": "2年生 p.131"
     },
     {
       "id": 630,
@@ -11680,23 +11561,6 @@
         }
       ],
       "page_first": "2年生 p.37"
-    },
-    {
-      "id": 1630,
-      "section": null,
-      "word": "each other",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "おたがいに［を］",
-          "page": "2年生 p.94"
-        }
-      ],
-      "page_first": "2年生 p.94"
     },
     {
       "id": 657,
@@ -12875,23 +12739,6 @@
       "page_first": "3年生 p.94"
     },
     {
-      "id": 1145,
-      "section": null,
-      "word": "even if ～",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "たとえ～でも",
-          "page": "3年生 p.94"
-        }
-      ],
-      "page_first": "3年生 p.94"
-    },
-    {
       "id": 725,
       "section": null,
       "word": "evening",
@@ -12959,23 +12806,6 @@
         {
           "pos": "形",
           "ja": "毎〜、〜ごとに",
-          "page": "1年生 p.14"
-        }
-      ],
-      "page_first": "1年生 p.14"
-    },
-    {
-      "id": 561,
-      "section": null,
-      "word": "every day",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "毎日",
           "page": "1年生 p.14"
         }
       ],
@@ -13061,6 +12891,23 @@
         {
           "pos": "名",
           "ja": "例",
+          "page": "1年生 p.80"
+        }
+      ],
+      "page_first": "1年生 p.80"
+    },
+    {
+      "id": 734,
+      "section": null,
+      "word": "for example",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "たとえば",
           "page": "1年生 p.80"
         }
       ],
@@ -13451,6 +13298,23 @@
       "page_first": "2年生 p.25"
     },
     {
+      "id": 757,
+      "section": null,
+      "word": "in fact",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "実のところ、実際は",
+          "page": "2年生 p.25"
+        }
+      ],
+      "page_first": "2年生 p.25"
+    },
+    {
       "id": 758,
       "section": null,
       "word": "failure",
@@ -13546,23 +13410,6 @@
       "page_first": "1年生 p.141"
     },
     {
-      "id": 137,
-      "section": null,
-      "word": "fall asleep",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "眠りに落ちる、寝入る",
-          "page": "2年生 p.71"
-        }
-      ],
-      "page_first": "2年生 p.71"
-    },
-    {
       "id": 763,
       "section": null,
       "word": "fall into ～",
@@ -13629,6 +13476,23 @@
         }
       ],
       "page_first": "1年生 p.52"
+    },
+    {
+      "id": 767,
+      "section": null,
+      "word": "be famous for ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～で有名である",
+          "page": "1年生 p.86"
+        }
+      ],
+      "page_first": "1年生 p.86"
     },
     {
       "id": 768,
@@ -14044,6 +13908,23 @@
       "page_first": "3年生 p.13"
     },
     {
+      "id": 792,
+      "section": null,
+      "word": "a few ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "少しの～、いくつかの～",
+          "page": "3年生 p.13"
+        }
+      ],
+      "page_first": "3年生 p.13"
+    },
+    {
       "id": 793,
       "section": null,
       "word": "field day",
@@ -14450,6 +14331,23 @@
       "page_first": "1年生 p.136"
     },
     {
+      "id": 816,
+      "section": null,
+      "word": "at first",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "はじめは",
+          "page": "3年生 p.61"
+        }
+      ],
+      "page_first": "3年生 p.61"
+    },
+    {
       "id": 817,
       "section": null,
       "word": "first of all",
@@ -14465,6 +14363,23 @@
         }
       ],
       "page_first": "2年生 p.56"
+    },
+    {
+      "id": 818,
+      "section": null,
+      "word": "for the first time",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "初めて",
+          "page": "2年生 p.33"
+        }
+      ],
+      "page_first": "2年生 p.33"
     },
     {
       "id": 819,
@@ -14487,6 +14402,23 @@
         }
       ],
       "page_first": "1年生 p.14"
+    },
+    {
+      "id": 820,
+      "section": null,
+      "word": "go fishing",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "つりに行く",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.143"
     },
     {
       "id": 821,
@@ -15046,57 +14978,6 @@
       "page_first": "1年生 p.33"
     },
     {
-      "id": 2561,
-      "section": null,
-      "word": "for a while",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "しばらくの間",
-          "page": "2年生 p.47"
-        }
-      ],
-      "page_first": "2年生 p.47"
-    },
-    {
-      "id": 734,
-      "section": null,
-      "word": "for example",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "たとえば",
-          "page": "1年生 p.80"
-        }
-      ],
-      "page_first": "1年生 p.80"
-    },
-    {
-      "id": 875,
-      "section": null,
-      "word": "for free",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "無料で",
-          "page": "2年生 p.64"
-        }
-      ],
-      "page_first": "2年生 p.64"
-    },
-    {
       "id": 852,
       "section": null,
       "word": "For here or to go?",
@@ -15112,23 +14993,6 @@
         }
       ],
       "page_first": "1年生 p.50"
-    },
-    {
-      "id": 818,
-      "section": null,
-      "word": "for the first time",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "初めて",
-          "page": "2年生 p.33"
-        }
-      ],
-      "page_first": "2年生 p.33"
     },
     {
       "id": 853,
@@ -15295,6 +15159,23 @@
         {
           "pos": "副",
           "ja": "先へ",
+          "page": "2年生 p.36"
+        }
+      ],
+      "page_first": "2年生 p.36"
+    },
+    {
+      "id": 863,
+      "section": null,
+      "word": "look forward to 〜",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "〜を楽しみに待つ",
           "page": "2年生 p.36"
         }
       ],
@@ -15491,6 +15372,23 @@
         }
       ],
       "page_first": "2年生 p.20"
+    },
+    {
+      "id": 875,
+      "section": null,
+      "word": "for free",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "無料で",
+          "page": "2年生 p.64"
+        }
+      ],
+      "page_first": "2年生 p.64"
     },
     {
       "id": 876,
@@ -15809,6 +15707,23 @@
       "page_first": "1年生 p.12"
     },
     {
+      "id": 894,
+      "section": null,
+      "word": "be from ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～の出身である",
+          "page": "1年生 p.22"
+        }
+      ],
+      "page_first": "1年生 p.22"
+    },
+    {
       "id": 895,
       "section": null,
       "word": "front",
@@ -15820,6 +15735,23 @@
         {
           "pos": "名",
           "ja": "前",
+          "page": "1年生 p.103"
+        }
+      ],
+      "page_first": "1年生 p.103"
+    },
+    {
+      "id": 896,
+      "section": null,
+      "word": "in front of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～の前で［に］",
           "page": "1年生 p.103"
         }
       ],
@@ -15880,6 +15812,23 @@
         }
       ],
       "page_first": "1年生 p.82"
+    },
+    {
+      "id": 900,
+      "section": null,
+      "word": "be full of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～に満ちている、～でいっぱいである",
+          "page": "3年生 p.22"
+        }
+      ],
+      "page_first": "3年生 p.22"
     },
     {
       "id": 901,
@@ -16245,23 +16194,6 @@
       "page_first": "1年生 p.13"
     },
     {
-      "id": 73,
-      "section": null,
-      "word": "get along with ～",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "～と仲よくやっていく",
-          "page": "3年生 p.101"
-        }
-      ],
-      "page_first": "3年生 p.101"
-    },
-    {
       "id": 920,
       "section": null,
       "word": "get along with ～",
@@ -16279,23 +16211,6 @@
       "page_first": "3年生 p.101"
     },
     {
-      "id": 93,
-      "section": null,
-      "word": "get angry with ～",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "～に腹を立てる",
-          "page": "3年生 p.51"
-        }
-      ],
-      "page_first": "3年生 p.51"
-    },
-    {
       "id": 921,
       "section": null,
       "word": "get angry with ～",
@@ -16311,23 +16226,6 @@
         }
       ],
       "page_first": "3年生 p.51"
-    },
-    {
-      "id": 368,
-      "section": null,
-      "word": "get caught in ～",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "～にとらえられる",
-          "page": "3年生 p.83"
-        }
-      ],
-      "page_first": "3年生 p.83"
     },
     {
       "id": 922,
@@ -16364,23 +16262,6 @@
       "page_first": "3年生 p.30"
     },
     {
-      "id": 1872,
-      "section": null,
-      "word": "get rest",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "休む",
-          "page": "3年生 p.30"
-        }
-      ],
-      "page_first": "3年生 p.30"
-    },
-    {
       "id": 924,
       "section": null,
       "word": "get up",
@@ -16398,9 +16279,9 @@
       "page_first": "1年生 p.13"
     },
     {
-      "id": 2539,
+      "id": 925,
       "section": null,
-      "word": "get well",
+      "word": "I got it!",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -16408,28 +16289,11 @@
       "senses": [
         {
           "pos": null,
-          "ja": "（体調が）よくなる",
-          "page": "2年生 p.112"
+          "ja": "わかった。",
+          "page": "1年生 p.58"
         }
       ],
-      "page_first": "2年生 p.112"
-    },
-    {
-      "id": 1724,
-      "section": null,
-      "word": "get ～ place",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "（競争などで）～位になる",
-          "page": "2年生 p.66"
-        }
-      ],
-      "page_first": "2年生 p.66"
+      "page_first": "1年生 p.58"
     },
     {
       "id": 926,
@@ -16573,23 +16437,6 @@
       "page_first": "1年生 p.122"
     },
     {
-      "id": 2414,
-      "section": null,
-      "word": "Give it a try.",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "ためしてみてください。",
-          "page": "2年生 p.73"
-        }
-      ],
-      "page_first": "2年生 p.73"
-    },
-    {
       "id": 934,
       "section": null,
       "word": "give up 〜",
@@ -16697,40 +16544,6 @@
       "page_first": "1年生 p.25"
     },
     {
-      "id": 279,
-      "section": null,
-      "word": "go bowling",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "ボウリングに行く",
-          "page": "2年生 p.129"
-        }
-      ],
-      "page_first": "2年生 p.129"
-    },
-    {
-      "id": 546,
-      "section": null,
-      "word": "go cycling",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "サイクリングに行く",
-          "page": "2年生 p.21"
-        }
-      ],
-      "page_first": "2年生 p.21"
-    },
-    {
       "id": 940,
       "section": null,
       "word": "go down",
@@ -16746,125 +16559,6 @@
         }
       ],
       "page_first": "1年生 p.115"
-    },
-    {
-      "id": 820,
-      "section": null,
-      "word": "go fishing",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "つりに行く",
-          "page": "1年生 p.143"
-        }
-      ],
-      "page_first": "1年生 p.143"
-    },
-    {
-      "id": 2498,
-      "section": null,
-      "word": "go for a walk",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "散歩する",
-          "page": "1年生 p.143"
-        }
-      ],
-      "page_first": "1年生 p.143"
-    },
-    {
-      "id": 1078,
-      "section": null,
-      "word": "go hiking",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "ハイキングに行く",
-          "page": "2年生 p.55"
-        }
-      ],
-      "page_first": "2年生 p.55"
-    },
-    {
-      "id": 1233,
-      "section": null,
-      "word": "go jogging",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "ジョギングに行く",
-          "page": "2年生 p.129"
-        }
-      ],
-      "page_first": "2年生 p.129"
-    },
-    {
-      "id": 2405,
-      "section": null,
-      "word": "go on a trip",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "旅行へ行く",
-          "page": "1年生 p.143"
-        }
-      ],
-      "page_first": "1年生 p.143"
-    },
-    {
-      "id": 2023,
-      "section": null,
-      "word": "go shopping",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "買い物に行く",
-          "page": "1年生 p.143"
-        }
-      ],
-      "page_first": "1年生 p.143"
-    },
-    {
-      "id": 213,
-      "section": null,
-      "word": "go to bed",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "寝る、就寝する",
-          "page": "2年生 p.59"
-        }
-      ],
-      "page_first": "2年生 p.59"
     },
     {
       "id": 941,
@@ -16972,6 +16666,23 @@
       "page_first": "1年生 p.14"
     },
     {
+      "id": 946,
+      "section": null,
+      "word": "be good at ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～がじょうずである、得意である",
+          "page": "1年生 p.26"
+        }
+      ],
+      "page_first": "1年生 p.26"
+    },
+    {
       "id": 947,
       "section": null,
       "word": "Good for you.",
@@ -16989,9 +16700,9 @@
       "page_first": "2年生 p.69"
     },
     {
-      "id": 1231,
+      "id": 948,
       "section": null,
-      "word": "Good job.",
+      "word": "Pretty good.",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -16999,28 +16710,11 @@
       "senses": [
         {
           "pos": null,
-          "ja": "よくやったね。",
-          "page": "2年生 p.32"
+          "ja": "かなりよいです。",
+          "page": "1年生 p.113"
         }
       ],
-      "page_first": "2年生 p.32"
-    },
-    {
-      "id": 1372,
-      "section": null,
-      "word": "Good luck!",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "幸運を祈ります。",
-          "page": "1年生 p.40"
-        }
-      ],
-      "page_first": "1年生 p.40"
+      "page_first": "1年生 p.113"
     },
     {
       "id": 949,
@@ -17927,23 +17621,6 @@
       "page_first": "1年生 p.143"
     },
     {
-      "id": 1003,
-      "section": null,
-      "word": "ha-ha",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": "間",
-          "ja": "あはは（笑い声）",
-          "page": "1年生 p.55"
-        }
-      ],
-      "page_first": "1年生 p.55"
-    },
-    {
       "id": 1001,
       "section": "H / h",
       "word": "habit",
@@ -17976,6 +17653,23 @@
         }
       ],
       "page_first": "1年生 p.18"
+    },
+    {
+      "id": 1003,
+      "section": null,
+      "word": "ha-ha",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "間",
+          "ja": "あはは（笑い声）",
+          "page": "1年生 p.55"
+        }
+      ],
+      "page_first": "1年生 p.55"
     },
     {
       "id": 1004,
@@ -18163,6 +17857,40 @@
         }
       ],
       "page_first": "2年生 p.101"
+    },
+    {
+      "id": 1015,
+      "section": null,
+      "word": "shake hands with ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～と握手する",
+          "page": "3年生 p.97"
+        }
+      ],
+      "page_first": "3年生 p.97"
+    },
+    {
+      "id": 1016,
+      "section": null,
+      "word": "on the other hand",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "一方、それに対して",
+          "page": "3年生 p.120"
+        }
+      ],
+      "page_first": "3年生 p.120"
     },
     {
       "id": 1017,
@@ -18516,9 +18244,9 @@
       "page_first": "1年生 p.13"
     },
     {
-      "id": 2349,
+      "id": 1035,
       "section": null,
-      "word": "have a good time",
+      "word": "don’t have to ～",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -18526,41 +18254,7 @@
       "senses": [
         {
           "pos": null,
-          "ja": "楽しい時を過ごす",
-          "page": "1年生 p.111"
-        }
-      ],
-      "page_first": "1年生 p.111"
-    },
-    {
-      "id": 1142,
-      "section": null,
-      "word": "have no idea",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "わからない",
-          "page": "2年生 p.102"
-        }
-      ],
-      "page_first": "2年生 p.102"
-    },
-    {
-      "id": 1037,
-      "section": null,
-      "word": "have to ～",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "～しなければならない",
+          "ja": "～する必要はない",
           "page": "2年生 p.52"
         }
       ],
@@ -18584,9 +18278,9 @@
       "page_first": "3年生 p.35"
     },
     {
-      "id": 1288,
+      "id": 1037,
       "section": null,
-      "word": "have ～ in one’s lap",
+      "word": "have to ～",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -18594,11 +18288,11 @@
       "senses": [
         {
           "pos": null,
-          "ja": "ひざの上に～を置く",
-          "page": "3年生 p.35"
+          "ja": "～しなければならない",
+          "page": "2年生 p.52"
         }
       ],
-      "page_first": "3年生 p.35"
+      "page_first": "2年生 p.52"
     },
     {
       "id": 1038,
@@ -18917,6 +18611,23 @@
       "page_first": "1年生 p.86"
     },
     {
+      "id": 1056,
+      "section": null,
+      "word": "he’ll",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（he willの短縮形）",
+          "page": "2年生 p.8"
+        }
+      ],
+      "page_first": "2年生 p.8"
+    },
+    {
       "id": 1057,
       "section": null,
       "word": "hello",
@@ -19146,40 +18857,6 @@
       "page_first": "1年生 p.70"
     },
     {
-      "id": 1070,
-      "section": null,
-      "word": "hey",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": "間",
-          "ja": "（呼びかけ）おい、ちょっと",
-          "page": "1年生 p.131"
-        }
-      ],
-      "page_first": "1年生 p.131"
-    },
-    {
-      "id": 1056,
-      "section": null,
-      "word": "he’ll",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "（he willの短縮形）",
-          "page": "2年生 p.8"
-        }
-      ],
-      "page_first": "2年生 p.8"
-    },
-    {
       "id": 1069,
       "section": null,
       "word": "he’s",
@@ -19195,6 +18872,23 @@
         }
       ],
       "page_first": "1年生 p.59"
+    },
+    {
+      "id": 1070,
+      "section": null,
+      "word": "hey",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "間",
+          "ja": "（呼びかけ）おい、ちょっと",
+          "page": "1年生 p.131"
+        }
+      ],
+      "page_first": "1年生 p.131"
     },
     {
       "id": 1071,
@@ -19320,6 +19014,23 @@
         {
           "pos": "動",
           "ja": "ハイキングをする",
+          "page": "2年生 p.55"
+        }
+      ],
+      "page_first": "2年生 p.55"
+    },
+    {
+      "id": 1078,
+      "section": null,
+      "word": "go hiking",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "ハイキングに行く",
           "page": "2年生 p.55"
         }
       ],
@@ -19674,6 +19385,23 @@
       "page_first": "1年生 p.30"
     },
     {
+      "id": 1098,
+      "section": null,
+      "word": "at home",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "家で［に］",
+          "page": "1年生 p.30"
+        }
+      ],
+      "page_first": "1年生 p.30"
+    },
+    {
       "id": 1099,
       "section": null,
       "word": "home attendant",
@@ -19708,23 +19436,6 @@
       "page_first": "1年生 p.62"
     },
     {
-      "id": 1102,
-      "section": null,
-      "word": "home run",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": "名",
-          "ja": "ホームラン",
-          "page": "2年生 p.20"
-        }
-      ],
-      "page_first": "2年生 p.20"
-    },
-    {
       "id": 1101,
       "section": null,
       "word": "homemade",
@@ -19740,6 +19451,23 @@
         }
       ],
       "page_first": "3年生 p.12"
+    },
+    {
+      "id": 1102,
+      "section": null,
+      "word": "home run",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ホームラン",
+          "page": "2年生 p.20"
+        }
+      ],
+      "page_first": "2年生 p.20"
     },
     {
       "id": 1103,
@@ -20039,9 +19767,9 @@
       "page_first": "1年生 p.34"
     },
     {
-      "id": 7,
+      "id": 1119,
       "section": null,
-      "word": "How about ～?",
+      "word": "How’s it going?",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -20049,45 +19777,11 @@
       "senses": [
         {
           "pos": null,
-          "ja": "～はどうですか。",
-          "page": "1年生 p.73"
+          "ja": "調子はどうですか。",
+          "page": "1年生 p.113"
         }
       ],
-      "page_first": "1年生 p.73"
-    },
-    {
-      "id": 1396,
-      "section": null,
-      "word": "How many ～?",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "どれくらいの～、いくつの～",
-          "page": "1年生 p.34"
-        }
-      ],
-      "page_first": "1年生 p.34"
-    },
-    {
-      "id": 1504,
-      "section": null,
-      "word": "How much ～?",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "～はいくらですか。",
-          "page": "1年生 p.50"
-        }
-      ],
-      "page_first": "1年生 p.50"
+      "page_first": "1年生 p.113"
     },
     {
       "id": 1120,
@@ -20118,23 +19812,6 @@
         {
           "pos": null,
           "ja": "（how isの短縮形）",
-          "page": "1年生 p.113"
-        }
-      ],
-      "page_first": "1年生 p.113"
-    },
-    {
-      "id": 1119,
-      "section": null,
-      "word": "How’s it going?",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "調子はどうですか。",
           "page": "1年生 p.113"
         }
       ],
@@ -20316,6 +19993,23 @@
       "page_first": "3年生 p.19"
     },
     {
+      "id": 1132,
+      "section": null,
+      "word": "in a hurry",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "急いで",
+          "page": "3年生 p.19"
+        }
+      ],
+      "page_first": "3年生 p.19"
+    },
+    {
       "id": 1133,
       "section": null,
       "word": "hurt",
@@ -20361,40 +20055,6 @@
         {
           "pos": "代",
           "ja": "私は［が］",
-          "page": "1年生 p.10"
-        }
-      ],
-      "page_first": "1年生 p.10"
-    },
-    {
-      "id": 925,
-      "section": null,
-      "word": "I got it!",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "わかった。",
-          "page": "1年生 p.58"
-        }
-      ],
-      "page_first": "1年生 p.58"
-    },
-    {
-      "id": 1977,
-      "section": null,
-      "word": "I see.",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "なるほど。わかりました。",
           "page": "1年生 p.10"
         }
       ],
@@ -20469,6 +20129,23 @@
       "page_first": "2年生 p.80"
     },
     {
+      "id": 1140,
+      "section": null,
+      "word": "I’d",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（I wouldの短縮形）",
+          "page": "1年生 p.68"
+        }
+      ],
+      "page_first": "1年生 p.68"
+    },
+    {
       "id": 1141,
       "section": null,
       "word": "idea",
@@ -20484,6 +20161,23 @@
         }
       ],
       "page_first": "1年生 p.123"
+    },
+    {
+      "id": 1142,
+      "section": null,
+      "word": "have no idea",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "わからない",
+          "page": "2年生 p.102"
+        }
+      ],
+      "page_first": "2年生 p.102"
     },
     {
       "id": 1143,
@@ -20520,6 +20214,23 @@
       "page_first": "2年生 p.20"
     },
     {
+      "id": 1145,
+      "section": null,
+      "word": "even if ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "たとえ～でも",
+          "page": "3年生 p.94"
+        }
+      ],
+      "page_first": "3年生 p.94"
+    },
+    {
       "id": 1146,
       "section": null,
       "word": "Ig Nobel Prize",
@@ -20535,6 +20246,23 @@
         }
       ],
       "page_first": "3年生 p.118"
+    },
+    {
+      "id": 1147,
+      "section": null,
+      "word": "I’ll",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（I willの短縮形）",
+          "page": "2年生 p.8"
+        }
+      ],
+      "page_first": "2年生 p.8"
     },
     {
       "id": 1148,
@@ -20569,6 +20297,23 @@
         }
       ],
       "page_first": "3年生 p.131"
+    },
+    {
+      "id": 1150,
+      "section": null,
+      "word": "I’m",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（I amの短縮形）",
+          "page": "1年生 p.22"
+        }
+      ],
+      "page_first": "1年生 p.22"
     },
     {
       "id": 1151,
@@ -20771,23 +20516,6 @@
       "page_first": "1年生 p.14"
     },
     {
-      "id": 1132,
-      "section": null,
-      "word": "in a hurry",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "急いで",
-          "page": "3年生 p.19"
-        }
-      ],
-      "page_first": "3年生 p.19"
-    },
-    {
       "id": 1161,
       "section": null,
       "word": "in a hurry",
@@ -20822,40 +20550,6 @@
       "page_first": "3年生 p.118"
     },
     {
-      "id": 1907,
-      "section": null,
-      "word": "in a row",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "連続して",
-          "page": "3年生 p.118"
-        }
-      ],
-      "page_first": "3年生 p.118"
-    },
-    {
-      "id": 29,
-      "section": null,
-      "word": "in addition",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "そのうえ、さらに",
-          "page": "3年生 p.63"
-        }
-      ],
-      "page_first": "3年生 p.63"
-    },
-    {
       "id": 1163,
       "section": null,
       "word": "in addition",
@@ -20873,92 +20567,7 @@
       "page_first": "3年生 p.63"
     },
     {
-      "id": 757,
-      "section": null,
-      "word": "in fact",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "実のところ、実際は",
-          "page": "2年生 p.25"
-        }
-      ],
-      "page_first": "2年生 p.25"
-    },
-    {
-      "id": 896,
-      "section": null,
-      "word": "in front of ～",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "～の前で［に］",
-          "page": "1年生 p.103"
-        }
-      ],
-      "page_first": "1年生 p.103"
-    },
-    {
-      "id": 1625,
-      "section": null,
-      "word": "in order to ～",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "～するために",
-          "page": "2年生 p.101"
-        }
-      ],
-      "page_first": "2年生 p.101"
-    },
-    {
-      "id": 1666,
-      "section": null,
-      "word": "in particular",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "特に",
-          "page": "2年生 p.70"
-        }
-      ],
-      "page_first": "2年生 p.70"
-    },
-    {
       "id": 1164,
-      "section": null,
-      "word": "in stock",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "在庫のある",
-          "page": "3年生 p.13"
-        }
-      ],
-      "page_first": "3年生 p.13"
-    },
-    {
-      "id": 2188,
       "section": null,
       "word": "in stock",
       "flags": {
@@ -20990,57 +20599,6 @@
         }
       ],
       "page_first": "3年生 p.118"
-    },
-    {
-      "id": 1675,
-      "section": null,
-      "word": "in the recent past",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "最近は",
-          "page": "3年生 p.118"
-        }
-      ],
-      "page_first": "3年生 p.118"
-    },
-    {
-      "id": 562,
-      "section": null,
-      "word": "in those days",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "当時、そのころ",
-          "page": "2年生 p.120"
-        }
-      ],
-      "page_first": "2年生 p.120"
-    },
-    {
-      "id": 2378,
-      "section": null,
-      "word": "in total",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "合計で",
-          "page": "1年生 p.50"
-        }
-      ],
-      "page_first": "1年生 p.50"
     },
     {
       "id": 1166,
@@ -21410,6 +20968,23 @@
       "page_first": "2年生 p.21"
     },
     {
+      "id": 1187,
+      "section": null,
+      "word": "be interested in ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～に興味［関心］を持っている",
+          "page": "2年生 p.21"
+        }
+      ],
+      "page_first": "2年生 p.21"
+    },
+    {
       "id": 1188,
       "section": null,
       "word": "interesting",
@@ -21751,40 +21326,6 @@
       "page_first": "3年生 p.83"
     },
     {
-      "id": 1942,
-      "section": null,
-      "word": "it is said that ～",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "～だと言われている",
-          "page": "3年生 p.83"
-        }
-      ],
-      "page_first": "3年生 p.83"
-    },
-    {
-      "id": 2410,
-      "section": null,
-      "word": "it is true that 〜",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "〜はほんとうだ",
-          "page": "3年生 p.44"
-        }
-      ],
-      "page_first": "3年生 p.44"
-    },
-    {
       "id": 1206,
       "section": null,
       "word": "it is true that ～",
@@ -21836,40 +21377,6 @@
       "page_first": "3年生 p.94"
     },
     {
-      "id": 1211,
-      "section": null,
-      "word": "its",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": true
-      },
-      "senses": [
-        {
-          "pos": "代",
-          "ja": "その",
-          "page": "1年生 p.79"
-        }
-      ],
-      "page_first": "1年生 p.79"
-    },
-    {
-      "id": 1212,
-      "section": null,
-      "word": "itself",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": "代",
-          "ja": "それ自体、そのもの",
-          "page": "3年生 p.101"
-        }
-      ],
-      "page_first": "3年生 p.101"
-    },
-    {
       "id": 1209,
       "section": null,
       "word": "it’ll",
@@ -21904,72 +21411,38 @@
       "page_first": "1年生 p.14"
     },
     {
-      "id": 1140,
+      "id": 1211,
       "section": null,
-      "word": "I’d",
+      "word": "its",
       "flags": {
         "learned_in_elementary": false,
-        "important": false
+        "important": true
       },
       "senses": [
         {
-          "pos": null,
-          "ja": "（I wouldの短縮形）",
-          "page": "1年生 p.68"
+          "pos": "代",
+          "ja": "その",
+          "page": "1年生 p.79"
         }
       ],
-      "page_first": "1年生 p.68"
+      "page_first": "1年生 p.79"
     },
     {
-      "id": 1147,
+      "id": 1212,
       "section": null,
-      "word": "I’ll",
+      "word": "itself",
       "flags": {
         "learned_in_elementary": false,
         "important": false
       },
       "senses": [
         {
-          "pos": null,
-          "ja": "（I willの短縮形）",
-          "page": "2年生 p.8"
+          "pos": "代",
+          "ja": "それ自体、そのもの",
+          "page": "3年生 p.101"
         }
       ],
-      "page_first": "2年生 p.8"
-    },
-    {
-      "id": 1150,
-      "section": null,
-      "word": "I’m",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "（I amの短縮形）",
-          "page": "1年生 p.22"
-        }
-      ],
-      "page_first": "1年生 p.22"
-    },
-    {
-      "id": 2125,
-      "section": null,
-      "word": "I’m sorry.",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "すみません。ごめんなさい。",
-          "page": "1年生 p.23"
-        }
-      ],
-      "page_first": "1年生 p.23"
+      "page_first": "3年生 p.101"
     },
     {
       "id": 1213,
@@ -21987,40 +21460,6 @@
         }
       ],
       "page_first": "3年生 p.8"
-    },
-    {
-      "id": 1239,
-      "section": null,
-      "word": "J-pop",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": "名",
-          "ja": "ジェーポップ（日本人が作詞・作曲したポピュラー音楽の総称）",
-          "page": "1年生 p.26"
-        }
-      ],
-      "page_first": "1年生 p.26"
-    },
-    {
-      "id": 1222,
-      "section": null,
-      "word": "J. C. Smith",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": "名",
-          "ja": "ジェイ・シー・スミス（架空の人名）",
-          "page": "2年生 p.29"
-        }
-      ],
-      "page_first": "2年生 p.29"
     },
     {
       "id": 1214,
@@ -22164,6 +21603,23 @@
       "page_first": "3年生 p.15"
     },
     {
+      "id": 1222,
+      "section": null,
+      "word": "J. C. Smith",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ジェイ・シー・スミス（架空の人名）",
+          "page": "2年生 p.29"
+        }
+      ],
+      "page_first": "2年生 p.29"
+    },
+    {
       "id": 1223,
       "section": null,
       "word": "jealous",
@@ -22300,6 +21756,23 @@
       "page_first": "2年生 p.32"
     },
     {
+      "id": 1231,
+      "section": null,
+      "word": "Good job.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "よくやったね。",
+          "page": "2年生 p.32"
+        }
+      ],
+      "page_first": "2年生 p.32"
+    },
+    {
       "id": 1232,
       "section": null,
       "word": "jog",
@@ -22311,6 +21784,23 @@
         {
           "pos": "動",
           "ja": "ジョギングする",
+          "page": "2年生 p.129"
+        }
+      ],
+      "page_first": "2年生 p.129"
+    },
+    {
+      "id": 1233,
+      "section": null,
+      "word": "go jogging",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "ジョギングに行く",
           "page": "2年生 p.129"
         }
       ],
@@ -22400,6 +21890,23 @@
         }
       ],
       "page_first": "3年生 p.124"
+    },
+    {
+      "id": 1239,
+      "section": null,
+      "word": "J-pop",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ジェーポップ（日本人が作詞・作曲したポピュラー音楽の総称）",
+          "page": "1年生 p.26"
+        }
+      ],
+      "page_first": "1年生 p.26"
     },
     {
       "id": 1240,
@@ -22570,40 +22077,6 @@
       "page_first": "1年生 p.24"
     },
     {
-      "id": 1475,
-      "section": null,
-      "word": "Just a moment.",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "少々お待ちください。",
-          "page": "2年生 p.50"
-        }
-      ],
-      "page_first": "2年生 p.50"
-    },
-    {
-      "id": 1260,
-      "section": null,
-      "word": "Just kidding.",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "冗談です。",
-          "page": "1年生 p.65"
-        }
-      ],
-      "page_first": "1年生 p.65"
-    },
-    {
       "id": 1249,
       "section": "K / k",
       "word": "kangaroo",
@@ -22665,23 +22138,6 @@
       "page_first": "2年生 p.12"
     },
     {
-      "id": 592,
-      "section": null,
-      "word": "keep a diary",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "日記をつけている",
-          "page": "3年生 p.19"
-        }
-      ],
-      "page_first": "3年生 p.19"
-    },
-    {
       "id": 1252,
       "section": null,
       "word": "keep a diary",
@@ -22697,23 +22153,6 @@
         }
       ],
       "page_first": "3年生 p.19"
-    },
-    {
-      "id": 2380,
-      "section": null,
-      "word": "keep in touch",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "連絡をとり続ける",
-          "page": "2年生 p.12"
-        }
-      ],
-      "page_first": "2年生 p.12"
     },
     {
       "id": 1253,
@@ -22840,6 +22279,40 @@
       "page_first": "1年生 p.65"
     },
     {
+      "id": 1260,
+      "section": null,
+      "word": "Just kidding.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "冗談です。",
+          "page": "1年生 p.65"
+        }
+      ],
+      "page_first": "1年生 p.65"
+    },
+    {
+      "id": 1261,
+      "section": null,
+      "word": "You’re kidding.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "冗談でしょう。まさか。",
+          "page": "2年生 p.11"
+        }
+      ],
+      "page_first": "2年生 p.11"
+    },
+    {
       "id": 1262,
       "section": null,
       "word": "kill",
@@ -22911,6 +22384,23 @@
         }
       ],
       "page_first": "1年生 p.23"
+    },
+    {
+      "id": 1266,
+      "section": null,
+      "word": "many kinds of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "たくさんの種類の～",
+          "page": "1年生 p.122"
+        }
+      ],
+      "page_first": "1年生 p.122"
     },
     {
       "id": 1267,
@@ -23064,6 +22554,23 @@
         }
       ],
       "page_first": "1年生 p.39"
+    },
+    {
+      "id": 1276,
+      "section": null,
+      "word": "～, you know.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～だよね。",
+          "page": "1年生 p.76"
+        }
+      ],
+      "page_first": "1年生 p.76"
     },
     {
       "id": 1277,
@@ -23258,6 +22765,23 @@
       "page_first": "3年生 p.35"
     },
     {
+      "id": 1288,
+      "section": null,
+      "word": "have ～ in one’s lap",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "ひざの上に～を置く",
+          "page": "3年生 p.35"
+        }
+      ],
+      "page_first": "3年生 p.35"
+    },
+    {
       "id": 1289,
       "section": null,
       "word": "large",
@@ -23312,9 +22836,9 @@
       "page_first": "1年生 p.110"
     },
     {
-      "id": 1552,
+      "id": 1291,
       "section": null,
-      "word": "last night",
+      "word": "at last",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -23322,11 +22846,11 @@
       "senses": [
         {
           "pos": null,
-          "ja": "昨夜",
-          "page": "1年生 p.110"
+          "ja": "ついに",
+          "page": "2年生 p.126"
         }
       ],
-      "page_first": "1年生 p.110"
+      "page_first": "2年生 p.126"
     },
     {
       "id": 1292,
@@ -23549,6 +23073,23 @@
         {
           "pos": "名",
           "ja": "もっとも少ないもの［量］、最小限",
+          "page": "3年生 p.21"
+        }
+      ],
+      "page_first": "3年生 p.21"
+    },
+    {
+      "id": 1305,
+      "section": null,
+      "word": "at least",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "少なくとも、最低限",
           "page": "3年生 p.21"
         }
       ],
@@ -23818,23 +23359,6 @@
       "page_first": "3年生 p.38"
     },
     {
-      "id": 1321,
-      "section": null,
-      "word": "letter",
-      "flags": {
-        "learned_in_elementary": true,
-        "important": true
-      },
-      "senses": [
-        {
-          "pos": "名",
-          "ja": "手紙",
-          "page": "1年生 p.143"
-        }
-      ],
-      "page_first": "1年生 p.143"
-    },
-    {
       "id": 1320,
       "section": null,
       "word": "let’s",
@@ -23850,6 +23374,23 @@
         }
       ],
       "page_first": "1年生 p.14"
+    },
+    {
+      "id": 1321,
+      "section": null,
+      "word": "letter",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "手紙",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.143"
     },
     {
       "id": 1322,
@@ -24215,6 +23756,23 @@
       "page_first": "1年生 p.83"
     },
     {
+      "id": 1341,
+      "section": null,
+      "word": "a little",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "少し",
+          "page": "1年生 p.83"
+        }
+      ],
+      "page_first": "1年生 p.83"
+    },
+    {
       "id": 1342,
       "section": null,
       "word": "little by little",
@@ -24249,23 +23807,6 @@
       "page_first": "1年生 p.65"
     },
     {
-      "id": 1345,
-      "section": null,
-      "word": "live",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": true
-      },
-      "senses": [
-        {
-          "pos": "形",
-          "ja": "生の、実況の",
-          "page": "1年生 p.65"
-        }
-      ],
-      "page_first": "1年生 p.65"
-    },
-    {
       "id": 1344,
       "section": null,
       "word": "live on",
@@ -24281,6 +23822,23 @@
         }
       ],
       "page_first": "3年生 p.125"
+    },
+    {
+      "id": 1345,
+      "section": null,
+      "word": "live",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "生の、実況の",
+          "page": "1年生 p.65"
+        }
+      ],
+      "page_first": "1年生 p.65"
     },
     {
       "id": 1346,
@@ -24424,6 +23982,23 @@
       "page_first": "1年生 p.58"
     },
     {
+      "id": 1354,
+      "section": null,
+      "word": "a long time ago",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "昔々、ずっと前",
+          "page": "2年生 p.46"
+        }
+      ],
+      "page_first": "2年生 p.46"
+    },
+    {
       "id": 1355,
       "section": null,
       "word": "look",
@@ -24485,23 +24060,6 @@
       "page_first": "3年生 p.71"
     },
     {
-      "id": 863,
-      "section": null,
-      "word": "look forward to 〜",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "〜を楽しみに待つ",
-          "page": "2年生 p.36"
-        }
-      ],
-      "page_first": "2年生 p.36"
-    },
-    {
       "id": 1358,
       "section": null,
       "word": "look like ～",
@@ -24517,6 +24075,23 @@
         }
       ],
       "page_first": "1年生 p.86"
+    },
+    {
+      "id": 1359,
+      "section": null,
+      "word": "take a look",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "ちらりと見る、見てみる",
+          "page": "2年生 p.111"
+        }
+      ],
+      "page_first": "2年生 p.111"
     },
     {
       "id": 1360,
@@ -24564,6 +24139,40 @@
         {
           "pos": "名",
           "ja": "たくさん、多数、大量",
+          "page": "1年生 p.85"
+        }
+      ],
+      "page_first": "1年生 p.85"
+    },
+    {
+      "id": 1363,
+      "section": null,
+      "word": "a lot",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "よく、おおいに、たくさん",
+          "page": "1年生 p.111"
+        }
+      ],
+      "page_first": "1年生 p.111"
+    },
+    {
+      "id": 1364,
+      "section": null,
+      "word": "a lot of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "たくさんの～",
           "page": "1年生 p.85"
         }
       ],
@@ -24688,6 +24297,23 @@
         {
           "pos": "名",
           "ja": "幸運",
+          "page": "1年生 p.40"
+        }
+      ],
+      "page_first": "1年生 p.40"
+    },
+    {
+      "id": 1372,
+      "section": null,
+      "word": "Good luck!",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "幸運を祈ります。",
           "page": "1年生 p.40"
         }
       ],
@@ -24930,23 +24556,6 @@
       "page_first": "1年生 p.14"
     },
     {
-      "id": 1490,
-      "section": null,
-      "word": "make the most of ～",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "～を最大限に活用する",
-          "page": "2年生 p.113"
-        }
-      ],
-      "page_first": "2年生 p.113"
-    },
-    {
       "id": 1386,
       "section": null,
       "word": "make up for ～",
@@ -24962,23 +24571,6 @@
         }
       ],
       "page_first": "3年生 p.21"
-    },
-    {
-      "id": 2461,
-      "section": null,
-      "word": "make use of ～",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "～を利用する、活用する",
-          "page": "2年生 p.71"
-        }
-      ],
-      "page_first": "2年生 p.71"
     },
     {
       "id": 1387,
@@ -25139,9 +24731,9 @@
       "page_first": "1年生 p.31"
     },
     {
-      "id": 1266,
+      "id": 1396,
       "section": null,
-      "word": "many kinds of ～",
+      "word": "How many ～?",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -25149,11 +24741,11 @@
       "senses": [
         {
           "pos": null,
-          "ja": "たくさんの種類の～",
-          "page": "1年生 p.122"
+          "ja": "どれくらいの～、いくつの～",
+          "page": "1年生 p.34"
         }
       ],
-      "page_first": "1年生 p.122"
+      "page_first": "1年生 p.34"
     },
     {
       "id": 1397,
@@ -25184,6 +24776,23 @@
         {
           "pos": "名",
           "ja": "マラソン",
+          "page": "3年生 p.9"
+        }
+      ],
+      "page_first": "3年生 p.9"
+    },
+    {
+      "id": 1399,
+      "section": null,
+      "word": "run a marathon",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "マラソンに出る",
           "page": "3年生 p.9"
         }
       ],
@@ -25241,23 +24850,6 @@
       "page_first": "3年生 p.75"
     },
     {
-      "id": 1404,
-      "section": null,
-      "word": "Mark",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": "名",
-          "ja": "マーク（男子の名）",
-          "page": "1年生 p.101"
-        }
-      ],
-      "page_first": "1年生 p.101"
-    },
-    {
       "id": 1403,
       "section": null,
       "word": "mark",
@@ -25273,6 +24865,23 @@
         }
       ],
       "page_first": "3年生 p.71"
+    },
+    {
+      "id": 1404,
+      "section": null,
+      "word": "Mark",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "マーク（男子の名）",
+          "page": "1年生 p.101"
+        }
+      ],
+      "page_first": "1年生 p.101"
     },
     {
       "id": 1405,
@@ -25445,21 +25054,21 @@
       "page_first": "1年生 p.126"
     },
     {
-      "id": 1418,
+      "id": 1415,
       "section": null,
-      "word": "May",
+      "word": "What’s the matter?",
       "flags": {
-        "learned_in_elementary": true,
-        "important": true
+        "learned_in_elementary": false,
+        "important": false
       },
       "senses": [
         {
-          "pos": "名",
-          "ja": "5月",
-          "page": "1年生 p.141"
+          "pos": null,
+          "ja": "どうしたのですか。",
+          "page": "1年生 p.126"
         }
       ],
-      "page_first": "1年生 p.141"
+      "page_first": "1年生 p.126"
     },
     {
       "id": 1416,
@@ -25499,6 +25108,23 @@
         }
       ],
       "page_first": "2年生 p.50"
+    },
+    {
+      "id": 1418,
+      "section": null,
+      "word": "May",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "5月",
+          "page": "1年生 p.141"
+        }
+      ],
+      "page_first": "1年生 p.141"
     },
     {
       "id": 1419,
@@ -25774,6 +25400,23 @@
         }
       ],
       "page_first": "1年生 p.14"
+    },
+    {
+      "id": 1434,
+      "section": null,
+      "word": "Nice to meet you.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（初対面の人に）お会いできてうれしいです。",
+          "page": "1年生 p.24"
+        }
+      ],
+      "page_first": "1年生 p.24"
     },
     {
       "id": 1435,
@@ -26376,6 +26019,23 @@
       "page_first": "2年生 p.69"
     },
     {
+      "id": 1470,
+      "section": null,
+      "word": "by mistake",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "誤って、間違って",
+          "page": "2年生 p.69"
+        }
+      ],
+      "page_first": "2年生 p.69"
+    },
+    {
       "id": 1471,
       "section": null,
       "word": "mmm",
@@ -26443,6 +26103,23 @@
         {
           "pos": "名",
           "ja": "瞬間、ちょっとの間",
+          "page": "2年生 p.50"
+        }
+      ],
+      "page_first": "2年生 p.50"
+    },
+    {
+      "id": 1475,
+      "section": null,
+      "word": "Just a moment.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "少々お待ちください。",
           "page": "2年生 p.50"
         }
       ],
@@ -26646,6 +26323,23 @@
       "page_first": "2年生 p.93"
     },
     {
+      "id": 1487,
+      "section": null,
+      "word": "what’s more",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "そのうえ",
+          "page": "3年生 p.94"
+        }
+      ],
+      "page_first": "3年生 p.94"
+    },
+    {
       "id": 1488,
       "section": null,
       "word": "morning",
@@ -26688,6 +26382,23 @@
         }
       ],
       "page_first": "2年生 p.76"
+    },
+    {
+      "id": 1490,
+      "section": null,
+      "word": "make the most of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～を最大限に活用する",
+          "page": "2年生 p.113"
+        }
+      ],
+      "page_first": "2年生 p.113"
     },
     {
       "id": 1491,
@@ -26946,6 +26657,40 @@
           "pos": "副",
           "ja": "（形容詞の原級を修飾して）とても、非常に",
           "page": "3年生 p.122"
+        }
+      ],
+      "page_first": "1年生 p.31"
+    },
+    {
+      "id": 1504,
+      "section": null,
+      "word": "How much ～?",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～はいくらですか。",
+          "page": "1年生 p.50"
+        }
+      ],
+      "page_first": "1年生 p.50"
+    },
+    {
+      "id": 1505,
+      "section": null,
+      "word": "very much",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "とても",
+          "page": "1年生 p.31"
         }
       ],
       "page_first": "1年生 p.31"
@@ -27219,6 +26964,23 @@
         }
       ],
       "page_first": "2年生 p.71"
+    },
+    {
+      "id": 1521,
+      "section": null,
+      "word": "take a nap",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "昼寝をする",
+          "page": "2年生 p.129"
+        }
+      ],
+      "page_first": "2年生 p.129"
     },
     {
       "id": 1522,
@@ -27549,23 +27311,6 @@
       "page_first": "1年生 p.25"
     },
     {
-      "id": 1545,
-      "section": null,
-      "word": "New York",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": "名",
-          "ja": "ニューヨーク（アメリカの都市、または州）",
-          "page": "1年生 p.24"
-        }
-      ],
-      "page_first": "1年生 p.24"
-    },
-    {
       "id": 1541,
       "section": null,
       "word": "news",
@@ -27632,6 +27377,23 @@
         }
       ],
       "page_first": "3年生 p.131"
+    },
+    {
+      "id": 1545,
+      "section": null,
+      "word": "New York",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "ニューヨーク（アメリカの都市、または州）",
+          "page": "1年生 p.24"
+        }
+      ],
+      "page_first": "1年生 p.24"
     },
     {
       "id": 1546,
@@ -27722,23 +27484,6 @@
       "page_first": "1年生 p.24"
     },
     {
-      "id": 1434,
-      "section": null,
-      "word": "Nice to meet you.",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "（初対面の人に）お会いできてうれしいです。",
-          "page": "1年生 p.24"
-        }
-      ],
-      "page_first": "1年生 p.24"
-    },
-    {
       "id": 1550,
       "section": null,
       "word": "niece",
@@ -27767,6 +27512,23 @@
         {
           "pos": "名",
           "ja": "夜",
+          "page": "1年生 p.110"
+        }
+      ],
+      "page_first": "1年生 p.110"
+    },
+    {
+      "id": 1552,
+      "section": null,
+      "word": "last night",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "昨夜",
           "page": "1年生 p.110"
         }
       ],
@@ -27919,57 +27681,6 @@
       "page_first": "3年生 p.101"
     },
     {
-      "id": 1781,
-      "section": null,
-      "word": "No problem.",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "どういたしまして。",
-          "page": "1年生 p.25"
-        }
-      ],
-      "page_first": "1年生 p.25"
-    },
-    {
-      "id": 2522,
-      "section": null,
-      "word": "No way!",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "まさか。そんなばかな。",
-          "page": "1年生 p.76"
-        }
-      ],
-      "page_first": "1年生 p.76"
-    },
-    {
-      "id": 1564,
-      "section": null,
-      "word": "no-fly zone",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": "名",
-          "ja": "飛行禁止空域",
-          "page": "2年生 p.92"
-        }
-      ],
-      "page_first": "2年生 p.92"
-    },
-    {
       "id": 1561,
       "section": null,
       "word": "Nobel Peace Prize",
@@ -28019,6 +27730,23 @@
         }
       ],
       "page_first": "3年生 p.49"
+    },
+    {
+      "id": 1564,
+      "section": null,
+      "word": "no-fly zone",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "飛行禁止空域",
+          "page": "2年生 p.92"
+        }
+      ],
+      "page_first": "2年生 p.92"
     },
     {
       "id": 1565,
@@ -28174,9 +27902,9 @@
       "page_first": "1年生 p.22"
     },
     {
-      "id": 78,
+      "id": 1574,
       "section": null,
-      "word": "not always ～",
+      "word": "not ～ but ...",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -28184,11 +27912,11 @@
       "senses": [
         {
           "pos": null,
-          "ja": "いつも［必ずしも］～とは限らない",
-          "page": "2年生 p.103"
+          "ja": "～ではなく…",
+          "page": "3年生 p.101"
         }
       ],
-      "page_first": "2年生 p.103"
+      "page_first": "3年生 p.101"
     },
     {
       "id": 1575,
@@ -28206,23 +27934,6 @@
         }
       ],
       "page_first": "3年生 p.33"
-    },
-    {
-      "id": 1574,
-      "section": null,
-      "word": "not ～ but ...",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "～ではなく…",
-          "page": "3年生 p.101"
-        }
-      ],
-      "page_first": "3年生 p.101"
     },
     {
       "id": 1576,
@@ -28335,6 +28046,23 @@
         }
       ],
       "page_first": "1年生 p.91"
+    },
+    {
+      "id": 1582,
+      "section": null,
+      "word": "right now",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "今すぐ",
+          "page": "3年生 p.18"
+        }
+      ],
+      "page_first": "3年生 p.18"
     },
     {
       "id": 1583,
@@ -28507,6 +28235,23 @@
       "page_first": "3年生 p.84"
     },
     {
+      "id": 1593,
+      "section": null,
+      "word": "o’clock",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "〜時（ちょうど）",
+          "page": "1年生 p.90"
+        }
+      ],
+      "page_first": "1年生 p.90"
+    },
+    {
       "id": 1594,
       "section": null,
       "word": "October",
@@ -28571,23 +28316,6 @@
         }
       ],
       "page_first": "1年生 p.26"
-    },
-    {
-      "id": 514,
-      "section": null,
-      "word": "of course",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "もちろん",
-          "page": "1年生 p.114"
-        }
-      ],
-      "page_first": "1年生 p.114"
     },
     {
       "id": 1597,
@@ -28842,40 +28570,6 @@
       "page_first": "3年生 p.94"
     },
     {
-      "id": 1923,
-      "section": null,
-      "word": "on sale",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "（商品が）販売されて",
-          "page": "3年生 p.94"
-        }
-      ],
-      "page_first": "3年生 p.94"
-    },
-    {
-      "id": 1016,
-      "section": null,
-      "word": "on the other hand",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "一方、それに対して",
-          "page": "3年生 p.120"
-        }
-      ],
-      "page_first": "3年生 p.120"
-    },
-    {
       "id": 1608,
       "section": null,
       "word": "on the other hand",
@@ -28891,57 +28585,6 @@
         }
       ],
       "page_first": "3年生 p.120"
-    },
-    {
-      "id": 2523,
-      "section": null,
-      "word": "on the way (back) to ～",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "～へ行く（もどる）途中で",
-          "page": "2年生 p.93"
-        }
-      ],
-      "page_first": "2年生 p.93"
-    },
-    {
-      "id": 2350,
-      "section": null,
-      "word": "on time",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "時間どおりに",
-          "page": "2年生 p.59"
-        }
-      ],
-      "page_first": "2年生 p.59"
-    },
-    {
-      "id": 2373,
-      "section": null,
-      "word": "on top of ～",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "～に加えて",
-          "page": "1年生 p.94"
-        }
-      ],
-      "page_first": "1年生 p.94"
     },
     {
       "id": 1609,
@@ -29001,40 +28644,6 @@
         }
       ],
       "page_first": "1年生 p.50"
-    },
-    {
-      "id": 102,
-      "section": null,
-      "word": "one after another",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "次々と",
-          "page": "2年生 p.92"
-        }
-      ],
-      "page_first": "2年生 p.92"
-    },
-    {
-      "id": 563,
-      "section": null,
-      "word": "one day",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "ある日",
-          "page": "2年生 p.80"
-        }
-      ],
-      "page_first": "2年生 p.80"
     },
     {
       "id": 1611,
@@ -29290,6 +28899,23 @@
       "page_first": "2年生 p.61"
     },
     {
+      "id": 1625,
+      "section": null,
+      "word": "in order to ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～するために",
+          "page": "2年生 p.101"
+        }
+      ],
+      "page_first": "2年生 p.101"
+    },
+    {
       "id": 1626,
       "section": null,
       "word": "organ",
@@ -29366,6 +28992,23 @@
         }
       ],
       "page_first": "1年生 p.115"
+    },
+    {
+      "id": 1630,
+      "section": null,
+      "word": "each other",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "おたがいに［を］",
+          "page": "2年生 p.94"
+        }
+      ],
+      "page_first": "2年生 p.94"
     },
     {
       "id": 1631,
@@ -29527,23 +29170,6 @@
       "page_first": "1年生 p.82"
     },
     {
-      "id": 2311,
-      "section": null,
-      "word": "over there",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "あそこに、向こうに",
-          "page": "1年生 p.82"
-        }
-      ],
-      "page_first": "1年生 p.82"
-    },
-    {
       "id": 1638,
       "section": null,
       "word": "overseas",
@@ -29627,57 +29253,6 @@
         }
       ],
       "page_first": "1年生 p.106"
-    },
-    {
-      "id": 1593,
-      "section": null,
-      "word": "o’clock",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": true
-      },
-      "senses": [
-        {
-          "pos": "副",
-          "ja": "〜時（ちょうど）",
-          "page": "1年生 p.90"
-        }
-      ],
-      "page_first": "1年生 p.90"
-    },
-    {
-      "id": 1680,
-      "section": null,
-      "word": "P.E.",
-      "flags": {
-        "learned_in_elementary": true,
-        "important": true
-      },
-      "senses": [
-        {
-          "pos": "名",
-          "ja": "体育（= physical education）",
-          "page": "1年生 p.26"
-        }
-      ],
-      "page_first": "1年生 p.26"
-    },
-    {
-      "id": 1737,
-      "section": null,
-      "word": "p.m.",
-      "flags": {
-        "learned_in_elementary": true,
-        "important": true
-      },
-      "senses": [
-        {
-          "pos": "副",
-          "ja": "午後（ラテン語の略）",
-          "page": "1年生 p.115"
-        }
-      ],
-      "page_first": "1年生 p.115"
     },
     {
       "id": 1643,
@@ -30037,6 +29612,23 @@
       "page_first": "3年生 p.60"
     },
     {
+      "id": 1664,
+      "section": null,
+      "word": "take part in ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～に参加する",
+          "page": "3年生 p.101"
+        }
+      ],
+      "page_first": "3年生 p.101"
+    },
+    {
       "id": 1665,
       "section": null,
       "word": "particular",
@@ -30048,6 +29640,23 @@
         {
           "pos": "名",
           "ja": "（in particularで）特に",
+          "page": "2年生 p.70"
+        }
+      ],
+      "page_first": "2年生 p.70"
+    },
+    {
+      "id": 1666,
+      "section": null,
+      "word": "in particular",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "特に",
           "page": "2年生 p.70"
         }
       ],
@@ -30200,6 +29809,23 @@
       "page_first": "3年生 p.118"
     },
     {
+      "id": 1675,
+      "section": null,
+      "word": "in the recent past",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "最近は",
+          "page": "3年生 p.118"
+        }
+      ],
+      "page_first": "3年生 p.118"
+    },
+    {
       "id": 1676,
       "section": null,
       "word": "pastry chef",
@@ -30266,6 +29892,23 @@
         }
       ],
       "page_first": "2年生 p.80"
+    },
+    {
+      "id": 1680,
+      "section": null,
+      "word": "P.E.",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "体育（= physical education）",
+          "page": "1年生 p.26"
+        }
+      ],
+      "page_first": "1年生 p.26"
     },
     {
       "id": 1681,
@@ -30761,6 +30404,23 @@
       "page_first": "1年生 p.32"
     },
     {
+      "id": 1710,
+      "section": null,
+      "word": "take a picture",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "写真をとる",
+          "page": "1年生 p.111"
+        }
+      ],
+      "page_first": "1年生 p.111"
+    },
+    {
       "id": 1711,
       "section": null,
       "word": "pie",
@@ -30793,6 +30453,23 @@
         }
       ],
       "page_first": "2年生 p.73"
+    },
+    {
+      "id": 1713,
+      "section": null,
+      "word": "a piece of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "1つ［1枚］の～",
+          "page": "2年生 p.86"
+        }
+      ],
+      "page_first": "2年生 p.86"
     },
     {
       "id": 1714,
@@ -30973,6 +30650,40 @@
         }
       ],
       "page_first": "1年生 p.76"
+    },
+    {
+      "id": 1724,
+      "section": null,
+      "word": "get ～ place",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（競争などで）～位になる",
+          "page": "2年生 p.66"
+        }
+      ],
+      "page_first": "2年生 p.66"
+    },
+    {
+      "id": 1725,
+      "section": null,
+      "word": "take place",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "開催される、起こる",
+          "page": "2年生 p.23"
+        }
+      ],
+      "page_first": "2年生 p.23"
     },
     {
       "id": 1726,
@@ -31185,6 +30896,23 @@
         }
       ],
       "page_first": "2年生 p.130"
+    },
+    {
+      "id": 1737,
+      "section": null,
+      "word": "p.m.",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "午後（ラテン語の略）",
+          "page": "1年生 p.115"
+        }
+      ],
+      "page_first": "1年生 p.115"
     },
     {
       "id": 1738,
@@ -31870,23 +31598,6 @@
       "page_first": "1年生 p.113"
     },
     {
-      "id": 948,
-      "section": null,
-      "word": "Pretty good.",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "かなりよいです。",
-          "page": "1年生 p.113"
-        }
-      ],
-      "page_first": "1年生 p.113"
-    },
-    {
       "id": 1777,
       "section": null,
       "word": "price",
@@ -31949,6 +31660,23 @@
         {
           "pos": "名",
           "ja": "問題",
+          "page": "1年生 p.25"
+        }
+      ],
+      "page_first": "1年生 p.25"
+    },
+    {
+      "id": 1781,
+      "section": null,
+      "word": "No problem.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "どういたしまして。",
           "page": "1年生 p.25"
         }
       ],
@@ -32085,6 +31813,23 @@
         {
           "pos": "形",
           "ja": "誇りに思って",
+          "page": "1年生 p.66"
+        }
+      ],
+      "page_first": "1年生 p.66"
+    },
+    {
+      "id": 1790,
+      "section": null,
+      "word": "be proud of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～を誇りに思っている",
           "page": "1年生 p.66"
         }
       ],
@@ -32810,6 +32555,23 @@
       "page_first": "1年生 p.55"
     },
     {
+      "id": 1833,
+      "section": null,
+      "word": "be ready to ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～する準備［用意］ができている",
+          "page": "2年生 p.61"
+        }
+      ],
+      "page_first": "2年生 p.61"
+    },
+    {
       "id": 1834,
       "section": null,
       "word": "reality",
@@ -33476,6 +33238,23 @@
       "page_first": "3年生 p.30"
     },
     {
+      "id": 1872,
+      "section": null,
+      "word": "get rest",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "休む",
+          "page": "3年生 p.30"
+        }
+      ],
+      "page_first": "3年生 p.30"
+    },
+    {
       "id": 1873,
       "section": null,
       "word": "restaurant",
@@ -33525,6 +33304,40 @@
         }
       ],
       "page_first": "3年生 p.23"
+    },
+    {
+      "id": 1876,
+      "section": null,
+      "word": "as a result",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "その結果として",
+          "page": "3年生 p.23"
+        }
+      ],
+      "page_first": "3年生 p.23"
+    },
+    {
+      "id": 1877,
+      "section": null,
+      "word": "as a result of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "〜の結果として",
+          "page": "3年生 p.125"
+        }
+      ],
+      "page_first": "3年生 p.125"
     },
     {
       "id": 1878,
@@ -33708,9 +33521,9 @@
       "page_first": "1年生 p.58"
     },
     {
-      "id": 1582,
+      "id": 1886,
       "section": null,
-      "word": "right now",
+      "word": "all right",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -33718,11 +33531,28 @@
       "senses": [
         {
           "pos": null,
-          "ja": "今すぐ",
-          "page": "3年生 p.18"
+          "ja": "申し分ない、問題ない",
+          "page": "3年生 p.116"
         }
       ],
-      "page_first": "3年生 p.18"
+      "page_first": "3年生 p.116"
+    },
+    {
+      "id": 1887,
+      "section": null,
+      "word": "～, right?",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～でよろしいですね。",
+          "page": "1年生 p.65"
+        }
+      ],
+      "page_first": "1年生 p.65"
     },
     {
       "id": 1888,
@@ -33740,6 +33570,23 @@
         }
       ],
       "page_first": "3年生 p.18"
+    },
+    {
+      "id": 1889,
+      "section": null,
+      "word": "That’s right.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "そのとおりです。",
+          "page": "1年生 p.58"
+        }
+      ],
+      "page_first": "1年生 p.58"
     },
     {
       "id": 1890,
@@ -34036,6 +33883,23 @@
       "page_first": "3年生 p.118"
     },
     {
+      "id": 1907,
+      "section": null,
+      "word": "in a row",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "連続して",
+          "page": "3年生 p.118"
+        }
+      ],
+      "page_first": "3年生 p.118"
+    },
+    {
       "id": 1908,
       "section": null,
       "word": "rude",
@@ -34126,23 +33990,6 @@
       "page_first": "1年生 p.14"
     },
     {
-      "id": 1399,
-      "section": null,
-      "word": "run a marathon",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "マラソンに出る",
-          "page": "3年生 p.9"
-        }
-      ],
-      "page_first": "3年生 p.9"
-    },
-    {
       "id": 1913,
       "section": null,
       "word": "run a marathon",
@@ -34158,23 +34005,6 @@
         }
       ],
       "page_first": "3年生 p.9"
-    },
-    {
-      "id": 2026,
-      "section": null,
-      "word": "run short",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "（しばしば進行形で）不足する",
-          "page": "2年生 p.92"
-        }
-      ],
-      "page_first": "2年生 p.92"
     },
     {
       "id": 1914,
@@ -34324,6 +34154,23 @@
         {
           "pos": "名",
           "ja": "特売、安売り",
+          "page": "3年生 p.94"
+        }
+      ],
+      "page_first": "3年生 p.94"
+    },
+    {
+      "id": 1923,
+      "section": null,
+      "word": "on sale",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（商品が）販売されて",
           "page": "3年生 p.94"
         }
       ],
@@ -34646,6 +34493,23 @@
       "page_first": "1年生 p.36"
     },
     {
+      "id": 1942,
+      "section": null,
+      "word": "it is said that ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～だと言われている",
+          "page": "3年生 p.83"
+        }
+      ],
+      "page_first": "3年生 p.83"
+    },
+    {
       "id": 1943,
       "section": null,
       "word": "say to oneself",
@@ -34746,6 +34610,23 @@
         }
       ],
       "page_first": "1年生 p.14"
+    },
+    {
+      "id": 1949,
+      "section": null,
+      "word": "after school",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "放課後",
+          "page": "1年生 p.31"
+        }
+      ],
+      "page_first": "1年生 p.31"
     },
     {
       "id": 1950,
@@ -35232,6 +35113,23 @@
       "page_first": "1年生 p.10"
     },
     {
+      "id": 1977,
+      "section": null,
+      "word": "I see.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "なるほど。わかりました。",
+          "page": "1年生 p.10"
+        }
+      ],
+      "page_first": "1年生 p.10"
+    },
+    {
       "id": 1978,
       "section": null,
       "word": "seed",
@@ -35610,23 +35508,6 @@
         {
           "pos": "動",
           "ja": "振る、揺り動かす",
-          "page": "3年生 p.97"
-        }
-      ],
-      "page_first": "3年生 p.97"
-    },
-    {
-      "id": 1015,
-      "section": null,
-      "word": "shake hands with ～",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "～と握手する",
           "page": "3年生 p.97"
         }
       ],
@@ -36044,6 +35925,23 @@
       "page_first": "1年生 p.82"
     },
     {
+      "id": 2023,
+      "section": null,
+      "word": "go shopping",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "買い物に行く",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.143"
+    },
+    {
       "id": 2024,
       "section": null,
       "word": "shopping mall",
@@ -36086,6 +35984,23 @@
         }
       ],
       "page_first": "2年生 p.18"
+    },
+    {
+      "id": 2026,
+      "section": null,
+      "word": "run short",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（しばしば進行形で）不足する",
+          "page": "2年生 p.92"
+        }
+      ],
+      "page_first": "2年生 p.92"
     },
     {
       "id": 2027,
@@ -37314,23 +37229,6 @@
       "page_first": "2年生 p.115"
     },
     {
-      "id": 2126,
-      "section": null,
-      "word": "so-so",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": "形",
-          "ja": "まあまあの、よくも悪くもない",
-          "page": "3年生 p.8"
-        }
-      ],
-      "page_first": "3年生 p.8"
-    },
-    {
       "id": 2095,
       "section": null,
       "word": "soap",
@@ -37849,6 +37747,40 @@
         }
       ],
       "page_first": "1年生 p.22"
+    },
+    {
+      "id": 2125,
+      "section": null,
+      "word": "I’m sorry.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "すみません。ごめんなさい。",
+          "page": "1年生 p.23"
+        }
+      ],
+      "page_first": "1年生 p.23"
+    },
+    {
+      "id": 2126,
+      "section": null,
+      "word": "so-so",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "まあまあの、よくも悪くもない",
+          "page": "3年生 p.8"
+        }
+      ],
+      "page_first": "3年生 p.8"
     },
     {
       "id": 2127,
@@ -38918,6 +38850,23 @@
       "page_first": "2年生 p.103"
     },
     {
+      "id": 2188,
+      "section": null,
+      "word": "in stock",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "在庫のある",
+          "page": "3年生 p.13"
+        }
+      ],
+      "page_first": "3年生 p.13"
+    },
+    {
       "id": 2189,
       "section": null,
       "word": "stomach",
@@ -39931,23 +39880,6 @@
       "page_first": "3年生 p.84"
     },
     {
-      "id": 2415,
-      "section": null,
-      "word": "T-shirt",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": "名",
-          "ja": "Tシャツ",
-          "page": "1年生 p.108"
-        }
-      ],
-      "page_first": "1年生 p.108"
-    },
-    {
       "id": 2248,
       "section": "T / t",
       "word": "table",
@@ -40058,40 +39990,6 @@
       "page_first": "1年生 p.36"
     },
     {
-      "id": 194,
-      "section": null,
-      "word": "take a bath",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "ふろに入る",
-          "page": "1年生 p.36"
-        }
-      ],
-      "page_first": "1年生 p.36"
-    },
-    {
-      "id": 422,
-      "section": null,
-      "word": "take a class",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "授業を受ける",
-          "page": "3年生 p.100"
-        }
-      ],
-      "page_first": "3年生 p.100"
-    },
-    {
       "id": 2253,
       "section": null,
       "word": "take a class",
@@ -40107,125 +40005,6 @@
         }
       ],
       "page_first": "3年生 p.100"
-    },
-    {
-      "id": 1359,
-      "section": null,
-      "word": "take a look",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "ちらりと見る、見てみる",
-          "page": "2年生 p.111"
-        }
-      ],
-      "page_first": "2年生 p.111"
-    },
-    {
-      "id": 1521,
-      "section": null,
-      "word": "take a nap",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "昼寝をする",
-          "page": "2年生 p.129"
-        }
-      ],
-      "page_first": "2年生 p.129"
-    },
-    {
-      "id": 1710,
-      "section": null,
-      "word": "take a picture",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "写真をとる",
-          "page": "1年生 p.111"
-        }
-      ],
-      "page_first": "1年生 p.111"
-    },
-    {
-      "id": 2500,
-      "section": null,
-      "word": "take a walk",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "散歩する",
-          "page": "1年生 p.111"
-        }
-      ],
-      "page_first": "1年生 p.111"
-    },
-    {
-      "id": 21,
-      "section": null,
-      "word": "take action",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "行動を起こす",
-          "page": "2年生 p.70"
-        }
-      ],
-      "page_first": "2年生 p.70"
-    },
-    {
-      "id": 350,
-      "section": null,
-      "word": "take care",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "気をつける、注意する",
-          "page": "2年生 p.12"
-        }
-      ],
-      "page_first": "2年生 p.12"
-    },
-    {
-      "id": 351,
-      "section": null,
-      "word": "take care of ～",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "～の世話をする",
-          "page": "3年生 p.49"
-        }
-      ],
-      "page_first": "3年生 p.49"
     },
     {
       "id": 2254,
@@ -40245,23 +40024,6 @@
       "page_first": "3年生 p.49"
     },
     {
-      "id": 1664,
-      "section": null,
-      "word": "take part in ～",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "～に参加する",
-          "page": "3年生 p.101"
-        }
-      ],
-      "page_first": "3年生 p.101"
-    },
-    {
       "id": 2255,
       "section": null,
       "word": "take part in ～",
@@ -40277,40 +40039,6 @@
         }
       ],
       "page_first": "3年生 p.101"
-    },
-    {
-      "id": 1725,
-      "section": null,
-      "word": "take place",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "開催される、起こる",
-          "page": "2年生 p.23"
-        }
-      ],
-      "page_first": "2年生 p.23"
-    },
-    {
-      "id": 2499,
-      "section": null,
-      "word": "take ～ for a walk",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "～を散歩に連れて行く",
-          "page": "2年生 p.71"
-        }
-      ],
-      "page_first": "2年生 p.71"
     },
     {
       "id": 2256,
@@ -41042,23 +40770,6 @@
       "page_first": "1年生 p.28"
     },
     {
-      "id": 2300,
-      "section": null,
-      "word": "thank-you",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": "形",
-          "ja": "感謝［お礼］の",
-          "page": "2年生 p.71"
-        }
-      ],
-      "page_first": "2年生 p.71"
-    },
-    {
       "id": 2298,
       "section": null,
       "word": "Thanks for ～.",
@@ -41091,6 +40802,23 @@
         }
       ],
       "page_first": "3年生 p.51"
+    },
+    {
+      "id": 2300,
+      "section": null,
+      "word": "thank-you",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "感謝［お礼］の",
+          "page": "2年生 p.71"
+        }
+      ],
+      "page_first": "2年生 p.71"
     },
     {
       "id": 2301,
@@ -41152,23 +40880,6 @@
       "page_first": "1年生 p.38"
     },
     {
-      "id": 1889,
-      "section": null,
-      "word": "That’s right.",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "そのとおりです。",
-          "page": "1年生 p.58"
-        }
-      ],
-      "page_first": "1年生 p.58"
-    },
-    {
       "id": 2303,
       "section": null,
       "word": "the",
@@ -41209,23 +40920,6 @@
         }
       ],
       "page_first": "1年生 p.14"
-    },
-    {
-      "id": 567,
-      "section": null,
-      "word": "the dead",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "死者",
-          "page": "2年生 p.93"
-        }
-      ],
-      "page_first": "2年生 p.93"
     },
     {
       "id": 2304,
@@ -41362,21 +41056,21 @@
       "page_first": "1年生 p.73"
     },
     {
-      "id": 2313,
+      "id": 2311,
       "section": null,
-      "word": "therefore",
+      "word": "over there",
       "flags": {
         "learned_in_elementary": false,
         "important": false
       },
       "senses": [
         {
-          "pos": "副",
-          "ja": "それゆえに、したがって",
-          "page": "2年生 p.47"
+          "pos": null,
+          "ja": "あそこに、向こうに",
+          "page": "1年生 p.82"
         }
       ],
-      "page_first": "2年生 p.47"
+      "page_first": "1年生 p.82"
     },
     {
       "id": 2312,
@@ -41394,6 +41088,23 @@
         }
       ],
       "page_first": "3年生 p.33"
+    },
+    {
+      "id": 2313,
+      "section": null,
+      "word": "therefore",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "副",
+          "ja": "それゆえに、したがって",
+          "page": "2年生 p.47"
+        }
+      ],
+      "page_first": "2年生 p.47"
     },
     {
       "id": 2314,
@@ -41416,23 +41127,6 @@
         }
       ],
       "page_first": "1年生 p.79"
-    },
-    {
-      "id": 564,
-      "section": null,
-      "word": "these days",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "近ごろは",
-          "page": "3年生 p.99"
-        }
-      ],
-      "page_first": "3年生 p.99"
     },
     {
       "id": 2315,
@@ -42029,6 +41723,74 @@
       "page_first": "1年生 p.13"
     },
     {
+      "id": 2347,
+      "section": null,
+      "word": "all the time",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "いつでも",
+          "page": "3年生 p.54"
+        }
+      ],
+      "page_first": "3年生 p.54"
+    },
+    {
+      "id": 2348,
+      "section": null,
+      "word": "at one time",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "同時に、いっせいに",
+          "page": "1年生 p.114"
+        }
+      ],
+      "page_first": "1年生 p.114"
+    },
+    {
+      "id": 2349,
+      "section": null,
+      "word": "have a good time",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "楽しい時を過ごす",
+          "page": "1年生 p.111"
+        }
+      ],
+      "page_first": "1年生 p.111"
+    },
+    {
+      "id": 2350,
+      "section": null,
+      "word": "on time",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "時間どおりに",
+          "page": "2年生 p.59"
+        }
+      ],
+      "page_first": "2年生 p.59"
+    },
+    {
       "id": 2351,
       "section": null,
       "word": "Time Cloth",
@@ -42141,23 +41903,6 @@
       "page_first": "1年生 p.12"
     },
     {
-      "id": 2360,
-      "section": null,
-      "word": "to-go box",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": "名",
-          "ja": "持ち帰り用の箱",
-          "page": "3年生 p.90"
-        }
-      ],
-      "page_first": "3年生 p.90"
-    },
-    {
       "id": 2357,
       "section": null,
       "word": "toad",
@@ -42212,6 +41957,23 @@
         }
       ],
       "page_first": "1年生 p.14"
+    },
+    {
+      "id": 2360,
+      "section": null,
+      "word": "to-go box",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "持ち帰り用の箱",
+          "page": "3年生 p.90"
+        }
+      ],
+      "page_first": "3年生 p.90"
     },
     {
       "id": 2361,
@@ -42428,6 +42190,23 @@
       "page_first": "1年生 p.94"
     },
     {
+      "id": 2373,
+      "section": null,
+      "word": "on top of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～に加えて",
+          "page": "1年生 p.94"
+        }
+      ],
+      "page_first": "1年生 p.94"
+    },
+    {
       "id": 2374,
       "section": null,
       "word": "topic",
@@ -42496,6 +42275,23 @@
       "page_first": "1年生 p.50"
     },
     {
+      "id": 2378,
+      "section": null,
+      "word": "in total",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "合計で",
+          "page": "1年生 p.50"
+        }
+      ],
+      "page_first": "1年生 p.50"
+    },
+    {
       "id": 2379,
       "section": null,
       "word": "touch",
@@ -42521,6 +42317,23 @@
         }
       ],
       "page_first": "1年生 p.36"
+    },
+    {
+      "id": 2380,
+      "section": null,
+      "word": "keep in touch",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "連絡をとり続ける",
+          "page": "2年生 p.12"
+        }
+      ],
+      "page_first": "2年生 p.12"
     },
     {
       "id": 2381,
@@ -42737,6 +42550,23 @@
       "page_first": "3年生 p.12"
     },
     {
+      "id": 2393,
+      "section": null,
+      "word": "change trains",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "電車［列車］を乗りかえる",
+          "page": "3年生 p.39"
+        }
+      ],
+      "page_first": "3年生 p.39"
+    },
+    {
       "id": 2394,
       "section": null,
       "word": "trampoline",
@@ -42934,6 +42764,23 @@
       "page_first": "1年生 p.109"
     },
     {
+      "id": 2405,
+      "section": null,
+      "word": "go on a trip",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "旅行へ行く",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.143"
+    },
+    {
       "id": 2406,
       "section": null,
       "word": "trombone",
@@ -42983,6 +42830,40 @@
         }
       ],
       "page_first": "2年生 p.55"
+    },
+    {
+      "id": 2409,
+      "section": null,
+      "word": "come true",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "実現する",
+          "page": "3年生 p.100"
+        }
+      ],
+      "page_first": "3年生 p.100"
+    },
+    {
+      "id": 2410,
+      "section": null,
+      "word": "it is true that 〜",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "〜はほんとうだ",
+          "page": "3年生 p.44"
+        }
+      ],
+      "page_first": "3年生 p.44"
     },
     {
       "id": 2411,
@@ -43044,6 +42925,40 @@
         }
       ],
       "page_first": "1年生 p.14"
+    },
+    {
+      "id": 2414,
+      "section": null,
+      "word": "Give it a try.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "ためしてみてください。",
+          "page": "2年生 p.73"
+        }
+      ],
+      "page_first": "2年生 p.73"
+    },
+    {
+      "id": 2415,
+      "section": null,
+      "word": "T-shirt",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "Tシャツ",
+          "page": "1年生 p.108"
+        }
+      ],
+      "page_first": "1年生 p.108"
     },
     {
       "id": 2416,
@@ -43384,57 +43299,6 @@
       "page_first": "2年生 p.93"
     },
     {
-      "id": 2436,
-      "section": null,
-      "word": "U.K.",
-      "flags": {
-        "learned_in_elementary": true,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": "名",
-          "ja": "（theをつけて）イギリス（=the United Kingdom）",
-          "page": "1年生 p.26"
-        }
-      ],
-      "page_first": "1年生 p.26"
-    },
-    {
-      "id": 2438,
-      "section": null,
-      "word": "U.N.",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": "名",
-          "ja": "（theをつけて）国際連合（＝the United Nations）",
-          "page": "3年生 p.107"
-        }
-      ],
-      "page_first": "3年生 p.107"
-    },
-    {
-      "id": 2457,
-      "section": null,
-      "word": "U.S.",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": "名",
-          "ja": "（theをつけて）アメリカ合衆国 = U.S.A.（the United States of America）",
-          "page": "1年生 p.23"
-        }
-      ],
-      "page_first": "1年生 p.23"
-    },
-    {
       "id": 2435,
       "section": "U / u",
       "word": "uh-oh",
@@ -43452,6 +43316,23 @@
       "page_first": "2年生 p.52"
     },
     {
+      "id": 2436,
+      "section": null,
+      "word": "U.K.",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（theをつけて）イギリス（=the United Kingdom）",
+          "page": "1年生 p.26"
+        }
+      ],
+      "page_first": "1年生 p.26"
+    },
+    {
       "id": 2437,
       "section": null,
       "word": "umbrella",
@@ -43467,6 +43348,23 @@
         }
       ],
       "page_first": "1年生 p.16"
+    },
+    {
+      "id": 2438,
+      "section": null,
+      "word": "U.N.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（theをつけて）国際連合（＝the United Nations）",
+          "page": "3年生 p.107"
+        }
+      ],
+      "page_first": "3年生 p.107"
     },
     {
       "id": 2439,
@@ -43501,23 +43399,6 @@
         }
       ],
       "page_first": "1年生 p.134"
-    },
-    {
-      "id": 2517,
-      "section": null,
-      "word": "under water",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "水中で［に］",
-          "page": "2年生 p.18"
-        }
-      ],
-      "page_first": "2年生 p.18"
     },
     {
       "id": 2441,
@@ -43802,6 +43683,23 @@
       "page_first": "2年生 p.130"
     },
     {
+      "id": 2457,
+      "section": null,
+      "word": "U.S.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": "名",
+          "ja": "（theをつけて）アメリカ合衆国 = U.S.A.（the United States of America）",
+          "page": "1年生 p.23"
+        }
+      ],
+      "page_first": "1年生 p.23"
+    },
+    {
       "id": 2458,
       "section": null,
       "word": "us",
@@ -43847,6 +43745,23 @@
         {
           "pos": "名",
           "ja": "使用、利用",
+          "page": "2年生 p.71"
+        }
+      ],
+      "page_first": "2年生 p.71"
+    },
+    {
+      "id": 2461,
+      "section": null,
+      "word": "make use of ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～を利用する、活用する",
           "page": "2年生 p.71"
         }
       ],
@@ -44072,23 +43987,6 @@
         }
       ],
       "page_first": "1年生 p.14"
-    },
-    {
-      "id": 1505,
-      "section": null,
-      "word": "very much",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "とても",
-          "page": "1年生 p.31"
-        }
-      ],
-      "page_first": "1年生 p.31"
     },
     {
       "id": 2475,
@@ -44502,6 +44400,57 @@
       "page_first": "1年生 p.30"
     },
     {
+      "id": 2498,
+      "section": null,
+      "word": "go for a walk",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "散歩する",
+          "page": "1年生 p.143"
+        }
+      ],
+      "page_first": "1年生 p.143"
+    },
+    {
+      "id": 2499,
+      "section": null,
+      "word": "take ～ for a walk",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～を散歩に連れて行く",
+          "page": "2年生 p.71"
+        }
+      ],
+      "page_first": "2年生 p.71"
+    },
+    {
+      "id": 2500,
+      "section": null,
+      "word": "take a walk",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "散歩する",
+          "page": "1年生 p.111"
+        }
+      ],
+      "page_first": "1年生 p.111"
+    },
+    {
       "id": 2501,
       "section": null,
       "word": "wall",
@@ -44581,6 +44530,23 @@
         {
           "pos": "名",
           "ja": "戦争",
+          "page": "2年生 p.92"
+        }
+      ],
+      "page_first": "2年生 p.92"
+    },
+    {
+      "id": 2506,
+      "section": null,
+      "word": "at war",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "戦争中で",
           "page": "2年生 p.92"
         }
       ],
@@ -44787,6 +44753,23 @@
       "page_first": "1年生 p.42"
     },
     {
+      "id": 2517,
+      "section": null,
+      "word": "under water",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "水中で［に］",
+          "page": "2年生 p.18"
+        }
+      ],
+      "page_first": "2年生 p.18"
+    },
+    {
       "id": 2518,
       "section": null,
       "word": "water bottle",
@@ -44841,6 +44824,57 @@
         }
       ],
       "page_first": "1年生 p.71"
+    },
+    {
+      "id": 2521,
+      "section": null,
+      "word": "by the way",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "ところで",
+          "page": "2年生 p.11"
+        }
+      ],
+      "page_first": "2年生 p.11"
+    },
+    {
+      "id": 2522,
+      "section": null,
+      "word": "No way!",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "まさか。そんなばかな。",
+          "page": "1年生 p.76"
+        }
+      ],
+      "page_first": "1年生 p.76"
+    },
+    {
+      "id": 2523,
+      "section": null,
+      "word": "on the way (back) to ～",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～へ行く（もどる）途中で",
+          "page": "2年生 p.93"
+        }
+      ],
+      "page_first": "2年生 p.93"
     },
     {
       "id": 2524,
@@ -45052,6 +45086,40 @@
       "page_first": "1年生 p.91"
     },
     {
+      "id": 2536,
+      "section": null,
+      "word": "You’re welcome.",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "どういたしまして。",
+          "page": "1年生 p.91"
+        }
+      ],
+      "page_first": "1年生 p.91"
+    },
+    {
+      "id": 2537,
+      "section": null,
+      "word": "we’ll",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（we willの短縮形）",
+          "page": "2年生 p.29"
+        }
+      ],
+      "page_first": "2年生 p.29"
+    },
+    {
       "id": 2538,
       "section": null,
       "word": "well",
@@ -45089,6 +45157,23 @@
       "page_first": "1年生 p.39"
     },
     {
+      "id": 2539,
+      "section": null,
+      "word": "get well",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（体調が）よくなる",
+          "page": "2年生 p.112"
+        }
+      ],
+      "page_first": "2年生 p.112"
+    },
+    {
       "id": 2540,
       "section": null,
       "word": "well-done",
@@ -45121,6 +45206,23 @@
         }
       ],
       "page_first": "1年生 p.111"
+    },
+    {
+      "id": 2542,
+      "section": null,
+      "word": "we’re",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（we areの短縮形）",
+          "page": "1年生 p.103"
+        }
+      ],
+      "page_first": "1年生 p.103"
     },
     {
       "id": 2543,
@@ -45196,40 +45298,6 @@
       "page_first": "2年生 p.79"
     },
     {
-      "id": 2537,
-      "section": null,
-      "word": "we’ll",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "（we willの短縮形）",
-          "page": "2年生 p.29"
-        }
-      ],
-      "page_first": "2年生 p.29"
-    },
-    {
-      "id": 2542,
-      "section": null,
-      "word": "we’re",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "（we areの短縮形）",
-          "page": "1年生 p.103"
-        }
-      ],
-      "page_first": "1年生 p.103"
-    },
-    {
       "id": 2547,
       "section": null,
       "word": "whale",
@@ -45274,40 +45342,6 @@
       "page_first": "1年生 p.12"
     },
     {
-      "id": 2551,
-      "section": null,
-      "word": "what’s",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "（what isの短縮形）",
-          "page": "1年生 p.76"
-        }
-      ],
-      "page_first": "1年生 p.76"
-    },
-    {
-      "id": 1487,
-      "section": null,
-      "word": "what’s more",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "そのうえ",
-          "page": "3年生 p.94"
-        }
-      ],
-      "page_first": "3年生 p.94"
-    },
-    {
       "id": 2549,
       "section": null,
       "word": "what’s more",
@@ -45325,23 +45359,6 @@
       "page_first": "3年生 p.94"
     },
     {
-      "id": 1415,
-      "section": null,
-      "word": "What’s the matter?",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "どうしたのですか。",
-          "page": "1年生 p.126"
-        }
-      ],
-      "page_first": "1年生 p.126"
-    },
-    {
       "id": 2550,
       "section": null,
       "word": "What’s up?",
@@ -45357,6 +45374,23 @@
         }
       ],
       "page_first": "2年生 p.11"
+    },
+    {
+      "id": 2551,
+      "section": null,
+      "word": "what’s",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（what isの短縮形）",
+          "page": "1年生 p.76"
+        }
+      ],
+      "page_first": "1年生 p.76"
     },
     {
       "id": 2552,
@@ -45525,6 +45559,40 @@
       "page_first": "2年生 p.47"
     },
     {
+      "id": 2560,
+      "section": null,
+      "word": "after a while",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "しばらくすると",
+          "page": "2年生 p.71"
+        }
+      ],
+      "page_first": "2年生 p.71"
+    },
+    {
+      "id": 2561,
+      "section": null,
+      "word": "for a while",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "しばらくの間",
+          "page": "2年生 p.47"
+        }
+      ],
+      "page_first": "2年生 p.47"
+    },
+    {
       "id": 2562,
       "section": null,
       "word": "white",
@@ -45569,6 +45637,23 @@
       "page_first": "1年生 p.52"
     },
     {
+      "id": 2564,
+      "section": null,
+      "word": "who’s",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（who isの短縮形）",
+          "page": "1年生 p.56"
+        }
+      ],
+      "page_first": "1年生 p.56"
+    },
+    {
       "id": 2565,
       "section": null,
       "word": "whole",
@@ -45601,23 +45686,6 @@
         }
       ],
       "page_first": "1年生 p.70"
-    },
-    {
-      "id": 2564,
-      "section": null,
-      "word": "who’s",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "（who isの短縮形）",
-          "page": "1年生 p.56"
-        }
-      ],
-      "page_first": "1年生 p.56"
     },
     {
       "id": 2567,
@@ -45980,6 +46048,23 @@
       "page_first": "1年生 p.140"
     },
     {
+      "id": 2587,
+      "section": null,
+      "word": "Best wishes,",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（手紙などの結びに）幸運を祈ります。",
+          "page": "1年生 p.140"
+        }
+      ],
+      "page_first": "1年生 p.140"
+    },
+    {
       "id": 2588,
       "section": null,
       "word": "with",
@@ -46102,23 +46187,6 @@
       "page_first": "1年生 p.118"
     },
     {
-      "id": 2595,
-      "section": null,
-      "word": "wonderful",
-      "flags": {
-        "learned_in_elementary": true,
-        "important": true
-      },
-      "senses": [
-        {
-          "pos": "形",
-          "ja": "すばらしい",
-          "page": "1年生 p.40"
-        }
-      ],
-      "page_first": "1年生 p.40"
-    },
-    {
       "id": 2594,
       "section": null,
       "word": "won’t",
@@ -46134,6 +46202,23 @@
         }
       ],
       "page_first": "2年生 p.12"
+    },
+    {
+      "id": 2595,
+      "section": null,
+      "word": "wonderful",
+      "flags": {
+        "learned_in_elementary": true,
+        "important": true
+      },
+      "senses": [
+        {
+          "pos": "形",
+          "ja": "すばらしい",
+          "page": "1年生 p.40"
+        }
+      ],
+      "page_first": "1年生 p.40"
     },
     {
       "id": 2596,
@@ -46220,6 +46305,23 @@
         {
           "pos": "名",
           "ja": "世界",
+          "page": "1年生 p.122"
+        }
+      ],
+      "page_first": "1年生 p.122"
+    },
+    {
+      "id": 2601,
+      "section": null,
+      "word": "around the world",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "世界中で",
           "page": "1年生 p.122"
         }
       ],
@@ -46583,6 +46685,23 @@
       "page_first": "1年生 p.53"
     },
     {
+      "id": 2623,
+      "section": null,
+      "word": "～ year(s) old",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "～歳、～才",
+          "page": "1年生 p.53"
+        }
+      ],
+      "page_first": "1年生 p.53"
+    },
+    {
       "id": 2624,
       "section": null,
       "word": "yellow",
@@ -46729,6 +46848,23 @@
       "page_first": "1年生 p.12"
     },
     {
+      "id": 2632,
+      "section": null,
+      "word": "you’ll",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（you willの短縮形）",
+          "page": "2年生 p.12"
+        }
+      ],
+      "page_first": "2年生 p.12"
+    },
+    {
       "id": 2633,
       "section": null,
       "word": "young",
@@ -46761,6 +46897,23 @@
         }
       ],
       "page_first": "1年生 p.12"
+    },
+    {
+      "id": 2635,
+      "section": null,
+      "word": "you’re",
+      "flags": {
+        "learned_in_elementary": false,
+        "important": false
+      },
+      "senses": [
+        {
+          "pos": null,
+          "ja": "（you areの短縮形）",
+          "page": "1年生 p.24"
+        }
+      ],
+      "page_first": "1年生 p.24"
     },
     {
       "id": 2636,
@@ -46812,74 +46965,6 @@
         }
       ],
       "page_first": "1年生 p.130"
-    },
-    {
-      "id": 2632,
-      "section": null,
-      "word": "you’ll",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "（you willの短縮形）",
-          "page": "2年生 p.12"
-        }
-      ],
-      "page_first": "2年生 p.12"
-    },
-    {
-      "id": 2635,
-      "section": null,
-      "word": "you’re",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "（you areの短縮形）",
-          "page": "1年生 p.24"
-        }
-      ],
-      "page_first": "1年生 p.24"
-    },
-    {
-      "id": 1261,
-      "section": null,
-      "word": "You’re kidding.",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "冗談でしょう。まさか。",
-          "page": "2年生 p.11"
-        }
-      ],
-      "page_first": "2年生 p.11"
-    },
-    {
-      "id": 2536,
-      "section": null,
-      "word": "You’re welcome.",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "どういたしまして。",
-          "page": "1年生 p.91"
-        }
-      ],
-      "page_first": "1年生 p.91"
     },
     {
       "id": 2639,
@@ -46965,91 +47050,6 @@
         }
       ],
       "page_first": "1年生 p.16"
-    },
-    {
-      "id": 3,
-      "section": null,
-      "word": "～ times a day",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "1日に〜回",
-          "page": "2年生 p.101"
-        }
-      ],
-      "page_first": "2年生 p.101"
-    },
-    {
-      "id": 2623,
-      "section": null,
-      "word": "～ year(s) old",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "～歳、～才",
-          "page": "1年生 p.53"
-        }
-      ],
-      "page_first": "1年生 p.53"
-    },
-    {
-      "id": 628,
-      "section": null,
-      "word": "～, don’t you?",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "〜ですよね。",
-          "page": "2年生 p.80"
-        }
-      ],
-      "page_first": "2年生 p.80"
-    },
-    {
-      "id": 1887,
-      "section": null,
-      "word": "～, right?",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "～でよろしいですね。",
-          "page": "1年生 p.65"
-        }
-      ],
-      "page_first": "1年生 p.65"
-    },
-    {
-      "id": 1276,
-      "section": null,
-      "word": "～, you know.",
-      "flags": {
-        "learned_in_elementary": false,
-        "important": false
-      },
-      "senses": [
-        {
-          "pos": null,
-          "ja": "～だよね。",
-          "page": "1年生 p.76"
-        }
-      ],
-      "page_first": "1年生 p.76"
     }
   ]
 }
