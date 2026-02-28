@@ -198,7 +198,7 @@ let entries = [];
 let currentIndex = 0;
 let currentOrder = "textbook";
 let audioPlayer = null;
-const AUDIO_BASE_URL = "https://wmdzmwmzmmcyrvongmab.supabase.co/storage/v1/object/public/audio/";
+const AUDIO_BASE_URL = "https://qqygfmynsazpykruwtdf.supabase.co/storage/v1/object/public/audio/";
 
 const contentEl = document.getElementById("content");
 const metaLeftEl = document.getElementById("metaLeft");
@@ -223,7 +223,14 @@ function dataPathForOrder(order){
   if (order === "id") return "data/vocab_id.json";
   return "data/vocab_textbook.json";
 }
+let AUDIO_INDEX = null;
 
+async function loadAudioIndexOnce(){
+  if (AUDIO_INDEX) return AUDIO_INDEX;
+  const res = await fetch("data/audio_index.json");
+  AUDIO_INDEX = await res.json(); // { "1374": "1374_lucy.mp3", ... }
+  return AUDIO_INDEX;
+}
 function stopAudio(){
   if (audioPlayer) {
     audioPlayer.pause();
@@ -240,9 +247,10 @@ function loadData(order){
   fetch(dataPathForOrder(order))
     .then(res => res.json())
     .then(data => {
-      entries = data.entries || [];
-      loadEntry();
-    });
+  entries = data.entries || [];
+  loadAudioIndexOnce().catch(()=>{});
+  loadEntry();
+});
 }
 
 function loadEntry(){
@@ -274,26 +282,38 @@ function showMeaning(){
   contentEl.textContent = (firstSense && firstSense.ja) ? firstSense.ja : "(no meaning)";
 }
 
-function playAudio(){
+async function playAudio(){
   const entry = entries[currentIndex];
   if (!entry) return;
 
   stopAudio();
 
-  const file = String(entry.audio || "").replace(/^\/+/, "");
-  const url = AUDIO_BASE_URL + file;
+  try{
+    const idx = await loadAudioIndexOnce();
+    const key = String(entry.id);
+    const file = idx[key];
 
-  audioPlayer = new Audio(url);
+    if (!file){
+      console.error("No audio for ID:", key);
+      alert("Audio not available for this item.");
+      return;
+    }
 
-  audioPlayer.addEventListener("error", () => {
-    console.error("Audio failed to load:", url);
-    alert("Audio not available for this item.");
-  }, { once: true });
+    const base = AUDIO_BASE_URL.replace(/\/+$/g, "");
+    const url = base + "/" + file.replace(/^\/+/, "");
 
-  audioPlayer.play().catch(err => {
-    console.error("Audio play failed:", err, url);
+    audioPlayer = new Audio(url);
+
+    audioPlayer.addEventListener("error", () => {
+      console.error("Audio failed to load:", url);
+      alert("Audio not available for this item.");
+    }, { once: true });
+
+    await audioPlayer.play();
+  }catch(err){
+    console.error("Audio play failed:", err);
     alert("Audio could not be played.");
-  });
+  }
 }
 
 function nextCard(){
