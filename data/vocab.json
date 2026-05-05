@@ -9795,7 +9795,7 @@
     {
       "id": 542,
       "section": null,
-      "word": "cut A off",
+      "word": "cut something off",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -18968,7 +18968,7 @@
     {
       "id": 1059,
       "section": null,
-      "word": "help A with ...",
+      "word": "help someone with ...",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -36195,7 +36195,7 @@
     {
       "id": 2032,
       "section": null,
-      "word": "show A around",
+      "word": "show someone around",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -41868,7 +41868,7 @@
     {
       "id": 2338,
       "section": null,
-      "word": "throw A away",
+      "word": "throw something away",
       "flags": {
         "learned_in_elementary": false,
         "important": false
