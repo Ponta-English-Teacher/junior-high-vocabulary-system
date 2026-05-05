@@ -26,7 +26,7 @@
     {
       "id": 2,
       "section": null,
-      "word": "a few ～",
+      "word": "a few A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -80,7 +80,7 @@
     {
       "id": 5,
       "section": null,
-      "word": "be able to ～",
+      "word": "be able to A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -121,7 +121,7 @@
     {
       "id": 7,
       "section": null,
-      "word": "How about ～?",
+      "word": "How about A?",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -247,7 +247,7 @@
     {
       "id": 14,
       "section": null,
-      "word": "according to ～",
+      "word": "according to A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -864,7 +864,7 @@
     {
       "id": 48,
       "section": null,
-      "word": "at the age of ～",
+      "word": "at the age of A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -936,7 +936,7 @@
     {
       "id": 52,
       "section": null,
-      "word": "agree with ～",
+      "word": "agree with A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -1193,7 +1193,7 @@
     {
       "id": 66,
       "section": null,
-      "word": "all over ～",
+      "word": "all over A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -1324,7 +1324,7 @@
     {
       "id": 73,
       "section": null,
-      "word": "get along with ～",
+      "word": "get along with A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -1414,7 +1414,7 @@
     {
       "id": 78,
       "section": null,
-      "word": "not always ～",
+      "word": "not always A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -1694,7 +1694,7 @@
     {
       "id": 93,
       "section": null,
-      "word": "get angry with ～",
+      "word": "get angry with A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -2448,7 +2448,7 @@
     {
       "id": 131,
       "section": null,
-      "word": "as a result of ～",
+      "word": "as a result of A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -2597,7 +2597,7 @@
     {
       "id": 139,
       "section": null,
-      "word": "assign ～ to ...",
+      "word": "assign A to ...",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -3524,7 +3524,7 @@
     {
       "id": 188,
       "section": null,
-      "word": "be based on ～",
+      "word": "be based on A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -3696,7 +3696,7 @@
     {
       "id": 197,
       "section": null,
-      "word": "be based on ～",
+      "word": "be based on A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -3912,7 +3912,7 @@
     {
       "id": 209,
       "section": null,
-      "word": "because of ～",
+      "word": "because of A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -4210,7 +4210,7 @@
     {
       "id": 225,
       "section": null,
-      "word": "believe in ～",
+      "word": "believe in A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -4246,7 +4246,7 @@
     {
       "id": 227,
       "section": null,
-      "word": "belong to ～",
+      "word": "belong to A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -6280,7 +6280,7 @@
     {
       "id": 335,
       "section": null,
-      "word": "Can I ～?",
+      "word": "Can I A?",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -6578,7 +6578,7 @@
     {
       "id": 351,
       "section": null,
-      "word": "take care of ～",
+      "word": "take care of A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -8922,7 +8922,7 @@
     {
       "id": 479,
       "section": null,
-      "word": "concentrate on ～",
+      "word": "concentrate on A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -9030,7 +9030,7 @@
     {
       "id": 485,
       "section": null,
-      "word": "Congratulations on ～.",
+      "word": "Congratulations on A.",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -10081,7 +10081,7 @@
     {
       "id": 542,
       "section": null,
-      "word": "cut ～ off",
+      "word": "cut A off",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -11091,7 +11091,7 @@
     {
       "id": 597,
       "section": null,
-      "word": "die of ～",
+      "word": "die of A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -11664,7 +11664,7 @@
     {
       "id": 628,
       "section": null,
-      "word": "～, don’t you?",
+      "word": "A, don’t you?",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -12031,7 +12031,7 @@
     {
       "id": 647,
       "section": null,
-      "word": "drop by ～",
+      "word": "drop by A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -13447,7 +13447,7 @@
     {
       "id": 724,
       "section": null,
-      "word": "even if ～",
+      "word": "even if A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -13722,7 +13722,7 @@
     {
       "id": 739,
       "section": null,
-      "word": "Excuse me, but ～.",
+      "word": "Excuse me, but A.",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -14174,7 +14174,7 @@
     {
       "id": 763,
       "section": null,
-      "word": "fall into ～",
+      "word": "fall into A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -14246,7 +14246,7 @@
     {
       "id": 767,
       "section": null,
-      "word": "be famous for ～",
+      "word": "be famous for A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -14557,7 +14557,7 @@
     {
       "id": 784,
       "section": null,
-      "word": "feel like ～",
+      "word": "feel like A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -14701,7 +14701,7 @@
     {
       "id": 792,
       "section": null,
-      "word": "a few ～",
+      "word": "a few A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -16602,7 +16602,7 @@
     {
       "id": 894,
       "section": null,
-      "word": "be from ～",
+      "word": "be from A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -16638,7 +16638,7 @@
     {
       "id": 896,
       "section": null,
-      "word": "in front of ～",
+      "word": "in front of A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -16715,7 +16715,7 @@
     {
       "id": 900,
       "section": null,
-      "word": "be full of ～",
+      "word": "be full of A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -17115,7 +17115,7 @@
     {
       "id": 920,
       "section": null,
-      "word": "get along with ～",
+      "word": "get along with A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -17613,7 +17613,7 @@
     {
       "id": 946,
       "section": null,
-      "word": "be good at ～",
+      "word": "be good at A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -18875,7 +18875,7 @@
     {
       "id": 1015,
       "section": null,
-      "word": "shake hands with ～",
+      "word": "shake hands with A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -19280,7 +19280,7 @@
     {
       "id": 1035,
       "section": null,
-      "word": "don’t have to ～",
+      "word": "don’t have to A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -19465,7 +19465,7 @@
     {
       "id": 1045,
       "section": null,
-      "word": "hear from ～",
+      "word": "hear from A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -19737,7 +19737,7 @@
     {
       "id": 1059,
       "section": null,
-      "word": "help ～ with ...",
+      "word": "help A with ...",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -19819,7 +19819,7 @@
     {
       "id": 1063,
       "section": null,
-      "word": "Here is ～.",
+      "word": "Here is A.",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -20407,7 +20407,7 @@
     {
       "id": 1094,
       "section": null,
-      "word": "hold on to ～",
+      "word": "hold on to A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -21031,7 +21031,7 @@
     {
       "id": 1127,
       "section": null,
-      "word": "hundreds of ～",
+      "word": "hundreds of A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -21360,7 +21360,7 @@
     {
       "id": 1145,
       "section": null,
-      "word": "even if ～",
+      "word": "even if A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -22102,7 +22102,7 @@
     {
       "id": 1184,
       "section": null,
-      "word": "instead of ～",
+      "word": "instead of A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -22156,7 +22156,7 @@
     {
       "id": 1187,
       "section": null,
-      "word": "be interested in ～",
+      "word": "be interested in A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -22515,7 +22515,7 @@
     {
       "id": 1205,
       "section": null,
-      "word": "it is said that ～",
+      "word": "it is said that A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -23653,7 +23653,7 @@
     {
       "id": 1266,
       "section": null,
-      "word": "many kinds of ～",
+      "word": "many kinds of A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -23833,7 +23833,7 @@
     {
       "id": 1276,
       "section": null,
-      "word": "～, you know.",
+      "word": "A, you know.",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -24054,7 +24054,7 @@
     {
       "id": 1288,
       "section": null,
-      "word": "have ～ in one’s lap",
+      "word": "have A in one’s lap",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -24426,7 +24426,7 @@
     {
       "id": 1307,
       "section": null,
-      "word": "leave ～ behind",
+      "word": "leave A behind",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -25039,7 +25039,7 @@
     {
       "id": 1338,
       "section": null,
-      "word": "listen to ～",
+      "word": "listen to A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -25383,7 +25383,7 @@
     {
       "id": 1356,
       "section": null,
-      "word": "look at ～",
+      "word": "look at A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -25527,7 +25527,7 @@
     {
       "id": 1364,
       "section": null,
-      "word": "a lot of ～",
+      "word": "a lot of A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -25943,7 +25943,7 @@
     {
       "id": 1386,
       "section": null,
-      "word": "make up for ～",
+      "word": "make up for A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -26128,7 +26128,7 @@
     {
       "id": 1396,
       "section": null,
-      "word": "How many ～?",
+      "word": "How many A?",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -26511,7 +26511,7 @@
     {
       "id": 1417,
       "section": null,
-      "word": "May I ～?",
+      "word": "May I A?",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -27436,7 +27436,7 @@
     {
       "id": 1467,
       "section": null,
-      "word": "miss out on ～",
+      "word": "miss out on A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -27793,7 +27793,7 @@
     {
       "id": 1486,
       "section": null,
-      "word": "more than ～",
+      "word": "more than A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -27875,7 +27875,7 @@
     {
       "id": 1490,
       "section": null,
-      "word": "make the most of ～",
+      "word": "make the most of A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -28167,7 +28167,7 @@
     {
       "id": 1504,
       "section": null,
-      "word": "How much ～?",
+      "word": "How much A?",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -28971,7 +28971,7 @@
     {
       "id": 1547,
       "section": null,
-      "word": "next to ～",
+      "word": "next to A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -29225,7 +29225,7 @@
     {
       "id": 1560,
       "section": null,
-      "word": "no longer ～",
+      "word": "no longer A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -29477,7 +29477,7 @@
     {
       "id": 1574,
       "section": null,
-      "word": "not ～ but ...",
+      "word": "not A but ...",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -30258,7 +30258,7 @@
     {
       "id": 1611,
       "section": null,
-      "word": "one of ～",
+      "word": "one of A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -30525,7 +30525,7 @@
     {
       "id": 1625,
       "section": null,
-      "word": "in order to ～",
+      "word": "in order to A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -30702,7 +30702,7 @@
     {
       "id": 1634,
       "section": null,
-      "word": "out of ～",
+      "word": "out of A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -31277,7 +31277,7 @@
     {
       "id": 1664,
       "section": null,
-      "word": "take part in ～",
+      "word": "take part in A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -32169,7 +32169,7 @@
     {
       "id": 1713,
       "section": null,
-      "word": "a piece of ～",
+      "word": "a piece of A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -32377,7 +32377,7 @@
     {
       "id": 1724,
       "section": null,
-      "word": "get ～ place",
+      "word": "get A place",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -33610,7 +33610,7 @@
     {
       "id": 1790,
       "section": null,
-      "word": "be proud of ～",
+      "word": "be proud of A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -34389,7 +34389,7 @@
     {
       "id": 1833,
       "section": null,
-      "word": "be ready to ～",
+      "word": "be ready to A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -34700,7 +34700,7 @@
     {
       "id": 1850,
       "section": null,
-      "word": "regard ～ as ...",
+      "word": "regard A as ...",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -35201,7 +35201,7 @@
     {
       "id": 1877,
       "section": null,
-      "word": "as a result of ～",
+      "word": "as a result of A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -35701,7 +35701,7 @@
     {
       "id": 1902,
       "section": null,
-      "word": "root for ～",
+      "word": "root for A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -36760,7 +36760,7 @@
     {
       "id": 1960,
       "section": null,
-      "word": "scoop up ～",
+      "word": "scoop up A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -37181,7 +37181,7 @@
     {
       "id": 1982,
       "section": null,
-      "word": "sell out ～",
+      "word": "sell out A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -37515,7 +37515,7 @@
     {
       "id": 2000,
       "section": null,
-      "word": "shake hands with ～",
+      "word": "shake hands with A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -37908,7 +37908,7 @@
     {
       "id": 2021,
       "section": null,
-      "word": "shoot down ～",
+      "word": "shoot down A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -38141,7 +38141,7 @@
     {
       "id": 2032,
       "section": null,
-      "word": "show ～ around",
+      "word": "show A around",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -39307,7 +39307,7 @@
     {
       "id": 2094,
       "section": null,
-      "word": "so ～ that ...",
+      "word": "so A that ...",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -39618,7 +39618,7 @@
     {
       "id": 2111,
       "section": null,
-      "word": "Some ～. Others ....",
+      "word": "Some A. Others ....",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -40980,7 +40980,7 @@
     {
       "id": 2185,
       "section": null,
-      "word": "stick to ～",
+      "word": "stick to A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -41471,7 +41471,7 @@
     {
       "id": 2212,
       "section": null,
-      "word": "such as ～",
+      "word": "such as A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -43899,7 +43899,7 @@
     {
       "id": 2338,
       "section": null,
-      "word": "throw ～ away",
+      "word": "throw A away",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -44564,7 +44564,7 @@
     {
       "id": 2373,
       "section": null,
-      "word": "on top of ～",
+      "word": "on top of A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -45483,7 +45483,7 @@
     {
       "id": 2421,
       "section": null,
-      "word": "turn down ～",
+      "word": "turn down A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -46213,7 +46213,7 @@
     {
       "id": 2461,
       "section": null,
-      "word": "make use of ～",
+      "word": "make use of A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -47007,7 +47007,7 @@
     {
       "id": 2504,
       "section": null,
-      "word": "want to ～",
+      "word": "want to A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -47084,7 +47084,7 @@
     {
       "id": 2508,
       "section": null,
-      "word": "warm up ～",
+      "word": "warm up A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -48274,7 +48274,7 @@
     {
       "id": 2568,
       "section": null,
-      "word": "Why don’t we ～?",
+      "word": "Why don’t we A?",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -49003,7 +49003,7 @@
     {
       "id": 2606,
       "section": null,
-      "word": "would like to ～",
+      "word": "would like to A",
       "flags": {
         "learned_in_elementary": false,
         "important": false
@@ -49309,7 +49309,7 @@
     {
       "id": 2623,
       "section": null,
-      "word": "～ year(s) old",
+      "word": "A year(s) old",
       "flags": {
         "learned_in_elementary": false,
         "important": false
