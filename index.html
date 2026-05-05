@@ -164,7 +164,16 @@
   </div>
 </div>
 
-      <div class="pill" id="progressPill" style="color:var(--muted);">0 / 0</div>
+<div class="pill">
+  <div style="font-size:14px;color:var(--muted);">Search</div>
+  <div style="display:flex;gap:8px;align-items:center;">
+    <input id="searchInput" type="text" placeholder="e.g., interested"
+      style="width:160px;padding:8px 10px;border-radius:10px;border:1px solid var(--line);background:var(--card);color:var(--text);">
+    <button class="btn-ghost" onclick="searchCards()">Search</button>
+  </div>
+</div>
+
+<div class="pill" id="progressPill" style="color:var(--muted);">0 / 0</div>
     </div>
 
     <div class="card">
@@ -358,7 +367,26 @@ function goToId() {
     alert("ID not found");
   }
 }
+function searchCards() {
+  const keyword = document.getElementById("searchInput").value.trim().toLowerCase();
+  if (!keyword) return;
 
+  const index = entries.findIndex(e => {
+    const wordMatch = (e.word || "").toLowerCase().includes(keyword);
+    const jaMatch = e.senses && e.senses.some(s => (s.ja || "").includes(keyword));
+    return wordMatch || jaMatch;
+  });
+
+  if (index !== -1) {
+    currentIndex = index;
+    stopAudio();
+    loadEntry();
+  } else {
+    alert("No match found for: " + keyword);
+  }
+}
 </script>
+
+
 </body>
 </html>
